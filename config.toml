@@ -1,0 +1,10 @@
+title = "Cloud Native Days"
+disableKinds = ["section", "taxonomy", "taxonomyTerm"]
+
+[params]
+fontAwesomeVersion = "5.8.1"
+sansSerifFont = "Lato"
+
+[[params.fonts]]
+name = "Lato"
+sizes = [300,400,600,700]
