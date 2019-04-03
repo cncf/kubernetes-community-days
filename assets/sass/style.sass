@@ -4,8 +4,8 @@
 {{ $fontSlice = $fontSlice | append (printf "%s:%s" (replace .name " " "+") (delimit .sizes ",")) }}
 {{ end }}
 {{ $fontsUrl := printf "https://fonts.googleapis.com/css?family=%s" (delimit $fontSlice "|") }}
-{{ $sansSerifFont := site.Params.sansSerifFont }}
-{{ $fontAwesomeVersion := site.Params.fontAwesomeVersion | string }}
+{{ $sansSerifFont := site.Params.sansseriffont | string }}
+{{ $fontAwesomeVersion := site.Params.fontawesomeversion | string }}
 {{ $fontAwesomeUrl     := printf "https://use.fontawesome.com/releases/v%s/css/all.css" $fontAwesomeVersion }}
 
 @charset "utf-8"
