@@ -1,11 +1,13 @@
 {{ $title := .title }}
+{{ $tag   := .tag }}
 {{ $url   := printf "/events/%s" .tag }}
 {{ $month := .start | dateFormat "January" }}
 {{ $start := .start | dateFormat "1" }}
 {{ $end   := .end | dateFormat "1" }}
 {{ $year  := .start | dateFormat "2006"}}
 {{ $date  := printf "%s %s-%s, %s" $month $start $end $year }}
-{{ $logo  := printf "img/logos/%s" .logo }}
+{{ $img   := .img | default "png" }}
+{{ $logo  := printf "img/logos/%s.%s" $tag $img }}
 <div class="column is-one-third">
   <a href="{{ $url }}">
     <div class="card">
