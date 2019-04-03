@@ -1,0 +1,14 @@
+{{ $title       := site.Title }}
+{{ $description := site.Params.description }}
+<section class="hero">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title is-size-1 is-size-2-mobile is-spaced">
+        {{ $title }}
+      </h1>
+      <h2 class="subtitle">
+        {{ $description }}
+      </h2>
+    </div>
+  </div>
+</section>

@@ -4,4 +4,13 @@
     <title>{{ block "title" . }}{{ site.Title }}{{ end }}</title>
     {{ partial "css.html" . }}
   </head>
+  <body class="page has-navbar-fixed-top">
+    <main class="main">
+      {{ partial "navbar.html" . }}
+      {{ partial "hero.html" . }}
+      {{ partial "events.html" . }}
+    </main>
+
+    {{ partial "footer.html" . }}
+  </body>
 </html>

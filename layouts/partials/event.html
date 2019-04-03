@@ -1,0 +1,27 @@
+{{ $title := .title }}
+{{ $url   := printf "/events/%s" .tag }}
+{{ $month := .start | dateFormat "January" }}
+{{ $start := .start | dateFormat "1" }}
+{{ $end   := .end | dateFormat "1" }}
+{{ $year  := .start | dateFormat "2006"}}
+{{ $date  := printf "%s %s-%s, %s" $month $start $end $year }}
+{{ $logo  := printf "img/logos/%s" .logo }}
+<div class="column is-one-third">
+  <a href="{{ $url }}">
+    <div class="card">
+      <div class="card-content content">
+        <h2>
+          {{ $title }}
+        </h2>
+
+        <p class="has-text-weight-light">
+          {{ $date }}
+        </p>
+
+        {{ with $logo }}
+        <img src="{{ . }}">
+        {{ end }}
+      </div>
+    </div>
+  </a>
+</div>
