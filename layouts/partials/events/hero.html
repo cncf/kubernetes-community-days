@@ -1,0 +1,28 @@
+{{ $events   := site.Data.events  }}
+{{ $tag      := .File | string }}
+{{ $event    := index (where $events ".tag" "eq" $tag) 0 }}
+{{ $title    := .Title }}
+{{ $month    := $event.start | dateFormat "January" }}
+{{ $start    := $event.start | dateFormat "1" }}
+{{ $end      := $event.end | dateFormat "1" }}
+{{ $year     := $event.start | dateFormat "2006"}}
+{{ $date     := printf "%s %s-%s, %s" $month $start $end $year }}
+{{ $location := $event.location }}
+
+<section class="hero is-black">
+  <div class="hero-body">
+    <div class="container">
+      <p class="title is-size-1 is-size-2-mobile has-text-weight-light is-spaced">
+        {{ $event.title }}
+      </p>
+
+      <p class="subtitle is-size-2 is-size-3-mobile has-text-weight-light">
+        {{ $date }}
+      </p>
+
+      <p class="is-size-3 is-size-4-mobile has-text-weight-light">
+        {{ $location }}
+      </p>
+    </div>
+  </div>
+</section>

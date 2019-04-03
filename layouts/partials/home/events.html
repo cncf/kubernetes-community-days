@@ -1,0 +1,35 @@
+{{ $today  := now | dateFormat "2006-01-02" }}
+{{ $events := site.Data.events }}
+{{ $future := where $events ".start" "gt" $today }}
+{{ $past   := where $events ".start" "le" $today }}
+<section class="section">
+  <div class="container">
+    <p class="is-size-2 is-size-3-mobile has-text-weight-light">
+      Upcoming events
+    </p>
+  
+    <br />
+  
+    <div class="columns is-multiline">
+      {{ range $future }}
+      {{ partial "types/event.html" . }}
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <p class="is-size-2 is-size-3-mobile has-text-weight-light">
+      Past events
+    </p>
+  
+    <br />
+  
+    <div class="columns is-multiline">
+      {{ range $past }}
+      {{ partial "types/event.html" . }}
+      {{ end }}
+    </div>
+  </div>
+</section>

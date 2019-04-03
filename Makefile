@@ -1,13 +1,15 @@
-serve:
+build-pages:
+	python scripts/build-pages.py
+
+serve: build-pages
 	hugo server \
 		--buildDrafts \
-		--buildFuture \
-		--disableFastRender
+		--buildFuture
 
-production-build:
+production-build: build-pages
 	hugo --minify
 
-preview-build:
+preview-build: build-pages
 	hugo \
 		--baseURL $(DEPLOY_PRIME_URL) \
 		--buildDrafts \
