@@ -1,3 +1,12 @@
 - title: Cloud Native Days Tokyo
-  date: 2019-06-15
+  location: Tokyo, Japan
+  tag: tokyo-2019
+  start: 2019-06-15
+  end: 2019-07-16
+  logo: tokyo.jpg
+- title: Cloud Native Days Zimbabwe
+  location: Harare, Zimbabwe
+  tag: zimbabwe-2018
+  start: 2018-02-21
+  end: 2018-02-22
   logo: tokyo.jpg

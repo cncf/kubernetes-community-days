@@ -22,3 +22,11 @@ $family-sans-serif: "{{ $sansSerifFont }}", BlinkMacSystemFont, -apple-system, "
 
 @import "bulma/sass/utilities/derived-variables"
 @import "bulma/bulma"
+
+.page
+  display: flex
+  flex-direction: column
+  min-height: 100vh
+
+  .main
+    flex: 1

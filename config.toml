@@ -2,6 +2,7 @@ title = "Cloud Native Days"
 disableKinds = ["section", "taxonomy", "taxonomyTerm"]
 
 [params]
+description = "A series of conferences devoted to the Cloud Native landscape"
 fontAwesomeVersion = "5.8.1"
 sansSerifFont = "Lato"
 
