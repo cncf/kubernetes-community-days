@@ -1,7 +1,9 @@
-from yaml import load, dump
+from ruamel.yaml import YAML
+
+yaml = YAML(typ='safe')
 
 document = open('data/events.yaml', 'r').read()
-events = load(document)
+events = yaml.load(document)
 
 for event in events:
     title = event['title']
