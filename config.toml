@@ -9,3 +9,11 @@ sansseriffont = "Lato"
 [[params.fonts]]
 name = "Lato"
 sizes = [300,400,600,700]
+
+[params.social.twitter]
+link = "https://twitter.com/cloudnativedays"
+color = "twitter-blue"
+
+[params.social.facebook]
+link = "https://facebook.com/cloudnativedays"
+color = "facebook-blue"

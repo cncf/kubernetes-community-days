@@ -1,9 +1,9 @@
 {{ $title := .title }}
 {{ $tag   := .tag }}
-{{ $url   := printf "/events/%s" .tag }}
+{{ $url   := cond (eq .link nil) (printf "/events/%s" .tag) .link }}
 {{ $month := .start | dateFormat "January" }}
-{{ $start := .start | dateFormat "1" }}
-{{ $end   := .end | dateFormat "1" }}
+{{ $start := .start | dateFormat "2" }}
+{{ $end   := .end | dateFormat "2" }}
 {{ $year  := .start | dateFormat "2006"}}
 {{ $date  := printf "%s %s-%s, %s" $month $start $end $year }}
 {{ $img   := .img | default "png" }}

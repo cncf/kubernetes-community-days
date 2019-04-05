@@ -4,8 +4,12 @@
   start: 2019-06-15
   end: 2019-07-16
   img: jpg
+  social:
+    twitter: cloudnativedaystokyo
+    facebook: cloudnativedaystokyo
 - title: Cloud Native Days Zimbabwe
   location: Harare, Zimbabwe
+  link: https://cloudnativedaysharare.com
   tag: zimbabwe-2018
   start: 2018-02-21
   end: 2018-02-22
