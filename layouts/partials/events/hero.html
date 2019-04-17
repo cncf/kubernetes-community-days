@@ -1,15 +1,15 @@
 {{ $events   := site.Data.events  }}
-{{ $tag      := .File | string }}
+{{ $tag      := .File.BaseFileName | string }}
 {{ $event    := index (where $events ".tag" "eq" $tag) 0 }}
 {{ $title    := .Title }}
 {{ $month    := $event.start | dateFormat "January" }}
-{{ $start    := $event.start | dateFormat "1" }}
-{{ $end      := $event.end | dateFormat "1" }}
+{{ $start    := $event.start | dateFormat "2" }}
+{{ $end      := $event.end | dateFormat "2" }}
 {{ $year     := $event.start | dateFormat "2006"}}
 {{ $date     := printf "%s %s-%s, %s" $month $start $end $year }}
 {{ $location := $event.location }}
-
-<section class="hero is-black">
+{{ $social   := $event.social }}
+<section class="hero is-dark">
   <div class="hero-body">
     <div class="container">
       <p class="title is-size-1 is-size-2-mobile has-text-weight-light is-spaced">
@@ -20,9 +20,28 @@
         {{ $date }}
       </p>
 
-      <p class="is-size-3 is-size-4-mobile has-text-weight-light">
+      <p class="subtitle is-size-3 is-size-4-mobile has-text-weight-light">
         {{ $location }}
       </p>
+
+      {{ with $social }}
+      <div class="buttons are-medium">
+        {{ with .twitter }}
+        <a class="button is-twitter-blue" href="https://twitter.com/{{ . }}" target="_blank">
+          <span class="icon">
+            <i class="fab fa-twitter"></i>
+          </span>
+        </a>
+        {{ end }}
+        {{ with .facebook }}
+        <a class="button is-facebook-blue" href="https://facebook.com/{{ . }}" target="_blank">
+          <span class="icon">
+            <i class="fab fa-facebook"></i>
+          </span>
+        </a>
+        {{ end }}
+      </div>
+      {{ end }}
     </div>
   </div>
 </section>

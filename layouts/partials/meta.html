@@ -1,0 +1,23 @@
+{{ $isHome        := .IsHome }}
+{{ $pageType      := cond $isHome "website" "article" }}
+{{ $twitterHandle := site.Params.social.twitter.handle }}
+<meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+
+<!-- OpenGraph metadata-->
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:locale" content="en_US">
+{{ if not $isHome }}
+<meta property="og:site_name" content="{{ site.Title }}">
+{{ end }}
+<meta name="og:type" content="{{ $pageType }}">
+
+<!-- Twitter Card metadata -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@{{ $twitterHandle }}">
+<meta name="twitter:creator" content="@{{ $twitterHandle }}">
+
+<link rel="canonical" content="{{ .Permalink }}">
+<link rel="shortcut icon" href="/favicon.png" type="image/png">
+{{ hugo.Generator }}

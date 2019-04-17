@@ -1,5 +1,6 @@
-{{ $home  := site.BaseURL }}
-{{ $title := site.Title }}
+{{ $home   := site.BaseURL }}
+{{ $title  := site.Title }}
+{{ $social := site.Params.social }}
 <nav class="navbar is-primary is-fixed-top" role="navigation" aria-label="main navigation">
   <div class="container">
     <div class="navbar-brand">
@@ -15,7 +16,22 @@
     </div>
   
     <div id="top-nav" class="navbar-menu">
-      
+      <div class="navbar-end">
+        {{ range $key, $value := $social }}
+        <div class="navbar-item">
+          <div class="buttons">
+            <a class="button is-{{ .color }}" href="{{ .link }}">
+              <span class="icon">
+                <i class="fab fa-{{ $key }}" aria-hidden="true"></i>
+              </span>
+              <span class="has-text-weight-bold">
+                {{ $key | humanize }}
+              </span>
+            </a>
+          </div>
+        </div>
+        {{ end }}
+      </div>
     </div>
   </div>
 </nav>
