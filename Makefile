@@ -10,7 +10,9 @@ serve: build-pages
 		--buildFuture
 
 production-build: build-pages
-	hugo --minify
+	hugo \
+		--ignoreCache \
+		--minify
 
 preview-build: build-pages
 	hugo \
