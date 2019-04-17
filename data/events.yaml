@@ -9,8 +9,11 @@
     facebook: cloudnativedaystokyo
 - title: Cloud Native Days Zimbabwe
   location: Harare, Zimbabwe
-  link: https://cloudnativedaysharare.com
   tag: zimbabwe-2018
   start: 2018-02-21
   end: 2018-02-22
   img: jpg
+  social:
+    twitter: cncfzim
+- title: Cloud Native Days Oceania
+  link: https://cncfdaysoceania.io
