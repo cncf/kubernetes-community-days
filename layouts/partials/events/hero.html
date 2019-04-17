@@ -1,5 +1,5 @@
 {{ $events   := site.Data.events  }}
-{{ $tag      := .File | string }}
+{{ $tag      := .File.BaseFileName | string }}
 {{ $event    := index (where $events ".tag" "eq" $tag) 0 }}
 {{ $title    := .Title }}
 {{ $month    := $event.start | dateFormat "January" }}
