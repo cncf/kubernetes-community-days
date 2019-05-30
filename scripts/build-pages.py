@@ -14,12 +14,11 @@ for event in events:
 
         title = event['title']
         tag = event['tag']
-        start = event['start']
-        end = event['end']
+        date = event['date']
 
-        metadata = "---\ntitle: {}\nstart: {}\nend: {}\n".format(title, start, end)
+        metadata = "---\ntitle: {}\ntag: {}\ndate: {}\n".format(title, tag, date)
 
-        for key in ['location', 'img', 'foo']:
+        for key in ['location', 'img']:
             if key in event_keys:
                 metadata += "{}: {}\n".format(key, event[key])
     
@@ -28,7 +27,7 @@ for event in events:
 
             metadata += "social:\n"
 
-            for key in ['facebook', 'twitter']:
+            for key in ['facebook', 'twitter', 'instagram']:
                 if key in social_keys:
                     metadata += "  {}: {}\n".format(key, event['social'][key])
 

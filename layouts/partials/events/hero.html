@@ -2,11 +2,11 @@
 {{ $tag      := .File.BaseFileName | string }}
 {{ $event    := index (where $events ".tag" "eq" $tag) 0 }}
 {{ $title    := .Title }}
-{{ $month    := $event.start | dateFormat "January" }}
-{{ $start    := $event.start | dateFormat "2" }}
-{{ $end      := $event.end | dateFormat "2" }}
-{{ $year     := $event.start | dateFormat "2006"}}
-{{ $date     := printf "%s %s-%s, %s" $month $start $end $year }}
+{{ $date     := $event.date }}
+{{ $month    := $date | dateFormat "January" }}
+{{ $day      := $date | dateFormat "2" }}
+{{ $year     := $date | dateFormat "2006"}}
+{{ $date     := printf "%s %s, %s" $month $day $year }}
 {{ $location := $event.location }}
 {{ $social   := $event.social }}
 <section class="hero is-dark">
@@ -29,14 +29,21 @@
         {{ with .twitter }}
         <a class="button is-twitter-blue" href="https://twitter.com/{{ . }}" target="_blank">
           <span class="icon">
-            <i class="fab fa-twitter"></i>
+            <i class="fab fa-lg fa-twitter"></i>
           </span>
         </a>
         {{ end }}
         {{ with .facebook }}
         <a class="button is-facebook-blue" href="https://facebook.com/{{ . }}" target="_blank">
           <span class="icon">
-            <i class="fab fa-facebook"></i>
+            <i class="fab fa-lg fa-facebook"></i>
+          </span>
+        </a>
+        {{ end }}
+        {{ with .instagram }}
+        <a class="button is-danger" href="https://facebook.com/{{ . }}" target="_blank">
+          <span class="icon">
+            <i class="fab fa-lg fa-instagram"></i>
           </span>
         </a>
         {{ end }}

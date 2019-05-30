@@ -1,13 +1,11 @@
-{{ $title := .title }}
-{{ $tag   := .tag }}
-{{ $url   := cond (eq .link nil) (printf "/events/%s" .tag) .link }}
-{{ $month := .start | dateFormat "January" }}
-{{ $start := .start | dateFormat "2" }}
-{{ $end   := .end | dateFormat "2" }}
-{{ $year  := .start | dateFormat "2006"}}
-{{ $date  := printf "%s %s-%s, %s" $month $start $end $year }}
-{{ $img   := .img | default "png" }}
-{{ $logo  := printf "img/logos/%s.%s" $tag $img }}
+{{ $title := .Title }}
+{{ $tag   := .Params.tag }}
+{{ $url   := cond (eq .Params.link nil) (printf "/events/%s" .Params.tag) .Params.link }}
+{{ $month := .Params.date | string | dateFormat "January" }}
+{{ $day   := .Params.date | dateFormat "2" }}
+{{ $year  := .Params.date | dateFormat "2006"}}
+{{ $fmt   := printf "%s %s, %s" $month $day $year }}
+{{ $img   := .Params.img }}
 <div class="column is-one-third">
   <a href="{{ $url }}">
     <div class="card">
@@ -17,10 +15,10 @@
         </h2>
 
         <p class="has-text-weight-light">
-          {{ $date }}
+          {{ $fmt }}
         </p>
 
-        {{ with $logo }}
+        {{ with $img }}
         <img src="{{ . }}">
         {{ end }}
       </div>

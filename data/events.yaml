@@ -1,19 +1,8 @@
-- title: Cloud Native Days Tokyo
-  location: Tokyo, Japan
-  tag: tokyo-2019
-  start: 2019-06-15
-  end: 2019-07-16
-  img: jpg
+- title: Cloud Native Day Amsterdam
+  location: Pakhuis De Zwijger, Amsterdam
+  tag: amsterdam-2019
+  date: 2019-09-13
   social:
-    twitter: cloudnativedaystokyo
-    facebook: cloudnativedaystokyo
-- title: Cloud Native Days Zimbabwe
-  location: Harare, Zimbabwe
-  tag: zimbabwe-2018
-  start: 2018-02-21
-  end: 2018-02-22
-  img: jpg
-  social:
-    twitter: cncfzim
-- title: Cloud Native Days Oceania
-  link: https://cncfdaysoceania.io
+    twitter: cloudnativeams
+    instagram: cloudnativeams
+  future: true
