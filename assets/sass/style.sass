@@ -22,6 +22,7 @@ $facebook-blue: rgb(60,90,153)
 
 // Bulma variable overrides
 $primary: $k8s-dark-blue
+$section-padding: 2rem 1.5rem
 
 @import "bulma/sass/utilities/functions"
 @import "bulma/sass/utilities/mixins"
@@ -34,6 +35,15 @@ $family-sans-serif: "{{ $sansSerifFont }}", BlinkMacSystemFont, -apple-system, "
 $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue": ($facebook-blue, $white)), $colors)
 
 @import "bulma/bulma"
+
+hr.thin-hr
+  background-color: $primary
+  height: 0.25rem
+
+  +tablet
+    width: 5rem
+  +mobile
+    width: 3rem
 
 .page
   display: flex
@@ -55,6 +65,7 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
       width: 100%
 
 .variable-size-content
-  +desktop
+  +tablet
     font-size: 1.5rem
   +mobile
+    font-size: 1rem
