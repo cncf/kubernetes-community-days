@@ -18,11 +18,6 @@ hero = "kubernetes-community-days.png"
 name = "Lato"
 sizes = [300,400,600,700]
 
-[params.social.twitter]
-handle = "cloudnativedays"
-link   = "https://twitter.com/cloudnativedays"
-color  = "twitter-blue"
-
-[params.social.facebook]
-link = "https://facebook.com/cloudnativedays"
-color = "facebook-blue"
+[params.social]
+twitter = "https://twitter.com/cloudnativedays"
+facebook = "https://facebook.com/cloudnativedays"

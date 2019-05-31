@@ -5,8 +5,8 @@
   tag: santa-clara-2019
   date: 2019-07-24
   social:
-    twitter: cloudnativeams
-    facebook: cloudnativeams
+    twitter: https://twitter.com/cloudnativeams
+    facebook: https://facebook.com/cloudnativeams
   buttons:
   - title: Register
     url: https://cloudnativeams.com/register
@@ -17,5 +17,5 @@
   tag: amsterdam-2019
   date: 2019-09-13
   social:
-    twitter: cloudnativeams
-    facebook: cloudnativeams
+    twitter: https://twitter.com/cloudnativeams
+    facebook: https://facebook.com/cloudnativeams

@@ -19,7 +19,9 @@
           {{ .location.name }}
         </a>
 
-        {{ partial "social-buttons.html" (dict "centered" false "text" false) }}
+        {{ with .social }}
+        {{ partial "social-buttons.html" (dict "centered" false "text" false "social" .) }}
+        {{ end }}
       </div>
     </div>
   </div>
