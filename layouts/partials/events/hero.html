@@ -1,54 +1,7 @@
-{{ $events   := site.Data.events  }}
-{{ $tag      := .File.BaseFileName | string }}
-{{ $event    := index (where $events ".tag" "eq" $tag) 0 }}
-{{ $title    := .Title }}
-{{ $date     := $event.date }}
-{{ $month    := $date | dateFormat "January" }}
-{{ $day      := $date | dateFormat "2" }}
-{{ $year     := $date | dateFormat "2006"}}
-{{ $date     := printf "%s %s, %s" $month $day $year }}
-{{ $location := $event.location }}
-{{ $social   := $event.social }}
-<section class="hero is-dark">
+<section class="hero is-light">
   <div class="hero-body">
-    <div class="container">
-      <p class="title is-size-1 is-size-2-mobile has-text-weight-light is-spaced">
-        {{ $event.title }}
-      </p>
-
-      <p class="subtitle is-size-2 is-size-3-mobile has-text-weight-light">
-        {{ $date }}
-      </p>
-
-      <p class="subtitle is-size-3 is-size-4-mobile has-text-weight-light">
-        {{ $location }}
-      </p>
-
-      {{ with $social }}
-      <div class="buttons are-medium">
-        {{ with .twitter }}
-        <a class="button is-twitter-blue" href="https://twitter.com/{{ . }}" target="_blank">
-          <span class="icon">
-            <i class="fab fa-lg fa-twitter"></i>
-          </span>
-        </a>
-        {{ end }}
-        {{ with .facebook }}
-        <a class="button is-facebook-blue" href="https://facebook.com/{{ . }}" target="_blank">
-          <span class="icon">
-            <i class="fab fa-lg fa-facebook"></i>
-          </span>
-        </a>
-        {{ end }}
-        {{ with .instagram }}
-        <a class="button is-danger" href="https://facebook.com/{{ . }}" target="_blank">
-          <span class="icon">
-            <i class="fab fa-lg fa-instagram"></i>
-          </span>
-        </a>
-        {{ end }}
-      </div>
-      {{ end }}
-    </div>
+    <p class="title is-size-2 is-size-3-mobile">
+      {{ .Title }}
+    </p>
   </div>
 </section>

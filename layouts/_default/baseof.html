@@ -1,4 +1,5 @@
-{{ $pageType := .Kind }}
+{{ $pageType     := .Kind }}
+{{ $isEventsPage := eq .Section "events" }}
 <!DOCTYPE html>
 <html lang="{{ site.LanguageCode }}">
   <head>
@@ -7,7 +8,7 @@
     {{ partial "css.html" . }}
   </head>
   <body class="page is-{{ $pageType }}-page">
-    <main class="main">
+    <main class="main{{ if $isEventsPage }} has-navbar-fixed-top{{ end }}">
       {{ block "main" . }}
       {{ end }}
     </main>

@@ -3,7 +3,8 @@
 {{ $facebook := $social.facebook }}
 {{ $centered := .centered }}
 {{ $showText := .text | default true }}
-<div class="buttons margin-top{{ if $centered }} is-centered{{ end }}">
+{{ $margin   := .margin }}
+<div class="buttons {{ if $centered }} is-centered{{ end }}{{ if $margin }} margin-top{{ end }}">
   <a class="button is-radiusless is-twitter-blue{{ with .size }} is-{{ . }}{{ end }}" href="{{ $twitter }}" target="_blank">
     <span class="icon">
       <i class="fab fa-twitter"></i>

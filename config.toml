@@ -12,6 +12,7 @@ Backed by the [Cloud Native Computing Foundation](https://cncf.io), which hosts 
 """
 
 [params.logos]
+navbar = "kubernetes-community-days.png"
 hero = "kubernetes-community-days.png"
 
 [[params.fonts]]
