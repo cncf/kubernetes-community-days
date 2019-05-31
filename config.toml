@@ -1,5 +1,6 @@
 title = "Kubernetes Community Days"
 disableKinds = ["section", "taxonomy", "taxonomyTerm"]
+baseURL = "https://kubernetes-community-days.netlify.com"
 
 [params]
 description = "A series of conferences devoted to the [Kubernetes](https://kubernetes.io) ecosystem"
