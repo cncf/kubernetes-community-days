@@ -1,8 +1,8 @@
-title = "Cloud Native Days"
+title = "Kubernetes Community Days"
 disableKinds = ["section", "taxonomy", "taxonomyTerm"]
 
 [params]
-description = "A series of conferences devoted to the Cloud Native landscape"
+description = "A series of conferences devoted to the Kubernetes ecosystem"
 fontawesomeversion = "5.8.1"
 sansseriffont = "Lato"
 
