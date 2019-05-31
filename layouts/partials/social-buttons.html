@@ -1,0 +1,21 @@
+{{ $twitter     := site.Params.social.twitter.link }}
+{{ $facebook    := site.Params.social.facebook.link }}
+<div class="buttons is-centered margin-top">
+  <a class="button is-twitter-blue" href="{{ $twitter }}" target="_blank">
+    <span class="icon">
+      <i class="fab fa-twitter"></i>
+    </span>
+    <span class="has-text-weight-bold">
+      Twitter
+    </span>
+  </a>
+
+  <a class="button is-facebook-blue" href="{{ $facebook }}" target="_blank">
+    <span class="icon">
+      <i class="fab fa-facebook"></i>
+    </span>
+    <span class="has-text-weight-bold">
+      Facebook
+    </span>
+  </a>
+</div>
