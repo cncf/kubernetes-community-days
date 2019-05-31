@@ -18,6 +18,8 @@
         <a class="has-text-black" href="{{ .location.url }}" target="_blank">
           {{ .location.name }}
         </a>
+
+        {{ partial "social-buttons.html" (dict "centered" false "text" false) }}
       </div>
     </div>
   </div>

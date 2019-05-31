@@ -33,12 +33,15 @@ $family-sans-serif: "{{ $sansSerifFont }}", BlinkMacSystemFont, -apple-system, "
 
 @import "bulma/sass/utilities/derived-variables"
 
-$card-background-color: $light
+$card-shadow: none
 $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue": ($facebook-blue, $white)), $colors)
 
 @import "bulma/bulma"
 
-hr.thin-hr
+.card
+  border: 2px solid $light
+
+hr.thick-hr
   margin: 1rem 0 3rem 0
   background-color: $primary
   height: 0.25rem
@@ -68,19 +71,22 @@ hr.thin-hr
       width: 100%
 
 .variable-size-content
-  +tablet
-    font-size: 1.5rem
-  +mobile
+  +touch
     font-size: 1rem
 
-.margin-top
   +tablet
-    margin-top: 3rem
-  +mobile
+    font-size: 1.5rem
+
+.margin-top
+  +touch
+    margin-top: 1.5rem
+
+  +tablet
     margin-top: 1.5rem
 
 .sidebar-logo
+  +touch
+    width: 60%
+
   +tablet
-    width: 90%
-  +mobile
     width: 80%

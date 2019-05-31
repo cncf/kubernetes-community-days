@@ -1,23 +1,28 @@
-{{ $social   := site.Params.social }}
-{{ $twitter  := $social.twitter.link }}
-{{ $facebook := $social.facebook.link }}
+{{ $social   := .social }}
+{{ $twitter  := $social.twitter }}
+{{ $facebook := $social.facebook }}
 {{ $centered := .centered }}
+{{ $showText := .text | default true }}
 <div class="buttons margin-top{{ if $centered }} is-centered{{ end }}">
-  <a class="button is-twitter-blue" href="{{ $twitter }}" target="_blank">
+  <a class="button is-twitter-blue{{ with .size }} is-{{ . }}{{ end }}" href="{{ $twitter }}" target="_blank">
     <span class="icon">
       <i class="fab fa-twitter"></i>
     </span>
+    {{ if $showText }}
     <span class="has-text-weight-bold">
       Twitter
     </span>
+    {{ end }}
   </a>
 
-  <a class="button is-facebook-blue" href="{{ $facebook }}" target="_blank">
+  <a class="button is-facebook-blue{{ with .size }} is-{{ . }}{{ end }}" href="{{ $facebook }}" target="_blank">
     <span class="icon">
       <i class="fab fa-facebook"></i>
     </span>
+    {{ if $showText }}
     <span class="has-text-weight-bold">
       Facebook
     </span>
+    {{ end }}
   </a>
 </div>
