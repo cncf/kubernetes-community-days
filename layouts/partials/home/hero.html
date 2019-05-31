@@ -7,7 +7,7 @@
     <div class="container">
       <img class="is-hero-logo" src="{{ $logo }}" alt="Kubernetes Community Days main logo">
 
-      {{ partial "social-buttons.html" . }}
+      {{ partial "social-buttons.html" (dict "centered" true) }}
     </div>
   </div>
 </section>

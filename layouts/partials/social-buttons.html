@@ -1,6 +1,8 @@
-{{ $twitter     := site.Params.social.twitter.link }}
-{{ $facebook    := site.Params.social.facebook.link }}
-<div class="buttons is-centered margin-top">
+{{ $social   := site.Params.social }}
+{{ $twitter  := $social.twitter.link }}
+{{ $facebook := $social.facebook.link }}
+{{ $centered := .centered }}
+<div class="buttons margin-top{{ if $centered }} is-centered{{ end }}">
   <a class="button is-twitter-blue" href="{{ $twitter }}" target="_blank">
     <span class="icon">
       <i class="fab fa-twitter"></i>
