@@ -4,7 +4,7 @@
 {{ $centered := .centered }}
 {{ $showText := .text | default true }}
 <div class="buttons margin-top{{ if $centered }} is-centered{{ end }}">
-  <a class="button is-twitter-blue{{ with .size }} is-{{ . }}{{ end }}" href="{{ $twitter }}" target="_blank">
+  <a class="button is-radiusless is-twitter-blue{{ with .size }} is-{{ . }}{{ end }}" href="{{ $twitter }}" target="_blank">
     <span class="icon">
       <i class="fab fa-twitter"></i>
     </span>
@@ -15,7 +15,7 @@
     {{ end }}
   </a>
 
-  <a class="button is-facebook-blue{{ with .size }} is-{{ . }}{{ end }}" href="{{ $facebook }}" target="_blank">
+  <a class="button is-radiusless is-facebook-blue{{ with .size }} is-{{ . }}{{ end }}" href="{{ $facebook }}" target="_blank">
     <span class="icon">
       <i class="fab fa-facebook"></i>
     </span>

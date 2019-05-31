@@ -7,6 +7,9 @@
   social:
     twitter: cloudnativeams
     facebook: cloudnativeams
+  buttons:
+  - title: Register
+    url: https://cloudnativeams.com/register
 - title: Cloud Native Day Amsterdam
   location:
     name: Pakhuis De Zwijger, Amsterdam
