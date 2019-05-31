@@ -1,24 +1,24 @@
 {{ $img  := printf "img/places/%s" .image }}
 {{ $url  := printf "events/%s" .tag | relURL }}
 {{ $date := .date | dateFormat "January 2, 2006" }}
-<div class="column is-one-third">
-  <a href="{{ $url }}">
-    <div class="card event-card">
-      <div class="card-content">
-        <div class="content has-text-centered">
-          <h2 class="has-text-weight-medium has-text-primary">
+<div class="column is-half">
+  <div class="card">
+    <div class="card-content">
+      <div class="content">
+        <h2 class="has-text-weight-medium has-text-primary">
+          <a href="{{ $url }}">
             {{ .title }}
-          </h2>
-
-          <h3 class="has-text-weight-light">
-            {{ $date }}
-          </h3>
-
-          <a href="{{ .location.url }}" target="_blank">
-            {{ .location.name }}
           </a>
-        </div>
+        </h2>
+
+        <h4 class="has-text-weight-bold">
+          {{ $date }}
+        </h4>
+
+        <a class="has-text-black" href="{{ .location.url }}" target="_blank">
+          {{ .location.name }}
+        </a>
       </div>
     </div>
-  </a>
+  </div>
 </div>

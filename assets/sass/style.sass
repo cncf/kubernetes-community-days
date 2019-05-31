@@ -23,6 +23,7 @@ $facebook-blue: rgb(60,90,153)
 // Bulma variable overrides
 $primary: $k8s-dark-blue
 $section-padding: 2rem 1.5rem
+$hr-margin: 3rem 0
 
 @import "bulma/sass/utilities/functions"
 @import "bulma/sass/utilities/mixins"
@@ -32,11 +33,13 @@ $family-sans-serif: "{{ $sansSerifFont }}", BlinkMacSystemFont, -apple-system, "
 
 @import "bulma/sass/utilities/derived-variables"
 
+$card-background-color: $light
 $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue": ($facebook-blue, $white)), $colors)
 
 @import "bulma/bulma"
 
 hr.thin-hr
+  margin: 1rem 0 3rem 0
   background-color: $primary
   height: 0.25rem
 
@@ -69,3 +72,15 @@ hr.thin-hr
     font-size: 1.5rem
   +mobile
     font-size: 1rem
+
+.margin-top
+  +tablet
+    margin-top: 3rem
+  +mobile
+    margin-top: 1.5rem
+
+.sidebar-logo
+  +tablet
+    width: 90%
+  +mobile
+    width: 80%

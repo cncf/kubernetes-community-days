@@ -1,8 +1,4 @@
 {{ $info := site.Params.info | markdownify }}
-<section class="section is-info-section">
-  <div class="container">
-    <div class="content variable-size-content has-text-weight-medium">
-      {{ $info }}
-    </div>
-  </div>
-</section>
+<div class="content variable-size-content has-text-weight-medium">
+  {{ $info }}
+</div>
