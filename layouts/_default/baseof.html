@@ -1,3 +1,4 @@
+{{ $pageType := .Kind }}
 <!DOCTYPE html>
 <html lang="{{ site.LanguageCode }}">
   <head>
@@ -5,10 +6,8 @@
     <title>{{ block "title" . }}{{ site.Title }}{{ end }}</title>
     {{ partial "css.html" . }}
   </head>
-  <body class="page has-navbar-fixed-top">
+  <body class="page is-{{ $pageType }}-page">
     <main class="main">
-      {{ partial "navbar.html" . }}
-
       {{ block "main" . }}
       {{ end }}
     </main>

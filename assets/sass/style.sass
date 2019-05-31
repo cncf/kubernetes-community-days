@@ -13,14 +13,15 @@
 @import url({{ $fontAwesomeUrl }})
 
 // Site-specific variables
+$k8s-dark-blue: rgb(50, 108, 229)
+$k8s-light-blue: rgb(39, 214, 242)
 $twitter-blue: rgb(29, 202, 255)
 $facebook-blue: rgb(60,90,153)
-$cnd-blue: rgb(9, 74, 116)
 
 @import "bulma/sass/utilities/initial-variables"
 
 // Bulma variable overrides
-$primary: $grey
+$primary: $k8s-dark-blue
 
 @import "bulma/sass/utilities/functions"
 @import "bulma/sass/utilities/mixins"
@@ -41,3 +42,14 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
 
   .main
     flex: 1
+
+.footer
+  background-color: $primary
+  color: $light
+
+.is-home-page
+  .is-hero-logo
+    +desktop
+      width: 60%
+    +mobile
+      width: 100%

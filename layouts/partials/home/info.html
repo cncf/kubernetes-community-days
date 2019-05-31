@@ -1,0 +1,8 @@
+{{ $info := site.Params.info | markdownify }}
+<section class="section is-info-section">
+  <div class="container">
+    <div class="content is-medium">
+      {{ $info }}
+    </div>
+  </div>
+</section>

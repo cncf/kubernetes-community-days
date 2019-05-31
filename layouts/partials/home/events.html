@@ -1,16 +1,6 @@
 {{ $events := where site.Pages "Section" "events" }}
 <section class="section">
   <div class="container">
-    <p class="is-size-2 is-size-3-mobile has-text-weight-light">
-      Events
-    </p>
-  
-    <br />
-  
-    <div class="columns is-multiline">
-      {{ range $events }}
-      {{ partial "types/event.html" . }}
-      {{ end }}
-    </div>
+
   </div>
 </section>
