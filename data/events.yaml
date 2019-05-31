@@ -1,4 +1,5 @@
 - title: Kubernetes Community Day Santa Clara
+  url: https://cloudnative.amsterdam
   location:
     name: Intel Campus, Santa Clara, California
     url: https://www.intel.com/content/www/us/en/corporate-responsibility/intel-in-california.html
@@ -7,9 +8,6 @@
   social:
     twitter: https://twitter.com/cloudnativeams
     facebook: https://facebook.com/cloudnativeams
-  buttons:
-  - title: Register
-    url: https://cloudnativeams.com/register
 - title: Cloud Native Day Amsterdam
   location:
     name: Pakhuis De Zwijger, Amsterdam

@@ -15,12 +15,12 @@
           {{ $date }}
         </h4>
 
-        <a class="has-text-black" href="{{ .location.url }}" target="_blank">
+        <a class="is-size-5 is-size-6-mobile has-text-grey" href="{{ .location.url }}" target="_blank">
           {{ .location.name }}
         </a>
 
         {{ with .social }}
-        {{ partial "social-buttons.html" (dict "centered" false "text" false "social" .) }}
+        {{ partial "social-buttons.html" (dict "margin" true "centered" false "text" false "social" .) }}
         {{ end }}
       </div>
     </div>

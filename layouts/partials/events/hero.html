@@ -1,7 +1,32 @@
-<section class="hero is-light">
+{{ $tag       := .Params.tag }}
+{{ $eventInfo := index (where site.Data.events ".tag" "eq" $tag) 0 }}
+{{ $eventUrl  := $eventInfo.url }}
+{{ $date      := $eventInfo.date | dateFormat "January 2, 2006" }}
+{{ $location  := $eventInfo.location }}
+{{ $locName   := $location.name }}
+{{ $locUrl    := $location.url }}
+<section class="hero">
   <div class="hero-body">
-    <p class="title is-size-2 is-size-3-mobile">
-      {{ .Title }}
-    </p>
+    <div class="container">
+      <p class="title is-size-2 is-size-3-mobile has-text-dark is-spaced">
+        {{ .Title }}
+      </p>
+
+      <div class="subtitle is-size-4 is-size-5-mobile">
+        <p class="has-text-grey-dark">
+          {{ $date }}
+        </p>
+
+        <a class="subtitle has-text-grey" href="{{ $locUrl }}">
+          {{ $locName }}
+        </a>
+      </div>
+
+      {{ with $eventUrl }}
+      <a class="is-size-5 is-size-6-mobile" href="{{ . }}" target="_blank">
+        {{ . }}
+      </p>
+      {{ end }}
+    </div>
   </div>
 </section>
