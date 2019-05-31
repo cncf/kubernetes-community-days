@@ -3,6 +3,8 @@ clean-event-pages:
 
 build-pages: clean-event-pages
 	python scripts/build-pages.py
+	echo "Event pages:"
+	@ls content/events
 
 serve: build-pages
 	hugo server \
