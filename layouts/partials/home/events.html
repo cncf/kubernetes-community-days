@@ -1,6 +1,14 @@
-{{ $events := where site.Pages "Section" "events" }}
+{{ $events := site.Data.events }}
 <section class="section">
   <div class="container">
+    <p class="title has-text-weight-medium">
+      Upcoming events
+    </p>
 
+    <div class="columns is-variable is-2 is-multiline">
+      {{ range $events }}
+      {{ partial "event-tile.html" . }}
+      {{ end }}
+    </div>
   </div>
 </section>

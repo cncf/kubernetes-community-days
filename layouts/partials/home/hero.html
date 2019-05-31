@@ -1,17 +1,9 @@
-{{ $description := site.Params.description }}
+{{ $description := site.Params.description | markdownify }}
 {{ $logo        := printf "img/logos/%s" site.Params.logos.hero }}
 <section class="hero has-text-centered">
   <div class="hero-body">
     <div class="container">
       <img class="is-hero-logo" src="{{ $logo }}" alt="Kubernetes Community Days main logo">
-    </div>
-  </div>
-
-  <div class="hero-foot">
-    <div class="container">
-      <p class="title is-size-2 is-size-3-mobile has-text-dark has-text-weight-light">
-        {{ $description }}
-      </p>
     </div>
   </div>
 </section>

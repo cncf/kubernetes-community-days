@@ -1,8 +1,10 @@
 - title: Cloud Native Day Amsterdam
-  location: Pakhuis De Zwijger, Amsterdam
+  location:
+    name: Pakhuis De Zwijger, Amsterdam
+    url: https://dezwijger.nl/
   tag: amsterdam-2019
   date: 2019-09-13
   social:
     twitter: cloudnativeams
     instagram: cloudnativeams
-  future: true
+  image: amsterdam.jpg
