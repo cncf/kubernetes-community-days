@@ -1,5 +1,5 @@
 clean-event-pages:
-	rm -f content/events/*-*.md
+	rm -f content/events/*.md
 
 build-pages: clean-event-pages
 	python scripts/build-pages.py
@@ -13,6 +13,7 @@ serve: build-pages
 
 production-build: build-pages
 	hugo \
+		--buildFuture \
 		--ignoreCache \
 		--minify
 

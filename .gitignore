@@ -7,4 +7,3 @@ resources/
 
 # Generated page stubs
 content/events/*.md
-!content/events/_index.md
