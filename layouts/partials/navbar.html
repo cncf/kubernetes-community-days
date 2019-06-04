@@ -2,6 +2,7 @@
 {{ $home   := site.BaseURL }}
 {{ $logo   := printf "img/logos/%s" site.Params.logos.navbar | relURL }}
 {{ $pages  := where site.RegularPages "Section" "" }}
+{{ $here   := .RelPermalink }}
 <nav class="navbar is-fixed-top{{ if not $isHome }} is-light{{ end }}">
   <div class="container">
     <div class="navbar-brand">
@@ -21,7 +22,8 @@
     <div id="navbar-menu" class="navbar-menu">
       <div class="navbar-end">
         {{ range $pages }}
-        <a class="navbar-item has-text-weight-bold" href="{{ .RelPermalink }}">
+        {{ $isCurrentPage := eq .RelPermalink $here }}
+        <a class="navbar-item has-text-weight-bold{{ if $isCurrentPage }} is-active{{ end }}" href="{{ .RelPermalink }}">
           {{ .Title }}
         </a>
         {{ end }}
