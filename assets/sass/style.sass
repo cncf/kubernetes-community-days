@@ -39,6 +39,15 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
 
 @import "bulma/bulma"
 
+.logos
+  margin-top: 3rem
+
+  .logo
+    +tablet
+      width: 60%
+    +touch
+      width: 70%
+
 hr.thick-hr
   margin: 1rem 0 !important
   background-color: $primary

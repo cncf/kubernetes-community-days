@@ -2,25 +2,25 @@
 {{ partial "home/hero.html" . }}
 
 <section class="section">
-  <div class="container is-hidden-desktop">
-    {{ partial "home/events.html" . }}
-    {{ partial "home/sidebar.html" . }}
-  </div>
+  <div class="container">
+    <div class="is-hidden-desktop">
+      {{ partial "home/events.html" . }}
+      {{ partial "home/sidebar.html" . }}
+    </div>
 
-  <div class="container is-hidden-touch">
-    <div class="columns is-variable is-8">
-      <div class="column is-4">
-        {{ partial "home/sidebar.html" . }}
-      </div>
-
-      <div class="column">
-        {{ partial "home/events.html" . }}
-
-        <hr />
-
-        {{ partial "home/logos.html" . }}
+    <div class="is-hidden-touch">
+      <div class="columns is-variable is-8">
+        <div class="column is-4">
+          {{ partial "home/sidebar.html" . }}
+        </div>
+  
+        <div class="column">
+          {{ partial "home/events.html" . }}
+        </div>
       </div>
     </div>
+
+    {{ partial "home/logos.html" . }}
   </div>
 </section>
 {{ end }}
