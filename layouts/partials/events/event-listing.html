@@ -22,8 +22,12 @@
           {{ range .Pages }}
           {{ $day := .Date | dateFormat "January 2" }}
           <li>
+            <span>
+              {{ $day }} &mdash;
+            </span>
+
             <a href="{{ .RelPermalink }}">
-              {{ $day }}: {{ .Title }}
+              {{ .Title }}
             </a>
           </li>
           {{ end }}
