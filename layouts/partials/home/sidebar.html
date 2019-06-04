@@ -1,19 +1,37 @@
+{{ $events  := where site.RegularPages "Section" "events" }}
+{{ $byYear  := $events.GroupByDate "2006" }}
 <section class="section has-background-light">
-  <div>
-    <a href="https://cncf.io" target="_blank">
-      <img class="sidebar-logo" src="/img/logos/cncf-color.png">
-    </a>
-  </nav>
+  <div class="container has-text-left">
+    <p class="title is-size-4 is-size-5-mobile has-text-weight-medium">
+      UPCOMING EVENTS
+    </p>
 
-  <div class="margin-top">
-    <a class="margin-top" href="https://kubernetes.io" target="_blank">
-      <img class="sidebar-logo" src="/img/logos/kubernetes-horizontal-color.png">
-    </a>
-  </div>
+    <hr class="thick-hr" />
 
-  <div class="margin-top">
-    <a class="margin-top" href="https://l.cncf.io" target="_blank">
-      <img class="sidebar-logo" src="/img/logos/cncf-landscape-horizontal-color.png">
-    </a>
+    <div class="event-list">
+      {{ range $byYear }}
+      <p class="year">
+        {{ .Key }}
+      </p>
+      
+      {{ range (.Pages.GroupByDate "January").Reverse }}
+      <div class="month">
+        <p class="month-title">
+          {{ .Key }}
+        </p>
+  
+        <ul class="events">
+          {{ range .Pages }}
+          <li>
+            <a href="{{ .RelPermalink }}">
+              {{ .Title }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+      {{ end }}
+    </div>
   </div>
 </section>
