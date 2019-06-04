@@ -1,6 +1,6 @@
 ---
 title: Organizing
-weight: 1
+weight: 2
 ---
 
 **Kubernetes Community Days** are community-organized events that gather adopters and technologists from open source and cloud native communities to learn, collaborate, and network to further advancement in cloud native computing.
