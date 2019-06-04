@@ -1,36 +1,36 @@
+{{ $isHome := .IsHome }}
 {{ $home   := site.BaseURL }}
-{{ $title  := site.Title }}
-{{ $social := site.Params.social }}
-<nav class="navbar is-primary is-fixed-top" role="navigation" aria-label="main navigation">
+{{ $logo   := printf "img/logos/%s" site.Params.logos.navbar | relURL }}
+{{ $pages  := where site.RegularPages "Section" "" }}
+<nav class="navbar is-fixed-top">
   <div class="container">
     <div class="navbar-brand">
+      {{ if not $isHome }}
       <a class="navbar-item" href="{{ $home }}">
-        {{ $title }}
+        <img src="{{ $logo }}" alt="Kubernetes Community Days navbar logo">
       </a>
+      {{ end }}
   
-      <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="top-nav">
+      <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbar-menu">
         <span aria-hidden="true"></span>
         <span aria-hidden="true"></span>
         <span aria-hidden="true"></span>
       </a>
     </div>
   
-    <div id="top-nav" class="navbar-menu">
+    <div id="navbar-menu" class="navbar-menu">
       <div class="navbar-end">
-        {{ range $key, $value := $social }}
-        <div class="navbar-item">
-          <div class="buttons">
-            <a class="button is-{{ .color }}" href="{{ .link }}">
-              <span class="icon">
-                <i class="fab fa-{{ $key }}" aria-hidden="true"></i>
-              </span>
-              <span class="has-text-weight-bold">
-                {{ $key | humanize }}
-              </span>
-            </a>
-          </div>
-        </div>
+        {{ range $pages }}
+        <a class="navbar-item is-uppercase has-text-weight-bold">
+          {{ .Title }}
+        </a>
         {{ end }}
+
+        <!--
+        <div class="navbar-item">
+          {{ partial "social-buttons.html" (dict "social" site.Params.social "centered" false) }}
+        </div>
+        -->
       </div>
     </div>
   </div>

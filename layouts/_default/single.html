@@ -3,6 +3,13 @@
 {{ end }}
 
 {{ define "main" }}
-{{ partial "events/navbar.html" . }}
-{{ partial "events/hero.html" . }}
+{{ partial "hero.html" . }}
+
+<section class="section">
+  <div class="container">
+    <div class="content">
+      {{ .Content }}
+    </div>
+  </div>
+</section>
 {{ end }}

@@ -7,8 +7,10 @@
     <title>{{ block "title" . }}{{ site.Title }}{{ end }}</title>
     {{ partial "css.html" . }}
   </head>
-  <body class="page is-{{ $pageType }}-page">
-    <main class="main{{ if $isEventsPage }} has-navbar-fixed-top{{ end }}">
+  <body class="page is-{{ $pageType }}-page has-navbar-fixed-top">
+    {{ partial "navbar.html" . }}
+
+    <main class="main">
       {{ block "main" . }}
       {{ end }}
     </main>
