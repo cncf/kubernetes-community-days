@@ -1,6 +1,6 @@
 {{ $isHome := .IsHome }}
 {{ $home   := site.BaseURL }}
-{{ $logo   := printf "img/logos/%s" site.Params.logos.navbar | relURL }}
+{{ $logo   := printf "img/logos/%s" site.Params.logo | relURL }}
 {{ $pages  := where site.RegularPages "Section" "" }}
 {{ $here   := .RelPermalink }}
 <nav class="navbar is-fixed-top{{ if not $isHome }} is-light{{ end }}">

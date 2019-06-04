@@ -6,10 +6,7 @@ baseURL = "https://kubernetes-community-days.netlify.com"
 description = "A series of conferences devoted to the [Kubernetes](https://kubernetes.io) ecosystem"
 fontawesomeversion = "5.8.1"
 sansseriffont = "Lato"
-
-[params.logos]
-navbar = "kubernetes-community-days.png"
-hero = "kubernetes-community-days.png"
+logo = "kubernetes-community-days.png"
 
 [[params.fonts]]
 name = "Lato"
