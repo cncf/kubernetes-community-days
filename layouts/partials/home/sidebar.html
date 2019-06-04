@@ -1,5 +1,5 @@
-{{ $events  := where site.RegularPages "Section" "events" }}
-{{ $byYear  := $events.GroupByDate "2006" }}
+{{ $events := where site.RegularPages "Section" "events" }}
+{{ $byYear := $events.GroupByDate "2006" }}
 <section class="section has-background-light">
   <div class="container has-text-left">
     <p class="title is-size-4 is-size-5-mobile has-text-weight-medium">

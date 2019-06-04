@@ -1,0 +1,68 @@
+{{ $events := where site.RegularPages "Section" "events" }}
+{{ $byYear := $events.GroupByDate "2006" }}
+<section class="section">
+  <div class="container">
+    <p class="title is-size-2 is-size-3-mobile is-spaced">
+      Upcoming
+    </p>
+
+    {{ range $byYear }}
+    <p class="subtitle">
+      {{ .Key }}
+    </p>
+
+    <div class="columns is-multiline">
+      {{ range (.Pages.GroupByDate "January").Reverse }}
+      <div class="column is-one-third">
+        <p class="title is-size-4 is-size-5-mobile has-text-weight-light is-spaced">
+          {{ .Key }}
+        </p>
+
+        <ul>
+          {{ range .Pages }}
+          {{ $day := .Date | dateFormat "January 2" }}
+          <li>
+            <a href="{{ .RelPermalink }}">
+              {{ $day }}: {{ .Title }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+
+  <hr />
+
+  <div class="container">
+    <p class="title is-size-3 is-size-4-mobile is-spaced">
+      All events
+    </p>
+
+    {{ range $byYear }}
+    <p class="subtitle">
+      {{ .Key }}
+    </p>
+
+    <table class="table">
+      <tbody>
+        {{ range .Pages.Reverse }}
+        {{ $date := .Date | dateFormat "January 2" }}
+        <tr>
+          <td>
+            <a href="{{ .RelPermalink }}">
+              {{ .Title }}
+            </a>
+          </td>
+          <td>
+            {{ $date }}
+          </td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+    {{ end }}
+  </div>
+</section>

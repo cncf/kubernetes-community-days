@@ -21,6 +21,11 @@
   
     <div id="navbar-menu" class="navbar-menu">
       <div class="navbar-end">
+        {{ $isCurrentPage := eq .RelPermalink "/events/" }}
+        <a class="navbar-item has-text-weight-bold{{ if $isCurrentPage }} is-active{{ end }}" href="/events">
+          Events
+        </a>
+
         {{ range $pages }}
         {{ $isCurrentPage := eq .RelPermalink $here }}
         <a class="navbar-item has-text-weight-bold{{ if $isCurrentPage }} is-active{{ end }}" href="{{ .RelPermalink }}">
