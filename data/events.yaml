@@ -8,6 +8,22 @@
   social:
     twitter: https://twitter.com/cloudnativeams
     facebook: https://facebook.com/cloudnativeams
+  sponsors:
+    diamond:
+    - image: dynatrace.png
+      url: https://www.dynatrace.com
+    - image: dynatrace.png
+      url: https://www.dynatrace.com
+    - image: dynatrace.png
+      url: https://www.dynatrace.com
+    platinum:
+    - image: dynatrace.png
+      url: https://www.dynatrace.com
+    gold:
+    - image: dynatrace.png
+      url: https://www.dynatrace.com
+    - image: dynatrace.png
+      url: https://www.dynatrace.com
 - title: Cloud Native Day Amsterdam
   location:
     name: Pakhuis De Zwijger, Amsterdam

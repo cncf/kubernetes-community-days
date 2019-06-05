@@ -39,6 +39,21 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
 
 @import "bulma/bulma"
 
+.sponsor-logo-container
+  & + &
+    margin-top: 2rem
+
+  .sponsor-logo-block
+    display: flex
+    flex-direction: row
+
+    .sponsor-logo
+      & + .sponsor-logo
+        margin-left: 2.5rem
+
+      img
+        width: 6rem
+
 .logos
   margin-top: 3rem
 

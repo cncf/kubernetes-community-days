@@ -1,0 +1,34 @@
+{{ $tag      := .Params.tag }}
+{{ $event    := index (where site.Data.events ".tag" $tag) 0 }}
+{{ $levels   := (slice "diamond" "platinum" "gold" "silver") }}
+{{ $sponsors := $event.sponsors }}
+
+{{ with $sponsors }}
+<section class="section">
+  <div class="container">
+    <p class="title is-size-2 is-size-3-mobile has-text-weight-light is-spaced">
+      Sponsors
+    </p>
+
+    {{ range $levels }}
+    {{ $level := . }}
+    {{ with (index $sponsors $level) }}
+    <div class="sponsor-logo-container">
+      <p class="subtitle">
+        {{ $level | upper }}
+      </p>
+  
+      <div class="sponsor-logo-block">
+        {{ range . }}
+        {{ $imgUrl := printf "img/sponsors/%s/%s" $tag .image | relURL }}
+        <a class="sponsor-logo" href="{{ .url }}" target="_blank">
+          <img src="{{ $imgUrl }}">
+        </a>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+    {{ end }}
+  </div>
+</section>
+{{ end }}
