@@ -5,6 +5,7 @@
 {{ $location  := $eventInfo.location }}
 {{ $locName   := $location.name }}
 {{ $locUrl    := $location.url }}
+{{ $social    := $eventInfo.social }}
 <section class="hero">
   <div class="hero-body">
     <div class="container">
@@ -26,6 +27,11 @@
       <a class="is-size-5 is-size-6-mobile" href="{{ . }}" target="_blank">
         {{ . }}
       </p>
+      {{ end }}
+
+      {{ with $social }}
+      <br />
+      {{ partial "social-buttons.html" (dict "social" .) }}
       {{ end }}
     </div>
   </div>
