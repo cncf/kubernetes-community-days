@@ -1,0 +1,34 @@
+{{ $events := site.Data.events }}
+<table>
+  <thead>
+    <tr>
+      <th>
+        City
+      </th>
+      <th>
+        CFP closes
+      </th>
+      <th>
+        Event starts
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $events }}
+    {{ if .cfpdate }}
+    {{ $date := .date | dateFormat "January 2, 2006" }}
+    <tr>
+      <td>
+        {{ .title }}
+      </td>
+      <td>
+        {{ .cfpdate }}
+      </td>
+      <td>
+        {{ $date }}
+      </td>
+    </tr>
+    {{ end }}
+    {{ end }}
+  </tbody>
+</table>
