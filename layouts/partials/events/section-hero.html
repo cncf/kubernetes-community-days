@@ -1,13 +1,16 @@
+{{ $description := .Params.description }}
 <section class="hero">
   <div class="hero-body">
     <div class="container">
-      <p class="title is-size-1 is-size-2-mobile has-text-weight-light">
+      <p class="title is-size-1 is-size-2-mobile has-text-weight-light is-spaced">
         {{ .Title }}
       </p>
 
-      <div class="content is-medium">
-        {{ .Content }}
-      </div>
+      {{ with $description }}
+      <p class="subtitle">
+        {{ . }}
+      </p>
+      {{ end }}
     </div>
   </div>
 </section>
