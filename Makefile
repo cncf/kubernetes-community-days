@@ -1,16 +1,16 @@
-serve: build-pages
+serve:
 	hugo server \
 		--buildDrafts \
 		--buildFuture \
 		--ignoreCache
 
-production-build: build-pages
+production-build:
 	hugo \
 		--buildFuture \
 		--ignoreCache \
 		--minify
 
-preview-build: build-pages
+preview-build:
 	hugo \
 		--baseURL $(DEPLOY_PRIME_URL) \
 		--buildDrafts \
