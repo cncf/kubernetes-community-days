@@ -1,7 +1,6 @@
 {{ $tag      := .Params.tag }}
-{{ $event    := index (where site.Data.events ".tag" $tag) 0 }}
 {{ $levels   := (slice "diamond" "platinum" "gold" "silver") }}
-{{ $sponsors := $event.sponsors }}
+{{ $sponsors := .Params.sponsors }}
 
 {{ with $sponsors }}
 <section class="section">

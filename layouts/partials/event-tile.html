@@ -1,13 +1,17 @@
-{{ $img  := printf "img/places/%s" .image }}
-{{ $url  := printf "events/%s" .tag | relURL }}
-{{ $date := .date | dateFormat "January 2, 2006" }}
+{{ $tag    := .Params.tag }}
+{{ $img    := printf "img/places/%s" $tag | relURL }}
+{{ $url    := printf "events/%s" $tag | relURL }}
+{{ $title  := .Title }}
+{{ $date   := .Date | dateFormat "January 2, 2006" }}
+{{ $where  := .Params.location }}
+{{ $social := .Params.social }}
 <div class="column is-half">
   <div class="card">
     <div class="card-content">
       <div class="content">
         <h2 class="title is-size-4 is-size-5-mobile has-text-weight-medium has-text-primary is-uppercase">
           <a href="{{ $url }}">
-            {{ .title }}
+            {{ $title }}
           </a>
         </h2>
 
@@ -15,11 +19,11 @@
           {{ $date }}
         </h4>
 
-        <a class="is-size-5 is-size-6-mobile has-text-grey" href="{{ .location.url }}" target="_blank">
-          {{ .location.name }}
+        <a class="is-size-5 is-size-6-mobile has-text-grey" href="{{ $where.url }}" target="_blank">
+          {{ $where.name }}
         </a>
 
-        {{ with .social }}
+        {{ with $social }}
         {{ partial "social-buttons.html" (dict "margin" true "centered" false "text" false "social" .) }}
         {{ end }}
       </div>

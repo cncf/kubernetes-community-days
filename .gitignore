@@ -4,7 +4,3 @@ node_modules/
 # Hugo-generated assets
 public/
 resources/
-
-# Generated page stubs
-content/events/*.md
-!content/events/_index.md

@@ -1,11 +1,9 @@
-{{ $tag       := .Params.tag }}
-{{ $eventInfo := index (where site.Data.events ".tag" "eq" $tag) 0 }}
-{{ $eventUrl  := $eventInfo.url }}
-{{ $date      := $eventInfo.date | dateFormat "January 2, 2006" }}
-{{ $location  := $eventInfo.location }}
+{{ $eventUrl  := .Params.url }}
+{{ $date      := .Params.date | dateFormat "January 2, 2006" }}
+{{ $location  := .Params.location }}
 {{ $locName   := $location.name }}
 {{ $locUrl    := $location.url }}
-{{ $social    := $eventInfo.social }}
+{{ $social    := .Params.social }}
 <section class="hero">
   <div class="hero-body">
     <div class="container">

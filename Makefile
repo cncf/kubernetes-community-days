@@ -1,9 +1,3 @@
-clean-event-pages:
-	find content/events ! -name '_index.md' -type f -exec rm -f {} +
-
-build-pages: clean-event-pages
-	python scripts/build-pages.py
-
 serve: build-pages
 	hugo server \
 		--buildDrafts \

@@ -1,6 +1,6 @@
-{{ $events := site.Data.events }}
+{{ $events := where site.RegularPages "Section" "events" }}
 <div class="columns is-variable is-3 is-multiline">
-  {{ range $events }}
+  {{ range $events.ByDate }}
   {{ partial "event-tile.html" . }}
   {{ end }}
 </div>
