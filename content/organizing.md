@@ -2,6 +2,7 @@
 title: Organizing
 weight: 2
 button: true
+published: true
 ---
 
 **Kubernetes Community Days** are community-organized events that gather adopters and technologists from open source and cloud native communities to learn, collaborate, and network to further advancement in cloud native computing.
@@ -12,4 +13,4 @@ The Cloud Native Computing Foundation is here to support you as the organizer of
 
 Kubernetes Community Days are non-commercial events and we expect them to run in accordance with the spirit of the community. This means making reasonable efforts to open the events to anyone in the community who wants to help organize, attend, or sponsor, regardless of affiliation. It also means avoiding sales pitches and focusing on educational and user-driven content.
 
-Here is a change just for testing.
+Here is a change just for testing. Here is another one.
