@@ -15,3 +15,28 @@ sizes = [300,400,600,700]
 [params.social]
 twitter = "https://twitter.com/cloudnativedays"
 facebook = "https://facebook.com/cloudnativedays"
+
+[[menu.navbar]]
+name = "Events"
+url = "/events"
+weight = 1
+
+[[menu.navbar]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[menu.navbar]]
+name = "Organizing"
+url = "/organizing"
+weight = 3
+
+[[menu.navbar]]
+name = "Sponsors"
+url = "/sponsors"
+weight = 4
+
+[[menu.navbar]]
+name = "Speaking"
+url = "/speaking"
+weight = 5
