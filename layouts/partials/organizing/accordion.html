@@ -1,8 +1,18 @@
 {{ $sections := where site.RegularPages "Section" "organizing"}}
 <section class="section">
   <div class="container">
-    {{ range $sections }}
-    <!-- Insert accordion logic here -->
-    {{ end }}
+    <div class="accordion">
+      {{ range $sections }}
+      <div class="accordion-element">
+        <p class="title is-size-3 is-size-4-mobile has-text-weight-medium">
+          {{ .Title }}
+        </p>
+
+        <div class="content">
+          {{ .Content }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
   </div>
 </section>
