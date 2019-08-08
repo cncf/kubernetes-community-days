@@ -20,3 +20,6 @@
 <link rel="canonical" content="{{ .Permalink }}">
 <link rel="shortcut icon" href="/favicon.png" type="image/png">
 {{ hugo.Generator }}
+{{ with .OutputFormats.Get "rss" -}}
+{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
