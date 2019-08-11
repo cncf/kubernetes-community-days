@@ -1,3 +1,4 @@
+{{ $dateF  := "2006/01/02" }}
 {{ $events := where site.Pages "Section" "events" }}
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\" ?>" | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xcal="urn:ietf:params:xml:ns:xcal">
@@ -23,13 +24,13 @@
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{ end }}
     {{ range $events }}
-    {{ $start := .Date | dateFormat "January 2, 2006" }}
+    {{ $start := .Date | dateFormat $dateF }}
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
       <xcal:dtstart>{{ $start }}</xcal:dtstart>
       {{ with .Params.end }}
-      <xcal:dtend>{{ . | dateFormat "January 2, 2006" }}</xcal:dtend>
+      <xcal:dtend>{{ . | dateFormat $dateF }}</xcal:dtend>
       {{ end }}
       {{ with site.Author.email }}<author>{{.}}{{ with site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
