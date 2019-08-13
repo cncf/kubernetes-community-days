@@ -1,3 +1,4 @@
+{{ $utc    := "2006-01-02 00:00:00 +0000 UTC" }}
 {{ $events := where site.Pages "Section" "events" }}
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\" ?>" | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xcal="urn:ietf:params:xml:ns:xcal">
@@ -24,12 +25,13 @@
     {{ end }}
     {{ range $events }}
     {{ $start := .Date }}
+    {{ $end   := .Params.end }}
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
       <xcal:dtstart>{{ $start | safeHTML }}</xcal:dtstart>
-      {{ with .Params.end }}
-      <xcal:dtend>{{ . | safeHTML }}</xcal:dtend>
+      {{ with $end }}
+      <xcal:dtend>{{ dateFormat $utc . | safeHTML }}</xcal:dtend>
       {{ end }}
       {{ with site.Author.email }}<author>{{.}}{{ with site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
