@@ -16,3 +16,6 @@ preview-build:
 		--buildDrafts \
 		--buildFuture \
 		--minify
+
+open:
+	open https://kubernetes-community-days.netlify.com
