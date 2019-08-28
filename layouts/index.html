@@ -1,11 +1,7 @@
 {{ define "main" }}
 {{ $events     := (slice) }}
-{{ $upcoming   := (slice) }}
 {{ $eventPages := where site.Sections "Section" "events" }}
 {{ range $eventPages }}
-{{ if .Date.After now }}
-{{ $upcoming = $upcoming | append . }}
-{{ end }}
 {{ range .Sections }}
 {{ $events = $events | append . }}
 {{ end }}
@@ -17,13 +13,13 @@
   <div class="container">
     <div class="is-hidden-desktop">
       {{ partial "home/events.html" . }}
-      {{ partial "home/sidebar.html" (dict "upcoming" $upcoming) }}
+      {{ partial "home/sidebar.html" $events }}
     </div>
 
     <div class="is-hidden-touch">
       <div class="columns is-variable is-8">
         <div class="column is-4">
-          {{ partial "home/sidebar.html" (dict "upcoming" $upcoming) }}
+          {{ partial "home/sidebar.html" $events }}
         </div>
   
         <div class="column">

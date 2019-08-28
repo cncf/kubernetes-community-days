@@ -66,9 +66,12 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
       width: 70%
 
 hr.thick-hr
-  margin: 1rem 0 !important
+  margin: 1.5rem 0 !important
   background-color: $primary
   height: 0.25rem
+
+  &.extra-space
+    margin: 5rem 0
 
   +tablet
     width: 5rem
@@ -76,7 +79,6 @@ hr.thick-hr
     width: 3rem
 
 .event-list
-  margin-top: 1.5rem
   text-transform: uppercase
 
   .year
