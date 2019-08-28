@@ -6,7 +6,6 @@
 {{ $here    := .RelPermalink }}
 {{ $section := .CurrentSection }}
 {{ $url     := .RelPermalink }}
-{{ $pages  := (slice "Sponsors") }}
 <nav class="navbar is-fixed-top{{ if not $isHome }} is-light{{ end }}">
   <div class="container">
     <div class="navbar-brand">
@@ -32,11 +31,11 @@
         </a>
         {{ end }}
 
-        {{ if $isEvent }}
-        {{ range $pages }}
-        {{ $link := . | lower }}
-        <a class="navbar-item has-text-weight-bold" href="{{ $link }}">
-          {{ . }}
+        {{ with .Pages }}
+        {{ range . }}
+        {{ $isActive := eq $url .RelPermalink }}
+        <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .RelPermalink }}">
+          {{ .Title }}
         </a>
         {{ end }}
         {{ end }}
