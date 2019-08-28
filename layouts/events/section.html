@@ -1,4 +1,9 @@
 {{ define "main" }}
-{{ partial "events/section-hero.html" . }}
+{{ $isRoot := eq .CurrentSection .FirstSection }}
+{{ partial "events/navbar.html" . }}
+{{ partial "events/hero.html" . }}
+
+{{ if $isRoot }}
 {{ partial "events/event-listing.html" . }}
+{{ end }}
 {{ end }}

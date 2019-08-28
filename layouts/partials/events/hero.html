@@ -1,5 +1,5 @@
 {{ $eventUrl  := .Params.url }}
-{{ $date      := .Params.date | dateFormat "January 2, 2006" }}
+{{ $date      := .Params.date }}
 {{ $location  := .Params.location }}
 {{ $locName   := $location.name }}
 {{ $locUrl    := $location.url }}
@@ -11,15 +11,22 @@
         {{ .Title }}
       </p>
 
+      {{ if or $date $locName }}
       <div class="subtitle is-size-4 is-size-5-mobile">
+        {{ with $date }}
+        {{ $formatted := . | dateFormat "January 2, 2006"}}
         <p class="has-text-grey-dark">
-          {{ $date }}
+          {{ $formatted }}
         </p>
+        {{ end }}
 
+        {{ with $locName }}
         <a class="subtitle has-text-grey" href="{{ $locUrl }}">
-          {{ $locName }}
+          {{ . }}
         </a>
+        {{ end }}
       </div>
+      {{ end }}
 
       {{ with $eventUrl }}
       <a class="is-size-5 is-size-6-mobile" href="{{ . }}" target="_blank">
