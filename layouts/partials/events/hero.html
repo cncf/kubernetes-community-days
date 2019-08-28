@@ -1,15 +1,26 @@
-{{ $eventUrl  := .Params.url }}
-{{ $date      := .Params.date }}
-{{ $location  := .Params.location }}
-{{ $locName   := $location.name }}
-{{ $locUrl    := $location.url }}
-{{ $social    := .Params.social }}
+{{ $eventUrl := .Params.url }}
+{{ $date     := .Params.date }}
+{{ $location := .Params.location }}
+{{ $locName  := $location.name }}
+{{ $locUrl   := $location.url }}
+{{ $social   := .Params.social }}
+{{ $title    := .Title }}
+{{ $event    := .CurrentSection.Title }}
+{{ $mainUrl  := .CurrentSection.RelPermalink }}
 <section class="hero">
   <div class="hero-body">
     <div class="container">
       <p class="title is-size-2 is-size-3-mobile has-text-dark is-spaced">
-        {{ .Title }}
+        {{ $title }}
       </p>
+
+      {{ if not .Pages }}
+      <p class="subtitle">
+        <a href="{{ $mainUrl }}">
+          {{ $event }}
+        </a>
+      </p>
+      {{ end }}
 
       {{ if or $date $locName }}
       <div class="subtitle is-size-4 is-size-5-mobile">

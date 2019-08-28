@@ -31,8 +31,8 @@
         </a>
         {{ end }}
 
-        {{ with .Pages }}
-        {{ range . }}
+        {{ with .CurrentSection}}
+        {{ range .Pages }}
         {{ $isActive := eq $url .RelPermalink }}
         <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .RelPermalink }}">
           {{ .Title }}
