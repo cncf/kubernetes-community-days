@@ -4,6 +4,8 @@ This repo houses all of the assets used to build https://kubernetescommunitydays
 
 ## Adding your Kubernetes Community Days event
 
+// This needs to change to be a per directory for new events
+
 All event data is kept in the [`content/events`](./content/events) directory. To add your Kubernetes Community Days event to this site:
 
 1. Add a new [Markdown](https://www.markdownguide.org) file to `content/events`. The name of the file should be `YEAR-CITY.md`. So if you're doing an event in 2020 in Pittsburgh, name it `pittsburg-2020.md`.
