@@ -8,8 +8,8 @@ Check to see if there is a Kubernetes Community Days event scheduled in your are
 
 If there isn’t an event being organized, the first step in building out a successful event, is assembling a team. You’ll need at minimum 3 other organizers from 3 different organizations.  Ideally, you’ll have a minimum of 5 organizers. One of the organizers must be a CNCF Member employee, Ambassador, or CNCF Project Maintainer. Find local community members who may be interested in helping to organize or volunteer at the event:
 
-Local user groups
-Community Ambassadors
-[Meetup groups](/events/)
+* Local user groups
+* Community Ambassadors
+* [Meetup groups](/events/)
 
 Check the GitHub Repo issues for other individuals who have expressed an interest in organizing an event in your area. If there are no GitHub issues for your area, create a [GitHub issue](https://github.com/cncf/kubernetes-community-days/issues/new) following the template to express an interest in organizing an event in your area. 
