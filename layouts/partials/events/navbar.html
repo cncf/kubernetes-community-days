@@ -24,13 +24,6 @@
   
     <div id="navbar-menu" class="navbar-menu">
       <div class="navbar-end">
-        {{ range $menu }}
-        {{ $isActive := and (hasPrefix $url .URL) (not $isEvent) }}
-        <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .URL }}">
-          {{ .Name }}
-        </a>
-        {{ end }}
-
         {{ with .CurrentSection}}
         {{ range .Pages }}
         {{ $isActive := eq $url .RelPermalink }}
