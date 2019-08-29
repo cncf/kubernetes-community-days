@@ -1,25 +1,43 @@
-{{ $eventUrl  := .Params.url }}
-{{ $date      := .Params.date | dateFormat "January 2, 2006" }}
-{{ $location  := .Params.location }}
-{{ $locName   := $location.name }}
-{{ $locUrl    := $location.url }}
-{{ $social    := .Params.social }}
+{{ $eventUrl := .Params.url }}
+{{ $date     := .Params.date }}
+{{ $location := .Params.location }}
+{{ $locName  := $location.name }}
+{{ $locUrl   := $location.url }}
+{{ $social   := .Params.social }}
+{{ $title    := .Title }}
+{{ $event    := .CurrentSection.Title }}
+{{ $mainUrl  := .CurrentSection.RelPermalink }}
 <section class="hero">
   <div class="hero-body">
     <div class="container">
       <p class="title is-size-2 is-size-3-mobile has-text-dark is-spaced">
-        {{ .Title }}
+        {{ $title }}
       </p>
 
-      <div class="subtitle is-size-4 is-size-5-mobile">
-        <p class="has-text-grey-dark">
-          {{ $date }}
-        </p>
-
-        <a class="subtitle has-text-grey" href="{{ $locUrl }}">
-          {{ $locName }}
+      {{ if not .Pages }}
+      <p class="subtitle">
+        <a href="{{ $mainUrl }}">
+          {{ $event }}
         </a>
+      </p>
+      {{ end }}
+
+      {{ if or $date $locName }}
+      <div class="subtitle is-size-4 is-size-5-mobile">
+        {{ with $date }}
+        {{ $formatted := . | dateFormat "January 2, 2006"}}
+        <p class="has-text-grey-dark">
+          {{ $formatted }}
+        </p>
+        {{ end }}
+
+        {{ with $locName }}
+        <a class="subtitle has-text-grey" href="{{ $locUrl }}">
+          {{ . }}
+        </a>
+        {{ end }}
       </div>
+      {{ end }}
 
       {{ with $eventUrl }}
       <a class="is-size-5 is-size-6-mobile" href="{{ . }}" target="_blank">

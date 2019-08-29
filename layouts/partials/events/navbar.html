@@ -1,4 +1,5 @@
 {{ $isHome  := .IsHome }}
+{{ $isEvent := and (eq .Section "events") (ne .CurrentSection .FirstSection) }}
 {{ $home    := site.BaseURL }}
 {{ $logo    := printf "img/logos/%s" site.Params.logo | relURL }}
 {{ $menu    := site.Menus.navbar }}
@@ -24,10 +25,19 @@
     <div id="navbar-menu" class="navbar-menu">
       <div class="navbar-end">
         {{ range $menu }}
-        {{ $isActive := hasPrefix $url .URL }}
+        {{ $isActive := and (hasPrefix $url .URL) (not $isEvent) }}
         <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .URL }}">
           {{ .Name }}
         </a>
+        {{ end }}
+
+        {{ with .CurrentSection}}
+        {{ range .Pages }}
+        {{ $isActive := eq $url .RelPermalink }}
+        <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .RelPermalink }}">
+          {{ .Title }}
+        </a>
+        {{ end }}
         {{ end }}
       </div>
     </div>

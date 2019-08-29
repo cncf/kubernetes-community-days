@@ -31,12 +31,3 @@ name = "Organizing"
 url = "/organizing"
 weight = 3
 
-[[menu.navbar]]
-name = "Sponsors"
-url = "/sponsors"
-weight = 4
-
-[[menu.navbar]]
-name = "Speaking"
-url = "/speaking"
-weight = 5

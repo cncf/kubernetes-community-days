@@ -1,17 +1,25 @@
 {{ define "main" }}
-{{ partial "home/hero.html" . }}
+{{ $events     := (slice) }}
+{{ $eventPages := where site.Sections "Section" "events" }}
+{{ range $eventPages }}
+{{ range .Sections }}
+{{ $events = $events | append . }}
+{{ end }}
+{{ end }}
 
+{{ partial "navbar.html" . }}
+{{ partial "home/hero.html" . }}
 <section class="section">
   <div class="container">
     <div class="is-hidden-desktop">
       {{ partial "home/events.html" . }}
-      {{ partial "home/sidebar.html" . }}
+      {{ partial "home/sidebar.html" $events }}
     </div>
 
     <div class="is-hidden-touch">
       <div class="columns is-variable is-8">
         <div class="column is-4">
-          {{ partial "home/sidebar.html" . }}
+          {{ partial "home/sidebar.html" $events }}
         </div>
   
         <div class="column">

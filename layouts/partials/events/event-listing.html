@@ -1,4 +1,10 @@
-{{ $events := where site.RegularPages "Section" "events" }}
+{{ $events     := (slice) }}
+{{ $eventPages := where site.Sections "Section" "events" }}
+{{ range $eventPages }}
+{{ range .Sections }}
+{{ $events = $events | append . }}
+{{ end }}
+{{ end }}
 {{ $byYear := $events.GroupByDate "2006" }}
 <section class="section">
   <div class="container">

@@ -1,15 +1,54 @@
-{{ $events := where site.RegularPages "Section" "events" }}
-{{ $byYear := $events.GroupByDate "2006" }}
+{{ $events := . }}
+{{ $upcoming := slice }}
+{{ $past     := slice }}
+{{ range $events }}
+{{ if .Date.After now }}
+{{ $upcoming = $upcoming | append . }}
+{{ else }}
+{{ $past = $past | append . }}
+{{ end }}
+{{ end }}
+
 <section class="section has-background-light">
   <div class="container has-text-left">
-    <p class="title is-size-4 is-size-5-mobile has-text-weight-medium">
-      UPCOMING EVENTS
-    </p>
+    <div class="event-list">
+      <p class="title is-size-4 is-size-5-mobile has-text-weight-medium">
+        UPCOMING EVENTS
+      </p>
+
+      {{ range $upcoming.GroupByDate "2006" }}
+      <p class="year">
+        {{ .Key }}
+      </p>
+      
+      {{ range (.Pages.GroupByDate "January").Reverse }}
+      <div class="month">
+        <p class="month-title">
+          {{ .Key }}
+        </p>
+  
+        <ul class="events">
+          {{ range .Pages }}
+          <li>
+            <a href="{{ .RelPermalink }}">
+              {{ .Title }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+      {{ end }}
+    </div>
 
     <hr class="thick-hr" />
 
     <div class="event-list">
-      {{ range $byYear }}
+      <p class="title is-size-4 is-size-5-mobile has-text-weight-medium">
+        PAST EVENTS
+      </p>
+
+      {{ range $past.GroupByDate "2006" }}
       <p class="year">
         {{ .Key }}
       </p>
