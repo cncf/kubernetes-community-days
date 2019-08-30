@@ -1,7 +1,7 @@
 ---
 title: Kubernetes Community Day Amsterdam
 tag: amsterdam-2019
-date: {}
+date: 2019-09-13T00:00:00.000Z
 root: true
 location:
   url: 'https://dezwijger.nl'
