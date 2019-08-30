@@ -1,9 +1,9 @@
 title = "Kubernetes Community Days"
 disableKinds = ["taxonomy", "taxonomyTerm"]
-baseURL = "https://kubernetes-community-days.netlify.com"
+baseURL = "https://kubernetescommunitydays.org/"
 
 [params]
-description = "A series of conferences devoted to the [Kubernetes](https://kubernetes.io) ecosystem"
+description = "A series of conferences devoted to the cloud native and [Kubernetes](https://kubernetes.io) ecosystem"
 fontawesomeversion = "5.8.1"
 sansseriffont = "Lato"
 logo = "kubernetes-community-days.png"
@@ -13,8 +13,7 @@ name = "Lato"
 sizes = [300,400,600,700]
 
 [params.social]
-twitter = "https://twitter.com/cloudnativedays"
-facebook = "https://facebook.com/cloudnativedays"
+twitter = "https://twitter.com/cloudnativefdn"
 
 [[menu.navbar]]
 name = "Events"
