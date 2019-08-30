@@ -18,4 +18,4 @@ preview-build:
 		--minify
 
 open:
-	open https://kubernetes-community-days.netlify.com
+	open https://kubernetescommunitydays.org
