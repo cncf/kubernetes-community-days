@@ -1,6 +1,7 @@
 ---
 title: About Kubernetes Community Days
 weight: 1
+published: true
 ---
 
 Kubernetes Community Days are community organized events that gathers adopters and technologists from open source and cloud native communities to learn, collaborate, and network to further advancement in Kubernetes. They also are a lot of fun and a great way to meet new people and build community.
@@ -10,7 +11,7 @@ Kubernetes Community Days are community organized events that gathers adopters a
 Kubernetes Community Days are community organized education events to bring people together to learn, collaborate, and network. Each event brings its own local flair, culture, diversity, and authenticity.                         
 ### Core Organizers
 
-Dan Kohn, Chris Blum, Jennifer Davis
+[Dan Kohn](https://www.dankohn.com), Chris Blum, Jennifer Davis
 
 ### Contact a specific event
 
