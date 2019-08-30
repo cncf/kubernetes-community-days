@@ -6,7 +6,7 @@ This repo houses all of the assets used to build https://kubernetescommunitydays
 
 All event data is kept in the [`content/events`](./content/events) directory. To add your Kubernetes Community Days event to this site:
 
-1. Add a new [Markdown](https://www.markdownguide.org) file to `content/events`. The name of the file should be `YEAR-CITY.md`. So if you're doing an event in 2020 in Pittsburgh, name it `pittsburg-2020.md`.
+1. Add a new [Markdown](https://www.markdownguide.org) file to `content/events`. The name of the file should be `YEAR-CITY.md`, all lowercase with hyphens in place of spaces. So if you're doing an event in 2020 in Pittsburgh, name it `2020-pittsburg.md`.
 
 2. Add a header to the file that looks like this:
 
@@ -27,7 +27,7 @@ All event data is kept in the [`content/events`](./content/events) directory. To
 
     ```yaml
     ---
-    title: Kubernetes Days Ridgefield
+    title: Kubernetes Community Days Ridgefield
     url: https://k8s-ridgefield.io
     location:
       name: Ridgefield Community Center, Ridgefield, Washington
@@ -42,7 +42,9 @@ All event data is kept in the [`content/events`](./content/events) directory. To
 
 4. Optionally, add any Markdown content you want below the YAML metadata header.
 
-5. Submit a pull request to this repository.
+5. Submit a pull request (PR) to this repository.
+
+6. Netlify creates a preview of your PR. Ensure that things look correct and then add `LGTM` as a comment to your PR.
 
 ## Publishing the site
 
