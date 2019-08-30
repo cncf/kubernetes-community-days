@@ -7,6 +7,7 @@
 {{ $title    := .Title }}
 {{ $event    := .CurrentSection.Title }}
 {{ $mainUrl  := .CurrentSection.RelPermalink }}
+{{ $isRoot   := eq .CurrentSection .FirstSection }}
 <section class="hero">
   <div class="hero-body">
     <div class="container">
@@ -14,7 +15,7 @@
         {{ $title }}
       </p>
 
-      {{ if not .Pages }}
+      {{ if and (not $isRoot) (ne .File.LogicalName "_index.md") }}
       <p class="subtitle">
         <a href="{{ $mainUrl }}">
           {{ $event }}
