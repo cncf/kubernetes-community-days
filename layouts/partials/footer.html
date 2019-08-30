@@ -1,8 +1,27 @@
-{{ $year := now.Year }}
+{{ $year     := now.Year }}
+{{ $showEdit := not .IsHome }}
+{{ $editUrl  := printf "https://github.com/cncf/kubernetes-community-days/edit/master/content/%s" .File.Path }}
 <footer class="footer">
-  <div class="container has-text-centered">
-    <p class="is-size-5 is-size-6-mobile has-text-weight-medium">
-      Copyright &copy; {{ $year }} The Linux Foundation<sup>&reg;</sup>. All rights reserved.
-    </p>
+  <div class="container">
+    <div class="columns is-vcentered is-variable is-8">
+      {{ if $showEdit }}
+      <div class="column is-2">
+        <a class="button is-black is-radiusless" href="{{ $editUrl }}" target="_blank">
+          <span class="icon">
+            <i class="fab fa-github"></i>
+          </span>
+          <span>
+            Edit this page
+          </span>
+        </a>
+      </div>
+      {{ end }}
+
+      <div class="column">
+        <p class="is-size-5 is-size-6-mobile has-text-weight-medium">
+          Copyright &copy; {{ $year }} The Linux Foundation<sup>&reg;</sup>. All rights reserved.
+        </p>
+      </div>
+    </div>
   </div>
 </footer>
