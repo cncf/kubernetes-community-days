@@ -66,21 +66,20 @@ Policy and Guidelines:
 * The attendee list may NOT be used for commercial or marketing purposes, only community-building activities, such as sharing event updates or scheduling future meetups. The list will not be shared with third parties who are not directly involved in organizing the event. Please review Kubernetes Community Privacy Policy Statement. 
 * Sponsors are allowed to collect attendee information at their tables. 
 * We recommend event organizers add the following statement to the registration page: “Personal information gathered by the organizers is handled in accordance with the Foundation’s Privacy Policy and is used for internal purposes only.  The Kubernetes Community Privacy Policy is available at http://www.Kubernetes Community.org/privacy.
-* In order for the Foundation to gather consistent demographic information, we are asking that event organizers add the following question to the registration page.  Please include this information and any other survey information to CNCF when you send in post event information.
+* In order for the Foundation to gather consistent demographic information, we are asking that event organizers add the following dropdown question and options to the registration page.  Please include this information and any other survey information to CNCF when you send in post event information.
 * What is your current Organizational Role at your company? (please check one):
-
-** Business Development / Sales / Marketing
-** CEO / Executive Leadership
-** CIO / CTO / IT Manager
-** Cloud Application Developer
-** Cloud Architect
-** Engineer
-** Kubernetes Community User / Operator
-** Operations / SysAdmin
-** Product Management
-** Product Strategy
-** Upstream Developer
-** Other, please specify
+ * Business Development / Sales / Marketing
+ * CEO / Executive Leadership
+ * CIO / CTO / IT Manager
+ * Cloud Application Developer
+ * Cloud Architect
+ * Engineer
+ * Kubernetes Community User / Operator
+ * Operations / SysAdmin
+ * Product Management
+ * Product Strategy
+ * Upstream Developer
+ * Other, please specify
 
 # Kubernetes Community Days Planning Tools: NOTE: We will need to host these docs or create pages for them. What is best practice?
 
