@@ -6,9 +6,11 @@ This repo houses all of the assets used to build https://kubernetescommunitydays
 
 All event data is kept in the [`content/events`](./content/events) directory. To add your Kubernetes Community Days event to this site:
 
-1. Add a new [Markdown](https://www.markdownguide.org) file to `content/events`. The name of the file should be `YEAR-CITY.md`, all lowercase with hyphens in place of spaces. So if you're doing an event in 2020 in Pittsburgh, name it `2020-pittsburg.md`.
+1. Create a new directory under `content/events` with the name `YEAR-city`. So an event in Jakarta in the year 2025 would have the directory name `2025-jakarta`.
 
-2. Add a header to the file that looks like this:
+1. In that created directory, add a new [Markdown](https://www.markdownguide.org) filed named `_index.md`.
+
+1. Add a header to the file that looks like this:
 
     ```yaml
     ---
@@ -16,7 +18,7 @@ All event data is kept in the [`content/events`](./content/events) directory. To
     ---
     ```
 
-3. In addition to a title, add the following information:
+1. In addition to a title, add the following information:
 
     * A `location` for the event, which has two pieces of information: a `name` for the venue and a `url` for that venue.
     * A `tag` for the event (lowercase, letters/numbers/dashes only). The tag must be unique amongst all of the events in `events.yaml`.
@@ -40,11 +42,11 @@ All event data is kept in the [`content/events`](./content/events) directory. To
     ---
     ```
 
-4. Optionally, add any Markdown content you want below the YAML metadata header.
+1. Optionally, add any Markdown content you want below the YAML metadata header.
 
-5. Submit a pull request (PR) to this repository.
+1. Submit a pull request (PR) to this repository.
 
-6. Netlify creates a preview of your PR. Ensure that things look correct and then add `LGTM` as a comment to your PR.
+1. Netlify creates a preview of your PR. Ensure that things look correct and then add `LGTM` as a comment to your PR.
 
 ## Publishing the site
 
