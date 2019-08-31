@@ -7,7 +7,7 @@ location:
   url: 'https://en.wikipedia.org/wiki/Bouvet_Island'
   name: 'Bouvet Island, Antarctica'
 social:
-  facebook: 'https://twitter.com/Bouvet_3Y0Z'
+  twitter: 'https://twitter.com/Bouvet_3Y0Z'
 published: true
 ---
 
