@@ -52,3 +52,7 @@ All event data is kept in the [`content/events`](./content/events) directory. To
 ## Publishing the site
 
 The Kubernetes Community Days website is published automatically by [Netlify](https://netlify.com) upon pushes to the `master` branch.
+
+## License
+
+The contents of this website are published under the Apache 2.0 license. You are also welcome to repurpose any of the content under the CC-BY 4.0 license. Note that sponsor logos are hosted on the site for reliability, but are generally a trademark of the sponsoring organization.
