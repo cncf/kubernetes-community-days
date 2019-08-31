@@ -1,1 +1,9 @@
+# Node.js resources
+node_modules/
+
+# Hugo-generated assets
+public/
+resources/
+
+# Ignore Dropbox files
 .DS_Store
