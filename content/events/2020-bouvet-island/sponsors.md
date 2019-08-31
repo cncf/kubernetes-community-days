@@ -5,7 +5,7 @@ published: true
 Kubernetes Community Day Bouvet Island is only possible because of the support of sponsors including:
 
 ### Diamond
-![Oceanic Airways](/img/sponsors/sponsor-oceanic.svg)
+![Oceanic Airways](/img/sponsors/sponsor-oceanic.svg =100x50)
 
 ### Platinum
 ![BnL](/img/sponsors/sponsor-bnl.svg)
