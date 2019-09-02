@@ -12,8 +12,6 @@ social:
 published: true
 ---
 
-Here is some Markdown content for the event.
+Join us in September for the first [Kubernetes Community Day Amsterdam](https://cloudnative.amsterdam)! 
 
-Adding more content
-
-More content
+And if you can't make it, you can always come to one of our monthly [meetups](https://www.meetup.com/Dutch-Kubernetes-Meetup/).
