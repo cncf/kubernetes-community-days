@@ -8,8 +8,11 @@ font_awesome_version = "5.8.1"
 sans_serif_font = "Lato"
 logo = "kubernetes-community-days.png"
 allowed_event_pages = [
-    "sponsors",
-    "speakers"
+    "sponsor",
+    "speakers",
+    "location",
+    "program",
+    "code-of-conduct"
 ]
 
 [[params.fonts]]
