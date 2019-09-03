@@ -17,7 +17,7 @@
         {{ $imgUrl := printf "img/sponsors/%s" .logo | relURL }}
         <div class="sponsor-logo">
           {{ if .url }}
-          <a href="{{ .url }}" target="_blank">
+          <a href="{{ .url }}">
             <img src="{{ $imgUrl }}" alt="{{ .name }} logo">
           </a>
           {{ else }}
