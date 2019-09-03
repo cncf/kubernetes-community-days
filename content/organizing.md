@@ -50,6 +50,7 @@ CNCF provides [logos](https://github.com/cncf/artwork) and digital branding asse
 This Kubernetes Community Day organizer toolkit will help event organizers get started in planning for the event. 
 
 Policy and Guidelines:
+
 * A minimum of three sponsoring companies for the event is highly encouraged
 * One of the organizers should be a CNCF Member employee, Ambassador or CNCF
 * The purpose of the event must be to educate and inform, NOT to sell products or services
