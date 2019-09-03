@@ -10,8 +10,9 @@ logo = "kubernetes-community-days.png"
 allowed_event_pages = [
     "sponsor",
     "speakers",
-    "location",
+    "venue",
     "program",
+    "contact",
     "code-of-conduct"
 ]
 
