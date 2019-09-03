@@ -16,6 +16,7 @@ Sponsoring Kubernetes Community Days events gives your organization an opportuni
 
 # Avaiable Sponsorship
 Host: Cost of Venue (Limit 1)
+
 * Sponsor the venue
 * Logo on event materials and website
 * Opportunity to do a pre/post event meetup promotion 
@@ -25,12 +26,14 @@ Host: Cost of Venue (Limit 1)
 * Logo on site and conference materials 
 
 Gold: $5,000 (Limit 6 - 10)
+
 * 6 tickets (max 2 at table)
 * 10 minute “promo’ spot during talk intermissions 
 * Table presence at the venue 
 * Logo on site and conference materials 
 
 Silver: $3,000 (Limit 12)  
+
 * 4 tickets (max 1 at the table)
 * Half a table depending or a single shared swag table
 * Logo on site and conference materials
