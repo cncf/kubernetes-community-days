@@ -6,16 +6,16 @@
     {{ range . }}
     {{ $level := .level }}
     {{ $orgs  := .orgs }}
-    <div class="sponsor-logo-container">
+    <div class="logo-container">
       <p class="title is-size-3 is-size-4-mobile has-text-weight-light">
         {{ $level | upper }}
       </p>
 
       {{ with $orgs }}
-      <div class="sponsor-logo-block">
+      <div class="logo-container-block">
         {{ range . }}
         {{ $imgUrl := printf "img/sponsors/%s" .logo | relURL }}
-        <div class="sponsor-logo">
+        <div class="logo">
           {{ if .url }}
           <a href="{{ .url }}">
             <img src="{{ $imgUrl }}" alt="{{ .name }} logo">

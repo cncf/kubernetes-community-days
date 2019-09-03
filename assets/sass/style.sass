@@ -41,11 +41,11 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
 
 @import "accordion"
 
-.sponsor-logo-container
+.logo-container
   & + &
     margin-top: 3rem
 
-  .sponsor-logo-block
+  &-block
     display: flex
     margin: 3rem 0 2rem 0
 
@@ -56,18 +56,18 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
       flex-direction: column
       align-items: center
 
-    .sponsor-logo
+    .logo
       +tablet
         width: 10rem
         height: auto
 
-        & + .sponsor-logo
+        & + .logo
           margin-left: 2.5rem
       
       +mobile
         width: 40%
 
-        & + .sponsor-logo
+        & + .logo
           margin-top: 1rem
 
 .logos
