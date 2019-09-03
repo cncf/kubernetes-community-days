@@ -43,18 +43,32 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
 
 .sponsor-logo-container
   & + &
-    margin-top: 2rem
+    margin-top: 3rem
 
   .sponsor-logo-block
     display: flex
-    flex-direction: row
+    margin: 3rem 0 2rem 0
+
+    +tablet
+      flex-direction: row
+
+    +mobile
+      flex-direction: column
+      align-items: center
 
     .sponsor-logo
-      & + .sponsor-logo
-        margin-left: 2.5rem
+      +tablet
+        width: 10rem
+        height: auto
 
-      img
-        width: 6rem
+        & + .sponsor-logo
+          margin-left: 2.5rem
+      
+      +mobile
+        width: 40%
+
+        & + .sponsor-logo
+          margin-top: 1rem
 
 .logos
   margin-top: 3rem

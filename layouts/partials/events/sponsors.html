@@ -1,32 +1,25 @@
-{{ $tag      := .Params.tag }}
-{{ $levels   := (slice "diamond" "platinum" "gold" "silver") }}
 {{ $sponsors := .Params.sponsors }}
 
 {{ with $sponsors }}
 <section class="section">
   <div class="container">
-    <p class="title is-size-2 is-size-3-mobile has-text-weight-light is-spaced">
-      Sponsors
-    </p>
-
-    {{ range $levels }}
-    {{ $level := . }}
-    {{ with (index $sponsors $level) }}
+    {{ range . }}
+    {{ $level := .level }}
+    {{ $orgs  := .orgs }}
     <div class="sponsor-logo-container">
-      <p class="subtitle">
+      <p class="title is-size-3 is-size-4-mobile has-text-weight-light">
         {{ $level | upper }}
       </p>
-  
+
+      {{ with $orgs }}
       <div class="sponsor-logo-block">
         {{ range . }}
-        {{ $imgUrl := printf "img/sponsors/%s/%s" $tag .image | relURL }}
-        <a class="sponsor-logo" href="{{ .url }}" target="_blank">
-          <img src="{{ $imgUrl }}">
-        </a>
+        {{ $imgUrl := printf "img/sponsors/%s" .logo | relURL }}
+        <img class="sponsor-logo" src="{{ $imgUrl }}" alt="{{ .name }} logo">
         {{ end }}
       </div>
+      {{ end }}
     </div>
-    {{ end }}
     {{ end }}
   </div>
 </section>
