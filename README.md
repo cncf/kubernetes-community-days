@@ -23,7 +23,6 @@ All event data is kept in the [`content/events`](./content/events) directory. To
 1. In addition to a title, add the following information:
 
     * A `location` for the event, which has two pieces of information: a `name` for the venue and a `url` for that venue.
-    * A `tag` for the event (lowercase, letters/numbers/dashes only). The tag must be unique amongst all of the events in `events.yaml`.
     * A `date` for the event in `YYYY-MM-DD` form, e.g. `2020-01-02` for January 2, 2020.
   
     Here's an example event configuration:
@@ -35,7 +34,6 @@ All event data is kept in the [`content/events`](./content/events) directory. To
     location:
       name: Ridgefield Community Center, Ridgefield, Washington
       url: https://ridgefieldcommunitycenter.info
-    tag: ridgefield-2020
     date: 2020-03-30
     social:
       twitter: ridge_k8s

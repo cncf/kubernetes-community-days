@@ -1,6 +1,5 @@
 ---
 title: Kubernetes Community Day Bouvet Island
-tag: 2020-bouvet-island
 date: '2021-01-01'
 location:
   url: 'https://en.wikipedia.org/wiki/Bouvet_Island'
