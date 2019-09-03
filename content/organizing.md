@@ -209,6 +209,7 @@ Seeking out sponsorships
 
 # Kubernetes Community Days Planning Tools: 
 ** NOTE: We will need to host these docs or create pages for them. What is best practice?
+
 Kubernetes Community Days Sponsorship and Guidelines. Review and complete this document once organizers and three sponsors have been secured. 
 * Conference Planning Guide <insert link>. Use this document to plan out the event timeline. 
 * Conference Action Items and Checklist <insert link> . Use this template for check-in meetings to ensure everyone is on task for a successful event. 
