@@ -15,7 +15,15 @@
       <div class="sponsor-logo-block">
         {{ range . }}
         {{ $imgUrl := printf "img/sponsors/%s" .logo | relURL }}
-        <img class="sponsor-logo" src="{{ $imgUrl }}" alt="{{ .name }} logo">
+        <div class="sponsor-logo">
+          {{ if .url }}
+          <a href="{{ .url }}" target="_blank">
+            <img src="{{ $imgUrl }}" alt="{{ .name }} logo">
+          </a>
+          {{ else }}
+          <img src="{{ $imgUrl }}" alt="{{ .name }} logo">
+          {{ end }}
+        </div>
         {{ end }}
       </div>
       {{ end }}
