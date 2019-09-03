@@ -35,21 +35,27 @@ Once the organizing team has signed off on the event guidelines and completed th
 Yes. Hosts/organizers are required to be local community members and it’s an open event format.
 
 ## How can I attract speakers?
+
 Event organizers of Kubernetes Community Days, will have access to the [CNCF Speakers Bureau](https://www.cncf.io/speakers/) which helps connect event organizers with speakers with a variety of expertise within the cloud native ecosystem. 
 
 ## Who attends Kubernetes Community Days events?
+
 Depends. Some events are more focused on business issues and cloud strategy, while some are more focused on technical operators and developers. 
 
-## How big are the events typically? 
+## How big are the events typically?
+
 Similar events have 100-400 attendees. Most start small and grow each year. 
 
 ## How can CNCF help?
+
 CNCF provides [logos](https://github.com/cncf/artwork) and digital branding assets and encourages personalization of the event logo. CNCF connects the event organizers with other Kubernetes Community Days event organizers through slack channels, space on a central, editable website, and provides access to the [CNCF Speakers Bureau](https://www.cncf.io/speakers/). All organizers are encouraged to promote as desired in the slack. Join the Kubernetes Community Days Public Slack Channel to be connected to other Kubernetes Community Days organizers around the world. 
 
 ## Kubernetes Community Days Toolkit
+
 This Kubernetes Community Day organizer toolkit will help event organizers get started in planning for the event. 
 
 Policy and Guidelines:
+
 * A minimum of three sponsoring companies for the event is highly encouraged
 * One of the organizers should be a CNCF Member employee, Ambassador or CNCF
 * The purpose of the event must be to educate and inform, NOT to sell products or services
@@ -79,8 +85,10 @@ Policy and Guidelines:
  * Upstream Developer
  * Other, please specify
 
-# Kubernetes Community Days Content & Programing
-Basic Guidelines 
+# Kubernetes Community Days Content & Programming
+
+Basic Guidelines
+
 * Encourage bold, innovative, thought provoking subjects
 * Events usually have four 30-min talks per day + ignite talks
 * Avoid specific technology/product talks: always try to elevate it to the conceptual balance between technical and community content
@@ -92,7 +100,8 @@ Basic Guidelines
 * Encourage interaction
 * Pick an event name that reflects the location (i.e. Seattle Kubernetes Community Days)
 
-# Recruiting Speaker 
+# Recruiting Speakers
+
 * The [CNCF Speakers Bureau](https://www.cncf.io/speakers/) is a great place to start
 * Expect to recruit people for speaker proposals
  * Have a good stock of proposal ideas ready to offer to potential speakers to spark their creative process
@@ -110,6 +119,7 @@ Basic Guidelines
 * Announcing call for proposals
 
 Judging proposals
+
 * To minimize bias, create a reasonable proposal rating system
 * Set a point scale for each of the proposal points (e.g. originality, big idea, new speaker, high quality speaker) and award each proposal points on the scale then aggregate points for scores
 * Publish the proposal rating systems and be transparent about it
@@ -117,11 +127,13 @@ Judging proposals
 * Be prepared to explain any programming decisions
 
 # Content considerations
+
 * Encourage new content; give higher priority to content that has not been published elsewhere
 * Try for a good balance between local and out-of-town speakers
 * Favor new speakers: Kubernetes Community Days is a supportive environment to encourage new voices in our space
 
 # Set up a clear timeline on content reviews
+
 * Regularly check-in with speakers to ensure they are making progress
 * Schedule at least two live video run throughs of presentations before the event
 * Be sure the programming can review every presentation well in advance
@@ -131,8 +143,10 @@ Judging proposals
 * Day of event make sure to check in with all speakers and ensure they are OK
 * Post event, provide constructive feedback on the speaker’s presentation with concrete advice
 
-# Budget and Finances 
+# Budget and Finances
+
 Basic guidelines
+
 * Add up the budgets (venue, food, parties space, schwag) to generate a total event budget to determine the amount of money needed to cover costs
 * Plan on covering most of the expenses through sponsorships to keep ticket prices low
 * Ticket prices should be somewhere been $50 and $100, depending on location and event costs 
@@ -152,8 +166,10 @@ Finance management options
 * Generally finance sponsor collects 8-10% overhead Option 2 - designate someone on the team to run finances
 * Time consuming and tedious - we recommend that a finance sponsor be secured for the first year of the event 
 
-# Marketing & Promotion 
+# Marketing & Promotion
+
 Role of the Marketing Team
+
 * Drive interest in the event
 * Drive ticket sales
 * Promote event content and speakers
@@ -164,6 +180,7 @@ Role of the Marketing Team
 * Manage site content via GitHub and HugoPlaces to announce in the community
 
 Promotion
+
 * Who can help spread the word the event is scheduled?
  * Cloud providers
  * Local tech companies and consultants?
@@ -181,11 +198,14 @@ Online marketing:
 * LinkedIn
 
 # Sponsorship
+
 Role of sponsorship team / lead
+
 * Identify likely sponsors
 * Inquire whether those sponsors will contribute
 
 Guidelines and rules
+
 * Sponsorship does not equal speaking slot
 * Sponsors will need to pay upfront to make the event work
 * Sponsors cannot commercialize the event
@@ -195,6 +215,7 @@ Guidelines and rules
 * Sponsorship team works very closely with the finance team
 
 Setting up sponsorship offerings
+
 * Sponsorship tier structure
 * Sample prospectus template <link>
 * Standard is Platinum, Gold, Silver, etc
@@ -203,14 +224,17 @@ Setting up sponsorship offerings
 * Be very clear in communicating with sponsors what they are getting and what the are NOT getting
 
 Seeking out sponsorships
+
 * Ideally one of the organizers will work for a sponsor
 * Identify local companies that might want to sponsor
 * Often CNCF members really like to sponsor community events (it builds their community cred)
 
-# Kubernetes Community Days Planning Tools: 
-** NOTE: We will need to host these docs or create pages for them. What is best practice?
+# Kubernetes Community Days Planning Tools
 
-Kubernetes Community Days Sponsorship and Guidelines. Review and complete this document once organizers and three sponsors have been secured. 
+> **NOTE**: We will need to host these docs or create pages for them. What is best practice?
+
+Kubernetes Community Days Sponsorship and Guidelines. Review and complete this document once organizers and three sponsors have been secured.
+
 * Conference Planning Guide <insert link>. Use this document to plan out the event timeline. 
 * Conference Action Items and Checklist <insert link> . Use this template for check-in meetings to ensure everyone is on task for a successful event. 
 * Sponsorship Letter <insert link>. Use this letter to send out to prospective sponsors.
