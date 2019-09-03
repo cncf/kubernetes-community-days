@@ -1,7 +1,7 @@
 ---
 title: Kubernetes Community Day Portland
 date: '2021-01-01'
-end:'2021-01-03'
+end: '2021-01-03'
 location:
   url: 'https://en.wikipedia.org/wiki/Bouvet_Island'
   name: 'Bouvet Island, Antarctica'
