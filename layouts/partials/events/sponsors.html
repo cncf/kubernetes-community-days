@@ -1,8 +1,21 @@
-{{ $sponsors := .Params.sponsors }}
+{{ $isEventRoot := eq .File.BaseFileName "_index" }}
+{{ $sponsors    := .CurrentSection.Params.sponsors }}
 
 {{ with $sponsors }}
+{{ if $isEventRoot }}
+<hr />
+{{ end }}
+
 <section class="section">
   <div class="container">
+    {{ if $isEventRoot }}
+    <p class="title is-size-2 is-size-3-mobile">
+      Sponsors
+    </p>
+
+    <br /><br />
+    {{ end }}
+
     {{ range . }}
     {{ $level := .level }}
     {{ $orgs  := .orgs }}
