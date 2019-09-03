@@ -7,7 +7,7 @@ button: true
 
 Check to see if there is a Kubernetes Community Days event scheduled in your area on the events page. If there is an event scheduled, please reach out to the organizers to express your interest in helping. You can find a list of current events being planned on the website along with contact details for the organizers.
 
-If there isn’t an event being organized, the first step in building out a successful event, is assembling a team. You’ll need at minimum 3 other organizers from 3 different organizations.  Ideally, you’ll have a minimum of 5 organizers. One of the organizers must be a CNCF Member employee, Ambassador, or CNCF Project Maintainer. Find local community members who may be interested in helping to organize or volunteer at the event:
+If there isn’t an event being organized, the first step in building out a successful event, is assembling a team. You’ll need at minimum thre other organizers from three different organizations.  Ideally, you’ll have a minimum of 5 organizers. One of the organizers must be a CNCF Member employee, Ambassador, or CNCF Project Maintainer. Find local community members who may be interested in helping to organize or volunteer at the event:
 
 * Local user groups
 * Community Ambassadors
@@ -50,7 +50,6 @@ CNCF provides [logos](https://github.com/cncf/artwork) and digital branding asse
 This Kubernetes Community Day organizer toolkit will help event organizers get started in planning for the event. 
 
 Policy and Guidelines:
-
 * A minimum of three sponsoring companies for the event is highly encouraged
 * One of the organizers should be a CNCF Member employee, Ambassador or CNCF
 * The purpose of the event must be to educate and inform, NOT to sell products or services
@@ -153,7 +152,7 @@ Finance management options
 * Generally finance sponsor collects 8-10% overhead Option 2 - designate someone on the team to run finances
 * Time consuming and tedious - we recommend that a finance sponsor be secured for the first year of the event 
 
-# Marketing & Promotion
+# Marketing & Promotion 
 Role of the Marketing Team
 * Drive interest in the event
 * Drive ticket sales
@@ -175,7 +174,7 @@ Promotion
  * Code academies
  * Sponsor companies
 
-Online marketing:
+Online marketing: 
 * Sponsors Corporate Newsletters
 * Twitter
 * User groups 
