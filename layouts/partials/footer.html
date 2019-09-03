@@ -1,10 +1,11 @@
 {{ $year     := now.Year }}
 {{ $showEdit := not .IsHome }}
-{{ $editUrl  := printf "https://github.com/cncf/kubernetes-community-days/edit/master/content/%s" .File.Path }}
 <footer class="footer">
   <div class="container">
     <div class="columns is-vcentered is-variable is-8">
       {{ if $showEdit }}
+      {{ with .File.Path }}
+      {{ $editUrl  := printf "https://github.com/cncf/kubernetes-community-days/edit/master/content/%s" . }}
       <div class="column is-2">
         <a class="button is-black is-radiusless" href="{{ $editUrl }}" target="_blank">
           <span class="icon">
@@ -15,6 +16,7 @@
           </span>
         </a>
       </div>
+      {{ end }}
       {{ end }}
 
       <div class="column">
