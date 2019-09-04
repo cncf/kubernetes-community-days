@@ -52,6 +52,7 @@ Communications:
 * We highly encourage you to allocate money for a diversity scholarship. To encourage and increase the participation of a diverse community, we suggest you offer diversity and need-based registration scholarships, discounts, and travel funding to our conferences. You can get more information on CNCF runs their Diversity Scholarships [here](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/attend/diversity-scholarships/).
 
 What does the diversity scholarship cover?
+
 * The diversity scholarship can include the cost of the ticket, travel, lodging, childcare, etc. 
 
 ## 6-7 MONTHS IN ADVANCE:            
@@ -84,7 +85,8 @@ Kubernetes Community Days logo and digital branding kit:
 * Leverage the Kubernetes Logo to create a customized logo. 
 * Once you have confirmed the date and location then create a pull request in github.
 
-Kubernetes Community Days Website.
+Kubernetes Community Days Website:
+
 * Begin to work on creating a web page for the event in Hugo 
 * The web page must include the:
  * Kubernetes Community Days Logo
@@ -108,31 +110,37 @@ Kubernetes Community Days Website.
   * Other, please specify
 * The registration page will include an opt-out option to subscribe to the CNCF newsletter.
 
-Event details
+Event details:
+
 * Venue location and direction
 * Once the website  is live, slack the Kubernetes Organizers Group to have an event added to the Cloud Native Computing Foundation website.
 
-Attendee Registration Fee
+Attendee Registration Fee:
+
 * Decide on the number of desired attendees and attendee fee. 
 * $100 or less registration fee is recommended.
 * Consider offering promotions, such as early bird pricing, special pricing for students, diversity promotion, etc.
 
-Sponsorship Prospectus and Agreement 
+Sponsorship Prospectus and Agreement:
+
 * Create the sponsorship prospectus that includes different sponsorship levels, costs, and benefits. Customize this template for the event. 
 
-Recruit and Confirm Speakers 
+Recruit and Confirm Speakers:
+
 * Create a list of targeted keynote speakers.
 * Leverage the Kubernetes Ambassador, Kubernetes Speakers Bureau. local community, and meetup groups.
 * Consider including 1-2 End Users as well.
 
-Swag
+Swag:
 * For ideas please review the Kubernetes Community Days tool kit on the Kubernetes Community Days website and CNCF Store.
 * Stickers, pins, pens, and t-shirts are very popular and give bragging rights to attendees who attended multiple years in a row.
 * Event Signage
 
-Determine any signage that will be needed for the event, for example: sponsor logo signage, welcome signage in the registration area, track signage, etc. 
+Determine any signage that will be needed for the event:
+* Sponsor logo signage, welcome signage in the registration area, track signage, etc. 
 
-Confirm Catering and costs with venue
+Confirm Catering and costs with venue:
+
 * This is generally the most expensive part of running an event
 * Venues often offer a complimentary charge for a venue when food and beverage minimums are met.
 * WIFI terms and conditions
@@ -144,8 +152,8 @@ Confirm Catering and costs with venue
 * Sent invoices to Sponsors
 
 ## 4-6 MONTHS IN ADVANCE: 
+Call for Presentations:
 
-Call for Presentations
 * Prepare and distribute the Call for Presentations.
 * Select the speakers
 * Consider recruiting Customer/End User speakers for the event.
@@ -154,24 +162,28 @@ Call for Presentations
 * Create a fair and open review and selection process.
 * Consider creating a theme for the event.
 
-Website
+Website:
+
 * Begin to collect speaker bios, headshots, session abstracts. Continue to update the website with new sponsors, keynote speakers and distinguished speakers.
 * Agenda 
  * Begin to finalize and publish the agenda.
  * Consider creating 1-2 main themes for the event.
 
-Walkthrough venue
+Walkthrough venue:
+
 * Determine needs for A/V, signage, projection, wireless network connection, etc.
 * Create templates for name badges.
 
-Create event registration page 
+Create event registration page:
+
 * We suggest Eventbrite to create the registration page.
   * Note: Eventbrite will not release the funds collected for the event until 5 days after the event. 
 * Be sure to plan for this in the event budget.
 * Be sure to add in the demographic questions to the registration page listed above.
 * Be sure to include the privacy policy on the registration page.
 
-Event Promotion
+Event Promotion:
+
 * Identify the ways to promote the event, social, meetups, etc
 * Consider issuing a Press Release to promote the keynote speakers. Please note there is a Press Kit on the Kubernetes Community Days Tool kit. And the Foundation needs to review and approve any press release before it is distributed over the wire.
 * Contact local colleges and/or universities, offer special early bird discounts, promote via local Kubernetes Meetup groups
@@ -179,10 +191,11 @@ Event Promotion
 
 Brief sponsors regarding their booth details, benefits, promotion, what to provide in terms of materials and signage.
 
-Social Media
+Social Media:
+
 * Create a dedicated Twitter hashtag for the event.
 
-## 2-4 MONTHS IN ADVANCE:    
+## 2-4 MONTHS IN ADVANCE: 
 * Track registrations on Eventbrite, Meetup, and/or other registration page.
 * Determine who will be at the registration desk to check people in. 
 * Have 2 -3  dedicated people available to check attendees in to ensure a quick registration process.
@@ -194,14 +207,14 @@ Social Media
 * Follow-up with Sponsors who haven’t paid their invoice yet.
 * Decide if you would like to hand out surveys to attendees to get feedback, if yes, create a simple survey to get speaker effectiveness, overall event rating, comments what to include/do better next time, etc. 
 
-## 1-2 MONTHS IN ADVANCE:       
+## 1-2 MONTHS IN ADVANCE: 
 * Finalize signage and printing requirements.
 * Track registrations to ensure event is on target.
 * Finalize any last minute sponsor requests.
 * Review the budget.
 * Work with sponsors regarding their speaking session–to ensure this is not a product/sales pitch.
 
-## 2-4 WEEKS BEFORE THE EVENT:     
+## 2-4 WEEKS BEFORE THE EVENT:
 * Download the Kubernetes Community Days Slide Deck in the Kubernetes Community Days Repo <link> for the welcome/registration and break time slots.
 * Confirm guest count with catering.
 * Suggestion: Print guest-list in alphabetical order by first name.
@@ -210,7 +223,8 @@ Social Media
 * Make sure all materials (agendas, event signage, collateral) are printed and ready.
 * Draft thank you emails for sponsors, attendees and speakers.
 
-## ON THE DAY OF OR NIGHT BEFORE THE EVENT:            
+## ON THE DAY OF OR NIGHT BEFORE THE EVENT: 
+         
 * Set up clear directional signage throughout venue.
 * Check: A/V setup, lighting, wireless network, etc.
 * Put up the floor plan for booths.
@@ -220,7 +234,8 @@ Social Media
 * Brief the photographer and video person, if applicable.
 * Plan to post live tweets during event –include event hashtag and photos.
 
-## POST EVENT:         
+## POST EVENT:   
+      
 * Retrieve photos from Photographer.
 * Post photos on Flickr & event website. Share with the post videos on the Cloud Native Computing Foundation YouTube channel: https://www.youtube.com/c/cloudnativefdn
 * Send the complete registration list with demographic questions
