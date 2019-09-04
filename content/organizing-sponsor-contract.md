@@ -1,11 +1,11 @@
 ---
 title: Sample Sponsor Contract
 ---
-**insert event name** 
+**Insert event name** 
 
-**insert date of event** 
+**Insert date of event** 
 
-**insert location of event**
+**Insert location of event**
 
 # Sponsorship Application Form
 
@@ -41,6 +41,7 @@ title: Sample Sponsor Contract
 ## Community Sponsor: (Limit 12) 
 
 This is for media outlets and other conferences that are interested in cross-promotion.
+
 * Logo on the website 
 * Acknowledgement on social media.
 * Provide giveaways
@@ -69,7 +70,7 @@ ____    Morning Snack Sponsorship $3,000 (Limit 2)
 
 ____    Afternoon Snack Sponsorship $3,000 (limit 2)
 
-Total Sponsorship Amount:       $__________________
+Total Sponsorship Amount:       $_____________________________
 
 Invoicing Details:
 Company Name:__________________________________________________
