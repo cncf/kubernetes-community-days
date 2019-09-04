@@ -217,7 +217,7 @@ Seeking out sponsorships
 
 Kubernetes Community Days Sponsorship and Guidelines. Review and complete this document once organizers and three sponsors have been secured. 
 
-* [Conference Planning Guide](organizing-timeline). Use this document to plan out the event timeline. 
+* [Conference Planning Guide](/organizing-timeline). Use this document to plan out the event timeline. 
 * Conference Action Items and Checklist <insert link>. Use this template for check-in meetings to ensure everyone is on task for a successful event. 
 * Sponsorship Letter <insert link>. Use this letter to send out to prospective sponsors.
 * Sample Sponsorship Prospectus <insert link>. Use this template to send to prospective sponsors and post on the event website. 
