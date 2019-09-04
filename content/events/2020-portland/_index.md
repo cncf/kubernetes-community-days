@@ -3,8 +3,8 @@ title: Kubernetes Community Day Portland
 date: '2021-01-01'
 end: '2021-01-03'
 location:
-  url: 'https://en.wikipedia.org/wiki/Bouvet_Island'
-  name: 'Bouvet Island, Antarctica'
+  url: 'https://en.wikipedia.org/wiki/Portland,_Oregon'
+  name: 'Portland, Oregon'
 social:
   twitter: 'https://twitter.com/Bouvet_3Y0Z'
 sponsors:
@@ -31,4 +31,4 @@ sponsors:
     url: https://en.wikipedia.org/wiki/Stay_Puft_Marshmallow_Man
 ---
 
-Kubernetes Community Day Bouvet Island is going to be the largest ever cloud native event in the Antarctic region, perhaps rivaling [KubeCon San Diego](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) in size.
+Kubernetes Community Day Portland is going to be big.
