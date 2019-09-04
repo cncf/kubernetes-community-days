@@ -29,6 +29,9 @@ sponsors:
   - name: Staypuft
     logo: staypuft.svg
     url: https://en.wikipedia.org/wiki/Stay_Puft_Marshmallow_Man
+organizers_email: organizers-bouvet-island-2020@kubernetescommunitydays.org
+local_law_enforcement: 112
+medical_emergency: 112
 ---
 
 Kubernetes Community Day Bouvet Island is going to be the largest ever cloud native event in the Antarctic region, perhaps rivaling [KubeCon San Diego](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) in size.

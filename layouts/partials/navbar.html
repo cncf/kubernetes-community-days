@@ -25,13 +25,6 @@
   
     <div id="navbar-menu" class="navbar-menu">
       <div class="navbar-end">
-        {{ range $menu }}
-        {{ $isActive := hasPrefix $url .URL }}
-        <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .URL }}">
-          {{ .Name }}
-        </a>
-        {{ end }}
-
         {{ if $isEvent }}
         {{ with .CurrentSection }}
         {{ range .Pages }}
@@ -44,6 +37,13 @@
         {{ end }}
         {{ end }}
         {{ end }}
+        {{ end }}
+
+        {{ range $menu }}
+        {{ $isActive := hasPrefix $url .URL }}
+        <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .URL }}">
+          {{ .Name }}
+        </a>
         {{ end }}
       </div>
     </div>

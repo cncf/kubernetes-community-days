@@ -1,6 +1,17 @@
 {{ define "main" }}
+{{ $filename       := .File.BaseFileName }}
+{{ $isSponsorsPage := eq $filename "sponsors" }}
+{{ $isCocPage      := eq $filename "code-of-conduct" }}
+
 {{ partial "navbar.html" . }}
 {{ partial "events/hero.html" . }}
 {{ partial "events/content.html" . }}
+
+{{ if $isSponsorsPage }}
 {{ partial "events/sponsors.html" . }}
+{{ end }}
+
+{{ if $isCocPage }}
+{{ partial "events/code-of-conduct.html" . }}
+{{ end }}
 {{ end }}
