@@ -228,7 +228,7 @@ Seeking out sponsorships
 * Kubernetes Community Days Sponsorship and Guidelines. Review and complete this document once organizers and three sponsors have been secured. 
 * [Conference Planning Guide](/organizing-timeline). Use this document to plan out the event timeline. 
 * [Conference Action Items and Checklist](https://drive.google.com/open?id=1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI) . Make a copy of this Google Doc to use as a template for check-in meetings to ensure everyone is on task for a successful event. 
-* Sponsorship Letter <insert link>. Use this letter to send out to prospective sponsors.
+* [Sponsorship Letter](/organizing-sponsorletter). Use this letter to send out to prospective sponsors.
 * Sample Sponsorship Prospectus <insert link>. Use this template to send to prospective sponsors and post on the event website. 
 * Sample Invoice <insert link>. Use this template to invoice sponsors. 
 * [Sample Call for Proposals](/organizing-cfp). Use this template to send out to potential speakers
