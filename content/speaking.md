@@ -9,8 +9,9 @@ The call for participation (**CFP**) for a Kubernetes Community Days event helps
 
 The CNCF Speaker’s Bureau helps connect event organizers with speakers who have varied expertise in the cloud native ecosystem. Speakers consist of CNCF ambassadors, meetup organizers, and prominent community members who are willing to speak at events on the topics they are proficient in. Learn more about this program and [sign up](https://www.cncf.io/speakers/).
 
-These are the cities which currently have an open call for participation.
+Organizers, check out the speakers and contact them directly to come speak at your event.
 
+Below are the cities which currently have an open call for participation.
 
 <!--
 ### Cities that currently have an open call for participation
