@@ -50,6 +50,7 @@ CNCF provides [logos](https://github.com/cncf/artwork) and digital branding asse
 This Kubernetes Community Day organizer toolkit will help event organizers get started in planning for the event. 
 
 Policy and Guidelines:
+
 * A minimum of three sponsoring companies for the event is highly encouraged
 * One of the organizers should be a CNCF Member employee, Ambassador or CNCF
 * The purpose of the event must be to educate and inform, NOT to sell products or services
@@ -133,6 +134,7 @@ Judging proposals
 
 # Budget and Finances 
 Basic guidelines
+
 * Add up the budgets (venue, food, parties space, schwag) to generate a total event budget to determine the amount of money needed to cover costs
 * Plan on covering most of the expenses through sponsorships to keep ticket prices low
 * Ticket prices should be somewhere been $50 and $100, depending on location and event costs 
@@ -140,6 +142,7 @@ Basic guidelines
 * Allow 10% overage, as there may be unexpected costs
 
 Role of finance team / lead
+
 * Setup online payments to allow sponsors to pay directly (and avoid procurement and paper checks)
 * Set and monitor bank accounts, online payments (PayPal, etc) and registration (Eventbrite)
 * Invoice sponsors and accepting payments 
@@ -147,12 +150,14 @@ Role of finance team / lead
 * Move money between accounts as needed to pay suppliers like the venue, catering, swag , etc.
 
 Finance management options
+
 * Option 1 - secure a finance sponsor
 * This may be one of the companies of a volunteer or core organizing team
 * Generally finance sponsor collects 8-10% overhead Option 2 - designate someone on the team to run finances
 * Time consuming and tedious - we recommend that a finance sponsor be secured for the first year of the event 
 
 # Marketing & Promotion
+
 Role of the Marketing Team
 * Drive interest in the event
 * Drive ticket sales
@@ -211,6 +216,7 @@ Seeking out sponsorships
 ** NOTE: We will need to host these docs or create pages for them. What is best practice?
 
 Kubernetes Community Days Sponsorship and Guidelines. Review and complete this document once organizers and three sponsors have been secured. 
+
 * Conference Planning Guide <insert link>. Use this document to plan out the event timeline. 
 * Conference Action Items and Checklist <insert link> . Use this template for check-in meetings to ensure everyone is on task for a successful event. 
 * Sponsorship Letter <insert link>. Use this letter to send out to prospective sponsors.

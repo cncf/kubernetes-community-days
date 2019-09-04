@@ -1,10 +1,6 @@
 {{ define "main" }}
-{{ $isRoot := eq .CurrentSection .FirstSection }}
 {{ partial "navbar.html" . }}
 {{ partial "events/hero.html" . }}
-
-{{ if $isRoot }}
-{{ partial "events/event-listing.html" . }}
-{{ end }}
 {{ partial "events/content.html" . }}
+{{ partial "events/sponsors.html" . }}
 {{ end }}

@@ -1,29 +1,31 @@
-{{ $utc    := "2006-01-02 00:00:00 +0000 UTC" }}
-{{ $events := where site.Pages "Section" "events" }}
+{{ $utc           := "2006-01-02 00:00:00 +0000 UTC" }}
+{{ $allEventPages := where site.Pages "Section" "events" }}
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\" ?>" | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xcal="urn:ietf:params:xml:ns:xcal">
   <channel>
-    <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ site.Title }}{{ end }}</title>
+    <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
-    <description>Recent content {{ if ne .Title site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ site.Title }}</description>
+    <description>Recent content {{ if ne .Title site.Title }}{{ with .Title }}in {{ . }} {{ end }}{{ end }}on {{ site.Title }}</description>
     <generator>Hugo -- gohugo.io</generator>
     {{ with site.LanguageCode }}
-    <language>{{.}}</language>
+    <language>{{ . }}</language>
     {{ end }}
     {{ with site.Author.email }}
-    <managingEditor>{{.}}{{ with site.Author.name }} ({{.}}){{end}}</managingEditor>
+    <managingEditor>{{ . }}{{ with site.Author.name }} ({{ . }}){{end}}</managingEditor>
     {{ end }}
     {{ with site.Author.email }}
-    <webMaster>{{.}}{{ with site.Author.name }} ({{.}}){{end}}</webMaster>
+    <webMaster>{{ . }}{{ with site.Author.name }} ({{ . }}){{end}}</webMaster>
     {{end}}
     {{ with site.Copyright }}
-    <copyright>{{.}}</copyright>{{ end }}{{ if not .Date.IsZero }}
+    <copyright>{{ . }}</copyright>{{ end }}{{ if not .Date.IsZero }}
     <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
     {{ end }}
     {{ with .OutputFormats.Get "RSS" }}
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{ end }}
-    {{ range $events }}
+    {{ range $allEventPages.ByDate }}
+    {{ $future := .Date.After now }}
+    {{ if and (eq .File.BaseFileName "_index") (ne .CurrentSection .FirstSection) ($future) }}
     {{ $start := .Date }}
     {{ $end   := .Params.end }}
     <item>
@@ -33,12 +35,13 @@
       {{ with $end }}
       <xcal:dtend>{{ dateFormat $utc . | safeHTML }}</xcal:dtend>
       {{ end }}
-      {{ with site.Author.email }}<author>{{.}}{{ with site.Author.name }} ({{.}}){{end}}</author>{{end}}
+      {{ with site.Author.email }}<author>{{ . }}{{ with site.Author.name }} ({{ . }}){{ end }}</author>{{ end }}
       <guid>{{ .Permalink }}</guid>
       {{ with .Summary }}
       <description>{{ . | html }}</description>
       {{ end }}
     </item>
+    {{ end }}
     {{ end }}
   </channel>
 </rss>

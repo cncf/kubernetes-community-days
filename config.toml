@@ -4,9 +4,17 @@ baseURL = "https://kubernetescommunitydays.org/"
 
 [params]
 description = "A series of conferences devoted to the cloud native and [Kubernetes](https://kubernetes.io) ecosystem"
-fontawesomeversion = "5.8.1"
-sansseriffont = "Lato"
+font_awesome_version = "5.8.1"
+sans_serif_font = "Lato"
 logo = "kubernetes-community-days.png"
+allowed_event_pages = [
+    "sponsor",
+    "speakers",
+    "venue",
+    "program",
+    "contact",
+    "code-of-conduct"
+]
 
 [[params.fonts]]
 name = "Lato"
@@ -16,21 +24,6 @@ sizes = [300,400,600,700]
 twitter = "https://twitter.com/cloudnativefdn"
 
 [[menu.navbar]]
-name = "Events"
-url = "/events"
-weight = 1
-
-[[menu.navbar]]
-name = "About"
-url = "/about"
-weight = 2
-
-[[menu.navbar]]
 name = "Organizing"
 url = "/organizing"
-weight = 3
-
-[[menu.navbar]]
-name = "Speaking"
-url = "/speaking"
-weight = 4
+weight = 1
