@@ -1,6 +1,8 @@
 {{ $url    := .RelPermalink }}
 {{ $title  := .Title }}
-{{ $date   := .Date | dateFormat "January 2, 2006" }}
+{{ $month  := .Date | dateFormat "January" }}
+{{ $year   := .Date | dateFormat "2006" }}
+{{ $day    := .Date | dateFormat "2" }}
 {{ $where  := .Params.location }}
 {{ $social := .Params.social }}
 <div class="column is-half">
@@ -14,7 +16,7 @@
         </h2>
 
         <h4 class="has-text-weight-bold">
-          {{ $date }}
+          {{ $month }} {{ $day }}{{ with .Params.end }}&ndash;{{ dateFormat "2" (time .) }}{{ end }}, {{ $year }}
         </h4>
 
         <a class="is-size-5 is-size-6-mobile has-text-grey" href="{{ $where.url }}" target="_blank">

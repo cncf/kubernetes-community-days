@@ -31,13 +31,14 @@
     
           <ul class="events">
             {{ range .Pages }}
-            {{ if .Params.location.city }}
+            {{ $start := dateFormat "Jan 2" .Date }}
             <li>
+              {{ $start }}{{ with .Params.end }}&ndash;{{ dateFormat "2" (time .) }}{{ end }}
+              &nbsp;
               <a href="{{ .RelPermalink }}">
                 {{ .Params.location.city }}
               </a>
             </li>
-            {{ end }}
             {{ end }}
           </ul>
         </div>
@@ -69,13 +70,15 @@
 
           <ul class="events">
             {{ range .Pages }}
-            {{ if .Params.location.city }}
+            {{ $start := dateFormat "Jan 2" .Date }}
+            {{ $end   := dateFormat "2" (time .Params.end) }}
             <li>
+              {{ $start }}
+              &nbsp;
               <a href="{{ .RelPermalink }}">
                 {{ .Params.location.city }}
               </a>
             </li>
-            {{ end }}
             {{ end }}
           </ul>
         </div>
