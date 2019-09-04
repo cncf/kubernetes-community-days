@@ -1,6 +1,5 @@
 ---
-title: Organize a Kubernetes Community Days 
-button: true
+title: Organize a Kubernetes Community Days
 ---
 
 ## Interested in Organizing a Kubernetes Community Day(s)?

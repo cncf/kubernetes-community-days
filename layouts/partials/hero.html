@@ -1,21 +1,9 @@
-{{ $hasButton := .Params.button }}
 <section class="hero">
   <div class="hero-body">
     <div class="container">
       <p class="title is-size-1 is-size-2-mobile has-text-weight-light is-spaced">
         {{ .Title }}
       </p>
-
-      {{ if $hasButton }}
-      <a class="button is-primary is-medium is-radiusless margin-top" href="https://funding.communitybridge.org/projects/create/entity?entityType=event" target="_blank">
-        <span class="icon">
-          <i class="fas fa-check"></i>
-        </span>
-        <span>
-          Apply to host a Kubernetes Community Day event
-        </span>
-      </a>
-      {{ end }}
     </div>
   </div>
 </section>
