@@ -4,8 +4,8 @@
 {{ $fontSlice = $fontSlice | append (printf "%s:%s" (replace .name " " "+") (delimit .sizes ",")) }}
 {{ end }}
 {{ $fontsUrl := printf "https://fonts.googleapis.com/css?family=%s" (delimit $fontSlice "|") }}
-{{ $sansSerifFont := site.Params.sansseriffont | string }}
-{{ $fontAwesomeVersion := site.Params.fontawesomeversion | string }}
+{{ $sansSerifFont := site.Params.sans_serif_font | string }}
+{{ $fontAwesomeVersion := site.Params.font_awesome_version | string }}
 {{ $fontAwesomeUrl     := printf "https://use.fontawesome.com/releases/v%s/css/all.css" $fontAwesomeVersion }}
 
 @charset "utf-8"
@@ -41,27 +41,41 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
 
 @import "accordion"
 
-.sponsor-logo-container
+.logo-container
   & + &
-    margin-top: 2rem
+    margin-top: 3rem
 
-  .sponsor-logo-block
+  &-block
     display: flex
-    flex-direction: row
+    margin: 3rem 0 2rem 0
 
-    .sponsor-logo
-      & + .sponsor-logo
-        margin-left: 2.5rem
+    +tablet
+      flex-direction: row
 
-      img
-        width: 6rem
+    +mobile
+      flex-direction: column
+      align-items: center
+
+    .logo
+      +tablet
+        width: 10rem
+        height: auto
+
+        & + .logo
+          margin-left: 2.5rem
+      
+      +mobile
+        width: 40%
+
+        & + .logo
+          margin-top: 1rem
 
 .logos
   margin-top: 3rem
 
   .logo
     +tablet
-      width: 60%
+      width: 50%
     +touch
       width: 70%
 

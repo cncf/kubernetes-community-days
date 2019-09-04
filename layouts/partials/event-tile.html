@@ -1,6 +1,4 @@
-{{ $tag    := .Params.tag }}
-{{ $img    := printf "img/places/%s" $tag | relURL }}
-{{ $url    := printf "events/%s" $tag | relURL }}
+{{ $url    := .RelPermalink }}
 {{ $title  := .Title }}
 {{ $date   := .Date | dateFormat "January 2, 2006" }}
 {{ $where  := .Params.location }}

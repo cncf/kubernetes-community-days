@@ -4,8 +4,10 @@
 {{ $centered := .centered }}
 {{ $showText := .text | default true }}
 {{ $margin   := .margin }}
+{{ $size     := .size }}
 <div class="buttons {{ if $centered }} is-centered{{ end }}{{ if $margin }} margin-top{{ end }}">
-  <a class="button is-radiusless is-twitter-blue{{ with .size }} is-{{ . }}{{ end }}" href="{{ $twitter }}" target="_blank">
+  {{ with $twitter }}
+  <a class="button is-radiusless is-twitter-blue{{ with $size }} is-{{ . }}{{ end }}" href="{{ . }}" target="_blank">
     <span class="icon">
       <i class="fab fa-twitter"></i>
     </span>
@@ -15,8 +17,10 @@
     </span>
     {{ end }}
   </a>
+  {{ end }}
 
-  <a class="button is-radiusless is-facebook-blue{{ with .size }} is-{{ . }}{{ end }}" href="{{ $facebook }}" target="_blank">
+  {{ with $facebook }}
+  <a class="button is-radiusless is-facebook-blue{{ with $size }} is-{{ . }}{{ end }}" href="{{ . }}" target="_blank">
     <span class="icon">
       <i class="fab fa-facebook"></i>
     </span>
@@ -26,4 +30,5 @@
     </span>
     {{ end }}
   </a>
+  {{ end }}
 </div>

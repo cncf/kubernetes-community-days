@@ -1,0 +1,55 @@
+{{ $coc            := readFile "includes/code-of-conduct.md" | markdownify }}
+{{ $params         := .CurrentSection.Params }}
+{{ $law            := $params.local_law_enforcement }}
+{{ $medical        := $params.medical_emergency }}
+{{ $hasContactInfo := or $law $medical }}
+<section class="section">
+  <div class="container">
+    <div class="content">
+      {{ $coc }}
+    </div>
+
+    {{ if $hasContactInfo }}
+    <hr />
+
+    <p class="title is-size-3 is-size-4-mobile">
+      Contact info
+    </p>
+
+    <br />
+
+    <table class="table is-bordered">
+      <tbody>
+        <tr>
+          {{ with $law }}
+          <td>
+            <p class="is-size-5 has-text-weight-bold">
+              Law enforcement
+            </p>
+          </td>
+          {{ end }}
+          {{ with $medical }}
+          <td>
+            <p class="is-size-5 has-text-weight-bold">
+              Medical emergency
+            </p>
+          </td>
+          {{ end }}
+        </tr>
+        <tr>
+          {{ with $law }}
+          <td>
+            {{ . }}
+          </td>
+          {{ end }}
+          {{ with $medical }}
+          <td>
+            {{ . }}
+          </td>
+          {{ end }}
+        </tr>
+      </tbody>
+    </table>
+    {{ end }}
+  </div>
+</section>

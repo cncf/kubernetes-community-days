@@ -1,10 +1,12 @@
 {{ $isHome  := .IsHome }}
+{{ $isEvent := and (eq .Section "events") (ne .CurrentSection .FirstSection) }}
 {{ $home    := site.BaseURL }}
 {{ $logo    := printf "img/logos/%s" site.Params.logo | relURL }}
 {{ $menu    := site.Menus.navbar }}
 {{ $here    := .RelPermalink }}
 {{ $section := .CurrentSection }}
 {{ $url     := .RelPermalink }}
+{{ $allowed := site.Params.allowed_event_pages }}
 <nav class="navbar is-fixed-top{{ if not $isHome }} is-light{{ end }}">
   <div class="container">
     <div class="navbar-brand">
@@ -23,6 +25,20 @@
   
     <div id="navbar-menu" class="navbar-menu">
       <div class="navbar-end">
+        {{ if $isEvent }}
+        {{ with .CurrentSection }}
+        {{ range .Pages }}
+        {{ $isAllowed := in $allowed .File.BaseFileName }}
+        {{ if $isAllowed }}
+        {{ $isActive := eq $url .RelPermalink }}
+        <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .RelPermalink }}">
+          {{ .Title }}
+        </a>
+        {{ end }}
+        {{ end }}
+        {{ end }}
+        {{ end }}
+
         {{ range $menu }}
         {{ $isActive := hasPrefix $url .URL }}
         <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .URL }}">

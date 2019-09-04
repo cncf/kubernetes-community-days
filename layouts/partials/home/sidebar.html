@@ -16,7 +16,8 @@
         UPCOMING EVENTS
       </p>
 
-      {{ range $upcoming.GroupByDate "2006" }}
+      {{ with $upcoming }}
+      {{ range .GroupByDate "2006" }}
       <p class="year">
         {{ .Key }}
       </p>
@@ -37,6 +38,7 @@
           {{ end }}
         </ul>
       </div>
+      {{ end }}
       {{ end }}
       {{ end }}
     </div>
@@ -48,7 +50,8 @@
         PAST EVENTS
       </p>
 
-      {{ range $past.GroupByDate "2006" }}
+      {{ with $past }}
+      {{ range .GroupByDate "2006" }}
       <p class="year">
         {{ .Key }}
       </p>
@@ -69,6 +72,7 @@
           {{ end }}
         </ul>
       </div>
+      {{ end }}
       {{ end }}
       {{ end }}
     </div>
