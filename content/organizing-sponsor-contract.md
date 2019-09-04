@@ -2,7 +2,9 @@
 title: Sample Sponsor Contract
 ---
 **insert event name** 
+
 **insert date of event** 
+
 **insert location of event**
 
 # Sponsorship Application Form
