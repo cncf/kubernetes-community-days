@@ -238,7 +238,7 @@ Seeking out sponsorships
 * [Conference Planning Guide](/organizing-timeline). Use this document to plan out the event timeline. 
 * [Conference Action Items and Checklist](https://drive.google.com/open?id=1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI). Make a copy of this Google Doc to use as a template for check-in meetings to ensure everyone is on task for a successful event. 
 * [Sponsorship Letter](/organizing-sponsorletter). Use this letter to send out to prospective sponsors.
-* [Sample Sponsorship Prospectus](organizing-sponsor-contract). Use this template to send to prospective sponsors and post on the event website. 
+* [Sample Sponsorship Prospectus](/organizing-sponsor-contract). Use this template to send to prospective sponsors and post on the event website. 
 * [Sample Invoice](https://docs.google.com/document/d/1Rbc8hvBgbO55asEQzzAHkpvSU2ogl52NmWq1-NhBYdY/edit). Make a copy of this Google Doc to use as a template to use to invoice sponsors. 
 * [Sample Call for Proposals](/organizing-cfp). Use this template to send out to potential speakers
 * [CNCF Speakers Bureau](https://www.cncf.io/speakers/).  The CNCF Community Speaker’s Bureau helps connect event organizers with speakers with a variety of expertise within the cloud native ecosystem. 
