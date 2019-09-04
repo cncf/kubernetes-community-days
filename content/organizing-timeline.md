@@ -7,8 +7,9 @@ This is a suggested planning timeline for running a successful event. Use the Ku
 
 ## 8-9 MONTHS IN ADVANCE          
 Begin to Plan for the event:
+
 * Notify the Cloud Native Computing Foundation of the intention to host an Kubernetes Community Days event by making a pull request on GitHub 
-*Identify the goals and objectives for hosting this event that would include the size of the event (# of attendees, # of sponsors, # of tracks and speaking sessions, etc.).
+* Identify the goals and objectives for hosting this event that would include the size of the event (# of attendees, # of sponsors, # of tracks and speaking sessions, etc.).
 * Name of the event: Kubernetes Community Days XX=Location (e.g. Kubernetes Community Days Sydney or Kubernetes Community Days Australia). 
  * This name will be used on the website and in all outbound communications.
  * Decide if you want the logo to be city our country specific: Kubernetes Community Days Canada or Kubernetes Community Days Montreal.
@@ -22,7 +23,8 @@ Begin to Plan for the event:
 * Look for co-organizers that have marketing and/or event expertise to help you organize the event. Some organizers have decided to hire an event coordinator for this purpose.
 * Complete the high-level list activities and owners with action items and to-do list
 
-Guidelines, ToolKit, and Support
+Guidelines, Toolkit, and Support:
+
 * Once approved, the Kubernetes Community Days will provide you with access to:
  * Hugo Template to build out the site.
  * Kubernetes Community Days Organizers Slack Channel. This is the ideal place to ask questions and best practices from other KCD organizers. 
@@ -30,17 +32,20 @@ Guidelines, ToolKit, and Support
 * The sponsors and advisory board must be open to any company participating including the organizer company’s competitors.
 
 Select and Reserve a Venue: 
+
 * Choose a venue with a reception area for registrations, a room dedicated for keynote presentations, and one break out room. 
  * This allows you to run 2 event tracks; use the break out room for demonstrations, trainings, or workshops. 
 * Consider hosting the Kubernetes Community Days event at one of the organizing company’s corporate campus. Ensure the hosting organization does not prevent any competitors from sponsoring, speaking, or attending.
 * For first time events, consider starting with a maximum of 200 attendees. For a second-year event may expand to 300-500 attendees.
 
 Official Kubernetes Community Days Event Agreement form: 
+
 * A minimum of three sponsor companies are required before any event promotion or planning can begin. 
 * You should have a minimum of four sponsoring companies for the event overall. 
 * Once at least three sponsors are confirmed, the event organizers must review and agree to the Official Kubernetes Community Days Agreement. 
 
 Communications:
+
 * Create a private slack channel for the group.
 * Join the Kubernetes Community Days Public Slack channel.
 * Announce Diversity Scholarship
@@ -50,27 +55,32 @@ What does the diversity scholarship cover?
 * The diversity scholarship can include the cost of the ticket, travel, lodging, childcare, etc. 
 
 ## 6-7 MONTHS IN ADVANCE:            
-Budget
+Budget:
+
 * Prepare a preliminary budget including: 
  * Sponsorship fees.
  * Attendee fees.
  * Venue costs, hotel room blocks, catering, signage, graphics, promotion, A/V, travel for speakers, etc.).
 
-Define Roles and Responsibilities
+Define Roles and Responsibilities:
+
 * Create an advisory team to help organize the event and define roles and responsibilities.
 * Be sure to invite the Kubernetes Ambassador as a planning member.
 * Be sure to extend an invitation and include local Kuberenetes User and MeetUp Groups.
 
-Keynote Speakers
+Keynote Speakers:
+
 * Identify potential keynote speakers to attract both attendees and sponsors.
 * Leverage the Kubernetes Speakers Bureau <link>.
 * Determine the plan on who will reach out and get confirmations.
 
-Identify possible sponsors
+Identify possible sponsors:
+
 * Create a target list of possible sponsors to contact and determine how you plan to reach out to them.
 * Leveage [CNCF Speaeker Bureau](https://www.cncf.io/speakers/)
 
-Kubernetes Community Days logo and digital branding kit
+Kubernetes Community Days logo and digital branding kit:
+
 * Leverage the Kubernetes Logo to create a customized logo. 
 * Once you have confirmed the date and location then create a pull request in github.
 
