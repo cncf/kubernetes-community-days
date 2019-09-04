@@ -95,5 +95,5 @@ Printed Name ______________     Printed Name ______________
 
 Sponsor ___________________     Organizer _________________
 
-Please email the completed form to *insert email address**.
+Please email the completed form to **insert email address**.
 
