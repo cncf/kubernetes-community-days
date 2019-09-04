@@ -1,12 +1,13 @@
 ---
-title: Kubernetes Community Day Portland
+title: Kubernetes Community Day Ridgefield
 date: '2021-01-01'
 end: '2021-01-03'
 location:
-  url: 'https://en.wikipedia.org/wiki/Portland,_Oregon'
-  name: 'Portland, Oregon'
+  city: Ridgefield
+  url: 'https://en.wikipedia.org/wiki/Ridgefield,_Washington'
+  venue: Abrams Park
 social:
-  twitter: 'https://twitter.com/Bouvet_3Y0Z'
+  twitter: 'https://twitter.com/CloudNativeFdn'
 sponsors:
 - level: diamond
   orgs:

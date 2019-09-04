@@ -31,11 +31,13 @@
     
           <ul class="events">
             {{ range .Pages }}
+            {{ if .Params.location.city }}
             <li>
               <a href="{{ .RelPermalink }}">
-                {{ .Title }}
+                {{ .Params.location.city }}
               </a>
             </li>
+            {{ end }}
             {{ end }}
           </ul>
         </div>
@@ -67,11 +69,13 @@
 
           <ul class="events">
             {{ range .Pages }}
+            {{ if .Params.location.city }}
             <li>
               <a href="{{ .RelPermalink }}">
-                {{ .Title }}
+                {{ .Params.location.city }}
               </a>
             </li>
+            {{ end }}
             {{ end }}
           </ul>
         </div>
