@@ -17,26 +17,28 @@
       </p>
 
       {{ with $upcoming }}
-      {{ range .GroupByDate "2006" }}
-      <p class="year">
-        {{ .Key }}
-      </p>
-      
-      {{ range (.Pages.GroupByDate "January").Reverse }}
-      <div class="month">
-        <p class="month-title">
+      {{ range (.GroupByDate "2006").Reverse }}
+      <div class="year">
+        <p class="year-title">
           {{ .Key }}
         </p>
-  
-        <ul class="events">
-          {{ range .Pages }}
-          <li>
-            <a href="{{ .RelPermalink }}">
-              {{ .Title }}
-            </a>
-          </li>
-          {{ end }}
-        </ul>
+        
+        {{ range (.Pages.GroupByDate "January").Reverse }}
+        <div class="month">
+          <p class="month-title">
+            {{ .Key }}
+          </p>
+    
+          <ul class="events">
+            {{ range .Pages }}
+            <li>
+              <a href="{{ .RelPermalink }}">
+                {{ .Title }}
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
       </div>
       {{ end }}
       {{ end }}

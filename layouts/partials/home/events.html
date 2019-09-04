@@ -2,7 +2,9 @@
 {{ $eventPages := where site.Sections "Section" "events" }}
 {{ range $eventPages }}
 {{ range .Sections }}
+{{ if .Date.After now }}
 {{ $events = $events | append . }}
+{{ end }}
 {{ end }}
 {{ end }}
 <div class="columns is-variable is-3 is-multiline">

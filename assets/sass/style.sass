@@ -96,9 +96,13 @@ hr.thick-hr
   text-transform: uppercase
 
   .year
-    font-size: 1.5rem
-    font-weight: 700
-    margin-bottom: .5rem
+    &-title
+      font-size: 1.5rem
+      font-weight: 700
+      margin-bottom: .5rem
+
+    & + .year
+      margin-top: 1rem
 
   .month
     &-title
@@ -112,7 +116,7 @@ hr.thick-hr
       li
         line-height: 120%
       
-        & + &
+        & + li
           margin-top: 1rem
 
 .page
