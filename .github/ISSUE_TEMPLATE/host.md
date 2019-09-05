@@ -8,12 +8,13 @@ about: 'Use this form to host a Kubernetes Community Days event in your area'
 
 *Please check each of these indicating that you have met these requirements:
 
-* [ ] Are you only including a `repo_url` if your project is 100% open source? If so, you need to pick the single best GitHub repository for your project, not a GitHub organization.
-* [ ] Is your project closed source or, if it is open source, does your project have at least 300 GitHub stars?
-* [ ] Have you picked the single best (existing) category for your project?
-* [ ] Does it follow the other guidelines from the [new entries](https://github.com/cncf/landscape#new-entries) section?
-* [ ] Have you included a URL for your SVG or added it to `hosted_logos` and referenced it there?
-* [ ] Does your logo clearly state the name of the project/product and follow the other logo [guidelines](https://github.com/cncf/landscape#logos)?
-* [ ] Does your project/product name match the text on the logo?
-* [ ] Have you verified that the Crunchbase data for your organization is correct (including headquarters and LinkedIn)?
-* [ ] ~5 minutes after opening the pull request, the CNCF-Bot will post the URL for your staging server. Have you confirmed that it looks good to you and then added a comment to the PR saying "LGTM"?
+* [ ] All organizers signed off to the event guidelines and CNCF Code of Conduct.
+* [ ] Method to accept payments including sponsorships and payout expenses
+* [ ] One organizer is a CNCF Member employee, Ambassador, or CNCF Project Maintainer
+* [ ] Minimum of 3 organizers from 3 different organizations
+* [ ] No other Kubernetes Community Days event in the same city
+
+### Organizer 1: First and Last Name, Company/Organzition, Title, Email 
+### Organizer 2: First and Last Name, Company/Organzition, Title, Email
+### Organizer 3: First and Last Name, Company/Organzition, Title, Email
+
