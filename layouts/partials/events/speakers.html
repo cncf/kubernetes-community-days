@@ -1,50 +1,17 @@
 {{ $speakers := .CurrentSection.Params.speakers }}
 
+{{ with $speakers }}
 <section class="section">
   <div class="container">
-    <p class="title is-size-2">
+    <p class="title is-size-3">
       Current speakers
     </p>
 
     <div class="columns is-multiline">
-      {{ range $speakers }}
-      <div class="column is-one-third">
-        <div class="card speaker">
-          <div class="card-content">
-            <p class="title">
-              {{ if .homepage }}
-              <a href="{{ .homepage }}">
-                {{ .name }}
-              </a>
-              {{ else }}
-              {{ .name }}
-              {{ end }}
-            </p>
-
-            {{ with .image }}
-            {{ $src := printf "img/people/%s" . | relURL }}
-            <img class="speaker-image" src="{{ $src }}">
-            {{ end }}
-
-            {{ with .bio }}
-            <p>
-              {{ . | markdownify }}
-            </p>
-            {{ end }}
-
-            {{ with .twitter }}
-            <br />
-
-            <a class="button is-twitter-blue">
-              <span class="icon">
-                <i class="fab fa-twitter"></i>
-              </span>
-            </a>
-            {{ end }}
-          </div>
-        </div>
-      </div>
+      {{ range . }}
+      {{ partial "events/person.html" . }}
       {{ end }}
     </div>
   </div>
 </section>
+{{ end }}

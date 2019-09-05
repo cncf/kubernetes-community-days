@@ -1,0 +1,17 @@
+{{ $organizers := .CurrentSection.Params.organizers }}
+
+{{ with $organizers }}
+<section class="section">
+  <div class="container">
+    <p class="title is-size-3">
+      Organizers
+    </p>
+
+    <div class="columns is-multiline">
+      {{ range . }}
+      {{ partial "events/person.html" . }}
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
