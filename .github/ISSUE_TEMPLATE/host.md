@@ -1,7 +1,7 @@
 ---
 name: 'Organize event'
 labels: kcdnewevent
-assignees: christnevblum, iennae
+assignees: christinevblum, iennae
 about: 'Use this form to host a Kubernetes Community Days event in your area'
 ---
 ### Submission checklist:
