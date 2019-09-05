@@ -14,7 +14,7 @@ about: 'Use this form to host a Kubernetes Community Days event in your area'
 * [ ] Minimum of 3 organizers from 3 different organizations
 * [ ] No other Kubernetes Community Days event in the same city
 
-### Organizer 1: First and Last Name, Company/Organzition, Title, Email 
-### Organizer 2: First and Last Name, Company/Organzition, Title, Email
-### Organizer 3: First and Last Name, Company/Organzition, Title, Email
+### Organizer 1: First and Last Name, Company, Title, Email 
+### Organizer 2: First and Last Name, Company, Title, Email
+### Organizer 3: First and Last Name, Company, Title, Email
 
