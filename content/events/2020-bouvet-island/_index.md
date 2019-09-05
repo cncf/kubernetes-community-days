@@ -30,7 +30,6 @@ sponsors:
   - name: Staypuft
     logo: staypuft.svg
     url: https://en.wikipedia.org/wiki/Stay_Puft_Marshmallow_Man
-    
 speakers:
 - name: Phippy
   image: phippy-color.svg
