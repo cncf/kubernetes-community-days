@@ -49,7 +49,7 @@ speakers:
 - name: Captain Kube
   image: captainkube-color.svg
   twitter: https://twitter.com/cloudnativefdn
-  bio: Captain Kube manages a pod on board the ship where Phippy moves her container. He is an expert on The Kubernetes project that focuses on building a robust platform for running thousands of containers in production.
+  bio: Captain Kube manages a pod on board the ship where Phippy moved her container. He is an expert on The Kubernetes project and is focused on building a robust platform for running thousands of containers in production.
   homepage: https://phippy.io
 organizers:
 - name: Non-Public Organization Octopus
