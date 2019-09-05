@@ -7,7 +7,7 @@ Sponsoring Kubernetes Community Days  events gives your organization an opportun
 
 Below is a list of the available sponsorship. If interested in sponsoring, please complete this [form](sponsor-contract.md) and send to  [sponsorships@bouvetislandkcd.com](sponsorships@bouvetislandkcd.com).
 
-# Kuberentes Community Days Bouvet Isand Sponsorship Opportunies
+# Kubernetes Community Days Bouvet Isand Sponsorship Opportunies
 
 Platinum/Host: Contact us for pricing (Limit 1)
 

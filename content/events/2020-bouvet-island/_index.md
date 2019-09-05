@@ -34,24 +34,36 @@ sponsors:
 speakers:
 - name: Phippy
   image: phippy-color.svg
-  twitter: https://twitter.com/cloudnativefdm
+  twitter: https://twitter.com/cloudnativefdn
   bio: Phippy is a simple PHP app, trying to find a home in a cloud native world.
   homepage: https://phippy.io
 - name: Goldie
   image: goldie-color.svg
-  twitter: https://twitter.com/cloudnativefdm
-  bio: Goldie is 
+  twitter: https://twitter.com/cloudnativefdn
+  bio: Goldie is Phippy's best friend. Goldie is the leading expert on Volumnes, which represent a location where containers can access and store information.
   homepage: https://phippy.io
 - name: Zee
   image: zee-color.svg
-  twitter: https://twitter.com/cloudnativefdm
-  bio: Zee is 
+  twitter: https://twitter.com/cloudnativefdn
+  bio: Zee is Phippy's nephew. 
 - name: Captain Kube
   image: captainkube-color.svg
-  twitter: https://twitter.com/cloudnativefdm
-  bio: Zee is 
+  twitter: https://twitter.com/cloudnativefdn
+  bio: Captain Kube manages a pod on board the ship where Phippy moves her container. He is an expert on The Kubernetes project that focuses on building a robust platform for running thousands of containers in production.
   homepage: https://phippy.io
-
+organizers:
+- name: Non-Public Organization Octopus
+  image: non-public-organization-octopus-member.svg
+  twitter: https://twitter.com/cloudnativefdn
+  homepage: https://landscape.cncf.io/format=card-mode&grouping=headquarters&headquarters=bouvet-island-antarctica
+- name: Non-Public Organization Alligator
+  image: non-public-organization-alligator-member.svg
+  twitter: https://twitter.com/cloudnativefdn
+  homepage: https://landscape.cncf.io/format=card-mode&grouping=headquarters&headquarters=bouvet-island-antarctica
+  - name: Non-Public Organization Quail 
+  image: non-public-organization-quail-member.svg
+  twitter: https://twitter.com/cloudnativefdn
+  homepage: https://landscape.cncf.io/format=card-mode&grouping=headquarters&headquarters=bouvet-island-antarctica
 organizers_email: organizers-bouvet-island-2020@kubernetescommunitydays.org
 local_law_enforcement: 112
 medical_emergency: 112
