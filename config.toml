@@ -27,3 +27,8 @@ twitter = "https://twitter.com/cloudnativefdn"
 name = "Organizing"
 url = "/organizing"
 weight = 1
+
+[[menu.navbar]]
+name = "Code of Conduct"
+url = "/code-of-conduct"
+weight = 2

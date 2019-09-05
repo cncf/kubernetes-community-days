@@ -1,3 +1,7 @@
+---
+title: Code of Conduct
+---
+
 The Linux Foundation and its project communities are dedicated to providing a harassment-free experience for participants at all of our events. Linux Foundation events are working conferences intended for professional networking and collaboration within the open source community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While at Linux Foundation events or related ancillary or social events, any participants, including members, speakers, attendees, volunteers, sponsors, exhibitors, booth staff and anyone else, should not engage in harassment in any form.
 This Code of Conduct may be revised at any time by The Linux Foundation and the terms are non-negotiable. Your registration for or attendance at any Linux Foundation event indicates your agreement to abide by this policy and its terms.
 
