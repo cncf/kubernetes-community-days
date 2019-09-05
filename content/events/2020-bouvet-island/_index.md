@@ -40,16 +40,16 @@ speakers:
 - name: Goldie
   image: goldie-color.svg
   twitter: https://twitter.com/cloudnativefdn
-  bio: Goldie is 
+  bio: Goldie is Phippy's best friend. Goldie is the leading expert on Volumnes, which represent a location where containers can access and store information.
   homepage: https://phippy.io
 - name: Zee
   image: zee-color.svg
   twitter: https://twitter.com/cloudnativefdn
-  bio: Zee is 
+  bio: Zee is Phippy's nephew. 
 - name: Captain Kube
   image: captainkube-color.svg
   twitter: https://twitter.com/cloudnativefdn
-  bio: Zee is 
+  bio: Captain Kube manages a pod on board the ship wher Phippy moves her container.
   homepage: https://phippy.io
 
 organizers_email: organizers-bouvet-island-2020@kubernetescommunitydays.org
