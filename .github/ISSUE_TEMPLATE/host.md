@@ -1,6 +1,6 @@
 ---
 name: 'Organize event'
-labels: kcdnewevent
+labels: newevent
 assignees: christinevblum, iennae
 about: 'Use this form to host a Kubernetes Community Days event in your area'
 ---
