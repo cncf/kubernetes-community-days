@@ -30,6 +30,13 @@ sponsors:
   - name: Staypuft
     logo: staypuft.svg
     url: https://en.wikipedia.org/wiki/Stay_Puft_Marshmallow_Man
+speakers:
+- name: Phippy
+  Image: phippy-color-png
+  twitter: https://twitter.com/cloudnativefdm
+  bio: Phippy is a simple PHP app, trying to find a home in a cloud native world.
+  homepage: https://phippy.io
+
 organizers_email: organizers-bouvet-island-2020@kubernetescommunitydays.org
 local_law_enforcement: 112
 medical_emergency: 112
