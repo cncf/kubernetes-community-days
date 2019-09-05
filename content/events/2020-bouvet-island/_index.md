@@ -30,6 +30,7 @@ sponsors:
   - name: Staypuft
     logo: staypuft.svg
     url: https://en.wikipedia.org/wiki/Stay_Puft_Marshmallow_Man
+    
 speakers:
 - name: Phippy
   Image: phippy-color.svg
@@ -41,15 +42,15 @@ speakers:
   twitter: https://twitter.com/cloudnativefdm
   bio: Goldie is 
   homepage: https://phippy.io
-  - name: Zee
-    Image: zee-color.svg
-    twitter: https://twitter.com/cloudnativefdm
-    bio: Zee is 
-  - name: Captain Kube
-    Image: captainkube-color.svg
-    twitter: https://twitter.com/cloudnativefdm
-    bio: Zee is 
-    homepage: https://phippy.io
+- name: Zee
+  Image: zee-color.svg
+  twitter: https://twitter.com/cloudnativefdm
+  bio: Zee is 
+- name: Captain Kube
+  Image: captainkube-color.svg
+  twitter: https://twitter.com/cloudnativefdm
+  bio: Zee is 
+  homepage: https://phippy.io
 
 organizers_email: organizers-bouvet-island-2020@kubernetescommunitydays.org
 local_law_enforcement: 112
