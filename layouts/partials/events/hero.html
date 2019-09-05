@@ -1,5 +1,6 @@
 {{ $eventUrl := .Params.url }}
-{{ $date     := .Params.date }}
+{{ $start    := .Date }}
+{{ $end      := .Params.end }}
 {{ $location := .Params.location }}
 {{ $locName  := $location.name }}
 {{ $locUrl   := $location.url }}
@@ -23,12 +24,14 @@
       </p>
       {{ end }}
 
-      {{ if or $date $locName }}
+      {{ if or $start $locName }}
       <div class="subtitle is-size-4 is-size-5-mobile has-text-weight-bold">
-        {{ with $date }}
-        {{ $formatted := . | dateFormat "January 2, 2006"}}
+        {{ with $start }}
+        {{ $month    := dateFormat "January" . }}
+        {{ $startDay := dateFormat "2" . }}
+        {{ $year     := dateFormat "2006" . }}
         <p>
-          {{ $formatted }}
+          {{ $month }} {{ $startDay }}{{ with $end }}&ndash;{{ dateFormat "2" (time .) }}{{ end }}, {{ $year }}
         </p>
         {{ end }}
 
