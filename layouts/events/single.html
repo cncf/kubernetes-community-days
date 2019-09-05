@@ -1,17 +1,14 @@
 {{ define "main" }}
-{{ $filename       := .File.BaseFileName }}
-{{ $isSponsorsPage := eq $filename "sponsors" }}
-{{ $isCocPage      := eq $filename "code-of-conduct" }}
+{{ $filename     := .File.BaseFileName }}
+{{ $allowedPages := site.Params.allowed_event_pages }}
+{{ $allowed      := in $allowedPages $filename }}
+{{ $partial      := printf "events/%s.html" $filename }}
 
 {{ partial "navbar.html" . }}
 {{ partial "events/hero.html" . }}
 {{ partial "events/content.html" . }}
 
-{{ if $isSponsorsPage }}
-{{ partial "events/sponsors.html" . }}
-{{ end }}
-
-{{ if $isCocPage }}
-{{ partial "events/code-of-conduct.html" . }}
+{{ if $allowed }}
+{{ partial $partial . }}
 {{ end }}
 {{ end }}
