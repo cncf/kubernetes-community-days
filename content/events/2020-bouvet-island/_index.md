@@ -60,7 +60,7 @@ organizers:
   image: non-public-organization-alligator-member.svg
   twitter: https://twitter.com/cloudnativefdn
   homepage: https://landscape.cncf.io/format=card-mode&grouping=headquarters&headquarters=bouvet-island-antarctica
-  - name: Non-Public Organization Quail 
+- name: Non-Public Organization Quail
   image: non-public-organization-quail-member.svg
   twitter: https://twitter.com/cloudnativefdn
   homepage: https://landscape.cncf.io/format=card-mode&grouping=headquarters&headquarters=bouvet-island-antarctica
