@@ -2,8 +2,9 @@
 {{ $start    := .Date }}
 {{ $end      := .Params.end }}
 {{ $location := .Params.location }}
-{{ $locName  := $location.name }}
-{{ $locUrl   := $location.url }}
+{{ $country  := $location.country }}
+{{ $city     := $location.city }}
+{{ $venue    := $location.venue }}
 {{ $social   := .Params.social }}
 {{ $title    := .Title }}
 {{ $event    := .CurrentSection.Title }}
@@ -12,7 +13,7 @@
 <section class="hero">
   <div class="hero-body">
     <div class="container">
-      <p class="title is-size-1 is-size-2-mobile has-text-weight-light is-spaced">
+      <p class="title is-size-1 is-size-2-mobile has-text-weight-light">
         {{ $title }}
       </p>
 
@@ -24,8 +25,8 @@
       </p>
       {{ end }}
 
-      {{ if or $start $locName }}
-      <div class="subtitle is-size-4 is-size-5-mobile has-text-weight-bold">
+      {{ if or $start $location }}
+      <div class="is-size-4 is-size-5-mobile has-text-weight-bold is-spaced">
         {{ with $start }}
         {{ $month    := dateFormat "January" . }}
         {{ $startDay := dateFormat "2" . }}
@@ -35,10 +36,23 @@
         </p>
         {{ end }}
 
-        {{ with $locName }}
-        <a class="subtitle has-text-grey" href="{{ $locUrl }}">
-          {{ . }}
-        </a>
+        {{ with $location }}
+        <p class="is-size-4 is-size-5-mobile has-text-grey">
+          {{ with .city }}{{ . }}{{ end }}
+          {{- with .country  }}, {{ . }}{{ end }}
+        </p>
+
+        {{ if .venue }}
+        <p>
+          {{ if .url }}
+          <a href="{{ .url }}">
+            {{ .venue }}
+          </a>
+          {{ else }}
+          {{ .venue }}
+          {{ end }}
+        </p>
+        {{ end }}
         {{ end }}
       </div>
       {{ end }}
