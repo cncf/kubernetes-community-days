@@ -1,8 +1,19 @@
 ---
 title: Organize a Kubernetes Community Days
 ---
+## About Kubernetes Community Days Page
+Kubernetes Community Days are community-organized events that gather adopters and technologists from open source and cloud native communities to learn, collaborate, and network to further advancement in Kubernetes. They also are a lot of fun and a great way to meet new people and build community.
 
-## Interested in Organizing a Kubernetes Community Day(s)?
+## Host a Kubernetes Community Days 
+Kubernetes Community Days are community-organized education events to bring people together to learn, collaborate, and network. Each event brings its own local flair, culture, diversity, and authenticity.  
+                       
+## Core Organizers
+Dan Kohn, Chris Blum, Jennifer Davis
+
+## Contact a specific event
+The organization is decentralized. Local events handle their own sponsorships, registration, and all other logistics. For questions about a specific event you see listed on the site, contact the local organizers for that event; their email is on their contact page.
+
+## Interested in Organizing a Kubernetes Community Days?
 
 Check to see if there is a Kubernetes Community Days event scheduled in your area on the events page. If there is an event scheduled, please reach out to the organizers to express your interest in helping. You can find a list of current events being planned on the website along with contact details for the organizers.
 
