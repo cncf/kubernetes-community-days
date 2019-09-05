@@ -32,10 +32,24 @@ sponsors:
     url: https://en.wikipedia.org/wiki/Stay_Puft_Marshmallow_Man
 speakers:
 - name: Phippy
-  Image: phippy-color.png
+  Image: phippy-color.svg
   twitter: https://twitter.com/cloudnativefdm
   bio: Phippy is a simple PHP app, trying to find a home in a cloud native world.
   homepage: https://phippy.io
+- name: Goldie
+  Image: goldie-color.svg
+  twitter: https://twitter.com/cloudnativefdm
+  bio: Goldie is 
+  homepage: https://phippy.io
+  - name: Zee
+    Image: zee-color.svg
+    twitter: https://twitter.com/cloudnativefdm
+    bio: Zee is 
+  - name: Captain Kube
+    Image: captainkube-color.svg
+    twitter: https://twitter.com/cloudnativefdm
+    bio: Zee is 
+    homepage: https://phippy.io
 
 organizers_email: organizers-bouvet-island-2020@kubernetescommunitydays.org
 local_law_enforcement: 112
