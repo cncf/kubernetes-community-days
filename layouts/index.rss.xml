@@ -16,10 +16,17 @@
     {{ with site.Author.email }}
     <webMaster>{{ . }}{{ with site.Author.name }} ({{ . }}){{end}}</webMaster>
     {{end}}
+
     {{ with site.Copyright }}
-    <copyright>{{ . }}</copyright>{{ end }}{{ if not .Date.IsZero }}
-    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+    <copyright>
+    {{ . }}
+    </copyright>
     {{ end }}
+    
+    {{ if not .Date.IsZero }}
+    <lastBuildDate>{{ dateFormat .Date "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+    {{ end }}
+
     {{ with .OutputFormats.Get "RSS" }}
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{ end }}
@@ -35,6 +42,26 @@
       {{ with $end }}
       <xcal:dtend>{{ dateFormat $utc . | safeHTML }}</xcal:dtend>
       {{ end }}
+      {{ with .Params.location }}
+      <location>
+        {{ with .country }}
+        <country>
+          {{ . }}
+        </country>
+        {{ end }}
+        {{ with .city }}
+        <city>
+          {{ . }}
+        </city>
+        {{ end }}
+        {{ with .venue }}
+        <venue>
+          {{ . }}
+        </venue>
+        {{ end }}
+      </location>
+      {{ end }}
+
       {{ with site.Author.email }}<author>{{ . }}{{ with site.Author.name }} ({{ . }}){{ end }}</author>{{ end }}
       <guid>{{ .Permalink }}</guid>
       {{ with .Summary }}

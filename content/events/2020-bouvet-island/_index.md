@@ -3,6 +3,7 @@ title: Kubernetes Community Day Bouvet Island
 date: '2021-01-01'
 end: '2021-01-02'
 location:
+  country: Antarctica
   city: Bouvet Island
   url: https://en.wikipedia.org/wiki/Bouvet_Island
   venue: Igloo 74
