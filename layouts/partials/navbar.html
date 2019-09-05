@@ -27,6 +27,13 @@
       <div class="navbar-end">
         {{ if $isEvent }}
         {{ with .CurrentSection }}
+        {{ $pages := .Pages }}
+        {{ $isEventRoot := eq $url .RelPermalink }}
+        <a class="navbar-item has-text-weight-bold{{ if $isEventRoot }} is-active{{ end }}" href="{{ .RelPermalink }}">
+          Overview
+        </a>
+
+
         {{ range .Pages }}
         {{ $isAllowed := in $allowed .File.BaseFileName }}
         {{ if $isAllowed }}
