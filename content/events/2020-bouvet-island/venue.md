@@ -1,8 +1,8 @@
 ---
 title: Location
 ---
-
-Add details about the location here and insert a map
+# Kubernetes Community Days Bouvet Island 
+Bouvet Island, Antartica
 ![Map](/img/251px-Bouvet_Island-CIA_WFB_Map.png)
 
 # Getting to Location
