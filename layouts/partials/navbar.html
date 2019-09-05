@@ -27,31 +27,37 @@
       <div class="navbar-end">
         {{ if $isEvent }}
         {{ with .CurrentSection }}
-        {{ $pages := .Pages }}
-        {{ $isEventRoot := eq $url .RelPermalink }}
-        <a class="navbar-item has-text-weight-bold{{ if $isEventRoot }} is-active{{ end }}" href="{{ .RelPermalink }}">
-          Overview
-        </a>
+        <div class="navbar-item">
+          <div class="buttons has-addons">
+            {{ $isEventRoot := eq $url .RelPermalink }}
+            <a class="button has-text-weight-bold is-radiusless{{ if $isEventRoot }} is-primary{{ else }} is-light{{ end }}" href="{{ .RelPermalink }}">
+              Overview
+            </a>
 
+            {{ range .Pages }}
+            {{ $isAllowed := in $allowed .File.BaseFileName }}
+            {{ if $isAllowed }}
+            {{ $isActive := eq $url .RelPermalink }}
+            <a class="button has-text-weight-bold is-radiusless{{ if $isActive }} is-primary{{ else }} is-light{{ end }}" href="{{ .RelPermalink }}">
+              {{ .Title }}
+            </a>
+            {{ end }}
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+        {{ end }}
 
-        {{ range .Pages }}
-        {{ $isAllowed := in $allowed .File.BaseFileName }}
-        {{ if $isAllowed }}
-        {{ $isActive := eq $url .RelPermalink }}
-        <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .RelPermalink }}">
-          {{ .Title }}
-        </a>
-        {{ end }}
-        {{ end }}
-        {{ end }}
-        {{ end }}
-
-        {{ range $menu }}
-        {{ $isActive := hasPrefix $url .URL }}
-        <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .URL }}">
-          {{ .Name }}
-        </a>
-        {{ end }}
+        <div class="navbar-item">
+          <div class="buttons has-addons">
+            {{ range $menu }}
+            {{ $isActive := hasPrefix $url .URL }}
+            <a class="button has-text-weight-bold is-radiusless{{ if $isActive }} is-primary{{ else }} is-light{{ end }}" href="{{ .URL }}">
+              {{ .Name }}
+            </a>
+            {{ end }}
+          </div>
+        </div>
       </div>
     </div>
   </div>

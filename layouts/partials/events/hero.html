@@ -11,7 +11,7 @@
 <section class="hero">
   <div class="hero-body">
     <div class="container">
-      <p class="title is-size-2 is-size-3-mobile has-text-dark is-spaced">
+      <p class="title is-size-2 is-size-3-mobile has-text-weight-light is-spaced">
         {{ $title }}
       </p>
 
@@ -24,10 +24,10 @@
       {{ end }}
 
       {{ if or $date $locName }}
-      <div class="subtitle is-size-4 is-size-5-mobile">
+      <div class="subtitle is-size-4 is-size-5-mobile has-text-weight-bold">
         {{ with $date }}
         {{ $formatted := . | dateFormat "January 2, 2006"}}
-        <p class="has-text-grey-dark">
+        <p>
           {{ $formatted }}
         </p>
         {{ end }}
