@@ -34,21 +34,21 @@ sponsors:
 speakers:
 - name: Phippy
   image: phippy-color.svg
-  twitter: https://twitter.com/cloudnativefdm
+  twitter: https://twitter.com/cloudnativefdn
   bio: Phippy is a simple PHP app, trying to find a home in a cloud native world.
   homepage: https://phippy.io
 - name: Goldie
   image: goldie-color.svg
-  twitter: https://twitter.com/cloudnativefdm
+  twitter: https://twitter.com/cloudnativefdn
   bio: Goldie is 
   homepage: https://phippy.io
 - name: Zee
   image: zee-color.svg
-  twitter: https://twitter.com/cloudnativefdm
+  twitter: https://twitter.com/cloudnativefdn
   bio: Zee is 
 - name: Captain Kube
   image: captainkube-color.svg
-  twitter: https://twitter.com/cloudnativefdm
+  twitter: https://twitter.com/cloudnativefdn
   bio: Zee is 
   homepage: https://phippy.io
 
