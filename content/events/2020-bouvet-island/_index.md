@@ -32,7 +32,7 @@ sponsors:
     url: https://en.wikipedia.org/wiki/Stay_Puft_Marshmallow_Man
 speakers:
 - name: Phippy
-  Image: phippy-color-png
+  Image: phippy-color.png
   twitter: https://twitter.com/cloudnativefdm
   bio: Phippy is a simple PHP app, trying to find a home in a cloud native world.
   homepage: https://phippy.io
