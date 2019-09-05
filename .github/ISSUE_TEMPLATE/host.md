@@ -1,7 +1,8 @@
 ---
-title: 'Organize a Kubernetes Community Days'
+name: 'Organize event'
 labels: kcdnewevent
 assignees: christnevblum, iennae
+about: 'Use this form to host a Kubernetes Community Days event in your area'
 ---
 ### Submission checklist:
 
