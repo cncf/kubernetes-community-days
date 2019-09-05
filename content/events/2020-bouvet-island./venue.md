@@ -1,5 +1,5 @@
 ---
-title: Location
+title: Venue
 ---
 # Kubernetes Community Days Bouvet Island 
 Bouvet Island, Antartica
