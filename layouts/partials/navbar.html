@@ -30,7 +30,7 @@
         <div class="navbar-item">
           <div class="buttons has-addons">
             {{ $isEventRoot := eq $url .RelPermalink }}
-            <a class="button has-text-weight-bold is-radiusless{{ if $isEventRoot }} is-primary{{ else }} is-light{{ end }}" href="{{ .RelPermalink }}">
+            <a class="button{{ if $isEventRoot }} is-primary{{ else }} is-dark{{ end }}" href="{{ .RelPermalink }}">
               Overview
             </a>
 
@@ -38,7 +38,7 @@
             {{ $isAllowed := in $allowed .File.BaseFileName }}
             {{ if $isAllowed }}
             {{ $isActive := eq $url .RelPermalink }}
-            <a class="button has-text-weight-bold is-radiusless{{ if $isActive }} is-primary{{ else }} is-light{{ end }}" href="{{ .RelPermalink }}">
+            <a class="button{{ if $isActive }} is-primary{{ else }} is-dark{{ end }}" href="{{ .RelPermalink }}">
               {{ .Title }}
             </a>
             {{ end }}
@@ -52,7 +52,7 @@
           <div class="buttons has-addons">
             {{ range $menu }}
             {{ $isActive := hasPrefix $url .URL }}
-            <a class="button has-text-weight-bold is-radiusless{{ if $isActive }} is-primary{{ else }} is-light{{ end }}" href="{{ .URL }}">
+            <a class="button{{ if $isActive }} is-primary{{ else }} is-dark{{ end }}" href="{{ .URL }}">
               {{ .Name }}
             </a>
             {{ end }}
