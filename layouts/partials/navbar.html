@@ -24,27 +24,29 @@
     </div>
   
     <div id="navbar-menu" class="navbar-menu">
+      {{ if $isEvent }}
       <div class="navbar-start">
         {{ range $menu }}
         {{ $isActive := hasPrefix $url .URL }}
-        <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .URL }}">
+        <a class="navbar-item is-tab has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .URL }}">
           {{ .Name }}
         </a>
         {{ end }}
       </div>
+      {{ end }}
 
       <div class="navbar-end">
         {{ if $isEvent }}
         {{ with .CurrentSection }}
         {{ $isEventRoot := eq $url .RelPermalink }}
-        <a class="navbar-item has-text-weight-bold{{ if $isEventRoot }} is-active{{ end }}" href="{{ .RelPermalink }}">
+        <a class="navbar-item is-tab has-text-weight-bold{{ if $isEventRoot }} is-active{{ end }}" href="{{ .RelPermalink }}">
           Overview
         </a>
 
         {{ range .Pages }}
         {{ if .Title }}
         {{ $isActive := eq $url .RelPermalink }}
-        <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .RelPermalink }}">
+        <a class="navbar-item is-tab has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .RelPermalink }}">
           {{ .Title }}
         </a>
         {{ end }}
@@ -52,7 +54,14 @@
         {{ end }}
         {{ end }}
 
-        
+        {{ if not $isEvent }}
+        {{ range $menu }}
+        {{ $isActive := hasPrefix $url .URL }}
+        <a class="navbar-item is-tab has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .URL }}">
+          {{ .Name }}
+        </a>
+        {{ end }}
+        {{ end }}
       </div>
     </div>
   </div>
