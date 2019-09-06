@@ -1,15 +1,15 @@
 ---
 title: Organize a Kubernetes Community Days
 ---
-## About Kubernetes Community Days Page
-Kubernetes Community Days are community-organized events that gather adopters and technologists from open source and cloud native communities to learn, collaborate, and network to further advancement in Kubernetes. They also are a lot of fun and a great way to meet new people and build community.
+# About Kubernetes Community Days 
+Kubernetes Community Days are community-organized events that gather adopters and technologists from open source and cloud native communities to learn, collaborate, and network to further advancement in Kubernetes. They also are a lot of fun and a great way to meet new people and build community. Each event brings its own local flair, culture, diversity, and authenticity.  
 
-## Host a Kubernetes Community Days 
-Kubernetes Community Days are community-organized education events to bring people together to learn, collaborate, and network. Each event brings its own local flair, culture, diversity, and authenticity.  
-                       
+We would like to give a generous thank you to [DevOpsDays](https://devopsdays.org) and [OpenStack Days](https://www.openstack.org) for their guidance and inspiration. 
+                      
 ## Core Organizers
 Dan Kohn, Chris Blum, Jennifer Davis
 
+# Interested in Hosting a Kubernetes Community Days?
 ## Contact a specific event
 The organization is decentralized. Local events handle their own sponsorships, registration, and all other logistics. For questions about a specific event you see listed on the site, contact the local organizers for that event; their email is on their contact page.
 
@@ -17,7 +17,7 @@ The organization is decentralized. Local events handle their own sponsorships, r
 
 Check to see if there is a Kubernetes Community Days event scheduled in your area on the events page. If there is an event scheduled, please reach out to the organizers to express your interest in helping. You can find a list of current events being planned on the website along with contact details for the organizers.
 
-If there isn’t an event being organized, the first step in building out a successful event is assembling a team. You’ll need at minimum 3 other organizers from 3 different organizations.  Ideally, you’ll have a minimum of 5 organizers. One of the organizers must be a CNCF Member employee, Ambassador, or CNCF Project Maintainer. Find local community members who may be interested in helping to organize or volunteer at the event:
+If there isn’t an event being organized, the first step in building out a successful event is assembling a team. You’ll need at minimum 3 other organizers from 2 different organizations.  Ideally, you’ll have a minimum of 5 organizers. One of the organizers must be a CNCF Member employee, Ambassador, or CNCF Project Maintainer. Find local community members who may be interested in helping to organize or volunteer at the event:
 
 * Local user groups
 * Community Ambassadors
@@ -56,7 +56,7 @@ Similar events have 100-400 attendees. Most start small and grow each year.
 ## How can CNCF help?
 CNCF provides [logos](https://github.com/cncf/artwork) and digital branding assets and encourages personalization of the event logo. CNCF connects the event organizers with other Kubernetes Community Days event organizers through Slack channels, space on a central, editable website, and provides access to the [CNCF Speakers Bureau](https://www.cncf.io/speakers/). All organizers are encouraged to promote as desired in the Slack. Join the Kubernetes Community Days Public Slack channel to be connected to other Kubernetes Community Days organizers around the world. 
 
-## Kubernetes Community Days Toolkit
+# Kubernetes Community Days Toolkit
 This Kubernetes Community Day organizer toolkit will help event organizers get started in planning for the event. 
 
 Policy and Guidelines:
@@ -114,7 +114,7 @@ Basic Guidelines
 * Encourage interaction
 * Pick an event name that reflects the location (i.e. Seattle Kubernetes Community Days)
 
-# Recruiting Speaker 
+## Recruiting Speaker 
 
 * The [CNCF Speakers Bureau](https://www.cncf.io/speakers/) is a great place to start
 * Expect to recruit people for speaker proposals
@@ -132,7 +132,7 @@ Basic Guidelines
 * Announcing call for and judging proposals
 
 
-Judging proposals
+## Judging proposals
 
 * To minimize bias, create a reasonable proposal rating system
 * Set a point scale for each of the proposal points (e.g. originality, big idea, new speaker, high quality speaker) and award each proposal points on the scale then aggregate points for scores
@@ -140,13 +140,13 @@ Judging proposals
 * Publish the names of the programming committee
 * Be prepared to explain any programming decisions
 
-# Content considerations
+## Content considerations
 
 * Encourage new content; give higher priority to content that has not been published elsewhere
 * Try for a good balance between local and out-of-town speakers
 * Favor new speakers: Kubernetes Community Days is a supportive environment to encourage new voices in our space
 
-# Set up a clear timeline on content reviews
+## Set up a clear timeline on content reviews
 
 * Regularly check-in with speakers to ensure they are making progress
 * Schedule at least two live video run-throughs of presentations before the event
@@ -157,7 +157,7 @@ Judging proposals
 * The day of event make sure to check in with all speakers and ensure they are OK
 * Post-event, provide constructive feedback on the speaker’s presentation with concrete advice
 
-# Budget and Finances 
+## Budget and Finances 
 Basic guidelines
 
 * Add up the budgets (venue, food, parties space, schwag) to generate a total event budget to determine the amount of money needed to cover costs
@@ -181,7 +181,7 @@ Finance management options
 * Generally, finance sponsor collects 8-10% overhead Option 2 - designate someone on the team to run finances
 * Time-consuming and tedious - we recommend that a finance sponsor be secured for the first year of the event 
 
-# Marketing & Promotion
+## Marketing & Promotion
 Role of the Marketing Team
 
 * Drive interest in the event
