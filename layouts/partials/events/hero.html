@@ -10,11 +10,11 @@
 {{ $event    := .CurrentSection.Title }}
 {{ $mainUrl  := .CurrentSection.RelPermalink }}
 {{ $isRoot   := eq .CurrentSection .FirstSection }}
-<section class="hero">
+<section class="hero is-medium is-bold">
   <div class="hero-body">
     <div class="container">
-      <p class="title is-size-1 is-size-2-mobile has-text-weight">
-        {{ $title }}
+      <p class="title is-size-1 is-size-2-mobile has-text-weight-light">
+        {{ $title | upper }}
       </p>
 
       {{ if and (not $isRoot) (ne .File.LogicalName "_index.md") }}
@@ -26,41 +26,38 @@
       {{ end }}
 
       {{ if or $start $location }}
-      <div class="is-size-4 is-size-5-mobile has-text-weight-bold is-spaced">
+      <div class="is-size-3 is-size-4-mobile is-spaced">
         {{ with $start }}
         {{ $month    := dateFormat "January" . }}
         {{ $startDay := dateFormat "2" . }}
         {{ $year     := dateFormat "2006" . }}
-        <p>
-          {{ $month }} {{ $startDay }}{{ with $end }}&ndash;{{ dateFormat "2" (time .) }}{{ end }}, {{ $year }}
+        <p class="has-text-weight-light">
+          {{ $month | upper }} {{ $startDay }}{{ with $end }}&ndash;{{ dateFormat "2" (time .) }}{{ end }}, {{ $year }}
         </p>
         {{ end }}
 
         {{ with $location }}
-        <p class="is-size-4 is-size-5-mobile has-text-grey">
+        <br />
+
+        <p class="is-size-4 is-size-5-mobile">
           {{ with .city }}{{ . }}{{ end }}
           {{- with .country  }}, {{ . }}{{ end }}
-        </p>
-
-        {{ if .venue }}
-        <p>
+          {{ if .venue }}
+    
           {{ if .url }}
-          <a href="{{ .url }}">
+          &nbsp;&nbsp;|&nbsp;&nbsp;
+
+          <a class="has-text-weight-bold" href="{{ .url }}">
             {{ .venue }}
           </a>
           {{ else }}
           {{ .venue }}
           {{ end }}
+          {{ end }}
         </p>
-        {{ end }}
+
         {{ end }}
       </div>
-      {{ end }}
-
-      {{ with $eventUrl }}
-      <a class="is-size-5 is-size-6-mobile" href="{{ . }}" target="_blank">
-        {{ . }}
-      </p>
       {{ end }}
 
       {{ with $social }}
