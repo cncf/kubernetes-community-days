@@ -23,7 +23,7 @@ If there isn’t an event being organized, the first step in building out a succ
 * Community Ambassadors
 * [Meetup groups](/events/)
 
-Check the GitHub Repo issues for other individuals who have expressed an interest in organizing an event in your area. If there are no GitHub issues for your area, create a [GitHub issue](https://github.com/cncf/kubernetes-community-days/issues/new) following the template to express an interest in organizing an event in your area. 
+Check the GitHub Repo issues for other individuals who have expressed an interest in organizing an event in your area. If there are no GitHub issues for your area, create an [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=planningevent&template=interest.md) to express an interest in organizing an event in your area. 
 
 Cloud Native Computing Foundation helps support Kubernetes Community Days with guidance and promotion. We will cover all the key aspects of holding an event in the sections below, with break out documents for extended sections. 
 
@@ -37,7 +37,7 @@ Keep in mind, Kubernetes Community Day events are visionary, educational, and pr
 * Method to accept payments including sponsorships and payout expenses
 * All organizers signed off to the event guidelines and CNCF Code of Conduct
 
-Once the organizing team has signed off on the event guidelines and completed the Getting Started checklist, create a GitHub Issue [GitHub issue](https://github.com/cncf/kubernetes-community-days/issues/new) on this repository to get started. Cloud Native Computing Foundation will set up a placeholder website. The event team will be invited to the Kubernetes Community Days Event Organizers Slack channel where you can connect with other Kubernetes Community Days organizers around the world.
+Once your organizing team has signed off on the event guidelines and completed the Getting Started checklist, create an [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=newevent&template=host.md) to get your event officially recognized. Cloud Native Computing Foundation will set up a placeholder website. The event team will be invited to the Kubernetes Community Days Event Organizers Slack channel where you can connect with other Kubernetes Community Days organizers around the world.
 
 ## Quick FAQs
 
