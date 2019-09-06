@@ -7,7 +7,7 @@
 {{ $section := .CurrentSection }}
 {{ $url     := .RelPermalink }}
 {{ $allowed := site.Params.allowed_event_pages }}
-<nav class="navbar is-fixed-top{{ if not $isHome }} is-light{{ end }}">
+<nav class="navbar is-fixed-top">
   <div class="container">
     <div class="navbar-brand">
       {{ if not $isHome }}
@@ -24,40 +24,35 @@
     </div>
   
     <div id="navbar-menu" class="navbar-menu">
+      <div class="navbar-start">
+        {{ range $menu }}
+        {{ $isActive := hasPrefix $url .URL }}
+        <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .URL }}">
+          {{ .Name }}
+        </a>
+        {{ end }}
+      </div>
+
       <div class="navbar-end">
         {{ if $isEvent }}
         {{ with .CurrentSection }}
-        <div class="navbar-item">
-          <div class="buttons has-addons">
-            {{ $isEventRoot := eq $url .RelPermalink }}
-            <a class="button{{ if $isEventRoot }} is-primary{{ else }} is-dark{{ end }}" href="{{ .RelPermalink }}">
-              Overview
-            </a>
+        {{ $isEventRoot := eq $url .RelPermalink }}
+        <a class="navbar-item has-text-weight-bold{{ if $isEventRoot }} is-active{{ end }}" href="{{ .RelPermalink }}">
+          Overview
+        </a>
 
-            {{ range .Pages }}
-            {{ $isAllowed := in $allowed .File.BaseFileName }}
-            {{ if $isAllowed }}
-            {{ $isActive := eq $url .RelPermalink }}
-            <a class="button{{ if $isActive }} is-primary{{ else }} is-dark{{ end }}" href="{{ .RelPermalink }}">
-              {{ .Title }}
-            </a>
-            {{ end }}
-            {{ end }}
-          </div>
-        </div>
+        {{ range .Pages }}
+        {{ if .Title }}
+        {{ $isActive := eq $url .RelPermalink }}
+        <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .RelPermalink }}">
+          {{ .Title }}
+        </a>
+        {{ end }}
+        {{ end }}
         {{ end }}
         {{ end }}
 
-        <div class="navbar-item">
-          <div class="buttons has-addons">
-            {{ range $menu }}
-            {{ $isActive := hasPrefix $url .URL }}
-            <a class="button{{ if $isActive }} is-primary{{ else }} is-dark{{ end }}" href="{{ .URL }}">
-              {{ .Name }}
-            </a>
-            {{ end }}
-          </div>
-        </div>
+        
       </div>
     </div>
   </div>

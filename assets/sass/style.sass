@@ -22,9 +22,10 @@ $facebook-blue: rgb(60,90,153)
 
 // Bulma variable overrides
 $primary: $k8s-dark-blue
+$secondary: $k8s-light-blue
 $section-padding: 2rem 1.5rem
 $hr-margin: 3rem 0
-$navbar-height: 4rem
+$navbar-height: 5rem
 $navbar-item-img-max-height: $navbar-height * 0.7
 
 @import "bulma/sass/utilities/functions"
@@ -35,7 +36,7 @@ $family-sans-serif: "{{ $sansSerifFont }}", BlinkMacSystemFont, -apple-system, "
 
 @import "bulma/sass/utilities/derived-variables"
 
-$colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue": ($facebook-blue, $white)), $colors)
+$colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue": ($facebook-blue, $white), "secondary": ($secondary, $primary)), $colors)
 
 @import "bulma/bulma"
 

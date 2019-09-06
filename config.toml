@@ -16,6 +16,9 @@ allowed_event_pages = [
     "code-of-conduct"
 ]
 
+[blackfriday]
+hrefTargetBlank = true
+
 [[params.fonts]]
 name = "Lato"
 sizes = [300,400,600,700]
