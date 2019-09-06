@@ -66,23 +66,21 @@
       <xcal:dtend>{{ dateFormat $utc . | safeHTML }}</xcal:dtend>
       {{ end }}
       {{ with .Params.location }}
-      <location>
-        {{ with .country }}
-        <country>
-          {{ . }}
-        </country>
-        {{ end }}
-        {{ with .city }}
-      ` <city>
-          {{ . }}
-        </city>
-        {{ end }}
-        {{ with .venue }}
-        <venue>
-          {{ . }}
-        </venue>
-        {{ end }}
-      </location>
+      {{ with .country }}
+      <country>
+        {{ . }}
+      </country>
+      {{ end }}
+      {{ with .city }}
+      <city>
+        {{ . }}
+      </city>
+      {{ end }}
+      {{ with .venue }}
+      <venue>
+        {{ . }}
+      </venue>
+      {{ end }}
       {{ end }}
 
       {{ with site.Author.email }}<author>{{ . }}{{ with site.Author.name }} ({{ . }}){{ end }}</author>{{ end }}
