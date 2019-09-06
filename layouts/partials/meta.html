@@ -1,5 +1,6 @@
-{{ $isHome        := .IsHome }}
-{{ $pageType      := cond $isHome "website" "article" }}
+{{ $isHome      := .IsHome }}
+{{ $pageType    := cond $isHome "website" "article" }}
+{{ $isEventRoot := and (eq .Section "events") (eq .File.BaseFileName "_index") }}
 <meta charset="utf-8">
 <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
 
@@ -23,3 +24,28 @@
 {{ with .OutputFormats.Get "rss" -}}
 {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{ end -}}
+
+{{ if $isEventRoot }}
+{{ $name     := .Title }}
+{{ $start    := .Date }}
+{{ $desc     := .Params.description }}
+{{ $end      := time .Params.end }}
+{{ $location := .Params.location }}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "{{ $name }}",
+    "startDate": "{{ $start }}",
+    {{ with $desc }}
+    "description": "{{ . }}",
+    {{ end }}
+    {{ with $end }}
+    "endDate": "{{ . }}",
+    {{ end }}
+    "location": {
+      "@type": "Place"
+    }
+  }
+</script>
+{{ end }}
