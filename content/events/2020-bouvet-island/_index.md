@@ -45,7 +45,7 @@ speakers:
 - name: Zee
   image: zee-color.svg
   twitter: https://twitter.com/cloudnativefdn
-  bio: Zee is Phippy's nephew. 
+  bio: Zee is Phippy's neice.
 - name: Captain Kube
   image: captainkube-color.svg
   twitter: https://twitter.com/cloudnativefdn
