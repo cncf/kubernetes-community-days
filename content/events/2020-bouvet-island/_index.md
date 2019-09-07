@@ -40,7 +40,7 @@ speakers:
 - name: Goldie
   image: goldie-color.svg
   twitter: https://twitter.com/cloudnativefdn
-  bio: Goldie is Phippy's best friend. Goldie is the leading expert on Volumnes, which represent a location where containers can access and store information.
+  bio: Goldie is Phippy's best friend. Goldie is a leading expert on Volumes, which represent a location where containers can access and store information.
   homepage: https://phippy.io
 - name: Zee
   image: zee-color.svg
@@ -49,7 +49,7 @@ speakers:
 - name: Captain Kube
   image: captainkube-color.svg
   twitter: https://twitter.com/cloudnativefdn
-  bio: Captain Kube manages a pod on board the ship where Phippy moved her container. He is an expert on The Kubernetes project and is focused on building a robust platform for running thousands of containers in production.
+  bio: Captain Kube manages the ship where Phippy moved her container and is an expert on the Kubernetes project.
   homepage: https://phippy.io
 organizers:
 - name: Non-Public Organization Octopus
@@ -70,3 +70,5 @@ medical_emergency: 112
 ---
 
 Kubernetes Community Day Bouvet Island is going to be the largest ever cloud native event in the Antarctic region, perhaps rivaling [KubeCon San Diego](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) in size.
+
+Please take a look at our exciting [speaker](speaker) lineup. Our event would not be possible without support of our [sponsors](sponsors)
