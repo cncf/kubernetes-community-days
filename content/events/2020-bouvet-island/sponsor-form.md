@@ -1,5 +1,5 @@
 ---
-title: Sponsor Contract
+title: Sponsor Form
 ---
 **Kubernetes Days Bouvet Island* 
 
