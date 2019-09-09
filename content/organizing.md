@@ -31,11 +31,9 @@ Keep in mind, Kubernetes Community Day events are visionary, educational, and pr
 * At least one organizer is a CNCF Member employee, Ambassador, or CNCF Project Maintainer
 * You have a method to accept payments including sponsorships and to payout expenses
 * All organizers have signed off to the event guidelines and CNCF Code of Conduct
-* Local event website will be hosted on Kubernetes Community Days site 
 * Organizers are local to the event location
 
 Once your organizing team has signed off on the event guidelines and completed the Getting Started checklist, create an [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=newevent&template=host.md) to get your event officially recognized. The event team will be invited to the Kubernetes Community Days Event Organizers Slack channel where you can connect with other Kubernetes Community Days organizers around the world. You can then begin creating your website, by copying the page structure of the [Bouvet Island](https://kubernetescommunitydays.org/events/2020-bouvet-island/) event. Here are directions to do so.
-
 
 ## Event Details 
 Most events are developer-focused. Some are more focused on business issues and cloud strateg, 
@@ -56,7 +54,6 @@ Please post your logo in SVG format, as [explained](https://www.cncf.io/blog/201
 * Consider offering special pricing such as early bird registration and promotional pricing
 * The event must be at least a one day long
 * Set and monitor bank accounts, online payments (PayPal, etc.) and registration (Eventbrite)
-
 * Attendance needs to be available to anyone until the availaibty capacity is sold out 
 * The attendee list may not be used for commercial or marketing purposes. It may only be used to advertise that specific Kubernetes Community Day or further iterations of it. The list may not be shared with third parties who are not directly involved in organizing the event. Please review the [Kubernetes Community Privacy Policy Statement](http://www.Kubernetes Community.org/privacy).
 * Sponsors are allowed to collect attendee information at their tables
