@@ -36,15 +36,7 @@ Keep in mind, Kubernetes Community Day events are visionary, educational, and pr
 Once your organizing team has signed off on the event guidelines and completed the Getting Started checklist, create an [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=newevent&template=host.md) to get your event officially recognized. The event team will be invited to the Kubernetes Community Days Event Organizers Slack channel where you can connect with other Kubernetes Community Days organizers around the world. You can then begin creating your website, by copying the page structure of the [Bouvet Island](https://kubernetescommunitydays.org/events/2020-bouvet-island/) event. Here are directions to do so.
 
 ## Event Details 
-Most events are developer-focused. Some are more focused on business issues and cloud strateg, 
-
-Similar events have 100-400 attendees. Most start small and grow each year. 
-
-The overarching rule about content is that Kubernetes Community Days are not to be used for commercial pitches. Any platforms or tools you are describing need to be open source.
-
-That said, many (most?) talks will be about how companies relied on open source technologies to improve their processes.
-
-If the event creates a profit, it needs to be held and reinvested in future years. Organizers should aim to get all of their actual expenses reimbursed, but not their time.
+Most events are developer-focused. Some are more focused on business issues and cloud strateg. Similar events have 100-400 attendees. Most start small and grow each year. The overarching rule about content is that Kubernetes Community Days are not to be used for commercial pitches. Any platforms or tools you are describing need to be open source. That said, many (most?) talks will be about how companies relied on open source technologies to improve their processes. If the event creates a profit, it needs to be held and reinvested in future years. Organizers should aim to get all of their actual expenses reimbursed, but not their time.
 
 ## Logos and Trademarks
 Once your event has been accepted (i.e., shows up on [kubernetescommunitydays.org](https://kubernetescommunitydays.org)), you are authorized by CNCF to use that name (e.g., Kubernetes Community Days Bouvet Island). We encourage you to design a custom logo for your event. Please note that the logo can’t include all or part of the Kubernetes wheel, but does need to include the event name. You are welcome to include the CNCF logo in your event logo and graphics, and you’re also welcome to use [Phippy](https://phippy.io/) and friends (high-res versions available in the artwork [repo](https://github.com/cncf/artwork/blob/master/examples/other.md#phippy--friends-group-logos)).
