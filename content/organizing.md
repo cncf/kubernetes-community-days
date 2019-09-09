@@ -36,6 +36,7 @@ Keep in mind, Kubernetes Community Day events are visionary, educational, and pr
 * One organizer is a CNCF Member employee, Ambassador, or CNCF Project Maintainer
 * Method to accept payments including sponsorships and payout expenses
 * All organizers signed off to the event guidelines and CNCF Code of Conduct
+* Local event website hosted on Kubernetes Community Days site 
 
 Once your organizing team has signed off on the event guidelines and completed the Getting Started checklist, create an [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=newevent&template=host.md) to get your event officially recognized. Cloud Native Computing Foundation will set up a placeholder website. The event team will be invited to the Kubernetes Community Days Event Organizers Slack channel where you can connect with other Kubernetes Community Days organizers around the world.
 
