@@ -6,9 +6,6 @@ Kubernetes Community Days are community-organized events that gather adopters an
 
 We would like to give a generous thank you to [DevOpsDays](https://devopsdays.org) and [OpenStack Days](https://www.openstack.org) for their guidance and inspiration,  and in particular for providing the basis of this document.
                       
-## Core Organizers
-[Dan Kohn](https://www.dankohn.com), Chris Blum, Jennifer Davis
-
 # Interested in Hosting a Kubernetes Community Days?
 ## Contact a specific event
 Kubernetes Community Days organization is decentralized. Local events handle their own sponsorships, registration, and all other logistics. For questions about a specific event you see listed on the site, contact the local organizers for that event; their email is on their contact page.
@@ -67,28 +64,33 @@ Once your event has been accepted (i.e., shows up on [kubernetescommunitydays.or
 Please post your logo in SVG format, as [explained](https://www.cncf.io/blog/2019/07/17/what-image-formats-should-you-be-using-in-2019/) in this blog post.
  
 # Kubernetes Community Days Branding:  
-* All event promotions must be called Kubernetes Community Days Bouvet Island, with Buovet Island replaced by the location of the event. 
+* All events must be called "Kubernetes Community Days Bouvet Island", with Bouvet Island replaced by the location of your event.
 
 # Assembling Your Team
-In the Kubernetes Community Days spirit of collaboration, find people in your region that want to help you run the next awesome event. For your local organizing team, we suggest you have  focus on specific areas.
+The [timeline](/organizing-timeline) includes recommendations on when to focus on different issues. We recommend assigning the following responsibilities to one or two members of your organizing team:
 
-* Person/Pair managing finance and budgeting, [learn more](organizing-budget-finances) 
-* Person/Pair managing marketing and promotion, [learn more](organizing-marketing-promotion) 
-* Person/Pair managing sponsors, [learn more](organizing-finding-sponsors)
-* Person/Pair managing CFP proposals, [learn more](organizing-manage-speakers)
-* Person/Pair managing website updates
-* Person/Pair managing registration
-* Person/Pair managing venue, catering, local things, hotel, [learn more](/organizing-timeline)
-* Person/Pair managing t-shirts, swag
-* Person/Pair managing evening event logistics
+* [Finance and budgeting](organizing-budget-finances) 
+* [Marketing and promotion](organizing-marketing-promotion) 
+* [Sponsors](organizing-finding-sponsors)
+* [Call for Proposals (CFP) and schedule](organizing-manage-speakers)
+* Website updates
+* Registration
+* Venue, catering, local activities, and the hotel
+* T-shirts and other swag
+* Evening event logistics
 
 # Kubernetes Community Days Planning Tools
 
-* [Conference Planning Guide](/organizing-timeline). Use this document to plan out the event timeline. 
-* [Conference Action Items and Checklist](https://drive.google.com/open?id=1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI). Make a copy of this Google Doc to use as a template for check-in meetings to ensure everyone is on task for a successful event. 
-* [Sponsorship Letter](/organizing-sponsorletter). Use this letter to send out to prospective sponsors.
-* [Sample Sponsorship Prospectus](/organizing-sponsor-contract). Use this template to send to prospective sponsors and post on the event website. 
-* [Sample Invoice](https://docs.google.com/document/d/1Rbc8hvBgbO55asEQzzAHkpvSU2ogl52NmWq1-NhBYdY/edit). Make a copy of this Google Doc to use as a template to use to invoice sponsors. 
-* [Sample Call for Proposals](/organizing-cfp). Use this template to send out to potential speakers
-* [CNCF Speakers Bureau](https://www.cncf.io/speakers/).  The CNCF Community Speaker’s Bureau helps connect event organizers with speakers with a variety of expertise within the cloud native ecosystem. 
-* [Kubernetes Community Days Logo and Digital Assets](https://github.com/cncf/artwork). Use these logos to create a unique logo for the event. 
+* [Conference Planning Guide](/organizing-timeline) to plan out the event timeline. 
+* [Conference Action Items and Checklist](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit) (Google Spreadsheet) to use as a template for check-in meetings to ensure everyone is on task for a successful event.
+* [Sponsorship Letter](/organizing-sponsorletter) to send out to prospective sponsors.
+* [Sponsorship Prospectus](/organizing-sponsor-contract) as a template to send to prospective sponsors and post on the event website. 
+* [Sample Invoice](https://docs.google.com/document/d/1Rbc8hvBgbO55asEQzzAHkpvSU2ogl52NmWq1-NhBYdY/edit) (Google Spreadsheet) to use as a template to use to invoice sponsors. 
+* [Sample Call for Proposals](/organizing-cfp) to use this template to send out to potential speakers
+* [CNCF Speakers' Bureau](https://www.cncf.io/speakers/) to connect with speakers with a variety of expertise within the cloud native ecosystem. 
+* [CNCF Digital Assets](https://github.com/cncf/artwork) that you can use in your event promotions. 
+
+## Core Organizers
+[Dan Kohn](https://www.dankohn.com), [Chris Blum](https://twitter.com/chrisvblum), [Jennifer Davis](https://twitter.com/sigje)
+
+You can reach us on CNCF Slack. Create a free [account](https://slack.cncf.io) and come to channel [#kcd-formation](https://cloud-native.slack.com/messages/CN6LBV16G)
