@@ -24,20 +24,22 @@ CNCF helps support Kubernetes Community Days with guidance and promotion. This d
 * At least one organizer is a CNCF member employee, [Ambassador](https://www.cncf.io/people/ambassadors/), or CNCF project [maintainer](https://docs.google.com/spreadsheets/u/1/d/1Pr8cyp8RLrNGx9WBAgQvBzUUmqyOv69R7QAFKhacJEM/)
 * You have a method to accept payments, including sponsorships, and to pay out expenses
 * All organizers have agreed to these event guidelines and to abide by the Kubernetes Community Day [Code of Conduct](code-of-conduct/)
+* Event date must be a minimum of 6 months from the day you submit your request, with 9 months being ideal for [planning]((https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit) 
+* Use [Eventbrite](https://www.eventbrite.com/) for registration
 
 Once your organizing team is arranged and meets these criteria, create an [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=newevent&template=host.md) to get your event officially recognized. Your organizing team will be invited to the [#kcd-organizers](https://cloud-native.slack.com/messages/GN6R2PV1A) private Slack channel where you can connect with other Kubernetes Community Days organizers around the world. You can then begin creating your website, by copying the page structure of the [Bouvet Island](https://kubernetescommunitydays.org/events/2020-bouvet-island/) event. Here are [directions](/organizing-creating-website) to do so.
 
 ## Event Details 
 
-Most events are developer-focused. Some are more focused on business issues and cloud strategy. Events normally have 100-400 attendees. Most start small and grow each year. The overarching rule about content is that Kubernetes Community Days are not to be used for commercial pitches. Any platforms or tools you are describing need to be open source. That said, many (most?) talks will be about how companies relied on open source technologies to improve their processes. If the event creates a profit, it needs to be held and reinvested in future years. Organizers should aim to get all of their actual expenses reimbursed, but not their time.
+Most events are developer-focused. Some are more focused on business issues and cloud strategy. Events normally have 100-400 attendees. Most start small and grow each year. The overarching rule about content is that Kubernetes Community Days are not to be used for commercial pitches. Any platforms or tools you are describing the need to be open source. That said, many (most?) talks will be about how companies relied on open source technologies to improve their processes. If the event creates a profit, it needs to be held and reinvested in future years. Organizers should aim to get all of their actual expenses reimbursed, but not their time.
 
 Other considerations:
 
 * Encourage bold, innovative, thought-provoking subjects
 * Events usually have four 30-minute talks per day
 * Open space sessions are scheduled during the conference, not ahead of time. You should have attendees vote on topics during the event.
-* The event needs to be at least a one day long
-* We recommend offering lower, early bird registration
+* The event needs to be at least one day long
+* We recommend offering lower, early-bird registration
 * Registration and sponsorship needs to be available to anyone until the available capacity sells out 
 * Encourage interaction
 * The attendee list may not be used for commercial or marketing purposes. It may only be used to advertise that specific Kubernetes Community Day or further iterations of it. The list may not be shared with third parties who are not directly involved in organizing the event. Please review the [Privacy Policy Statement](https://www.linuxfoundation.org/privacy/).
@@ -53,10 +55,10 @@ All events must be called "Kubernetes Community Days Bouvet Island", with Bouvet
 # Assembling Your Team
 The [timeline](organizing-timeline) includes recommendations on when to focus on different issues. We recommend assigning the following responsibilities to one or two members of your organizing team:
 
-* [Finance and budgeting](organizing-budget-finances) 
-* [Marketing and promotion](organizing-marketing-promotion) 
-* [Sponsors](organizing-finding-sponsors)
-* [Call for Proposals (CFP) and schedule](organizing-manage-speakers)
+* [Finance and budgeting](/organizing-budget-finances) 
+* [Marketing and promotion](/organizing-marketing-promotion) 
+* [Sponsors](/organizing-finding-sponsors)
+* [Call for Proposals (CFP) and schedule](/organizing-manage-speakers)
 * Website updates
 * Registration
 * Venue, catering, local activities, and the hotel
