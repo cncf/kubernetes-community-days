@@ -4,67 +4,51 @@ title: Organize a Kubernetes Community Days
 # About Kubernetes Community Days 
 Kubernetes Community Days are community-organized events that gather adopters and technologists from open source and cloud native communities to learn, collaborate, and network to further adoption and improvement of Kubernetes. They are supported by the Cloud Native Computing Foundation (CNCF). They also are a lot of fun and a great way to meet new people and build community. Each event brings its own local flair, culture, diversity, and authenticity.  
 
-We would like to give a generous thank you to [DevOpsDays](https://devopsdays.org) and [OpenStack Days](https://www.openstack.org) for their guidance and inspiration,  and in particular for providing the basis of this document.
+We would like to give a hearty thank you to [DevOpsDays](https://devopsdays.org) and [OpenStack Days](https://www.openstack.org) for their guidance and inspiration and, in particular, for providing the basis of this document.
                       
 # Interested in Hosting a Kubernetes Community Days?
-## Contact a specific event
-Kubernetes Community Days organization is decentralized. Local events handle their own sponsorships, registration, and all other logistics. For questions about a specific event you see listed on the site, contact the local organizers for that event; their email is on their contact page.
 
-Check to see if there is a Kubernetes Community Days event scheduled in your area on the events page. If there is an event scheduled, please reach out to the organizers to express your interest in helping. You can find a list of current events being planned on the website along with contact details for the organizers.
+Kubernetes Community Days organization is decentralized. Local events handle their own sponsorships, registration, and all other logistics. Check to see if there is a Kubernetes Community Days event scheduled in your area on the events page. If there is already an event scheduled, please reach out to the organizers to express your interest in helping. Their email is on the contact page of their event.
 
-If there isn’t an event being organized, the first step in building out a successful event is assembling a team. You’ll need at minimum 3 other organizers from at least 2 different organizations.  Ideally, you’ll have 5 or more organizers. One of the organizers must be a CNCF Member employee, Ambassador, or CNCF project maintainer. You can often find local community members who may be interested in helping to organize or volunteer at local user groups and Meetups, such as the [CNCF Meetup groups](https://www.meetup.com/pro/cncf/).
+If there isn’t an event being organized, the first step in building out a successful event is assembling a team. You can often find local community members who may be interested in helping to organize or volunteer at local user groups and Meetups, such as the [CNCF Meetup groups](https://www.meetup.com/pro/cncf/).
 
-Check the GitHub Repo [project board](https://github.com/cncf/kubernetes-community-days/projects/2) for other individuals who have expressed an interest in organizing an event in your area. If there are no GitHub issues for your area, create an [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=planningevent&template=interest.md) to express an interest in organizing an event in your area. 
+Check the GitHub Repo [project board](https://github.com/cncf/kubernetes-community-days/projects/2) for other individuals who have expressed an interest in organizing an event in your area. If there are no GitHub issues for your area, create an [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=planningevent&template=interest.md) to express your interest in organizing an event in your area. 
 
-CNCF helps support Kubernetes Community Days with guidance and promotion. We will cover all the key aspects of holding an event in the sections below, with break out documents for extended sections. 
-
-Keep in mind, Kubernetes Community Day events are visionary, educational, and provide user-driven content. Organizers need to avoid sales pitches in crafting the program for their event. Kubernetes Community Days events are inclusive. This also means making reasonable efforts to support others in the community who want to help organize, attend, or sponsor, regardless of their organizations affiliation.
+CNCF helps support Kubernetes Community Days with guidance and promotion. This document and the ones it links to cover all the aspects of holding a successful event. Please keep in mind that Kubernetes Community Day events are focused on community engagement. Organizers and speakers need to avoid sales pitches in crafting the program for their event. Kubernetes Community Days events are inclusive. This also means making reasonable efforts to work with others in the community who want to help organize, attend, or sponsor, regardless of their organizational affiliation.
 
 ## Getting Started Checklist
 
 * No other Kubernetes Community Day event in the local area
-* Minimum of 3 organizers from 2 different organizations
-* At least one organizer is a CNCF Member employee, Ambassador, or CNCF project maintainer
-* You have a method to accept payments including sponsorships and to payout expenses
-* All organizers have signed off to the event guidelines and [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
+* Minimum of 3 organizers from 2 different organizations, and ideally 5 or more organizers
 * Organizers are local to the event location
+* At least one organizer is a CNCF member employee, [Ambassador](https://www.cncf.io/people/ambassadors/), or CNCF project [maintainer](https://docs.google.com/spreadsheets/u/1/d/1Pr8cyp8RLrNGx9WBAgQvBzUUmqyOv69R7QAFKhacJEM/)
+* You have a method to accept payments, including sponsorships, and to pay out expenses
+* All organizers have agreed to these event guidelines and to abide by the Kubernetes Community Day [Code of Conduct](code-of-conduct/)
 
-Once your organizing team has signed off on the event guidelines and completed the Getting Started checklist, create an [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=newevent&template=host.md) to get your event officially recognized. The event team will be invited to the Kubernetes Community Days Event Organizers Slack channel where you can connect with other Kubernetes Community Days organizers around the world. You can then begin creating your website, by copying the page structure of the [Bouvet Island](https://kubernetescommunitydays.org/events/2020-bouvet-island/) event. Here are [directions](organizing-creating-website) to do so.
+Once your organizing team is arranged and meets these criteria, create an [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=newevent&template=host.md) to get your event officially recognized. Your organizing team will be invited to the [#kcd-organizers](https://cloud-native.slack.com/messages/GN6R2PV1A) private Slack channel where you can connect with other Kubernetes Community Days organizers around the world. You can then begin creating your website, by copying the page structure of the [Bouvet Island](https://kubernetescommunitydays.org/events/2020-bouvet-island/) event. Here are [directions](/organizing-creating-website) to do so.
 
 ## Event Details 
-Most events are developer-focused. Some are more focused on business issues and cloud strategy.
 
-Similar events have 100-400 attendees. Most start small and grow each year. 
-
-The overarching rule about content is that Kubernetes Community Days are not to be used for commercial pitches. Any platforms or tools you are describing need to be open source.
-
-That said, many (most?) talks will be about how companies relied on open source technologies to improve their processes.
-
-If the event creates a profit, it needs to be held and reinvested in future years. Organizers should aim to get all of their actual expenses reimbursed, but not their time.
+Most events are developer-focused. Some are more focused on business issues and cloud strategy. Events normally have 100-400 attendees. Most start small and grow each year. The overarching rule about content is that Kubernetes Community Days are not to be used for commercial pitches. Any platforms or tools you are describing need to be open source. That said, many (most?) talks will be about how companies relied on open source technologies to improve their processes. If the event creates a profit, it needs to be held and reinvested in future years. Organizers should aim to get all of their actual expenses reimbursed, but not their time.
 
 Other considerations:
 
 * Encourage bold, innovative, thought-provoking subjects
 * Events usually have four 30-minute talks per day
-* Open space sessions are scheduled during the conference, not ahead of time (have attendees vote on topics during the event)
-* Consider offering special pricing such as early bird registration and promotional pricing
-* The event must be at least a one day long
-* Set and monitor bank accounts, online payments (PayPal, etc.), and registration (Eventbrite)
-* Attendance needs to be available to anyone until the availaibty capacity is sold out 
-* Always sensitive and appropriate
-* Have fun and promote fun
+* Open space sessions are scheduled during the conference, not ahead of time. You should have attendees vote on topics during the event.
+* The event needs to be at least a one day long
+* We recommend offering lower, early bird registration
+* Registration and sponsorship needs to be available to anyone until the available capacity sells out 
 * Encourage interaction
 * The attendee list may not be used for commercial or marketing purposes. It may only be used to advertise that specific Kubernetes Community Day or further iterations of it. The list may not be shared with third parties who are not directly involved in organizing the event. Please review the [Privacy Policy Statement](https://www.linuxfoundation.org/privacy/).
 * Sponsors are allowed to collect attendee information at their tables
-* We recommend event organizers add the following statement to the registration page: “Personal information gathered by the organizers is handled in accordance with the Foundation’s Privacy Policy and is used for internal purposes only.  The Kubernetes Community Privacy Policy is available at [Privacy Policy Statement](https://www.linuxfoundation.org/privacy/).
 
 ## Logos and Trademarks
-Once your event has been accepted (i.e., shows up on [kubernetescommunitydays.org](https://kubernetescommunitydays.org)), you are authorized by CNCF to use that name (e.g., Kubernetes Community Days Bouvet Island). We encourage you to design a custom logo for your event. Please note that the logo can’t include all or part of the Kubernetes wheel, but does need to include the event name. You are welcome to include the CNCF logo in your event logo and graphics, and you’re also welcome to use [Phippy](https://phippy.io/) and friends (high-res versions available in the artwork [repo](https://github.com/cncf/artwork/blob/master/examples/other.md#phippy--friends-group-logos)).
+Once your event has been accepted, you are authorized by CNCF to use that name (e.g., Kubernetes Community Days Bouvet Island). We encourage you to design a custom logo for your event. Please note that the logo can’t include all or part of the Kubernetes wheel, but does need to include the event name. You are welcome to include the CNCF logo in your event logo and graphics, and you’re also welcome to use [Phippy](https://phippy.io/) and friends (high-res versions available in the artwork [repo](https://github.com/cncf/artwork/blob/master/examples/other.md#phippy--friends-group-logos)).
 
 Please post your logo in SVG format, as [explained](https://www.cncf.io/blog/2019/07/17/what-image-formats-should-you-be-using-in-2019/) in this blog post.
  
-# Kubernetes Community Days Branding:  
-* All events must be called "Kubernetes Community Days Bouvet Island", with Bouvet Island replaced by the location of your event.
+All events must be called "Kubernetes Community Days Bouvet Island", with Bouvet Island replaced by the location of your event.
 
 # Assembling Your Team
 The [timeline](/organizing-timeline) includes recommendations on when to focus on different issues. We recommend assigning the following responsibilities to one or two members of your organizing team:
