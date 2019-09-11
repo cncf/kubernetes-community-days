@@ -53,7 +53,7 @@ Please post your logo in SVG format, as [explained](https://www.cncf.io/blog/201
 All events must be called "Kubernetes Community Days Bouvet Island", with Bouvet Island replaced by the location of your event.
 
 # Assembling Your Team
-The [timeline](organizing-timeline) includes recommendations on when to focus on different issues. We recommend assigning the following responsibilities to one or two members of your organizing team:
+The [timeline](/organizing-timeline) includes recommendations on when to focus on different issues. We recommend assigning the following responsibilities to one or two members of your organizing team:
 
 * [Finance and budgeting](/organizing-budget-finances) 
 * [Marketing and promotion](/organizing-marketing-promotion) 
