@@ -2,7 +2,7 @@
 Basic Guidelines
 
 * Encourage bold, innovative, thought-provoking subjects
-* Events usually have four 30-minute talks per day + ignite talks
+* Events usually have four 30-minute talks per day
 * Open space sessions are scheduled during the conference, not ahead of time (have attendees vote on topics during the event)
 * Always sensitive and appropriate
 * Have fun and promote fun
