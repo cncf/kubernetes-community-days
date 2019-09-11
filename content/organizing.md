@@ -4,11 +4,11 @@ title: Organize a Kubernetes Community Days
 # About Kubernetes Community Days 
 Kubernetes Community Days are community-organized events that gather adopters and technologists from open source and cloud native communities to learn, collaborate, and network to further adoption and improvement of Kubernetes. They are supported by the Cloud Native Computing Foundation (CNCF). They also are a lot of fun and a great way to meet new people and build community. Each event brings its own local flair, culture, diversity, and authenticity.  
 
-We would like to give a hearty thank you to [DevOpsDays](https://devopsdays.org) and [OpenStack Days](https://www.openstack.org) for their guidance and inspiration and, in particular, for providing the basis of this document.
+We would like to give a hearty thank you to [DevOpsDays](https://devopsdays.org) and [OpenStack Days](https://www.openstack.org/community/events/openstackdays) for their inspiration and, in particular, for providing the basis of this document.
                       
 # Interested in Hosting a Kubernetes Community Days?
 
-Kubernetes Community Days organization is decentralized. Local events handle their own sponsorships, registration, and all other logistics. Check to see if there is a Kubernetes Community Days event scheduled in your area on the events page. If there is already an event scheduled, please reach out to the organizers to express your interest in helping. Their email is on the contact page of their event.
+Kubernetes Community Days are decentralized. Local events handle their own sponsorships, registration, and all other logistics. Check to see if there is a Kubernetes Community Days event scheduled in your area on the events page. If there is already an event scheduled, please reach out to the organizers to express your interest in helping. Their email is on the contact page of their event.
 
 If there isn’t an event being organized, the first step in building out a successful event is assembling a team. You can often find local community members who may be interested in helping to organize or volunteer at local user groups and Meetups, such as the [CNCF Meetup groups](https://www.meetup.com/pro/cncf/).
 
