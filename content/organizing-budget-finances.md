@@ -16,8 +16,7 @@ Role of finance team/lead
 Finance management options
 The way many  organizers have handled money management is to find a local company that is willing to handle the logistics. In some countries, a local company is the only way to handle the taxes.
 
-Option 1: One of the organizer's companies serve as the financial sponsor.
-They will need to be able to do the following:
+Option 1: One of the organizer's companies serve as the financial sponsor. They will need to be able to do the following:
 
 * Have a way to collect all the money from sponsors and registration (PayPal, Eventbrite, etc.)
 * Invoice sponsors 
