@@ -19,8 +19,8 @@ Basic Guidelines
  * Contact organizations like [Women Who Code](https://www.womenwhocode.com/) and [Black Girls Code](http://www.blackgirlscode.com/)
  * Check relevant meetups for past speakers
   * Consider bringing in speakers from outside the region to improve diversity
-* Kubernetes Community Days follow the Linux Foundation policy of prohibiting all male panels. Since speakers sometimes need to cancel at the least minute, aim for two or more women on a panel so you won’t need to cancel it if one woman is unable to attend.
-* Announce the Call for Proposals (CFP) as early as possible - including open date, close date, and the date people will be informed of selection
+* Kubernetes Community Days follow the Linux Foundation policy of prohibiting all-male panels. Since speakers sometimes need to cancel at the least minute, aim for two or more women on a panel so you won’t need to cancel it if one woman is unable to attend.
+* Announce the Call for Proposals (CFP) as early as possible - including open date, close date, and the date people will be informed of the selection
  * People will usually need at least 4-6 weeks to arrange for travel or time off
  * Keep the call for papers open for at least a month
  * Allow 2 weeks to consider proposals and fill in any gaps
@@ -29,7 +29,7 @@ Basic Guidelines
 ## Judging proposals
 
 * To minimize bias, create a reasonable proposal rating system
-* Set a point scale for each of the proposal points (e.g. originality, big idea, new speaker, high quality speaker) and award each proposal points on the scale then aggregate points for scores
+* Set a point scale for each of the proposal points (e.g. originality, big idea, new speaker, high-quality speaker) and award each proposal points on the scale then aggregate points for scores
 * Publish the proposal rating systems and be transparent about it
 * Publish the names of the programming committee
 * Be prepared to explain any programming decisions
@@ -48,5 +48,5 @@ Basic Guidelines
 * Identify all A/V requirements for each presentation
  * Do they need video playback?
  * Live coding?
-* The day of event make sure to check in with all speakers and ensure they are OK
+* The day of the event make sure to check in with all speakers and ensure they are OK
 * Post-event, provide constructive feedback on the speaker’s presentation with concrete advice
