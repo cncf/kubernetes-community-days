@@ -8,6 +8,7 @@ Basic guidelines
 * Allow 10% overage as there are often unexpected costs
 
 Role of finance team/lead
+
 * Invoicing sponsors and accepting their payments.
 * Accepting money from and (as needed) sending official invoices to people that register
 * Paying suppliers like the venue, catering, T-shirts, etc.
@@ -15,8 +16,10 @@ Role of finance team/lead
 Finance management options
 The way many  organizers have handled money management is to find a local company that is willing to handle the logistics. In some countries, a local company is the only way to handle the taxes.
 
-Option 1: One of the organizer's companies serve as the financial sponsor. They will need to be able to do the following:
-* Have a way to collect all the money from sponsors and registration (paypal, eventbrite, etc.)
+Option 1: One of the organizer's companies serve as the financial sponsor.
+They will need to be able to do the following:
+
+* Have a way to collect all the money from sponsors and registration (PayPal, Eventbrite, etc.)
 * Invoice sponsors 
 * Pay suppliers like the venue, catering, T-shirts, etc.
 
