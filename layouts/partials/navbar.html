@@ -44,7 +44,7 @@
         </a>
 
         {{ range .Pages }}
-        {{ if .Title }}
+        {{ if and .Title (in $allowed .File.BaseFileName) }}
         {{ $isActive := eq $url .RelPermalink }}
         <a class="navbar-item is-tab has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .RelPermalink }}">
           {{ .Title }}
