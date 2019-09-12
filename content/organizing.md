@@ -21,10 +21,10 @@ CNCF helps support Kubernetes Community Days with guidance and promotion. This d
 * No other Kubernetes Community Day event in the local area
 * Minimum of 3 organizers from 2 different organizations, and ideally 5 or more organizers
 * Organizers are local to the event location
-* At least one organizer is a CNCF member employee, [Ambassador](https://www.cncf.io/people/ambassadors/), or CNCF project [maintainer](https://docs.google.com/spreadsheets/u/1/d/1Pr8cyp8RLrNGx9WBAgQvBzUUmqyOv69R7QAFKhacJEM/)
+* At least one organizer is an employee of a CNCF [member](https://www.cncf.io/about/members/), an [Ambassador](https://www.cncf.io/people/ambassadors/), or a CNCF project [maintainer](https://docs.google.com/spreadsheets/u/1/d/1Pr8cyp8RLrNGx9WBAgQvBzUUmqyOv69R7QAFKhacJEM/)
 * You have a method to accept payments, including sponsorships, and to pay out expenses
 * All organizers have agreed to these event guidelines and to abide by the Kubernetes Community Day [Code of Conduct](code-of-conduct/)
-* Event date must be a minimum of 6 months from the day you submit your request, with 9 months being ideal for [planning](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit) 
+* Event date must be a minimum of 6 months from the day you submit your request, with 9 months being preferable 
 * Use [Eventbrite](https://www.eventbrite.com/) for registration
 
 Once your organizing team is arranged and meets these criteria, create an [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=newevent&template=host.md) to get your event officially recognized. Your organizing team will be invited to the [#kcd-organizers](https://cloud-native.slack.com/messages/GN6R2PV1A) private Slack channel where you can connect with other Kubernetes Community Days organizers around the world. You can then begin creating your website, by copying the page structure of the [Bouvet Island](https://kubernetescommunitydays.org/events/2020-bouvet-island/) event. Here are [directions](/organizing-creating-website) to do so.
