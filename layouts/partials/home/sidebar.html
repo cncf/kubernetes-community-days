@@ -71,9 +71,8 @@
           <ul class="events">
             {{ range .Pages }}
             {{ $start := dateFormat "Jan 2" .Date }}
-            {{ $end   := dateFormat "2" (time .Params.end) }}
             <li>
-              {{ $start }}
+              {{ $start }}{{ with .Params.end }}&ndash;{{ dateFormat "2" (time .) }}{{ end }}
               &nbsp;
               <a href="{{ .RelPermalink }}">
                 {{ .Params.location.city }}
