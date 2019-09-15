@@ -7,7 +7,7 @@
 {{ $section := .CurrentSection }}
 {{ $url     := .RelPermalink }}
 {{ $allowed := site.Params.allowed_event_pages }}
-<nav class="navbar is-fixed-top has-shadow">
+<nav class="navbar is-fixed-top{{ if not $isHome }} has-shadow{{ end }}">
   <div class="container">
     <div class="navbar-brand">
       {{ if not $isHome }}
