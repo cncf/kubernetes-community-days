@@ -8,7 +8,7 @@ location:
   url: https://hultcenter.org/
   venue: Hult Center
 social:
-  twitter: 'https://twitter.com/
+  twitter: 'https://twitter.com/'
 sponsors:
 - level: diamond
   orgs:
