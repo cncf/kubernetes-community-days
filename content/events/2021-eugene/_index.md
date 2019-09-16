@@ -1,12 +1,12 @@
 ---
-title: Kubernetes Community Day Bouvet Island
+title: Kubernetes Community Day Eugene
 date: '2021-01-01'
 end: '2021-01-02'
 location:
-  country: Antarctica
-  city: Bouvet Island
+  country: United States
+  city: Eugene
   url: https://en.wikipedia.org/wiki/Bouvet_Island
-  venue: Igloo 74
+  venue:Hult Center
 social:
   twitter: 'https://twitter.com/Bouvet_3Y0Z'
 sponsors:
