@@ -6,7 +6,7 @@ location:
   country: United States
   city: Eugene
   url: https://en.wikipedia.org/wiki/Bouvet_Island
-  venue:Hult Center
+  venue: Hult Center
 social:
   twitter: 'https://twitter.com/Bouvet_3Y0Z'
 sponsors:
