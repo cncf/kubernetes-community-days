@@ -33,7 +33,7 @@ sponsors:
     url: https://en.wikipedia.org/wiki/Stay_Puft_Marshmallow_Man
 speakers:
 - name: Business woman
-  image: A_Nice_Cartoon_Businesswoman.svg
+  image: A-Nice-Cartoon-Businesswoman.svg
   twitter: https://twitter.com/cloudnativefdn
   bio: This nice business women will be speaking about all things Kubernetes
   homepage: https://phippy.io
