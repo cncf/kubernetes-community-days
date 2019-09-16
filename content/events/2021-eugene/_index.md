@@ -32,10 +32,10 @@ sponsors:
     logo: staypuft.svg
     url: https://en.wikipedia.org/wiki/Stay_Puft_Marshmallow_Man
 speakers:
-- name: Phippy
-  image: phippy-color.svg
+- name: Business woman
+  image: A_Nice_Cartoon_Businesswoman.svg
   twitter: https://twitter.com/cloudnativefdn
-  bio: Phippy is a simple PHP app, trying to find a home in a cloud native world.
+  bio: This nice business women will be speaking about all things Kubernetes
   homepage: https://phippy.io
 - name: Goldie
   image: goldie-color.svg
