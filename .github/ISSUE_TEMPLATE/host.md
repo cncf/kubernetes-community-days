@@ -5,7 +5,7 @@ assignees: christinevblum, iennae
 about: 'Use this form to express interest or host a Kubernetes Community Days event in your area'
 ---
 
-If you do not have a your team assembled, please describe the location you're interested in organizing an event, proposed dates, and information about your availability and experience with hosting a conference. If you have additional organizers and volunteers, include their information here as well. Continue to update the issue when you add new organizers and sponsors until you are ready to commit to hosting, then complete the submission checklist below. 
+If you do not have your team assembled, please describe the location you're interested in organizing an event, proposed dates, and information about your availability and experience with hosting a conference. If you have additional organizers and volunteers, include their information here as well. Continue to update the issue when you add new organizers and sponsors until you are ready to commit to hosting, then complete the submission checklist below. 
 
 ### Event City:
 ### Organizer 1: First and Last Name, Company, Title, Email 
@@ -22,7 +22,7 @@ Once you have identified your 3 organizers, 2 sponsors, please complete the info
 * [ ] Minimum of 3 organizers from 3 different organizations
 * [ ] No other Kubernetes Community Days event in the same city
 
-**Please include all the organizers following the format specified. At minimum, you must have 3 organizers from 3 different organizations.**
+**Please include all the organizers following the format specified. At a minimum, you must have 3 organizers from 3 different organizations.**
 
 ### Organizer 1: First and Last Name, Company, Title, Email 
 ### Organizer 2: First and Last Name, Company, Title, Email
