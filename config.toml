@@ -35,6 +35,11 @@ url = "/code-of-conduct"
 weight = 2
 
 [[menu.navbar]]
-name = "CFPs"
-url = "/speaker-cfps"
+name = "Speaking"
+url = "/speaking"
 weight = 3
+
+[[menu.navbar]]
+name = "Sponsoring"
+url = "/sponsoring"
+weight = 4

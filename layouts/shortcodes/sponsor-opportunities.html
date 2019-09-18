@@ -12,7 +12,7 @@
         City
       </th>
       <th>
-        CFP closes
+        Sponsor deadline
       </th>
       <th>
         Event starts
@@ -21,8 +21,8 @@
   </thead>
   <tbody>
     {{ range $events }}
-    {{ if .Params.cfp_deadline }}
-    {{ $cfp   := time .Params.cfp_deadline }}
+    {{ if .Params.sponsor_deadline }}
+    {{ $cfp   := time .Params.sponsor_deadline }}
     {{ $start := dateFormat "January 1, 2006" .Date }}
     {{ if ($cfp.After now) }}
     <tr>

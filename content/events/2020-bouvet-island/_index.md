@@ -67,7 +67,7 @@ organizers:
 organizers_email: organizers-bouvet-island-2020@kubernetescommunitydays.org
 local_law_enforcement: 112
 medical_emergency: 112
-speaker_deadline: '2020-09-01'
+cfp_deadline: '2020-09-01'
 sponsor_deadline: '2020-07-14'
 ---
 
