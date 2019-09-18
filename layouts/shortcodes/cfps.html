@@ -25,9 +25,10 @@
     {{ $cfp   := time .Params.cfp_deadline }}
     {{ $start := dateFormat "January 1, 2006" .Date }}
     {{ if ($cfp.After now) }}
+    {{ $cfpUrl := printf "%s/cfp" .RelPermalink | relURL }}
     <tr>
       <td>
-        <a href="{{ .RelPermalink }}">
+        <a href="{{ $cfpUrl }}">
           {{ .Title }}
         </a>
       </td>
