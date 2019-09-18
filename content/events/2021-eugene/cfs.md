@@ -21,18 +21,23 @@ There are plenty of ways to give a presentation about projects and technologies 
 # How to submit your proposal
 We have done our best to make the submission process as simple as possible. Here is what you will need to prepare:
 Choose a submission format:
+
 * Solo Presentation: 35-minute presentation, limited to 1 speaker
 * Dual Presentation: 35-minute presentation, limited to 2 speakers
 * Lightning Talk: A brief, 5-minute presentation, maximum of 1 speaker
 * Panel: 35 minutes of discussion amongst 2 to 5 speakers
 Tutorial: 90-minute, in-depth, hands-on presentation with 1–4 speakers
+
 Note: All submissions with 3–5 speakers are required to have at least one speaker that is a woman and the speakers must not all be from the same company.
-Provide a detailed and focused description with a max of 900 characters. This is what will be used on the online schedule if your talk is accepted.
-Provide more in-depth information in the “Benefits to the Ecosystem” section. This is your opportunity to elaborate on your content and share any more details with the committee with a max of 1,500 characters.
-Provide a biography for all speakers, including previous speaking experience.
+
+* Provide a detailed and focused description with a max of 900 characters. This is what will be used on the online schedule if your talk is accepted.
+* Provide more in-depth information in the “Benefits to the Ecosystem” section. This is your opportunity to elaborate on your content and share any more details with the committee with a max of 1,500 characters.
+* Provide a biography for all speakers, including previous speaking experience.
 Provide resources to enhance your proposal. These can be videos of you or your speakers presenting elsewhere, links to personal websites (including LinkedIn), links to your open source projects, or published books.
-If you choose to submit a tutorial please explicitly mention what the audience will learn from or walk away with after attending your session. Additionally, please indicate what prerequisites (if any) are needed for the attendee to know prior to attending, and if any materials should be brought with them or downloaded ahead of time (i.e. must install Python 2.7.15) prior to attending.
-Submit speaking session to <name>, <email address>. 
+* If you choose to submit a tutorial please explicitly mention what the audience will learn from or walk away with after attending your session. Additionally, please indicate what prerequisites (if any) are needed for the attendee to know prior to attending, and if any materials should be brought with them or downloaded ahead of time (i.e. must install Python 2.7.15) prior to attending.
+* Submit speaking session to <name>, <email address>. 
+
 CODE OF CONDUCT
 The Kubernetes Community Days are dedicated to providing a  harassment-free experience for participants at all of our events. We encourage all submitters to review our complete Code of Conduct.
+
 If you have any questions regarding the process, please contact <name>, <email address>
