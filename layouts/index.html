@@ -14,6 +14,7 @@
     <div class="is-hidden-desktop">
       {{ partial "home/events.html" . }}
       {{ partial "home/sidebar.html" $events }}
+      {{ partial "home/twitter-feed.html" . }}
     </div>
 
     <div class="is-hidden-touch">
@@ -24,6 +25,8 @@
   
         <div class="column">
           {{ partial "home/events.html" . }}
+
+          {{ partial "home/twitter-feed.html" . }}
         </div>
       </div>
     </div>
