@@ -1,4 +1,10 @@
-{{ $events := site.Data.events }}
+{{ $events     := (slice) }}
+{{ $eventPages := where site.Sections "Section" "events" }}
+{{ range $eventPages }}
+{{ range .Sections }}
+{{ $events = $events | append . }}
+{{ end }}
+{{ end }}
 <table>
   <thead>
     <tr>
@@ -15,19 +21,24 @@
   </thead>
   <tbody>
     {{ range $events }}
-    {{ if .cfpdate }}
-    {{ $date := .date | dateFormat "January 2, 2006" }}
+    {{ if .Params.speaker_deadline }}
+    {{ $cfp   := time .Params.speaker_deadline }}
+    {{ $start := dateFormat "January 1, 2006" .Date }}
+    {{ if ($cfp.After now) }}
     <tr>
       <td>
-        {{ .title }}
+        <a href="{{ .RelPermalink }}">
+          {{ .Title }}
+        </a>
       </td>
       <td>
-        {{ .cfpdate }}
+        {{ dateFormat "January 1, 2006" $cfp }}
       </td>
       <td>
-        {{ $date }}
+        {{ $start }}
       </td>
     </tr>
+    {{ end }}
     {{ end }}
     {{ end }}
   </tbody>
