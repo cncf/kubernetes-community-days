@@ -1,12 +1,14 @@
 ---
 title: Organize a Kubernetes Community Days
 ---
-# About Kubernetes Community Days 
+
+## About Kubernetes Community Days
+
 Kubernetes Community Days are community-organized events that gather adopters and technologists from open source and cloud native communities to learn, collaborate, and network to further adoption and improvement of Kubernetes. They are supported by the Cloud Native Computing Foundation (CNCF). They also are a lot of fun and a great way to meet new people and build community. Each event brings its own local flair, culture, diversity, and authenticity.  
 
 We would like to give a hearty thank you to [DevOpsDays](https://devopsdays.org) and [OpenStack Days](https://www.openstack.org/community/events/openstackdays) for their inspiration and, in particular, for providing the basis of this document.
                       
-# Interested in Hosting a Kubernetes Community Days?
+## Interested in Hosting a Kubernetes Community Days?
 
 Kubernetes Community Days are decentralized. Local events handle their own sponsorships, registration, and all other logistics. Check to see if there is a Kubernetes Community Days event scheduled in your area on the events page. If there is already an event scheduled, please reach out to the organizers to express your interest in helping. Their email is on the contact page of their event.
 
@@ -46,13 +48,15 @@ Other considerations:
 * Sponsors are allowed to collect attendee information at their tables
 
 ## Logos and Trademarks
+
 Once your event has been accepted, you are authorized by CNCF to use that name (e.g., Kubernetes Community Days Bouvet Island). We encourage you to design a custom logo for your event. Please note that the logo can’t include all or part of the Kubernetes wheel, but does need to include the event name. You are welcome to include the CNCF logo in your event logo and graphics, and you’re also welcome to use [Phippy](https://phippy.io/) and friends (high-res versions available in the artwork [repo](https://github.com/cncf/artwork/blob/master/examples/other.md#phippy--friends-group-logos)).
 
 Please post your logo in SVG format, as [explained](https://www.cncf.io/blog/2019/07/17/what-image-formats-should-you-be-using-in-2019/) in this blog post.
  
 All events must be called "Kubernetes Community Days Bouvet Island", with Bouvet Island replaced by the location of your event.
 
-# Assembling Your Team
+## Assembling Your Team
+
 The [timeline](/organizing-timeline) includes recommendations on when to focus on different issues. We recommend assigning the following responsibilities to one or two members of your organizing team:
 
 * [Finance and budgeting](/organizing-budget-finances) 
@@ -65,7 +69,7 @@ The [timeline](/organizing-timeline) includes recommendations on when to focus o
 * T-shirts and other swag
 * Evening event logistics
 
-# Kubernetes Community Days Planning Tools
+## Kubernetes Community Days Planning Tools
 
 * [Conference Planning Guide](/organizing-timeline) to plan out the event timeline. 
 * [Conference Action Items and Checklist](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit) (Google Spreadsheet) to use as a template for check-in meetings to ensure everyone is on task for a successful event.
@@ -77,6 +81,7 @@ The [timeline](/organizing-timeline) includes recommendations on when to focus o
 * [CNCF Digital Assets](https://github.com/cncf/artwork) that you can use in your event promotions. 
 
 ## Core Organizers
+
 [Dan Kohn](https://www.dankohn.com), [Chris Blum](https://twitter.com/chrisvblum), [Jennifer Davis](https://twitter.com/sigje)
 
 You can reach us on CNCF Slack. Create a free [account](https://slack.cncf.io) and come to channel [#kcd-formation](https://cloud-native.slack.com/messages/CN6LBV16G)
