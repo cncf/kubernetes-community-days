@@ -1,28 +1,29 @@
-<div class="column is-one-third">
+{{ $tag := .tag }}
+<div class="column is-one-quarter">
   <div class="card person">
     <div class="card-content">
       <p class="title">
-        {{ if .homepage }}
+        {{ if .speaker.homepage }}
         <a href="{{ .homepage }}">
-          {{ .name }}
+          {{ .speaker.name }}
         </a>
         {{ else }}
-        {{ .name }}
+        {{ .speaker.name }}
         {{ end }}
       </p>
 
-      {{ with .image }}
-      {{ $src := printf "img/people/%s" . | relURL }}
+      {{ with .speaker.image }}
+      {{ $src := printf "img/%s/%s" $tag . | relURL }}
       <img class="person-image" src="{{ $src }}">
       {{ end }}
 
-      {{ with .bio }}
+      {{ with .speaker.bio }}
       <p>
         {{ . | markdownify }}
       </p>
       {{ end }}
 
-      {{ with .twitter }}
+      {{ with .speaker.twitter }}
       <br />
 
       <a class="button is-twitter-blue">

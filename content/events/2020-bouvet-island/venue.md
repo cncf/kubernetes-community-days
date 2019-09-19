@@ -2,7 +2,7 @@
 title: Venue
 ---
 
-![Map](/img/maps/251px-Bouvet_Island-CIA_WFB_Map.png)
+{{< venue-map >}}
 
 ## Getting to Location
 
