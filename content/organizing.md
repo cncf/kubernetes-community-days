@@ -31,6 +31,7 @@ Once your team meets these criteria, you can create an GitHub [issue](https://gi
 Events may be developer-focused or they can coveron business issues and cloud strategy. Attendance averages 100-400 people. Most start small and grow slowly. Again, Kubernetes Community Days are not to be used for commercial pitches. Any platforms or tools you are describing the need to be open source. That said, many (most?) talks will be about how companies relied on open source technologies to improve their processes. Event profits must be reinvested in future years. Organizers should be reimbursed for their actual expenses reimbursed, but not their time.
 
 Other considerations:
+
 * Encourage bold, innovative, thought-provoking subjects
 * Events usually have four 30-minute talks per day
 * Open space sessions are generated, voted on and scheduled during the conference - not ahead of time.
@@ -38,7 +39,7 @@ Other considerations:
 * Lower-prices for early-bird registration are recommended
 * Registration and sponsorship needs to be available to anyone until  available capacity sells out
 * Encourage interaction and think about ways to create this
-* The attendee list may not be used for commercial or marketing purposes. It may only be used to advertise that specific Kubernetes Community Day or further iterations of it. The list may not be shared with third parties who are not directly involved in organizing the event. Please review the [Privacy Policy Statement](https://www.linuxfoundation.org/privacy/)..
+* The attendee list may not be used for commercial or marketing purposes. It may only be used to advertise that specific Kubernetes Community Day or further iterations of it. The list may not be shared with third parties who are not directly involved in organizing the event. Please review the [Privacy Policy Statement](https://www.linuxfoundation.org/privacy/).
 * Sponsors are allowed to collect attendee information at their tables. 
 
 ## Logos and Trademarks
@@ -47,7 +48,7 @@ Once your event and name have been accepted, you are authorized by CNCF to use t
 
 Please post your logo in SVG format, as [explained](https://www.cncf.io/blog/2019/07/17/what-image-formats-should-you-be-using-in-2019/)  in this blog post.
 
-All events must be called “Kubernetes Community Days LOCATION”,(e.g. Kubernetes Days Bouvet Island)..
+All events must be called “Kubernetes Community Days LOCATION”,(e.g. Kubernetes Days Bouvet Island).
 
 ## Assembling Your Team
 
@@ -56,7 +57,6 @@ The first step towards a successful event is building a team. Look for potential
 Check the GitHub Kubernetes Community Days Repo [project board](https://github.com/cncf/kubernetes-community-days/projects/2) to see if others have expressed interest in organizing an event in your area. If there are no GitHub issues for your area, create an [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=planningevent&template=interest.md) asking if others are interested in organizing an event with you.
 
 We recommend assigning the following responsibilities to one or two members of your organizing team:
-
 
 * [Finance and budgeting](/organizing-budget-finances) 
 * [Marketing and promotion](/organizing-marketing-promotion) 
@@ -71,7 +71,7 @@ We recommend assigning the following responsibilities to one or two members of y
 ## Kubernetes Community Days Planning Tools
 
 * [Conference Planning Guide](/organizing-timeline) with event timeline.
-* [Conference Action Items and Checklist](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit) (Google Spreadsheet) a template for check-in meetings to keep everyone is on task 
+* [Conference Action Items and Checklist](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit) (Google Spreadsheet) a template for check-in meetings to keep everyone is on task. 
 * [Sponsorship Letter](/organizing-sponsorletter) to send to prospective sponsors.
 * [Sponsorship Prospectus](/organizing-sponsor-contract) (to send to prospective sponsors and post on the event website.) 
 * [Sample Invoice](https://docs.google.com/document/d/1Rbc8hvBgbO55asEQzzAHkpvSU2ogl52NmWq1-NhBYdY/edit) (Google Spreadsheet) to invoice sponsors.
