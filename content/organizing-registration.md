@@ -7,7 +7,7 @@ Considerations for registration:
 * Consider offering special pricing such as early bird registration and promotional pricing
 * The event should be published and attendance should be completely open to the public, the only restriction being venue capacity
 * The attendee list may NOT be used for commercial or marketing purposes, only community-building activities, such as sharing event updates or scheduling future meetups. The list will not be shared with third parties who are not directly involved in organizing the event. Please review the Kubernetes Community Privacy Policy Statement.
-* We recommend event organizers add the following statement to the registration page: “Personal information gathered by the organizers is handled in accordance with the Foundation’s Privacy Policy and is used for internal purposes only.  The Kubernetes Community Privacy Policy is available at http://www.Kubernetes Community.org/privacy.
+* We recommend event organizers add the following statement to the registration page: “Personal information gathered by the organizers is handled in accordance with the Foundation’s Privacy Policy and is used for internal purposes only.  The Kubernetes Community Privacy Policy is available at [http://www.Kubernetes Community.org/privacy](http://www.Kubernetes Community.org/privacy).
 * In order for the Foundation to gather consistent demographic information, we are asking that event organizers add the following question to the registration page. Please share this information and any other survey information with CNCF when you send in post-event information.
 
 * What is your current Organizational Role at your company? (please check one):
