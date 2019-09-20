@@ -63,7 +63,7 @@ We recommend assigning the following responsibilities to one or two members of y
 * [Sponsors](/organizing-finding-sponsors)
 * [Call for Proposals (CFP) and schedule](/organizing-manage-speakers)
 * Website updates
-* Registration
+* [Registration](/organizing-registration)
 * Venue, catering, local activities, and the hotel
 * T-shirts and other swag
 * Evening event logistics
