@@ -31,6 +31,7 @@ Once your team meets these criteria, you can create a GitHub [issue](https://git
 Events may be developer-focused or they can cover on business issues and cloud strategy. Attendance averages 100-400 people. Most start small and grow slowly. Again, Kubernetes Community Days are not to be used for commercial pitches. Any platforms or tools you are describing the need to be open source. That said, many (most?) talks will be about how companies relied on open source technologies to improve their processes. Event profits must be reinvested in future years. Organizers should be reimbursed for their actual expenses reimbursed, but not their time.
 
 Other considerations:
+
 * Encourage bold, innovative, thought-provoking subjects
 * Events usually have four 30-minute talks per day
 * Open space sessions are generated, voted on and scheduled during the conference - not ahead of time.
@@ -57,7 +58,6 @@ Check the GitHub Kubernetes Community Days Repo [project board](https://github.c
 
 We recommend assigning the following responsibilities to one or two members of your organizing team:
 
-
 * [Finance and budgeting](/organizing-budget-finances) 
 * [Marketing and promotion](/organizing-marketing-promotion) 
 * [Sponsors](/organizing-finding-sponsors)
@@ -71,7 +71,7 @@ We recommend assigning the following responsibilities to one or two members of y
 ## Kubernetes Community Days Planning Tools
 
 * [Conference Planning Guide](/organizing-timeline) with event timeline.
-* [Conference Action Items and Checklist](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit) (Google Spreadsheet) a template for check-in meetings to keep everyone is on task 
+* [Conference Action Items and Checklist](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit) (Google Spreadsheet) a template for check-in meetings to keep everyone is on task. 
 * [Sponsorship Letter](/organizing-sponsorletter) to send to prospective sponsors.
 * [Sponsorship Prospectus](/organizing-sponsor-contract) (to send to prospective sponsors and post on the event website.) 
 * [Sample Invoice](https://docs.google.com/document/d/1Rbc8hvBgbO55asEQzzAHkpvSU2ogl52NmWq1-NhBYdY/edit) (Google Spreadsheet) to invoice sponsors.
