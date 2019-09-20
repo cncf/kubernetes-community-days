@@ -21,7 +21,7 @@ Promotion
 
 Online marketing
 
-* Promote your KCD in the Sponsors and Organizers corporate newsletters
+* Promote your event in the Sponsors and Organizers corporate newsletters
 * Create a twitter account for your event, send tweets to the KCD-organizers slack channel to be retweeted
 * Promote sponsorship, speakers, etc. on LinkedIn
 
