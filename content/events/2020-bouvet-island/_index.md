@@ -7,6 +7,7 @@ location:
   city: Bouvet Island
   url: https://en.wikipedia.org/wiki/Bouvet_Island
   venue: Igloo 74
+map: bouvet-island-map.png
 social:
   twitter: 'https://twitter.com/Bouvet_3Y0Z'
 sponsors:
@@ -33,7 +34,7 @@ sponsors:
     url: https://en.wikipedia.org/wiki/Stay_Puft_Marshmallow_Man
 speakers:
 - name: Phippy
-  image: phippy-color.svg
+  image: phippy-color.png
   twitter: https://twitter.com/cloudnativefdn
   bio: Phippy is a simple PHP app, trying to find a home in a cloud native world.
   homepage: https://phippy.io
