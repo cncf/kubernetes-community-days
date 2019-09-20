@@ -15,7 +15,7 @@ Promotion
 
 * Who can help spread the word that the event is scheduled?
  * Reach out to local tech companies and consultants
- * Contacty local tech publications and see if you can swap media sponsorship for ads in their publication or on their website
+ * Contact local tech publications and see if you can swap media sponsorship for ads in their publication or on their website
  * Reach out to local tech incubators and VCs to see if you can be included in newsletters, post flyers on event board, etc.
  * Local universities (if they have CS departments, for example)
  * Contact your local Meetups and ask them to promote your event 
@@ -32,7 +32,7 @@ Website
 * Update your data file for your event to add your start & end dates; this adds your event to the map on the front page!
 
 Twitter 
-* Set up an event-specific Twitter account such as @kubernetesdays(city intials)
+* Set up an event-specific Twitter account such as @kubernetesdays(city initials)
 * Tag @kubernetesdays in your tweets 
 * Send tweets to the KCD-organizers slack channel to be retweeted
 * Tweet with the hashtag #KubernetesCommunityDays
