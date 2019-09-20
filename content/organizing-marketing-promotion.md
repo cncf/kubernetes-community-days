@@ -1,4 +1,7 @@
 ## Marketing & Promotion
+
+Once you have a time and place, you can announce your event to the world! It’s great if you’ve had a chance to open your CFS and registration, though those aren’t essential to announce your dates.
+
 Role of the Marketing Team
 
 * Drive interest in the event
@@ -21,7 +24,41 @@ Promotion
 
 Online marketing
 
-* Promote your event in the Sponsors and Organizers corporate newsletters
-* Create a twitter account for your event, send tweets to the KCD-organizers slack channel to be retweeted
-* Promote sponsorship, speakers, etc. on LinkedIn
+* Promote your event in the Sponsors and Organizers corporate newsletters, websites, emails, etc
+* Promote sponsorship, speakers, CFS, on LinkedIn
 
+Website
+
+* Update your data file for your event to add your start & end dates; this adds your event to the map on the front page!
+
+Twitter 
+* Set up an event-specific Twitter account such as @kubernetesdays(city intials)
+* Tag @kubernetesdays in your tweets 
+* Send tweets to the KCD-organizers slack channel to be retweeted
+* Tweet with the hashtag #KubernetesCommunityDays
+* Following the initial, pinned post, one organic post per day should be shared to alert followers of the change + resources for Kubernetes Community Day events
+* Start following any/all dedicated #KubernetesCommunityDays Twitter accounts
+
+Twitter Posting Style, Images, and Official Hashtag
+
+Style
+
+* The following style guide addresses how to craft social media posts:
+* Adhere to established CNCF voice + style:
+** Inclusive, Useful, Encouraging, Open, Informative, Personable
+** Do not use stereotypes
+** Respect the diversity of the community; be inclusive of all genders and races and sensitive to concepts such as meritocracy
+** Be sensitive to all genders and use gender-neutral language and terms when necessary (they, them, their)
+** Never engage in arguments or plug products → content should be vendor-neutral aside from sponsor mentions
+
+Images
+
+* Stand-alone, snackable graphics can be shared to increase visibility around events for greater registration or to feature speakers and/or sponsors needing promotion. These provide a visual way to communicate information that would otherwise account for a text-heavy post, including:
+* CFP and registration deadlines;
+* Speaker cards; and
+* Sponsor cards.
+* Professional images and/or those shared by the community can be posted during or after events to highlight the range of event features + promote community engagement.
+
+Event Hashtag
+
+* To avoid fragmentation + establish brand awareness in the community, the official event hashtag to be used will be the same as the event handle: #KubernetesCommunityDays
