@@ -7,7 +7,7 @@
 {{ $section := .CurrentSection }}
 {{ $url     := .RelPermalink }}
 {{ $allowed := site.Params.allowed_event_pages }}
-<nav class="navbar is-fixed-top">
+<nav class="navbar is-fixed-top{{ if not $isHome }} has-shadow{{ end }}">
   <div class="container">
     <div class="navbar-brand">
       {{ if not $isHome }}
@@ -28,14 +28,14 @@
         {{ if $isEvent }}
         {{ with .CurrentSection }}
         {{ $isEventRoot := eq $url .RelPermalink }}
-        <a class="navbar-item is-tab has-text-weight-bold{{ if $isEventRoot }} is-active{{ end }}" href="{{ .RelPermalink }}">
+        <a class="navbar-item has-text-weight-bold{{ if $isEventRoot }} is-active{{ end }}" href="{{ .RelPermalink }}">
           Overview
         </a>
 
         {{ range .Pages }}
         {{ if and .Title (in $allowed .File.BaseFileName) }}
         {{ $isActive := eq $url .RelPermalink }}
-        <a class="navbar-item is-tab has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .RelPermalink }}">
+        <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .RelPermalink }}">
           {{ .Title }}
         </a>
         {{ end }}
@@ -45,7 +45,7 @@
 
         {{ range $menu }}
         {{ $isActive := hasPrefix $url .URL }}
-        <a class="navbar-item is-tab has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .URL }}">
+        <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .URL }}">
           {{ .Name }}
         </a>
         {{ end }}
