@@ -1,8 +1,8 @@
 {{ $description := site.Params.description | markdownify }}
-{{ $logo        := printf "admin/img/logos/%s" site.Params.logo }}
+{{ $logo        := printf "admin/img/logos/%s" site.Params.hero.logo }}
 {{ $twitter     := site.Params.social.twitter }}
 {{ $facebook    := site.Params.social.facebook }}
-<section class="hero has-text-centered">
+<section class="hero is-primary has-text-centered">
   <div class="hero-body">
     <div class="container">
       <img class="is-hero-logo" src="{{ $logo }}" alt="Kubernetes Community Days main logo">

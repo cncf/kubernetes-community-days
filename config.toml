@@ -6,7 +6,6 @@ baseURL = "https://kubernetescommunitydays.org/"
 description = "A series of conferences devoted to the cloud native and [Kubernetes](https://kubernetes.io) ecosystem"
 font_awesome_version = "5.8.1"
 sans_serif_font = "Lato"
-logo = "kubernetes-community-days.png"
 allowed_event_pages = [
     "sponsor",
     "speakers",
@@ -16,6 +15,12 @@ allowed_event_pages = [
     "code-of-conduct"
 ]
 twitter_handle = "kubeconio"
+
+[params.hero]
+logo = "kubernetes-community-days-white.png"
+
+[params.navbar]
+logo = "kubernetes-community-days.png"
 
 [[params.fonts]]
 name = "Lato"
