@@ -10,7 +10,7 @@
 
     <div class="columns is-multiline">
       {{ range . }}
-      {{ partial "events/person.html" (dict "speaker" . "tag" $tag) }}
+      {{ partial "events/person.html" (dict "person" . "tag" $tag) }}
       {{ end }}
     </div>
   </div>
