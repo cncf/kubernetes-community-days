@@ -5,15 +5,19 @@
 {{ $day    := .Date | dateFormat "2" }}
 {{ $where  := .Params.location }}
 {{ $social := .Params.social }}
-<div class="column is-half">
+<div class="column is-one-third">
   <div class="card">
     <div class="card-content">
       <div class="content">
-        <h2 class="title is-size-4 is-size-5-mobile has-text-weight-medium has-text-primary is-uppercase">
+        <span class="is-size-5 is-size-6-mobile has-text-primary">
+          Kubernetes Community Day
+        </span>
+
+        <p class="is-size-4 is-size-5-mobile has-text-weight-bold has-text-primary is-uppercase">
           <a href="{{ $url }}">
             {{ $title }}
           </a>
-        </h2>
+        </p>
 
         <h4 class="has-text-weight-bold">
           {{ $month }} {{ $day }}{{ with .Params.end }}&ndash;{{ dateFormat "2" (time .) }}{{ end }}, {{ $year }}

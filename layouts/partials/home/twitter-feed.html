@@ -1,3 +1,12 @@
+{{ $tweetLimit    := site.Params.tweet_limit }}
 {{ $twitterHandle := site.Params.twitter_handle }}
 
-<a class="twitter-timeline" data-height="600" href="https://twitter.com/{{ $twitterHandle }}?ref_src=twsrc%5Etfw"></a>
+<section class="section">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-half">
+        <a class="twitter-timeline" data-tweet-limit="{{ $tweetLimit }}" href="https://twitter.com/{{ $twitterHandle }}?ref_src=twsrc%5Etfw"></a>
+      </div>
+    </div>
+  </div>
+</section>

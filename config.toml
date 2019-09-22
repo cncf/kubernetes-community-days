@@ -15,6 +15,7 @@ allowed_event_pages = [
     "code-of-conduct"
 ]
 twitter_handle = "kubeconio"
+tweet_limit = 5
 
 [params.hero]
 logo = "kubernetes-community-days-white.png"
@@ -23,7 +24,7 @@ logo = "kubernetes-community-days-white.png"
 logo = "kubernetes-community-days.png"
 
 [[params.fonts]]
-name = "Lato"
+name = "Roboto"
 sizes = [300,400,600,700]
 
 [params.social]
