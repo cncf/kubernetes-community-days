@@ -10,17 +10,17 @@
 {{ $event    := .CurrentSection.Title }}
 {{ $mainUrl  := .CurrentSection.RelPermalink }}
 {{ $isRoot   := eq .CurrentSection .FirstSection }}
-<section class="hero is-medium is-bold">
+<section class="hero is-medium">
   <div class="hero-body">
     <div class="container">
-      <p class="title is-size-1 is-size-2-mobile has-text-weight-light">
-        {{ $title | upper }}
+      <p class="title is-size-1 is-size-2-mobile has-text-weight-light is-spaced">
+        {{ $title }}
       </p>
 
       {{ if and (not $isRoot) (ne .File.LogicalName "_index.md") }}
-      <p class="subtitle">
+      <p class="subtitle has-text-weight-bold">
         <a href="{{ $mainUrl }}">
-          {{ $event }}
+          {{ $event | upper }}
         </a>
       </p>
       {{ end }}

@@ -1,5 +1,6 @@
-{{ $isEventRoot := eq .File.BaseFileName "_index" }}
-{{ $sponsors    := .CurrentSection.Params.sponsors }}
+{{ $tag      := index (split .CurrentSection.File "/") 1 }}
+{{ $sponsors := .CurrentSection.Params.sponsors }}
+
 
 {{ with $sponsors }}
 <hr />
@@ -23,7 +24,7 @@
       {{ with $orgs }}
       <div class="logo-container-block">
         {{ range . }}
-        {{ $imgUrl := printf "img/sponsors/%s" .logo | relURL }}
+        {{ $imgUrl := printf "img/%s/%s" $tag .logo | relURL }}
         <div class="logo">
           {{ if .url }}
           <a href="{{ .url }}">

@@ -13,14 +13,4 @@ Organizers, check out the speakers and contact them directly to come speak at yo
 
 Below are the cities which currently have an open call for participation.
 
-<!--
-### Cities that currently have an open call for participation
-
-City             CFP Closes            Event Starts
-London           TBD                   TBD
-Berlin           TBD                   TBD
-Washington DC    TBD                   TBD
-
-
 {{< cfps >}}
--->

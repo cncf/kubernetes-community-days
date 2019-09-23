@@ -1,4 +1,5 @@
 {{ $speakers := .CurrentSection.Params.speakers }}
+{{ $tag      := index (split .CurrentSection.File "/") 1 }}
 
 {{ with $speakers }}
 <section class="section">
@@ -9,7 +10,7 @@
 
     <div class="columns is-multiline">
       {{ range . }}
-      {{ partial "events/person.html" . }}
+      {{ partial "events/person.html" (dict "person" . "tag" $tag) }}
       {{ end }}
     </div>
   </div>

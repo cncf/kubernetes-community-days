@@ -12,5 +12,4 @@ The only way to get to Bouvet Island is by boat. Bouvet Island is approximately 
 There are no developed public-access airports or landing facilities.
 
 # Local Tranportation
-Bus: info abot bus lines
-Parking: Parkning information, including cost
+Local transportaion is dominated by seals, penguins, and other seabirds 

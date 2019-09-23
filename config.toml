@@ -15,6 +15,7 @@ allowed_event_pages = [
     "contact",
     "code-of-conduct"
 ]
+twitter_handle = "kubeconio"
 
 [[params.fonts]]
 name = "Lato"
@@ -32,3 +33,13 @@ weight = 1
 name = "Code of Conduct"
 url = "/code-of-conduct"
 weight = 2
+
+[[menu.navbar]]
+name = "Speaking"
+url = "/speaking"
+weight = 3
+
+[[menu.navbar]]
+name = "Sponsoring"
+url = "/sponsoring"
+weight = 4

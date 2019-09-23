@@ -27,12 +27,14 @@ $section-padding: 2rem 1.5rem
 $hr-margin: 3rem 0
 $navbar-height: 5rem
 $navbar-item-img-max-height: $navbar-height * 0.7
+$navbar-item-active-color: $primary
 
 @import "bulma/sass/utilities/functions"
 @import "bulma/sass/utilities/mixins"
 
 // Bulma variable overwrites
 $family-sans-serif: "{{ $sansSerifFont }}", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+
 
 @import "bulma/sass/utilities/derived-variables"
 
@@ -42,12 +44,16 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
 
 @import "accordion"
 
+.twitter-timeline
+  font-family: "{{ $sansSerifFont }}"
+
 .external-link
   margin-left: .2rem
   font-size: .75rem
 
 .person
   &-image
+    margin: 1.5rem 0
     height: 5rem
     width: auto
 
