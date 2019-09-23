@@ -39,7 +39,7 @@ Main Conference Room
 
 1:00 - 1:30
 
-* Afternoon Keynote - Dan Kohn
+* Afternoon Keynote - Captain Kube
 
 1:30 - 2:00 
 
