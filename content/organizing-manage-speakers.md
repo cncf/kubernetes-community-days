@@ -1,52 +1,56 @@
 # Kubernetes Community Days Content & Programing
-Basic Guidelines
+High quality content, speakers and talk topics will determine event success. 
 
-* Encourage bold, innovative, thought-provoking subjects
-* Events usually have four 30-minute talks per day
-* Open space sessions are scheduled during the conference, not ahead of time (have attendees vote on topics during the event)
-* Always sensitive and appropriate
-* Have fun and promote fun
-* Encourage interaction
+Some basic guidelines for building a good event program include:
+
+* Encourage bold, innovative thought-provoking subjects
+* Recruit a diverse slate of speakers
+* Make sure one organization does not receive too many speaking slotsMake sure that all content is sensitive and appropriate
+* Promote fun and participation
+* Encourage interaction between attendees
+
 
 ## Recruiting Speakers
 
-* The [CNCF Speakers Bureau](https://www.cncf.io/speakers/) is a great place to start
-* Expect to recruit people for speaker proposals
- * Have a good stock of proposal ideas ready to offer to potential speakers to spark their creative process
-  * Offer to brainstorm with them to help create content
-   * Reach out to known event speakers on the CNCF Slack and ask if they have ideas that might be good (or if they want to speak at the event!)
-* Recruiting a diverse speaker slate requires extra effort
- * Contact organizations like [Women Who Code](https://www.womenwhocode.com/) and [Black Girls Code](http://www.blackgirlscode.com/)
- * Check relevant meetups for past speakers
-  * Consider bringing in speakers from outside the region to improve diversity
-* Kubernetes Community Days follow the Linux Foundation policy of prohibiting all-male panels. Since speakers sometimes need to cancel at the least minute, aim for two or more women on a panel so you won’t need to cancel it if one woman is unable to attend.
-* Announce the Call for Proposals (CFP) as early as possible - including open date, close date, and the date people will be informed of the selection
- * People will usually need at least 4-6 weeks to arrange for travel or time off
- * Keep the call for papers open for at least a month
- * Allow 2 weeks to consider proposals and fill in any gaps
+Along with sponsorships, this is one of the most challenging parts of running an event. The [CNCF Speakers Bureau](https://www.cncf.io/speakers/)  is a great place to start. Regardless you should anticipate spending some time recruiting speakers and speaking proposals.  With this in mind, here are some ways to make recruiting speakers easier:
 
+* Build a stock of proposal ideas for potential speakers either to adopt or use to spark their creative process
+* Offer to brainstorm with potential speakers to help create content
+* Reach out to known event speakers on the CNCF Slack and ask if they have speaking ideas (or if they want to speak at the event!)
+
+Recruiting a diverse speaker slate requires extra effort. Some ideas for this include:
+* Contact organizations like [Women Who Code](https://www.womenwhocode.com/) and [Black Girls Code](http://www.blackgirlscode.com/)
+* Check relevant meetups for past speakers
+* Consider bringing in speakers from outside the region to improve diversity
+* Make sure you have two female speakers on each panel (Kubernetes Community Days prohibit all maale panels so two women speakers means even in case of a cancellation you will have gender diversity)
+* Give speakers at least six weeks of notice so they can make travel arrangements
 
 ## Judging proposals
 
-* To minimize bias, create a reasonable proposal rating system
-* Set a point scale for each of the proposal points (e.g. originality, big idea, new speaker, high-quality speaker) and award each proposal points on the scale then aggregate points for scores
-* Publish the proposal rating systems and be transparent about it
+* Announce your “Call For Proposals” early to give speakers and your team the most time to find quality speakers and content ideas
+* Minimize bias, by creating a transparent proposal rating system
+* List proposal rating criteria (e.g. originality, big idea, new speaker, high-quality speaker) 
+* Have a panel of judges award each proposal points against each criteria
+* Add up the points and award the speaking slot to the highest rated proposals
 * Publish the names of the programming committee
 * Be prepared to explain any programming decisions
 
 ## Content considerations
 
-* Encourage new content; give higher priority to content that has not been published elsewhere
+* Give higher priority to content that has not been previously presented 
 * Try for a good balance between local and out-of-town speakers
-* Favor new speakers: Kubernetes Community Days is a supportive environment to encourage new voices in our space
+* Prioritize new event speakers: Kubernetes Community Days is a supportive environment to encourage new voices in our space
 
 ## Set up a clear timeline on content reviews
 
 * Regularly check-in with speakers to ensure they are making progress
+* Offer content development assistance and presentation coaching
+* Review every presentation in advance to ensure appropriate content
 * Schedule at least two live video run-throughs of presentations before the event
-* Have the organizers or members of the program committee review every presentation in advance to ensure that content is appropriate
-* Identify all A/V requirements for each presentation
+ * Identify all A/V requirements for each presentation
  * Do they need video playback?
  * Live coding?
-* The day of the event make sure to check in with all speakers and ensure they are OK
-* Post-event, provide constructive feedback on the speaker’s presentation with concrete advice
+ * Preferred microphone types?
+* Check in with all speakers on event day to make sure they are ready
+* Provide constructive post-event feedback with concrete advice
+
