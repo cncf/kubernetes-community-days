@@ -8,6 +8,7 @@ location:
   url: https://en.wikipedia.org/wiki/Bouvet_Island
   venue: Igloo 74
 map: bouvet-island-map.png
+sched_slug: kccnceu19
 social:
   twitter: 'https://twitter.com/Bouvet_3Y0Z'
 sponsors:

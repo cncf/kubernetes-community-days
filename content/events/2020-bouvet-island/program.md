@@ -1,6 +1,8 @@
 ---
 title: Program
 ---
+
+<!--
 Main Conference Room 
 8:30 - 9:30
 
@@ -74,5 +76,4 @@ Main Conference Room
 5:30 - 7:30
 
 * Evening event
-
-
+-->
