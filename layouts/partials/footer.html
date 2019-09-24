@@ -1,23 +1,13 @@
-{{ $year     := now.Year }}
-{{ $showEdit := not .IsHome }}
+{{ $year := now.Year }}
+{{ $logo        := printf "admin/img/logos/%s" site.Params.footer.logo }}
 <footer class="footer">
   <div class="container">
     <div class="columns is-vcentered is-variable is-8">
-      {{ if $showEdit }}
-      {{ with .File.Path }}
-      {{ $editUrl  := printf "https://github.com/cncf/kubernetes-community-days/edit/master/content/%s" . }}
-      <div class="column is-2">
-        <a class="button is-black is-radiusless" href="{{ $editUrl }}" target="_blank">
-          <span class="icon">
-            <i class="fab fa-github"></i>
-          </span>
-          <span>
-            Edit this page
-          </span>
-        </a>
+      <div class="column is-one-third">
+        <img class="is-footer-logo" src="{{ $logo }}">
       </div>
-      {{ end }}
-      {{ end }}
+
+
 
       <div class="column">
         <p class="is-size-5 is-size-6-mobile has-text-weight-medium">

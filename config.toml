@@ -24,6 +24,9 @@ logo = "kubernetes-community-days-white.png"
 [params.navbar]
 logo = "kubernetes-community-days.png"
 
+[params.footer]
+logo = "kubernetes-community-days-white.png"
+
 [[params.fonts]]
 name = "Roboto"
 sizes = [300,400,600,700]
