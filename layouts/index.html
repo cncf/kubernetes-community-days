@@ -9,7 +9,26 @@
 
 {{ partial "navbar.html" . }}
 {{ partial "home/hero.html" . }}
-{{ partial "home/events.html" . }}
+
+<section class="section">
+  <div class="container">
+    <div class="columns is-variable is-8 main-page-columns">
+      <div class="column is-one-quarter">
+        <section class="section">
+          {{ partial "home/sidebar.html" $events }}
+        </section>
+      </div>
+
+      <div class="column">
+        <section class="section">
+          {{ partial "home/events.html" $events }}
+        </section>
+      </div>
+    </div>
+  </div>
+</section>
+
 {{ partial "home/twitter-feed.html" . }}
+
 {{ partial "home/logos.html" . }}
 {{ end }}

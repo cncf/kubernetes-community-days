@@ -1,5 +1,5 @@
 ---
-title: Kubernetes Community Day Eugene
+title: Eugene
 date: '2021-01-01'
 end: '2021-01-02'
 location:

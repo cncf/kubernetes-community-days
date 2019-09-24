@@ -29,6 +29,7 @@ $hr-margin: 3rem 0
 $navbar-height: 5rem
 $navbar-item-img-max-height: $navbar-height * 0.7
 $navbar-item-active-color: $primary
+$card-shadow: none
 
 @import "bulma/sass/utilities/functions"
 @import "bulma/sass/utilities/mixins"
@@ -45,18 +46,20 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
 
 @import "accordion"
 
+.card
+  border: 1.5px solid rgba($black, 0.1)
+
 .logo
   margin: 3rem auto 0 auto
 
   +desktop
     width: 50%
 
-.banner-background
+.banner
   background-attachment: fixed
   background-image: url({{ $heroBanner }})
   background-size: cover
-  
-  
+
 .index-events-section
   padding: 4rem 0
 
@@ -112,9 +115,9 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
       width: 70%
 
 hr.thick-hr
-  margin: 1.5rem 0 !important
+  margin: 2rem 0 !important
   background-color: $primary
-  height: 0.25rem
+  height: 0.15rem
 
   &.extra-space
     margin: 5rem 0

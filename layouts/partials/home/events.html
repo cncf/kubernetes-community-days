@@ -6,25 +6,17 @@
 {{ range .Sections }}
 {{ if .Date.After now }}
 {{ $upcoming = $upcoming | append . }}
-{{ else }}
-{{ $past = $past | append . }}
 {{ end }}
 {{ end }}
 {{ end }}
-{{ $sections := (slice (dict "name" "Upcoming" "pages" $upcoming "color" "white") (dict "name" "Past" "pages" $past "color" "light")) }}
 
-{{ range $sections }}
-<section class="section has-background-{{ .color }} index-events-section">
-  <div class="container">
-    <p class="title is-size-2 is-size-3-mobile has-text-centered has-text-weight-light">
-      {{ .name }} Events
-    </p>
-    
-    <div class="columns is-variable is-multiline has-background-{{ .color }}">
-      {{ range .pages }}
-      {{ partial "event-tile.html" . }}
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ end }}
+
+<p class="title is-size-2 is-size-3-mobile has-text-centered has-text-weight-medium">
+  {{ "Upcoming Events" | upper }}
+</p>
+
+<div class="columns is-variable is-multiline">
+  {{ range $upcoming }}
+  {{ partial "event-tile.html" . }}
+  {{ end }}
+</div>

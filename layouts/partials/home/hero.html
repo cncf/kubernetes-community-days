@@ -2,8 +2,9 @@
 {{ $logo        := printf "admin/img/logos/%s" site.Params.hero.logo }}
 {{ $twitter     := site.Params.social.twitter }}
 {{ $facebook    := site.Params.social.facebook }}
-<section class="hero is-medium has-text-centered">
-  <div class="hero-body  banner-background">
+
+<section class="hero is-medium has-text-centered banner">
+  <div class="hero-body">
     <div class="container">
       <img class="is-hero-logo" src="{{ $logo }}" alt="Kubernetes Community Days main logo">
     </div>

@@ -1,5 +1,5 @@
 ---
-title: Kubernetes Community Day Ridgefield
+title: Ridgefield
 date: '2021-01-01'
 end: '2021-01-03'
 location:
