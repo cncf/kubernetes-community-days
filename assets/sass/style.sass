@@ -49,12 +49,6 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
 .card
   border: 1.5px solid rgba($black, 0.1)
 
-.logo
-  margin: 3rem auto 0 auto
-
-  +desktop
-    width: 50%
-
 .banner
   background-attachment: fixed
   background-image: url({{ $heroBanner }})
@@ -104,15 +98,6 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
 
         & + .logo
           margin-top: 1rem
-
-.logos
-  margin-top: 3rem
-
-  .logo
-    +tablet
-      width: 50%
-    +touch
-      width: 70%
 
 hr.thick-hr
   margin: 2rem 0 !important

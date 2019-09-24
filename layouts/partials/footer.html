@@ -1,16 +1,14 @@
+{{ $logo := printf "admin/img/logos/%s" site.Params.footer.logo | relURL }}
 {{ $year := now.Year }}
-{{ $logo        := printf "admin/img/logos/%s" site.Params.footer.logo }}
 <footer class="footer">
   <div class="container">
-    <div class="columns is-vcentered is-variable is-8">
-      <div class="column is-one-third">
+    <div class="columns is-vcentered is-variable">
+      <div class="column is-one-quarter">
         <img class="is-footer-logo" src="{{ $logo }}">
       </div>
 
-
-
       <div class="column">
-        <p class="is-size-5 is-size-6-mobile has-text-weight-medium">
+        <p class="is-size-5 is-size-6-mobile has-text-weight-light">
           Copyright &copy; {{ $year }} The Linux Foundation<sup>&reg;</sup>. All rights reserved.
         </p>
       </div>
