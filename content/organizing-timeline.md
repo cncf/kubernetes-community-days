@@ -199,6 +199,7 @@ Conduct initial sponsor briefings:
 * Set up a regular check-in cadence with sponsors (probably every two weeks until you get closer to the event)
 
 Social Media:
+
 * Create a dedicated Twitter hashtag for the event.
 
 ## 2-4 MONTHS IN ADVANCE: 
