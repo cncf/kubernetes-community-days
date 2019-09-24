@@ -1,17 +1,17 @@
 # Registration
-Once pricing has been decided you’re ready to set up registration. For registration use, [Eventbrite](https://www.eventbrite.com/) integrated with PayPal payments. The PayPal account for payment needs to be linked directly to the company that does the invoicing. (Note: if using Eventbrite, use Paypal, not “Eventbrite payment processing”, or you’ll have to wait for Eventbrite to disperse funds after your event.)
+Once pricing has been decided you’re ready to set up registration. Here are some basic guidelines.
 
-Considerations for registration:
+* Use Eventbrite for registration and PayPal for payments (not Eventbrite payment processing). 
+* Link the PayPal account for payment directly to the company that does the invoicing. 
+* Keep registration fees below 100 USD / 70 EU - the lower the better to attract a more diverse group of attendees
+* Sell tickets on a first-come/first-serve basis that is completely open to the public
+* Offer “early bird” pricing (10% to 25% discount)  to drive initial registration
+* Registration lists may NOT be used for commercial or marketing purposes
+* Registration lists may NOT be shared with third parties or any organization not directly involved in organizing the event.  Please review the Kubernetes Community Privacy Policy Statement.
+* Event organizers must add the following statement to the registration page: “Personal information gathered by the organizers is handled in accordance with the Foundation’s Privacy Policy and is used for internal purposes only.
 
-* Attendees may be charged a registration fee but the amount must be minimal; less than $100 USD is strongly recommended  
-* Consider offering special pricing such as early bird registration and promotional pricing
-* The event should be published and attendance should be completely open to the public, the only restriction being venue capacity
-* The attendee list may NOT be used for commercial or marketing purposes, only community-building activities, such as sharing event updates or scheduling future meetups. The list will not be shared with third parties who are not directly involved in organizing the event. Please review the Kubernetes Community Privacy Policy Statement.
-* We recommend event organizers add the following statement to the registration page: “Personal information gathered by the organizers is handled in accordance with the [Foundation’s Privacy Policy ](http://www.Kubernetes Community.org/privacy)and is used for internal purposes only.  
-* In order for the Foundation to gather consistent demographic information, we are asking that event organizers add the following question to the registration page. Please share this information and any other survey information with CNCF when you send in post-event information.
-
+Please add the following question to the registration page to help CNCF gather demographic information. Please share this information with the CNCF after the event
 * What is your current Organizational Role at your company? (please check one):
-
  * Business Development/Sales/Marketing
  * CEO/Executive Leadership
  * CIO/CTO/IT Manager
@@ -24,18 +24,18 @@ Considerations for registration:
  * Product Strategy
  * Upstream Developer
  * Other, please specify
- 
-Here are some suggestions that will be useful to you in your registration process.
 
+Here are some other ways you can improve the registration process.
 * Ask for employer name (optional) if people want it printed on their badge
 * Ask for a Twitter handle (optional) to help attendees connect with one another
 * Ask for T-shirt sizes (make sure you offer more than S-M-L-XL “unisex”)
-* (In Europe) ask if they require an invoice; if yes ask more details like VAT number if needed
-* Ask if they are interested in attending the evening event on the first night (optionally)
-* Disable the facebook integration
-* Don’t allow people to see who is coming
+* Ask if they require an invoice and what information should be on the invoice
+* Ask if they are interested in attending the evening event on the first night (optional)
+* Disable the Facebook integration
+* Hide the attendee list
 * Set up hidden ticket types for sponsors, organizers, speakers, etc
 * Create access codes for hidden ticket types
 
-Attendee email or direct-contact information should never be visible on the website or given out to vendors. 
-We value privacy and anti-spam.
+IMPORTANT: Attendee email or direct-contact information should never be visible on the website or given out to vendors. We value privacy and anti-spam.
+
+

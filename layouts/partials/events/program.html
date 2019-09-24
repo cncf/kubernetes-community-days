@@ -1,0 +1,7 @@
+{{ $schedSlug := .CurrentSection.Params.sched_slug }}
+
+{{ with $schedSlug }}
+{{ $schedUrl := printf "https://%s.sched.org" . }}
+<a id="sched-embed" href="{{ $schedUrl }}">
+</a>
+{{ end }}
