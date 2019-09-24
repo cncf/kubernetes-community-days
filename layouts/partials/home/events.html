@@ -10,13 +10,14 @@
 {{ end }}
 {{ end }}
 
-
 <p class="title is-size-2 is-size-3-mobile has-text-centered has-text-weight-medium">
   {{ "Upcoming Events" | upper }}
 </p>
 
-<div class="columns is-variable is-multiline">
-  {{ range $upcoming }}
-  {{ partial "event-tile.html" . }}
-  {{ end }}
+<div class="container">
+  <div class="columns is-variable is-1 is-multiline">
+    {{ range $upcoming }}
+    {{ partial "event-tile.html" . }}
+    {{ end }}
+  </div>
 </div>
