@@ -8,44 +8,14 @@ This repo houses all of the assets used to build https://kubernetescommunitydays
 
 All event data is kept in the [`content/events`](./content/events) directory. To add your Kubernetes Community Days event to this site:
 
-1. Create a new directory under `content/events` with the name `YEAR-city`. So an event in Jakarta in the year 2025 would have the directory name `2025-jakarta`.
-
-1. In that created directory, add a new [Markdown](https://www.markdownguide.org) filed named `_index.md`.
-
-1. Add a header to the file that looks like this:
-
-    ```yaml
-    ---
-    title: Kubernetes Community Day Pittsburgh # A title for the page
-    ---
-    ```
-
-1. In addition to a title, add the following information:
-
-    * A `location` for the event, which has two pieces of information: a `name` for the venue and a `url` for that venue.
-    * A `date` for the event in `YYYY-MM-DD` form, e.g. `2020-01-02` for January 2, 2020.
-  
-    Here's an example event configuration:
-
-    ```yaml
-    ---
-    title: Kubernetes Community Days Ridgefield
-    url: https://k8s-ridgefield.io
-    location:
-      name: Ridgefield Community Center, Ridgefield, Washington
-      url: https://ridgefieldcommunitycenter.info
-    date: 2020-03-30
-    social:
-      twitter: ridge_k8s
-      facebook: ridge_k8s
-    ---
-    ```
-
-1. Optionally, add any Markdown content you want below the YAML metadata header.
-
-1. Submit a pull request (PR) to this repository.
-
-1. Netlify creates a preview of your PR. Ensure that things look correct and then add `LGTM` as a comment to your PR.
+1. Create a new directory under `content/events` with the name `YEAR-city`. So an event in Bouvet Island in the year 2020 would have the directory name `2020-bouvet-island`.
+2. 2020-bouvet-island is to be used as a template for your 'YEAR-city'
+3. Follow the step-by-step instructions on [how to set-up](https://docs.google.com/document/d/114lN9Mi1_jbhudMk25NE7J_0wONRCx9jbJH9A-Af35s/edit?usp=sharing), edit, and create your own event page.
+4. Be sure to craete a fork, and branches as you work on your event pages (more on this in the how to set-up above).
+5. Optionally, add any Markdown content you want below the YAML metadata header.
+6. When you are ready to push your pages live, submit a pull request (PR) to this repository.
+7. Netlify creates a preview of your PR. Ensure that things look correct and then add `LGTM` as a comment to your PR.
+8. Your request will be reviewed and squashed and merged once approved.
 
 ## Publishing the site
 
