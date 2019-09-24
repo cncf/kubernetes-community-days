@@ -7,6 +7,7 @@
 {{ $sansSerifFont := site.Params.sans_serif_font | string }}
 {{ $fontAwesomeVersion := site.Params.font_awesome_version | string }}
 {{ $fontAwesomeUrl     := printf "https://use.fontawesome.com/releases/v%s/css/all.css" $fontAwesomeVersion }}
+{{ $heroBanner         := printf "admin/img/%s" site.Params.hero_banner | relURL }}
 
 @charset "utf-8"
 @import url({{ $fontsUrl }})
@@ -50,7 +51,12 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
   +desktop
     width: 50%
 
-
+.banner-background
+  background-attachment: fixed
+  background-image: url({{ $heroBanner }})
+  background-size: cover
+  
+  
 .index-events-section
   padding: 4rem 0
 

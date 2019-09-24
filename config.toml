@@ -16,6 +16,7 @@ allowed_event_pages = [
 ]
 twitter_handle = "kubeconio"
 tweet_limit = 5
+hero_banner = "hero-banner.jpg"
 
 [params.hero]
 logo = "kubernetes-community-days-white.png"
