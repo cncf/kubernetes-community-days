@@ -4,7 +4,7 @@
 {{ $fontSlice = $fontSlice | append (printf "%s:%s" (replace .name " " "+") (delimit .sizes ",")) }}
 {{ end }}
 {{ $fontsUrl := printf "https://fonts.googleapis.com/css?family=%s" (delimit $fontSlice "|") }}
-{{ $sansSerifFont := site.Params.sans_serif_font | string }}
+{{ $sansSerifFont := (index (where $fonts "type" "eq" "sans_serif") 0).name }}
 {{ $fontAwesomeVersion := site.Params.font_awesome_version | string }}
 {{ $fontAwesomeUrl     := printf "https://use.fontawesome.com/releases/v%s/css/all.css" $fontAwesomeVersion }}
 {{ $heroBanner         := printf "admin/img/%s" site.Params.hero_banner | relURL }}
@@ -46,8 +46,14 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
 
 @import "accordion"
 
+.project-logo
+  +desktop
+    width: 50%
+  +mobile
+    width: 75%
+
 .card
-  border: 1.5px solid rgba($black, 0.1)
+  border: 1px solid rgba($black, 0.1)
 
 .banner
   background-attachment: fixed
@@ -148,7 +154,7 @@ hr.thick-hr
     flex: 1
 
 .footer
-  background-color: $primary
+  background-color: $dark
   color: $light
 
 .is-hero-logo, .is-footer-logo
