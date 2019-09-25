@@ -108,15 +108,15 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
 hr.thick-hr
   margin: 2rem 0 !important
   background-color: $primary
-  height: 0.15rem
+  height: 0.2rem
 
   &.extra-space
     margin: 5rem 0
 
   +tablet
-    width: 5rem
+    width: 7rem
   +mobile
-    width: 3rem
+    width: 5rem
 
 .event-list
   text-transform: uppercase
@@ -139,8 +139,11 @@ hr.thick-hr
       margin-top: 1.5rem
 
     ul.events
-      li
+      li.events-item
         line-height: 120%
+        display: flex
+        flex-direction: row
+        justify-content: space-between
       
         & + li
           margin-top: .5rem

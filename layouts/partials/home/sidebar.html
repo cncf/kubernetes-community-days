@@ -9,82 +9,48 @@
 {{ end }}
 {{ end }}
 
+{{ $sections := (slice (dict "name" "Upcoming" "events" ($upcoming.GroupByDate "2006").Reverse) (dict "name" "Past" "events" ($past.GroupByDate "2006"))) }}
+{{ $numSections := len $sections }}
 
-  <div class="container has-text-left">
-    <div class="event-list">
-      <p class="title is-size-4 is-size-5-mobile has-text-weight-medium">
-        UPCOMING
+<div class="container has-text-left">
+  {{ range $idx, $section := $sections }}
+  <div class="event-list">
+    <p class="title is-size-4 is-size-5-mobile has-text-weight-medium">
+      {{ $section.name | upper }}
+    </p>
+
+    {{ range $section.events }}
+    <div class="year">
+      <p class="year-title">
+        {{ .Key }}
       </p>
 
-      {{ with $upcoming }}
-      {{ range (.GroupByDate "2006").Reverse }}
-      <div class="year">
-        <p class="year-title">
-          {{ .Key }}
-        </p>
-        
-        {{ range (.Pages.GroupByDate "January").Reverse }}
-        <div class="month">
-          <p class="month-title">
-            {{ .Key }}
-          </p>
-    
-          <ul class="events">
-            {{ range .Pages }}
-            {{ $start := dateFormat "Jan 2" .Date }}
-            <li>
-              {{ $start }}{{ with .Params.end }}&ndash;{{ dateFormat "2" (time .) }}{{ end }}
-              &nbsp;
-              <a href="{{ .RelPermalink }}">
-                {{ .Params.location.city }}
-              </a>
-            </li>
-            {{ end }}
-          </ul>
-        </div>
-      </div>
-      {{ end }}
-      {{ end }}
-      {{ end }}
-    </div>
-
-    <hr class="thick-hr" />
-
-    <div class="event-list">
-      <p class="title is-size-4 is-size-5-mobile has-text-weight-medium">
-        PAST
-      </p>
-
-      {{ with $past }}
-      {{ range .GroupByDate "2006" }}
-      <div class="year">
-        <p class="year-title">
+      {{ range (.Pages.GroupByDate "January").Reverse }}
+      <div class="month">
+        <p class="month-title">
           {{ .Key }}
         </p>
 
-        {{ range (.Pages.GroupByDate "January").Reverse }}
-        <div class="month">
-          <p class="month-title">
-            {{ .Key }}
-          </p>
-
-          <ul class="events">
-            {{ range .Pages }}
-            {{ $start := dateFormat "Jan 2" .Date }}
-            <li>
-              {{ $start }}{{ with .Params.end }}&ndash;{{ dateFormat "2" (time .) }}{{ end }}
-              &nbsp;
-              <a href="{{ .RelPermalink }}">
-                {{ .Params.location.city }}
-              </a>
-            </li>
-            {{ end }}
-          </ul>
-        </div>
-        {{ end }}
+        <ul class="events">
+          {{ range .Pages }}
+          {{ $start := dateFormat "Jan 2" .Date }}
+          <li class="events-item">
+            {{ $start }}{{ with .Params.end }}&ndash;{{ dateFormat "2" (time .) }}{{ end }}
+            &nbsp;
+            <a href="{{ .RelPermalink }}">
+              {{ .Params.location.city }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
       </div>
       {{ end }}
-      {{ end }}
     </div>
+    {{ end }}
   </div>
 
+  {{ if ne (add $idx 1) $numSections }}
+  <hr class="thick-hr" />
+  {{ end }}
+  {{ end }}
+</div>
