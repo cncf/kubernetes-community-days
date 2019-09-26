@@ -15,19 +15,19 @@
 <div class="container has-text-left">
   {{ range $idx, $section := $sections }}
   <div class="event-list">
-    <p class="title is-size-4 is-size-5-mobile has-text-weight-medium">
+    <p class="title is-size-4 is-size-5-mobile has-text-weight-bold">
       {{ $section.name | upper }}
     </p>
 
     {{ range $section.events }}
     <div class="year">
-      <p class="year-title">
+      <p class="year-title has-text-weight-medium">
         {{ .Key }}
       </p>
 
       {{ range (.Pages.GroupByDate "January").Reverse }}
       <div class="month">
-        <p class="month-title">
+        <p class="month-title has-text-weight-light">
           {{ .Key }}
         </p>
 

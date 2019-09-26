@@ -44,7 +44,7 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
 
 @import "bulma/bulma"
 
-@import "accordion"
+@import "sidebar"
 
 .project-logo
   +desktop
@@ -117,36 +117,6 @@ hr.thick-hr
     width: 7rem
   +mobile
     width: 5rem
-
-.event-list
-  text-transform: uppercase
-
-  .year
-    &-title
-      font-size: 1.5rem
-      font-weight: 700
-      margin-bottom: 1rem
-
-    & + .year
-      margin-top: 1rem
-
-  .month
-    &-title
-      font-size: 1.25rem
-      margin-bottom: .5rem
-
-    & + .month
-      margin-top: 1.5rem
-
-    ul.events
-      li.events-item
-        line-height: 120%
-        display: flex
-        flex-direction: row
-        justify-content: space-between
-      
-        & + li
-          margin-top: .5rem
 
 .page
   display: flex
