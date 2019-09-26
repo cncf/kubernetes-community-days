@@ -9,13 +9,13 @@
   <div class="card">
     <div class="card-content">
       <div class="content">
-        <span class="is-size-5 is-size-6-mobile has-text-primary">
+        <span class="title is-size-6 has-text-primary">
           Kubernetes Community Day
         </span>
 
-        <p class="is-size-4 is-size-5-mobile has-text-weight-bold has-text-primary is-uppercase">
+        <p class="is-size-4 is-size-5-mobile has-text-weight-bold has-text-primary">
           <a href="{{ $url }}">
-            {{ $title }}
+            {{ $title | upper }}
           </a>
         </p>
 
@@ -23,7 +23,7 @@
           {{ $month }} {{ $day }}{{ with .Params.end }}&ndash;{{ dateFormat "2" (time .) }}{{ end }}, {{ $year }}
         </h4>
 
-        <a class="is-size-5 is-size-6-mobile" href="{{ $where.url }}" target="_blank">
+        <a class="is-size-6 has-text-grey" href="{{ $where.url }}" target="_blank">
           {{ $where.venue }}
         </a>
 
