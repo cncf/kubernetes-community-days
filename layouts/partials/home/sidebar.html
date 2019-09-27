@@ -12,45 +12,39 @@
 {{ $sections := (slice (dict "name" "Upcoming" "events" ($upcoming.GroupByDate "2006").Reverse) (dict "name" "Past" "events" ($past.GroupByDate "2006"))) }}
 {{ $numSections := len $sections }}
 
-<div class="container has-text-left">
-  {{ range $idx, $section := $sections }}
-  <div class="event-list">
-    <p class="event-list-title">
-      {{ $section.name | upper }}
+{{ range $idx, $section := $sections }}
+<div class="container event-list has-text-left">
+  <p class="event-list-title">
+    {{ $section.name | upper }}
+  </p>
+
+  {{ range $section.events }}
+  <div class="year">
+    <p class="year-title">
+      {{ .Key }}
     </p>
 
-    {{ range $section.events }}
-    <div class="year">
-      <p class="year-title has-text-weight-medium">
+    {{ range (.Pages.GroupByDate "January").Reverse }}
+    <div class="month">
+      <p class="month-title">
         {{ .Key }}
       </p>
 
-      {{ range (.Pages.GroupByDate "January").Reverse }}
-      <div class="month">
-        <p class="month-title has-text-weight-light">
-          {{ .Key }}
-        </p>
-
-        <ul class="events">
-          {{ range .Pages }}
-          {{ $start := dateFormat "Jan 2" .Date }}
-          <li class="events-item">
-            {{ $start }}{{ with .Params.end }}&ndash;{{ dateFormat "2" (time .) }}{{ end }}
-            &nbsp;
-            <a href="{{ .RelPermalink }}">
-              {{ .Params.location.city | upper }}
-            </a>
-          </li>
-          {{ end }}
-        </ul>
-      </div>
-      {{ end }}
+      <ul class="events">
+        {{ range .Pages }}
+        {{ $start := dateFormat "Jan 2" .Date }}
+        <li class="events-item">
+          {{ $start }}{{ with .Params.end }}&ndash;{{ dateFormat "2" (time .) }}{{ end }}
+          &nbsp;
+          <a href="{{ .RelPermalink }}">
+            {{ .Params.location.city | upper }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
     </div>
     {{ end }}
   </div>
-
-  {{ if ne (add $idx 1) $numSections }}
-  <hr class="thick-hr" />
-  {{ end }}
   {{ end }}
 </div>
+{{ end }}

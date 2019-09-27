@@ -2,23 +2,30 @@
   background-color: $white-bis
 
   .event-list
+    & + .event-list
+      margin-top: 3rem
+
     &-title
+      color: $black
       font-size: 1.65rem
-      font-weight: 600
+      font-weight: 700
       margin-bottom: 1.25rem
 
     .year
       &-title
+        color: $dark
         font-size: 1.5rem
         margin-bottom: 1.2rem
-        font-weight: 700
+        font-weight: 600
 
       & + .year
         margin-top: 1rem
 
     .month
       &-title
-        font-size: 1.4rem
+        color: $grey-dark
+        font-size: 1.5rem
+        font-weight: 600
         margin-bottom: .75rem
 
       & + .month

@@ -72,7 +72,7 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
     width: 60%
 
 .card
-  border: 1px solid rgba($black, 0.1)
+  //border: 2px solid rgba($black, 0.1)
 
 .banner
   background-attachment: fixed
@@ -125,7 +125,6 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
           margin-top: 1rem
 
 hr.thick-hr
-  margin: 2rem 0 !important
   background-color: $primary
   height: 0.2rem
 
@@ -133,8 +132,10 @@ hr.thick-hr
     margin: 5rem 0
 
   +tablet
+    margin: 2rem 0 !important
     width: 7rem
   +mobile
+    margin: 1rem 0 !important
     width: 5rem
 
 .page

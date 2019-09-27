@@ -2,9 +2,15 @@
 {{ $twitterHandle := site.Params.twitter_handle }}
 
 <section class="section">
+  <p class="title is-size-3 is-size-4-mobile">
+    {{ "On Social Media" | upper }}
+  </p>
+
+  <hr class="thick-hr" />
+
   <div class="container">
     <div class="columns">
-      <div class="column is-half">
+      <div class="column is-three-quarters">
         <a class="twitter-timeline" data-tweet-limit="{{ $tweetLimit }}" href="https://twitter.com/{{ $twitterHandle }}?ref_src=twsrc%5Etfw"></a>
       </div>
     </div>
