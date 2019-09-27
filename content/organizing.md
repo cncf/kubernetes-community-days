@@ -1,18 +1,21 @@
 ---
-title: Organize a Kubernetes Community Days
+title: Organize a Kubernetes Community Day
 ---
 
 ## About Kubernetes Community Days
 
-Kubernetes Community Days (KCDs) are community-organized events that gather adopters and technologists from open source and cloud native communities to for education, collaboration, and networking. KCDs are supported by the Cloud Native Computing Foundation (CNCF). These fun, locally-defined events help grow and sustain the Kubernetes community. 
+Kubernetes Community Days (KCDs) are community-organized events that gather adopters and technologists from open source and cloud native communities for education, collaboration, and networking. KCDs are supported by the [Cloud Native Computing Foundation](https://cncf.io) (CNCF). These fun, locally-defined events help grow and sustain the Kubernetes community.
 
-We thank [DevOpsDays](https://devopsdays.org) and [OpenStack Days](https://www.openstack.org/community/events/openstackdays) for providing some of the core ideas and content for this document.
-                      
-## Interested in Hosting a Kubernetes Community Days?
+We'd like to thank [DevOpsDays](https://devopsdays.org) and [OpenStack Days](https://www.openstack.org/community/events/openstackdays) for providing some of the core ideas and content for this document.
 
-Any city or region can host a Kubernetes Community Day. Each local KCD event team handles its own sponsorships, registration, and logistics. Check if there is a KCD event scheduled in your area (link). If there is already an event scheduled, you can reach out to the organizers to offer to help. CNCF supports KCDs with guidance and event promotion via CNCF newsletters, blogs, and social media channels. 
+## Interested in Hosting a Kubernetes Community Day?
 
-This quick start guide covers all aspects of holding a successful event. Please keep in mind that Kubernetes Community Days are primarily for community engagement. Organizers and speakers must avoid sales pitches. Kubernetes Community Days events are inclusive. Organizers must make reasonable efforts to work with others, regardless of their organizational affiliation.
+Any city or region can host a Kubernetes Community Day. Each local KCD event team handles its own sponsorships, registration, and logistics. Check if there is a KCD event scheduled in your area on the [main page](/). If there *is* already an event scheduled, you can reach out to the organizers and offer to help. The CNCF supports KCDs with guidance and event promotion via CNCF newsletters, blog posts, and social media channels.
+
+This quick start guide covers all aspects of holding a successful event. Please keep in mind that Kubernetes Community Days are:
+
+* **Primarily for community engagement**. Organizers and speakers must avoid vendor pitches.
+* **Inclusive**. Organizers must make reasonable efforts to work with others, regardless of their organizational affiliation.
 
 ## Getting Started Checklist
 
@@ -25,7 +28,7 @@ This quick start guide covers all aspects of holding a successful event. Please 
 * Agree to use [Eventbrite](https://www.eventbrite.com/) for registration
 * Agree to use [Sched](https://sched.com) for organizing the program page
 
-Once your team meets these criteria, you can create a GitHub [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=newevent&template=host.md) to notify CNCF that you wish to be officially recognized. Your organizing team will be invited to the [#kcd-organizers](https://cloud-native.slack.com/messages/GN6R2PV1A) private Slack channel where you can connect with other Kubernetes Community Days organizers around the world. You can then begin creating your website. Copy the page structure of the [Bouvet Island](https://kubernetescommunitydays.org/events/2020-bouvet-island) sample event as a guide. Here’s [instructions](/organizing-creating-website) .
+Once your team meets these criteria, you can create a GitHub [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=newevent&template=host.md) to notify CNCF that you wish to be officially recognized. Your organizing team will be invited to the [#kcd-organizers](https://cloud-native.slack.com/messages/GN6R2PV1A) private Slack channel where you can connect with other Kubernetes Community Days organizers around the world. You can then begin creating your website. Copy the page structure of the [Bouvet Island](/events/2020-bouvet-island) sample event as a guide. Here’s [instructions](/organizing-creating-website) .
 
 ## Event Details 
 
@@ -82,7 +85,7 @@ We recommend assigning the following responsibilities to one or two members of y
 
 ## Core Organizers
 
-[Dan Kohn](https://www.dankohn.com), [Chris Blum](https://twitter.com/chrisvblum), [Jennifer Davis](https://twitter.com/sigje)
+The current organizers are [Dan Kohn](https://www.dankohn.com), [Chris Blum](https://twitter.com/chrisvblum), and [Jennifer Davis](https://twitter.com/sigje).
 
-You can reach us on CNCF Slack. Create a free [account](https://slack.cncf.io) and come to channel [#kcd-formation](https://cloud-native.slack.com/messages/CN6LBV16G)
+You can reach us on the CNCF Slack. Create a free [account](https://slack.cncf.io) and come to the [#kcd-formation](https://cloud-native.slack.com/messages/CN6LBV16G) channel.
 
