@@ -10,15 +10,15 @@
 {{ $event    := .CurrentSection.Title }}
 {{ $mainUrl  := .CurrentSection.RelPermalink }}
 {{ $isRoot   := eq .CurrentSection .FirstSection }}
-<section class="hero is-medium">
+<section class="hero is-light">
   <div class="hero-body">
     <div class="container">
-      <p class="title is-size-1 is-size-2-mobile has-text-weight-light is-spaced">
+      <p class="title is-size-2 is-size-3-mobile has-text-weight-medium is-spaced">
         {{ $title }}
       </p>
 
       {{ if and (not $isRoot) (ne .File.LogicalName "_index.md") }}
-      <p class="subtitle has-text-weight-bold">
+      <p class="subtitle is-size-3 is-size-4-mobile has-text-weight-bold">
         <a href="{{ $mainUrl }}">
           {{ $event | upper }}
         </a>
@@ -26,43 +26,60 @@
       {{ end }}
 
       {{ if or $start $location }}
-      <div class="is-size-3 is-size-4-mobile is-spaced">
+      <div class="is-size-4 is-size-5-mobile is-spaced">
         {{ with $start }}
         {{ $month    := dateFormat "January" . }}
         {{ $startDay := dateFormat "2" . }}
         {{ $year     := dateFormat "2006" . }}
-        <p class="has-text-weight-light">
+        <p class="has-text-weight-medium">
           {{ $month | upper }} {{ $startDay }}{{ with $end }}&ndash;{{ dateFormat "2" (time .) }}{{ end }}, {{ $year }}
         </p>
         {{ end }}
 
         {{ with $location }}
+
         <br />
 
-        <p class="is-size-4 is-size-5-mobile">
-          {{ with .city }}{{ . }}{{ end }}
-          {{- with .country  }}, {{ . }}{{ end }}
-          {{ if .venue }}
-    
+        <div class="buttons has-addons">
+          <span class="button is-primary has-text-weight-bold is-radiusless">
+            <span class="icon is-small">
+              <i class="fas fa-city fa-sm"></i>
+            </span>
+            &nbsp;
+            <span>
+              {{ with .city }}{{ . }}{{ end }}
+              {{- with .country }}, {{ . }}{{ end }}
+            </span>
+          </span>
           {{ if .url }}
-          &nbsp;&nbsp;|&nbsp;&nbsp;
-
-          <a class="has-text-weight-bold" href="{{ .url }}">
-            {{ .venue }}
+          <a class="button is-dark has-text-weight-bold is-radiusless" href="{{ .url }}">
+            <span class="icon is-small">
+              <i class="fas fa-map-marker-alt fa-sm"></i>
+            </span>
+            &nbsp;
+            <span>
+              {{ .venue }}
+            </span>
           </a>
           {{ else }}
-          {{ .venue }}
+          <div class="button is-dark has-text-weight-bold is-radiusless">
+            <span class="icon is-small">
+              <i class="fas fa-map-marker-alt fa-sm"></i>
+            </span>
+            &nbsp;
+            <span>
+              {{ .venue }}
+            </span>
+          </div>
           {{ end }}
-          {{ end }}
-        </p>
-
+        </div>
         {{ end }}
       </div>
       {{ end }}
 
       {{ with $social }}
       <br />
-      {{ partial "social-buttons.html" (dict "social" .) }}
+      {{ partial "social-buttons.html" (dict "social" . "size" "small") }}
       {{ end }}
     </div>
   </div>
