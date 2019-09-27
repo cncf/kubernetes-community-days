@@ -17,6 +17,8 @@
         {{ $title }}
       </p>
 
+      <hr class="thick-hr" />
+
       {{ if and (not $isRoot) (ne .File.LogicalName "_index.md") }}
       <p class="subtitle is-size-3 is-size-4-mobile has-text-weight-bold">
         <a href="{{ $mainUrl }}">

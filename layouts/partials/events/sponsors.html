@@ -7,38 +7,46 @@
 
 <section class="section">
   <div class="container">
-    <p class="title is-size-2 is-size-3-mobile">
+    <p class="title is-size-3 is-size-4-mobile has-text-weight-light">
       Sponsors
     </p>
 
-    <br /><br />
+    <hr class="thick-hr" />
 
-    {{ range . }}
-    {{ $level := .level }}
-    {{ $orgs  := .orgs }}
-    <div class="logo-container">
-      <p class="title is-size-3 is-size-4-mobile has-text-weight-light">
-        {{ $level | upper }}
-      </p>
-
-      {{ with $orgs }}
-      <div class="logo-container-block">
-        {{ range . }}
-        {{ $imgUrl := printf "img/%s/%s" $tag .logo | relURL }}
-        <div class="logo">
-          {{ if .url }}
-          <a href="{{ .url }}">
-            <img src="{{ $imgUrl }}" alt="{{ .name }} logo">
-          </a>
-          {{ else }}
-          <img src="{{ $imgUrl }}" alt="{{ .name }} logo">
-          {{ end }}
+    <div class="columns is-multiline">
+      {{ range . }}
+      {{ $level := .level }}
+      {{ $orgs  := .orgs }}
+      <div class="column is-half">
+        <div class="card">
+          <header class="card-header">
+            <p class="card-header-title is-size-4 is-size-5-mobile">
+              {{ $level | upper }}
+            </p>
+          </header>
+          
+          <div class="card-content">
+              {{ with $orgs }}
+              <div class="sponsor-logo-container-block">
+                {{ range . }}
+                {{ $imgUrl := printf "img/%s/%s" $tag .logo | relURL }}
+                <div class="sponsor-logo">
+                  {{ if .url }}
+                  <a href="{{ .url }}">
+                    <img src="{{ $imgUrl }}" alt="{{ .name }} logo">
+                  </a>
+                  {{ else }}
+                  <img src="{{ $imgUrl }}" alt="{{ .name }} logo">
+                  {{ end }}
+                </div>
+                {{ end }}
+              </div>
+              {{ end }}
+          </div>
         </div>
-        {{ end }}
       </div>
       {{ end }}
     </div>
-    {{ end }}
   </div>
 </section>
 {{ end }}
