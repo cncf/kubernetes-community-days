@@ -2,22 +2,26 @@ This page will contain detailed instructions on creating your website.
 Congratulations on preparing to host a Kubernetes Community Days in your city! This page will take you through the steps of setting up pages for your event on Kubernetes community days.org, which uses GitHub and Hugo to edit and publish your pages.
 
 If you run into any issues when going through the process outlined in this document, please suggest changes or problems. This is a working document and will be updated as needed. 
-Create a GitHub Account
+
+#Create a GitHub Account
 The first thing you need to do is create a GitHub account if you don't already have one. 
-Create your GitHub account here: https://github.com/ 
-Enter your user name, email, password, and hit submit
+
+* Create your GitHub account here: https://github.com/ 
+* Enter your user name, email, password, and hit submit
+
+/github.png
 
 You will receive an email to activate your account
 Log in and get started!
 
 Interested in Organizing a Kubernetes Community Days?
-Go to https://github.com/cncf/kubernetes-community-days.
 
-If you are looking to find other organizers in your area, go to https://github.com/cncf/kubernetes-community-days/projects/2 and see if there are any events in your area.  If there is an event in progress or a past event, contact that events’ organizers to find out how you can get involved by adding a comment to their issue.
+* Go to https://github.com/cncf/kubernetes-community-days.
+* If you are looking to find other organizers in your area, go to https://github.com/cncf/kubernetes-community-days/projects/2 and see if there are any events in your area.  If there is an event in progress or a past event, contact that events’ organizers to find out how you can get involved by adding a comment to their issue.
 
-If there are not any events in your area, open an issue:
-Go to https://github.com/cncf/kubernetes-community-days/issues and click “New Issue”
-
+* If there are not any events in your area, open an issue:
+  * Go to https://github.com/cncf/kubernetes-community-days/issues and click “New Issue”
+/create issue.png
 
 Click “Get started” on the Organizing Event issue
 
