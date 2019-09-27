@@ -130,11 +130,17 @@ hr.thick-hr
   background-color: $dark
   color: $light
 
-.is-hero-logo, .is-footer-logo
+=logo($d, $w)
   +desktop
-    width: 65%
+    width: $d
   +mobile
-    width: 90%
+    width: $w
+
+.is-footer-logo
+  +logo(65%, 50%)
+    
+.is-hero-logo
+  +logo(65%, 90%)
 
 .variable-size-content
   +touch
