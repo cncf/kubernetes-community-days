@@ -20,8 +20,8 @@
       <hr class="thick-hr" />
 
       {{ if and (not $isRoot) (ne .File.LogicalName "_index.md") }}
-      <p class="subtitle is-size-3 is-size-4-mobile has-text-weight-bold">
-        <a href="{{ $mainUrl }}">
+      <p class="subtitle is-size-5 is-size-6-mobile has-text-weight-bold">
+        <a class="has-text-dark" href="{{ $mainUrl }}">
           {{ $event | upper }}
         </a>
       </p>
