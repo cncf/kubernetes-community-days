@@ -2,7 +2,7 @@
 
 # Kubernetes Community Days website
 
-The purpose of this repo is to host the website for Kubernetes Community Days.
-To get started go to the [organizing page](organizing.md)
+This repo houses the assets used to build the Kubernetes Community Days (KCD) site at https://kubernetescommunitydays.org.
 
+If you're interested in organizing your own KCD event, visit the [Organizing](https://kubernetescommunitydays.org/organizing) page of the site for requirements and instructions.
 
