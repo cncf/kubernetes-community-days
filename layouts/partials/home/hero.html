@@ -3,10 +3,12 @@
 {{ $twitter     := site.Params.social.twitter }}
 {{ $facebook    := site.Params.social.facebook }}
 
-<section class="hero is-medium has-text-centered banner">
+<section class="hero is-medium banner">
   <div class="hero-body">
     <div class="container">
-      <img class="is-hero-logo" src="{{ $logo }}" alt="Kubernetes Community Days main logo">
+      <div class="main-logo-container">
+        <img class="main-logo" src="{{ $logo }}" alt="Kubernetes Community Days main logo">
+      </div>
     </div>
   </div>
 </section>

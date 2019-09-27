@@ -26,7 +26,7 @@ $primary: $k8s-dark-blue
 $secondary: $k8s-light-blue
 $section-padding: 2rem 1.5rem
 $hr-margin: 3rem 0
-$navbar-height: 5rem
+$navbar-height: 4rem
 $navbar-item-img-max-height: $navbar-height * 0.7
 $navbar-item-active-color: $primary
 $card-shadow: none
@@ -49,6 +49,17 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
 @import "bulma/bulma"
 
 @import "sidebar"
+
+.main-logo-container
+  background-color: $white
+  padding: 1rem
+  margin: 0 auto
+
+  +desktop
+    width: 70%
+
+  img
+    opacity: 1
 
 .text-content
   +desktop
@@ -146,9 +157,6 @@ hr.thick-hr
 
 .is-footer-logo
   +logo(65%, 50%)
-    
-.is-hero-logo
-  +logo(65%, 90%)
 
 .variable-size-content
   +touch
