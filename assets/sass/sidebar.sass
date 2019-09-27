@@ -1,27 +1,32 @@
 .sidebar
-  background-color: $light
+  background-color: $white-bis
 
   .event-list
-    text-transform: uppercase
+    &-title
+      font-size: 1.65rem
+      font-weight: 600
+      margin-bottom: 1.25rem
 
     .year
       &-title
         font-size: 1.5rem
-        margin-bottom: 1rem
+        margin-bottom: 1.2rem
+        font-weight: 700
 
       & + .year
         margin-top: 1rem
 
     .month
       &-title
-        font-size: 1.25rem
-        margin-bottom: .5rem
+        font-size: 1.4rem
+        margin-bottom: .75rem
 
       & + .month
         margin-top: 1.5rem
 
       ul.events
         li.events-item
+          font-size: 1.15rem
           line-height: 120%
           display: flex
           flex-direction: row

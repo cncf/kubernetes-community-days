@@ -44,7 +44,7 @@ $family-sans-serif: "{{ $sansSerifFont }}", BlinkMacSystemFont, -apple-system, "
 
 @import "bulma/sass/utilities/derived-variables"
 
-$colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue": ($facebook-blue, $white)), $colors)
+$colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue": ($facebook-blue, $white), "white-bis": ($white-bis, $black)), $colors)
 
 @import "bulma/bulma"
 
@@ -57,8 +57,8 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
 .project-logo
   +desktop
     width: 50%
-  +mobile
-    width: 75%
+  +touch
+    width: 60%
 
 .card
   border: 1px solid rgba($black, 0.1)

@@ -15,7 +15,7 @@
 <div class="container has-text-left">
   {{ range $idx, $section := $sections }}
   <div class="event-list">
-    <p class="title is-size-4 is-size-5-mobile has-text-weight-bold">
+    <p class="event-list-title">
       {{ $section.name | upper }}
     </p>
 
@@ -38,7 +38,7 @@
             {{ $start }}{{ with .Params.end }}&ndash;{{ dateFormat "2" (time .) }}{{ end }}
             &nbsp;
             <a href="{{ .RelPermalink }}">
-              {{ .Params.location.city }}
+              {{ .Params.location.city | upper }}
             </a>
           </li>
           {{ end }}
