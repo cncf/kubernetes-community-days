@@ -10,11 +10,11 @@
 {{ $event    := .CurrentSection.Title }}
 {{ $mainUrl  := .CurrentSection.RelPermalink }}
 {{ $isRoot   := eq .CurrentSection .FirstSection }}
-<section class="hero is-light">
+<section class="hero is-medium is-light">
   <div class="hero-body">
     <div class="container">
       <p class="title is-size-2 is-size-3-mobile has-text-weight-medium is-spaced">
-        {{ $title }}
+        {{ $title | upper }}
       </p>
 
       <hr class="thick-hr" />
