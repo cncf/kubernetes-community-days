@@ -9,7 +9,7 @@ The first thing you need to do is create a GitHub account if you don't already h
 * Create your GitHub account here: https://github.com/ 
 * Enter your user name, email, password, and hit submit
 
-/github.png
+image: github.png
 
 You will receive an email to activate your account
 Log in and get started!
