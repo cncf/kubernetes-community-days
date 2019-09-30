@@ -50,16 +50,14 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
 
 @import "sidebar"
 
-.main-logo-container
-  background-color: $white
-  padding: 1rem
-  margin: 0 auto
-
+=logo($d, $w)
   +desktop
-    width: 70%
+    width: $d
+  +mobile
+    width: $w
 
-  img
-    opacity: 1
+.main-logo
+  +logo(70%, 90%)
 
 .text-content
   +desktop
@@ -149,12 +147,6 @@ hr.thick-hr
 .footer
   background-color: $dark
   color: $light
-
-=logo($d, $w)
-  +desktop
-    width: $d
-  +mobile
-    width: $w
 
 .is-footer-logo
   +logo(65%, 50%)
