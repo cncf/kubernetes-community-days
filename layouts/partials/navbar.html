@@ -7,57 +7,47 @@
 {{ $url     := .RelPermalink }}
 {{ $allowed := site.Params.allowed_event_pages }}
 <nav class="navbar is-primary is-fixed-top">
-  <div class="container">
-    <div class="navbar-brand">
-      <a class="navbar-item" href="{{ $home }}">
-        <img src="{{ $logo }}" alt="Kubernetes Community Days navbar logo">
-      </a>
-  
-      <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbar-menu">
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-      </a>
-    </div>
-  
-    <div id="navbar-menu" class="navbar-menu">
-      {{ if $isEvent }}
-      {{ $title := .CurrentSection.Title }}
-      <div class="navbar-start">
-        <div class="navbar-item has-dropdown is-hoverable">
-          <a class="navbar-link has-text-weight-bold">
-            {{ $title | upper }}
-          </a>
+  <div class="navbar-brand">
+    <a class="navbar-item" href="{{ $home }}">
+      <img src="{{ $logo }}" alt="Kubernetes Community Days navbar logo">
+    </a>
 
-          <div class="navbar-dropdown">
-            {{ with .CurrentSection }}
-            {{ $isEventRoot := eq $url .RelPermalink }}
-            <a class="navbar-item has-text-weight-bold{{ if $isEventRoot }} is-active{{ end }}" href="{{ .RelPermalink }}">
-              Overview
-            </a>
+    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbar-menu">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
 
-            {{ range .Pages }}
-            {{ if and .Title (in $allowed .File.BaseFileName) }}
-            {{ $isActive := eq $url .RelPermalink }}
-            <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .RelPermalink }}">
-              {{ .Title }}
-            </a>
-            {{ end }}
-            {{ end }}
-            {{ end }}
-          </div>
-        </div>
-      </div>
+  <div id="navbar-menu" class="navbar-menu">
+    {{ if $isEvent }}
+    {{ $title := .CurrentSection.Title }}
+    <div class="navbar-start">
+      {{ with .CurrentSection }}
+      {{ $isEventRoot := eq $url .RelPermalink }}
+      <a class="navbar-item is-light has-text-weight-bold{{ if $isEventRoot }} is-active{{ end }}" href="{{ .RelPermalink }}">
+        {{ $title }} Overview
+      </a>
+
+      {{ range .Pages }}
+      {{ if and .Title (in $allowed .File.BaseFileName) }}
+      {{ $isActive := eq $url .RelPermalink }}
+      <a class="navbar-item is-light has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .RelPermalink }}">
+        {{ .Title }}
+      </a>
       {{ end }}
+      {{ end }}
+      {{ end }}
+    </div>
+    {{ end }}
 
-      <div class="navbar-end">
-        {{ range $menu }}
-        {{ $isActive := hasPrefix $url .URL }}
-        <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .URL }}">
-          {{ .Name }}
-        </a>
-        {{ end }}
-      </div>
+    <div class="navbar-end">
+      {{ range $menu }}
+      {{ $isActive := hasPrefix $url .URL }}
+      <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .URL }}">
+        {{ .Name }}
+      </a>
+      {{ end }}
     </div>
   </div>
 </nav>

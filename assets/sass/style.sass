@@ -56,6 +56,15 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
   +mobile
     width: $w
 
+
+.navbar-menu.is-active .navbar-item.is-light
+  color: $dark !important
+
+.navbar-item
+  &.is-light
+    color: $grey-lighter !important
+
+
 .main-logo
   +logo(70%, 90%)
 
