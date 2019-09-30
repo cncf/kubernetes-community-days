@@ -1,6 +1,7 @@
 {{ $home      := .IsHome }}
 {{ $app       := resources.Get "js/app.js" | resources.ExecuteAsTemplate "js/app.js" . | minify | fingerprint }}
 {{ $schedSlug := .CurrentSection.Params.sched_slug }}
+{{ $isProgram := eq .File.BaseFileName "program" }}
 
 {{ if not $home }}
 {{ $anchor := resources.Get "js/anchor.min.js" }}
@@ -14,7 +15,7 @@
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {{ end }}
 
-{{ with $schedSlug }}
-{{ $schedEmbedUrl := printf "https://%s.sched.org/js/embed.js" . }}
+{{ if and $schedSlug $isProgram }}
+{{ $schedEmbedUrl := printf "https://%s.sched.org/js/embed.js" $schedSlug }}
 <script src="{{ $schedEmbedUrl }}"></script>
 {{ end }}

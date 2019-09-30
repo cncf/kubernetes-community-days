@@ -20,22 +20,15 @@ function navbarBurgerToggle() {
 }
 
 function navbarLinks() {
-  var comp = location.host;
+  const host = window.location.hostname;
 
   $('a').each(function () {
-    var link = undefined === $(this).attr('href') ? '' : $(this).attr('href');
 
-    if (link != '' && link.indexOf(comp) <= -1 && link.length > 0) {
-      if ($(this).text().trim().length == 0 || link.indexOf('javascript(') > -1) {
-        return;
-      }
-  
-      if (link.charAt(0) != '/' && link.charAt(0) != '#') {
-        console.log(link);
+    const link = undefined === $(this).attr('href') ? '' : $(this).attr('href');
 
-        $(this).append('<sup><i class="fas fa-external-link-alt external-link"></i></sup>');
-        $(this).attr('target', '_blank');
-      }
+    if (link && link.includes('//') && !link.includes(host)) {
+      $(this).append('<sup><i class="fas fa-external-link-alt external-link"></i></sup>');
+      $(this).attr('target', '_blank');
     }
   });
 }
