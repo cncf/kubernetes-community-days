@@ -22,7 +22,7 @@ function navbarBurgerToggle() {
 function navbarLinks() {
   const host = window.location.hostname;
 
-  $('a').each(function () {
+  $('.content a').each(function () {
 
     const link = undefined === $(this).attr('href') ? '' : $(this).attr('href');
 
