@@ -11,7 +11,14 @@ Once you have met the hosting requirements for Kubernetes Community Days, next s
  * Fork the kubernetes-community-days repository and make sure that your fork is up-to-date whenever you are making updates.
  * Create a new branch, and submit your PR from that branch rather than direct from the default branch.
 * When your PR is ready, CNCF will review the proposed events site in the staging server linked from the Pull Request. The site must meet the following requirements: 
- * It has sufficient information to get started including the minimum information of the event date, venue, CFP dates, at least 3 sponsors listed, sponsorship prospectus, contact information for the organizers, and the code of conduct. 
+ * It has sufficient information to get started including the minimum information:
+  * Event date, 
+  * Venue, 
+  * CFP dates, 
+  * At least 3 sponsors listed, 
+  * Sponsorship prospectus, 
+  * Contact information for the organizers, and 
+  * the code of conduct. 
  * CNCF team will request any required changes in the PR.
 * Once approved, CNCF team will merge your PR and your page will appear on [Kubernetes Community Days](https://kubernetescommunitydays.org/)
 * Update your site by submitting new PRs. 
