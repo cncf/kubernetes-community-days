@@ -1,4 +1,4 @@
-# Proposed Kubernetes Community Days Review Process
+# Kubernetes Community Days Review Process
 
 Once you have met the hosting requirements for Kubernetes Community Days, next steps are:
 
