@@ -35,6 +35,8 @@ function navbarLinks() {
 
 
 $(function() {
+  console.log($('.navbar')[0].scrollWidth);
+
   navbarBurgerToggle();
   navbarLinks();
   {{ if not $home }}
