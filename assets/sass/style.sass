@@ -29,7 +29,6 @@ $hr-margin: 3rem 0
 $navbar-height: 4rem
 $navbar-item-img-max-height: $navbar-height * 0.7
 $navbar-item-active-color: $primary
-$card-shadow: none
 $card-header-color: $white
 $card-header-shadow: none
 $card-header-weight: $weight-bold
@@ -93,7 +92,7 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
     height: 5rem
     width: auto
 
-.sponsor-logo-container
+.supporter-logo-container
   & + &
     margin-top: 2rem
 
@@ -108,18 +107,18 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
       flex-direction: column
       align-items: center
 
-    .sponsor-logo
+    .supporter-logo
       +tablet
         width: 8rem
         height: auto
 
-        & + .sponsor-logo
+        & + .supporter-logo
           margin-left: 2.5rem
       
       +mobile
         width: 40%
 
-        & + .sponsor-logo
+        & + .supporter-logo
           margin-top: 1rem
 
 hr.thick-hr

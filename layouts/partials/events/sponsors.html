@@ -27,10 +27,10 @@
           
           <div class="card-content">
               {{ with $orgs }}
-              <div class="sponsor-logo-container-block">
+              <div class="supporter-logo-container-block">
                 {{ range . }}
                 {{ $imgUrl := printf "img/%s/%s" $tag .logo | relURL }}
-                <div class="sponsor-logo">
+                <div class="supporter-logo">
                   {{ if .url }}
                   <a href="{{ .url }}">
                     <img src="{{ $imgUrl }}" alt="{{ .name }} logo">
