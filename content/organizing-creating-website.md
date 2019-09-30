@@ -24,7 +24,7 @@ The first thing you need to do is create a GitHub account if you don't already h
 [Screenshot](/img/howto.md/getting started .png)
 
 * Click “Get started” on the Organizing Event issue
-[Screenshot](/img/howto.md/createissue.png)
+![Screenshot](/img/howto.md/createissue.png)
 
 * In the “title” space enter “KCD <your city, your country>, Date (if you have one)”
 * If you are just getting started fill in as much detail as possible about your event in the “write” space
@@ -37,7 +37,7 @@ The first thing you need to do is create a GitHub account if you don't already h
 
 * Once your issues have been added to the project you can check its status here: https://github.com/cncf/kubernetes-community-days/projects/2 
 * As you add organizers, update your issue
-[Screenshot](/img/howto.md/updateissue.png)
+![Screenshot](/img/howto.md/updateissue.png)
 
 When you have your 3 organizers and 2 sponsors and meet all the requirements of the “Getting Started Checklist” (https://kubernetescommunitydays.org/organizing/) fill out the lower part of the issue.
 Update your issue:
