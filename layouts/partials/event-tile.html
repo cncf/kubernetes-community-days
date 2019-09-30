@@ -26,11 +26,11 @@
         <a class="subtitle is-size-4 is-size-4 has-text-grey" href="{{ $where.url }}" target="_blank">
           {{ $where.venue }}
         </a>
-
-        {{ with $social }}
-        {{ partial "social-buttons.html" (dict "margin" true "centered" false "text" false "social" .) }}
-        {{ end }}
       </div>
+
+      {{ with $social }}
+      {{ partial "social-buttons.html" (dict "margin" true "centered" false "text" false "social" .) }}
+      {{ end }}
     </div>
   </div>
 </div>

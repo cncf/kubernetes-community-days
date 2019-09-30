@@ -21,25 +21,36 @@
     </div>
   
     <div id="navbar-menu" class="navbar-menu">
+      {{ if $isEvent }}
+      {{ $title := .CurrentSection.Title }}
+      <div class="navbar-start">
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link has-text-weight-bold">
+            {{ $title | upper }}
+          </a>
+
+          <div class="navbar-dropdown">
+            {{ with .CurrentSection }}
+            {{ $isEventRoot := eq $url .RelPermalink }}
+            <a class="navbar-item has-text-weight-bold{{ if $isEventRoot }} is-active{{ end }}" href="{{ .RelPermalink }}">
+              Overview
+            </a>
+
+            {{ range .Pages }}
+            {{ if and .Title (in $allowed .File.BaseFileName) }}
+            {{ $isActive := eq $url .RelPermalink }}
+            <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .RelPermalink }}">
+              {{ .Title }}
+            </a>
+            {{ end }}
+            {{ end }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      {{ end }}
+
       <div class="navbar-end">
-        {{ if $isEvent }}
-        {{ with .CurrentSection }}
-        {{ $isEventRoot := eq $url .RelPermalink }}
-        <a class="navbar-item has-text-weight-bold{{ if $isEventRoot }} is-active{{ end }}" href="{{ .RelPermalink }}">
-          Overview
-        </a>
-
-        {{ range .Pages }}
-        {{ if and .Title (in $allowed .File.BaseFileName) }}
-        {{ $isActive := eq $url .RelPermalink }}
-        <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .RelPermalink }}">
-          {{ .Title }}
-        </a>
-        {{ end }}
-        {{ end }}
-        {{ end }}
-        {{ end }}
-
         {{ range $menu }}
         {{ $isActive := hasPrefix $url .URL }}
         <a class="navbar-item has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .URL }}">
