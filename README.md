@@ -6,3 +6,21 @@ This repo houses the assets used to build the Kubernetes Community Days (KCD) si
 
 If you're interested in organizing your own KCD event, visit the [Organizing](https://kubernetescommunitydays.org/organizing) page of the site for requirements and instructions.
 
+## Running the site locally
+
+You can run the KCD site in your local environment if you have the following installed:
+
+* The [Hugo](https://gohugo.io) static site generator. Installation instructions are [here](https://gohugo.io/getting-started/installing/). Make sure to install the version specified in the [`netlify.toml`](./netlify.toml) configuration file.
+* The [Yarn](https://yarnpkg.com/lang/en/) dependency management tool for JavaScript and other assets. Installation instructions are [here](https://yarnpkg.com/lang/en/docs/install/#mac-stable).
+
+If those tools are installed, these commands run the site locally:
+
+```bash
+# Install Sass and other dependencies
+yarn
+
+# Run Hugo in "server" mode
+hugo server --buildDrafts --buildFuture
+```
+
+Open your browser to `http://localhost:1313` to view the site. When you make changes to the source files, the site updates in real time, including a browser refresh.
