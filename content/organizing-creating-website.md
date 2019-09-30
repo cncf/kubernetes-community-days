@@ -1,20 +1,19 @@
-This page will contain detailed instructions on creating your website.
 Congratulations on preparing to host a Kubernetes Community Days in your city! This page will take you through the steps of setting up pages for your event on Kubernetes community days.org, which uses GitHub and Hugo to edit and publish your pages.
 
 If you run into any issues when going through the process outlined in this document, please suggest changes or problems. This is a working document and will be updated as needed. 
 
-#Create a GitHub Account
+# Create a GitHub Account
 The first thing you need to do is create a GitHub account if you don't already have one. 
 
 * Create your GitHub account here: https://github.com/ 
-* Enter your user name, email, password, and hit submit
+ * Enter your user name, email, password, and hit submit
 
-image: github.png
+![Screenshot](/img/howto/github.png)
 
-You will receive an email to activate your account
-Log in and get started!
+ * You will receive an email to activate your account
+ * Log in and get started!
 
-Interested in Organizing a Kubernetes Community Days?
+# Interested in Organizing a Kubernetes Community Days?
 
 * Go to https://github.com/cncf/kubernetes-community-days.
 * If you are looking to find other organizers in your area, go to https://github.com/cncf/kubernetes-community-days/projects/2 and see if there are any events in your area.  If there is an event in progress or a past event, contact that events’ organizers to find out how you can get involved by adding a comment to their issue.
@@ -22,34 +21,34 @@ Interested in Organizing a Kubernetes Community Days?
 * If there are not any events in your area, open an issue:
   * Go to https://github.com/cncf/kubernetes-community-days/issues and click “New Issue”
 /create issue.png
+[Screenshot](/img/howto.md/getting started .png)
 
-Click “Get started” on the Organizing Event issue
+* Click “Get started” on the Organizing Event issue
+[Screenshot](/img/howto.md/createissue.png)
 
+* In the “title” space enter “KCD <your city, your country>, Date (if you have one)”
+* If you are just getting started fill in as much detail as possible about your event in the “write” space
+  * Organizers information (name, company, title, email)
+ * Target date (if you have one)
+ * If you have any sponsors (name of company)
+ * If you have any other organizers (name, company, title, email)
+ * If you are looking for other organizers
+ * Click “Submit new issue” when you are done
 
-In the “title” space enter “KCD <your city, your country>, Date (if you have one)”
-If you are just getting started
-Fill in as much detail as possible about your event in the “write” space
-Organizers information (name, company, title, email)
-Target date (if you have one)
-If you have any sponsors (name of company)
-If you have any other organizers (name, company, title, email)
-If you are looking for other organizers
-Click “Submit new issue” when you are done
-
-Once your issues have been added to the project you can check its status here: https://github.com/cncf/kubernetes-community-days/projects/2 
-
-As you add organizers, update your issue
-
+* Once your issues have been added to the project you can check its status here: https://github.com/cncf/kubernetes-community-days/projects/2 
+* As you add organizers, update your issue
+[Screenshot](/img/howto.md/updateissue.png)
 
 When you have your 3 organizers and 2 sponsors and meet all the requirements of the “Getting Started Checklist” (https://kubernetescommunitydays.org/organizing/) fill out the lower part of the issue.
 Update your issue:
-Check all the boxes, be sure to remove the space 
-Enter all your organizers' information 
-Enter who is CNCF representative
-Enter who will manage the money
-Identify Sponsors
-Enter date, location, venue (if you have one selected)
-When you have entered all your information “click submit new issue”
+
+* Check all the boxes, be sure to remove the space 
+ * Enter all your organizers' information 
+ * Enter who is CNCF representative
+ * Enter who will manage the money
+ * Identify Sponsors
+ * Enter date, location, venue (if you have one selected)
+ * When you have entered all your information “click submit new issue”
 
 
 
