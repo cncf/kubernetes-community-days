@@ -24,7 +24,7 @@ The first thing you need to do is create a GitHub account if you don't already h
 [Screenshot](/admin/img/howto.md/gettingstarted.png)
 
 * Click “Get started” on the Organizing Event issue
-!(/admin/img/howto.md/createissue.png)
+![Screenshot](/admin/img/howto.md/createissue.png)
 
 * In the “title” space enter “KCD <your city, your country>, Date (if you have one)”
 * If you are just getting started fill in as much detail as possible about your event in the “write” space
