@@ -13,7 +13,9 @@ You can run the KCD site in your local environment if you have the following ins
 * The [Hugo](https://gohugo.io) static site generator. Installation instructions are [here](https://gohugo.io/getting-started/installing/). Make sure to install the version specified in the [`netlify.toml`](./netlify.toml) configuration file.
 * The [Yarn](https://yarnpkg.com/lang/en/) dependency management tool for JavaScript and other assets. Installation instructions are [here](https://yarnpkg.com/lang/en/docs/install/#mac-stable).
 
-If those tools are installed, these commands run the site locally:
+On a Mac with Homebrew already installed, these instructions can be summarized as `brew install hugo yarn`.
+
+Once those tools are installed, run these commands to view the site locally:
 
 ```bash
 # Install Sass and other dependencies
