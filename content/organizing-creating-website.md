@@ -21,10 +21,12 @@ The first thing you need to do is create a GitHub account if you don't already h
 * If there are not any events in your area, open an issue:
   * Go to https://github.com/cncf/kubernetes-community-days/issues and click “New Issue”
 /create issue.png
-[Screenshot](/admin/img/howto.md/gettingstarted.png)
+
+![Screenshot](/admin/img/howto/gettingstarted.png)
 
 * Click “Get started” on the Organizing Event issue
-![Screenshot](/admin/img/howto.md/createissue.png)
+
+![Screenshot](/admin/img/howto/createissue.png)
 
 * In the “title” space enter “KCD <your city, your country>, Date (if you have one)”
 * If you are just getting started fill in as much detail as possible about your event in the “write” space
