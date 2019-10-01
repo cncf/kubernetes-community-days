@@ -169,78 +169,102 @@ The easiest way to build your website is to copy the existing files from Bouvet 
 Now you are ready to start creating your site!
 
 #Uploading Images
-Make sure you are in your forked account and in the correct branch
-Click the “static” folder
+* Make sure you are in your forked account and in the correct branch
+ * Click the “static” folder
+ 
+ ![Screenshot](/admin/img/howto/image1.png)
 
-Click on “img”
+ * Click on “img”
+ 
+ ![Screenshot](/admin/img/howto/image2.png)
 
-Click on “Create new file” 
+ * Click on “Create new file” 
+ 
+ ![Screenshot](/admin/img/howto/image3.png)
 
-Enter “year-cityname/.empty”
-Add notes to describe the changes you made
-Click “commit changes”
+ * Enter “year-cityname/.empty”
+ * Add notes to describe the changes you made
+ * Click “commit changes”
+ 
+ ![Screenshot](/admin/img/howto/image4.png)
 
-Upload your images to your “img-year-city” folder
-Make sure images are .svg
-To upload simply go into the “img-year-yourcity” folder and click “upload files”
-Once uploaded add a comment and “commit changes”
+* Upload your images to your “img-year-city” folder
+ * Make sure images are .svg
+ * To upload simply go into the “img-year-yourcity” folder and click “upload files”
+ * Once uploaded add a comment and “commit changes”
+ 
+ ![Screenshot](/admin/img/howto/image5.png)
 
-Update _index.md
-Update your .index.md page first
-Go to your fork and branch, then click content>events>your event folder>_index.md (this is where the various pages on your site will pull your images. You need to update all the content on the index with your images, links, etc. 
-Click on _index.md
-Click on the pencil icon on the upper right-hand side
+# Update _index.md
+* Update your .index.md page first
+* Go to your fork and branch, then click content>events>your event folder>_index.md (this is where the various pages on your site will pull your images. You need to update all the content on the index with your images, links, etc. 
+* Click on _index.md
+* Click on the pencil icon on the upper right-hand side
 
+![Screenshot](/admin/img/howto/index1.png)
 
-Update the information on your venue page
-Click the edit button with the pencil icon
-Replace with the content from the Bouvet Island location page to the venue information for your event. 
-Event name
-Event dates
-Event location
-Event URL
-Event twitter
+* Update the information on your venue page
+ * Click the edit button with the pencil icon
+ * Replace with the content from the Bouvet Island location page to the venue information for your event. 
+  * Event name
+  * Event dates
+  * Event location
+  * Event URL
+  * Event twitter
+  
+![Screenshot](/admin/img/howto/index2.png)
 
-Update the Sponsor information
-Enter Sponsor name
-Image location (in the static folder)
-URL to Sponsor site
-Do this for all your sponsors. Continue to update as you add new sponsors
+ * Update the Sponsor information
+  * Enter Sponsor name
+  * Image location (in the static folder)
+  * URL to Sponsor site
+ * Do this for all your sponsors. Continue to update as you add new sponsors
+ 
+ ![Screenshot](/admin/img/howto/index3.png)
 
-Add your speakers
-Enter their name
-Image location (in the static folder)
-Twitter 
-Bio 
-Link to their website if they have one
-Continue to add your speakers as you confirm them
+ * Add your speakers
+  * Enter their name
+  * Image location (in the static folder)
+  * Twitter 
+  * Bio 
+  * Link to their website if they have one
+ * Continue to add your speakers as you confirm them
+ 
+ ![Screenshot](/admin/img/howto/index4.png)
 
-Add your organizers
-Name
-Image location (in the static folder)
-Twitter
-Homepage if they have one
+ * Add your organizers
+  * Name
+  * Image location (in the static folder)
+  * Twitter
+  * Homepage if they have one
+  
+![Screenshot](/admin/img/howto/index5.png)
 
-Add your organizers email address
-Update the copy about your specific event
-Make any needed changes to the link up section
+ * Add your organizers email address
+ * Update the copy about your specific event
+ * Make any needed changes to the link up section
+ 
+ ![Screenshot](/admin/img/howto/index6.png)
 
+ * Once you are done click “commit changes”
 
-Once you are done click “commit changes”
-cfs.md Call for speakers 
+# cfs.md Call for speakers 
 Feel free to edit this page to suit your event. You will need to add your Kubernetes Community Days organizer email in two places near the bottom of the page.
 * Submit speaking session to <name>, <email address>.
-If you have any questions regarding the process, please contact <name>, <email address>
-Once you have updated your page, enter your Commit changes comment
-Click “Commit changes” button
+* If you have any questions regarding the process, please contact <name>, <email address>
+* Once you have updated your page, enter your Commit changes comment
+* Click “Commit changes” button
+  
+  ![Screenshot](/admin/img/howto/speakers1.png)
 
-
-contact.md
+# contact.md
 This page will pull organizers photos, bios, and twitter handles from the _index.md page. 
 You will need to update the email address on this page with your organizers email. 
-If you’d like to contact us by email: <enter your email>
-Enter your commit comment
-Click “Commit changes”
+* If you’d like to contact us by email: <enter your email>
+* Enter your commit comment
+* Click “Commit changes”
+  
+ ![Screenshot](/admin/img/howto/contact1.png)
 
 program.md
 For your event program please use Sched.com. KCD has an account that you can access below.
