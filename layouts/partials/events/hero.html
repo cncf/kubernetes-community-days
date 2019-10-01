@@ -1,15 +1,14 @@
-{{ $eventUrl := .Params.url }}
-{{ $start    := .Date }}
-{{ $end      := .Params.end }}
-{{ $location := .Params.location }}
-{{ $country  := $location.country }}
-{{ $city     := $location.city }}
-{{ $venue    := $location.venue }}
+{{ $params   := .CurrentSection.Params }}
+{{ $eventUrl := $params.url }}
+{{ $start    := $params.Date }}
+{{ $end      := $params.end }}
+{{ $location := $params.location }}
 {{ $social   := .Params.social }}
 {{ $title    := .Title }}
 {{ $event    := .CurrentSection.Title }}
 {{ $mainUrl  := .CurrentSection.RelPermalink }}
 {{ $isRoot   := eq .CurrentSection .FirstSection }}
+{{ $info     := (dict "location" $location "start" $start "end" $end) }}
 <section class="hero is-medium is-light">
   <div class="hero-body">
     <div class="container">
@@ -18,14 +17,6 @@
       </p>
 
       <hr class="thick-hr" />
-
-      {{ if and (not $isRoot) (ne .File.LogicalName "_index.md") }}
-      <p class="subtitle is-size-5 is-size-6-mobile has-text-weight-bold">
-        <a class="has-text-dark" href="{{ $mainUrl }}">
-          {{ $event | upper }}
-        </a>
-      </p>
-      {{ end }}
 
       {{ if or $start $location }}
       <div class="is-size-4 is-size-5-mobile is-spaced">
@@ -42,39 +33,8 @@
 
         <br />
 
-        <div class="buttons has-addons">
-          <span class="button is-primary has-text-weight-bold is-radiusless">
-            <span class="icon is-small">
-              <i class="fas fa-city fa-sm"></i>
-            </span>
-            &nbsp;
-            <span>
-              {{ with .city }}{{ . }}{{ end }}
-              {{- with .country }}, {{ . }}{{ end }}
-            </span>
-          </span>
-          {{ if .url }}
-          <a class="button is-dark has-text-weight-bold is-radiusless" href="{{ .url }}">
-            <span class="icon is-small">
-              <i class="fas fa-map-marker-alt fa-sm"></i>
-            </span>
-            &nbsp;
-            <span>
-              {{ .venue }}
-            </span>
-          </a>
-          {{ else }}
-          <div class="button is-dark has-text-weight-bold is-radiusless">
-            <span class="icon is-small">
-              <i class="fas fa-map-marker-alt fa-sm"></i>
-            </span>
-            &nbsp;
-            <span>
-              {{ .venue }}
-            </span>
-          </div>
-          {{ end }}
-        </div>
+        {{ partial "events/event-button.html" . }}
+
         {{ end }}
       </div>
       {{ end }}
