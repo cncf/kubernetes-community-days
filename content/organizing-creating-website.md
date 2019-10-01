@@ -266,56 +266,52 @@ You will need to update the email address on this page with your organizers emai
   
  ![Screenshot](/admin/img/howto/contact1.png)
 
-program.md
-For your event program please use Sched.com. KCD has an account that you can access below.
-Create your [Sched](https://sched.com/signup) account.
-Enter your event name (year-city-KCD)
-It will create your unique URL
-Enter Start Date
-Enter End Date
-Click “create now” 
+# program.md
+For your event program please use Sched.com. You will recieve info on logging into Sched from the CNCF team.
+When you login to Sched go to your event.
 
-Click “Control Panel
+* Click on the admin button
+* Click “extended fields” and enter your teams information
+* Add all your admins that will be working on the program page here
 
-Create your event password
-Click “Go to my website”
+![Screenshot](/admin/img/howto/program1.png)
 
-Click on “Invite them
+* Click on “schedule’ the top nav bar
+* Click on “this spreadsheet template” 
 
-Click on the admin button
-Click “extended fields” and enter your teams information
-Add all your admins that will be working on the program page here
+![Screenshot](/admin/img/howto/program2.png)
 
-Click on “schedule’ the top nav bar
-Click on “this spreadsheet template” 
+* Download the spreadsheet
+* FIll in as much information as you can
+* In column “C” 
+ * Enter “Y” if you want the content published
+ * Enter “N” if you do not want the content published
+* When you have entered all your information simply upload the template
 
-Download the spreadsheet
-FIll in as much information as you can
-In column “C” 
-Enter “Y” if you want the content published
-Enter “N” if you do not want the content published
-When you have entered all your information simply upload the template
 
-Click “finish import”
+![Screenshot](/admin/img/howto/program3.png)
 
-Once the file has been imported you will receive an email 
-Click on “Schedule” at the top and your schedule will appear
-If you want to make changes, simply update the spreadsheet and upload it
-
+* Click “finish import”
+* Once the file has been imported you will receive an email 
+* Click on “Schedule” at the top and your schedule will appear
+* If you want to make changes, simply update the spreadsheet and upload it
 
 Embed the Sched link into your KCD page
-Go to Sched page
-Copy the front part of your URL before “sched”
+* Go to Sched page
+* Copy the front part of your URL before “sched”
 
+![Screenshot](/admin/img/howto/program4.png)
 
-Go your events ._index.md page
-Be sure to work in Fork 
-Be sure to create a Branch off your Fork
-Click edit 
-Look for “sched_slug: kubernetescommunitydaybouve” (Line 10 or 11)
-Paste your events info over “kubernetescommunitydaybouve”
-Enter your comments
-Click “commit changes”
+* Go your events ._index.md page
+* Be sure to work in Fork 
+* Be sure to create a Branch off your Fork
+* Click edit 
+* Look for “sched_slug: kubernetescommunitydaybouve” (Line 10 or 11)
+* Paste your events info over “kubernetescommunitydaybouve”
+* Enter your comments
+* Click “commit changes”
+
+![Screenshot](/admin/img/howto/program5.png)
 
 speakers.md
 This page will pull in your speakers' photo, bio, and twitter from the _index.md page. You will need to make sure the link to the cfs.md is working and you enter your close date for accepting speakers. 
