@@ -1,5 +1,5 @@
 ---
-title: Kubernetes Community Day Amsterdam
+title: Amsterdam
 date: '2019-09-13'
 location:
   city: Amsterdam
