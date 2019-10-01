@@ -33,13 +33,14 @@ $card-header-color: $white
 $card-header-shadow: none
 $card-header-weight: $weight-bold
 $card-header-background-color: $primary
+$navbar-dropdown-radius: none
+$navbar-breakpoint: $desktop + 225
 
 @import "bulma/sass/utilities/functions"
 @import "bulma/sass/utilities/mixins"
 
 // Bulma variable overwrites
 $family-sans-serif: "{{ $sansSerifFont }}", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-
 
 @import "bulma/sass/utilities/derived-variables"
 
@@ -54,6 +55,18 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
     width: $d
   +mobile
     width: $w
+
+
+.navbar-menu.is-active .navbar-item.is-light
+  color: $dark !important
+
+  &.is-active
+    color: $primary !important
+
+.navbar-item
+  &.is-light
+    color: $grey-lighter !important
+
 
 .main-logo
   +logo(70%, 90%)
