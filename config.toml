@@ -18,7 +18,7 @@ tweet_limit = 5
 hero_banner = "hero-banner.jpg"
 
 [params.hero]
-logo = "kubernetes-community-days.png"
+logo = "kubernetes-community-days-whitetext.svg"
 
 [params.navbar]
 logo = "kubernetes-community-days-white.png"
