@@ -1,4 +1,7 @@
-## Budget and Finances
+---
+title: Budget and Finances
+---
+
 Basic guidelines
 
 * Add up the budgets (venue, food, parties space, schwag) to generate a total event budget to determine the amount of money needed to cover costs

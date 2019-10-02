@@ -1,4 +1,7 @@
-# Registration
+---
+title: Registration
+---
+
 Once pricing has been decided you’re ready to set up registration. Here are some basic guidelines.
 
 * Use [Eventbrite](https://www.eventbrite.com/) for registration and PayPal for payments (not Eventbrite payment processing). 

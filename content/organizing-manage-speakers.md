@@ -1,4 +1,7 @@
-# Kubernetes Community Days Content & Programing
+---
+title: Kubernetes Community Days Content and Programing
+---
+
 High quality content, speakers and talk topics will determine event success. 
 
 Some basic guidelines for building a good event program include:

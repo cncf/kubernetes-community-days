@@ -1,4 +1,7 @@
-# Sponsorship
+---
+title: Sponsorship
+---
+
 Role of sponsorship team/lead
 
 * Identify likely sponsors

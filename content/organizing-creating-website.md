@@ -1,3 +1,7 @@
+---
+title: Creating a website for your event
+---
+
 Congratulations on preparing to host a Kubernetes Community Days in your city! This page will take you through the steps of setting up pages for your event on Kubernetes community days.org, which uses GitHub and Hugo to edit and publish your pages.
 
 If you run into any issues when going through the process outlined in this document, please suggest changes or problems. This is a working document and will be updated as needed. 
@@ -41,7 +45,7 @@ The first thing you need to do is create a GitHub account if you don't already h
 
 * Once your issues have been added to the project you can check its status here: https://github.com/cncf/kubernetes-community-days/projects/2 
 * As you add organizers, update your issue
-![Screenshot](/img/howto.md/updateissue.png)
+![Screenshot](/img/howto/updateissue.png)
 
 When you have your 3 organizers and 2 sponsors and meet all the requirements of the “Getting Started Checklist” (https://kubernetescommunitydays.org/organizing/) fill out the lower part of the issue.
 Update your issue:
@@ -196,7 +200,8 @@ Now you are ready to start creating your site!
  ![Screenshot](/admin/img/howto/image5.png)
 
 # Update _index.md
-* Update your .index.md page first
+
+* Update your _index.md page first
 * Go to your fork and branch, then click content>events>your event folder>_index.md (this is where the various pages on your site will pull your images. You need to update all the content on the index with your images, links, etc. 
 * Click on _index.md
 * Click on the pencil icon on the upper right-hand side
@@ -337,9 +342,10 @@ This is a page off the sponsors.md you can use as a form for your sponsors to su
 ![Screenshot](/admin/img/howto/sponsorform1.png)
 
 ## sponsors.md
+
 This page hosts your sponsorship levels and your sponsors' logo. 
 
-For the sponsor logos, you will upload their logos to your images folder and then host them on the _index.md page. See above to update these pages.
+For the sponsor logos, you will upload their logos to your images folder and then specify them on the _index.md page. See above to update these pages.
 
 This page will require customization for your event. These are the sponsorship level and options we suggest, you are welcome to come up with additional sponsorships for your event. If you make changes to this page, be sure to update the sponsor-form.md. These are the fields that need to be updated to your event.
 * Update with your organizers' email address
@@ -350,6 +356,7 @@ This page will require customization for your event. These are the sponsorship l
 ![Screenshot](/admin/img/howto/sponsors1.png)
 
 ## venue.md
+
 This page will need to be completely updated with your specific venue information including location, map, directions to the venue, local public transportation, and parking. Be sure to include any specifics on parking and cost. 
 * Update your event name
 * Update location
@@ -363,6 +370,7 @@ This page will need to be completely updated with your specific venue informatio
 ![Screenshot](/admin/img/howto/venue1.png)
 
 ## Pull request
+
 Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators. Like issues, pull requests each has its own discussion forum. For more information, see [About pull requests](https://help.github.com/en/articles/about-pull-requests).
 
 ## Merging a Branch - Creating a Pull Request
