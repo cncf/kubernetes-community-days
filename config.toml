@@ -13,7 +13,7 @@ allowed_event_pages = [
     "contact",
     "code-of-conduct"
 ]
-twitter_handle = "kubeconio"
+twitter_handle = "KubernetesDays"
 tweet_limit = 5
 hero_banner = "hero-banner.jpg"
 
