@@ -23,7 +23,7 @@ This quick start guide covers all aspects of holding a successful event. Please 
 * Have a minimum of 3 local organizers (5 is recommended) from at least 2 different organizations 
 * Make sure that at least one organizer is an employee of a CNCF [member](https://www.cncf.io/about/members/), an [Ambassador](https://www.cncf.io/people/ambassadors/), or a CNCF project [maintainer](https://docs.google.com/spreadsheets/u/1/d/1Pr8cyp8RLrNGx9WBAgQvBzUUmqyOv69R7QAFKhacJEM/)
 * Have a method to accept payments (sponsorships, tickets) and make payments (catering, A/V, other costs)
-* Verify that all organizers have agreed to these event guidelines and to abide by the Kubernetes Community Day [Code of Conduct](code-of-conduct/)
+* Verify that all organizers have agreed to these event guidelines and to abide by the Kubernetes Community Day [Code of Conduct](/code-of-conduct/)
 * Schedule an event date a minimum of 6 months after  you file your event request with CNCF request submission,  (9 months prior is preferable)
 * Agree to use [Eventbrite](https://www.eventbrite.com/) for registration
 * Agree to use [Sched](https://sched.com) for organizing the program page
