@@ -10,7 +10,7 @@ If you do not have your team assembled, please describe the location you're inte
 ### Event City:
 ### Organizer 1: First and Last Name, Company, Title, Email 
 
-Once you have identified your 3 organizers, 3 sponsors, please complete the information below and update your issue.
+Once you have identified your 3 organizers and 3 sponsors, please complete the information below and update your issue.
 
 ### Submission checklist:
 
