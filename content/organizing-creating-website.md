@@ -61,7 +61,8 @@ Update your issue:
 ![Screenshot](/admin/img/howto/issuecomplete.png)
 
 KCD organizers will then review your issue.
- * Your issue will move to “Need organizers or sponsors” while be reviewed 
+
+* Your issue will move to “Need organizers or sponsors” while be reviewed 
 * Once approved to build your site. 
 
 # Creating your Kubernetes Community Days Event Site
@@ -83,7 +84,7 @@ Here is how to get started building your website.
 Go to https://github.com/cncf/kubernetes-community-days
 
 * Creating a fork
-** Click on the “Fork” button in the upper left-hand side 
+ * Click on the “Fork” button in the upper left-hand side 
 
 ![Screenshot](/admin/img/howto/fork.png)
 
@@ -172,7 +173,8 @@ The easiest way to build your website is to copy the existing files from Bouvet 
 
 Now you are ready to start creating your site!
 
-#Uploading Images
+# Uploading Images
+
 * Make sure you are in your forked account and in the correct branch
  * Click the “static” folder
  
@@ -255,6 +257,7 @@ Now you are ready to start creating your site!
 
 # cfs.md Call for speakers 
 Feel free to edit this page to suit your event. You will need to add your Kubernetes Community Days organizer email in two places near the bottom of the page.
+
 * Submit speaking session to <name>, <email address>.
 * If you have any questions regarding the process, please contact <name>, <email address>
 * Once you have updated your page, enter your Commit changes comment
@@ -265,6 +268,7 @@ Feel free to edit this page to suit your event. You will need to add your Kubern
 # contact.md
 This page will pull organizers photos, bios, and twitter handles from the _index.md page. 
 You will need to update the email address on this page with your organizers email. 
+
 * If you’d like to contact us by email: <enter your email>
 * Enter your commit comment
 * Click “Commit changes”
@@ -302,6 +306,7 @@ When you login to Sched go to your event.
 * If you want to make changes, simply update the spreadsheet and upload it
 
 Embed the Sched link into your KCD page
+
 * Go to Sched page
 * Copy the front part of your URL before “sched”
 
@@ -320,6 +325,7 @@ Embed the Sched link into your KCD page
 
 ## speakers.md
 This page will pull in your speakers' photo, bio, and twitter from the _index.md page. You will need to make sure the link to the cfs.md is working and you enter your close date for accepting speakers. 
+
 * Make sure link to cfs is working:
   * Put brackets around [proposal submission process]
   * Put parentheses around (.cfs.md)
@@ -333,6 +339,7 @@ This page will pull in your speakers' photo, bio, and twitter from the _index.md
 
 ## sponsor-form.md
 This is a page off the sponsors.md you can use as a form for your sponsors to submit. These are the sponsorship level and options we suggest, you are welcome to come up with additional sponsorships for your event. If you make changes to this page, be sure to update the sponsors.md. These are the fields that need to be updated:
+
 * Kubernetes Day Name - needs to be updated with your city and your year
 * Update the date of the event
 * Update the location of the event
@@ -348,6 +355,7 @@ This page hosts your sponsorship levels and your sponsors' logo.
 For the sponsor logos, you will upload their logos to your images folder and then specify them on the _index.md page. See above to update these pages.
 
 This page will require customization for your event. These are the sponsorship level and options we suggest, you are welcome to come up with additional sponsorships for your event. If you make changes to this page, be sure to update the sponsor-form.md. These are the fields that need to be updated to your event.
+
 * Update with your organizers' email address
 * Make any changes to the sponsorship options
 * Comment on your commit changes
@@ -358,6 +366,7 @@ This page will require customization for your event. These are the sponsorship l
 ## venue.md
 
 This page will need to be completely updated with your specific venue information including location, map, directions to the venue, local public transportation, and parking. Be sure to include any specifics on parking and cost. 
+
 * Update your event name
 * Update location
 * Include map
@@ -429,6 +438,7 @@ Once you have made all your changes to branch you will want to merge it with you
 ![Screenshot](/admin/img/howto/pr9.png)
 
 Resolving Conflicts in a Pull Request
+
 * Go to the pull request tab 
 * Click the pull request
 
@@ -460,6 +470,7 @@ Resolving Conflicts in a Pull Request
 When you create a fork of a repository (below are some instructions) you only have the versions of the files that are in the repository at that time. So if there are any changes in the original repository you may find that your version (your fork) is out of sync. Learn more about syncing your fork here. 
 
 Syncing your fork to the original repository via the browser
+
 * Open your fork of the repository.
 * Click the compare button.
 
