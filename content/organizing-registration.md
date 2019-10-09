@@ -15,6 +15,7 @@ Once pricing has been decided you’re ready to set up registration. Here are so
   “Personal information gathered by the organizers is handled in accordance with the [Foundation’s Privacy Policy](http://www.kubernetes%20community.org/privacy) and is used for internal purposes only.
 
 Please add the following question to the registration page to help CNCF gather demographic information. Please share this information with the CNCF after the event
+
 * What is your current Organizational Role at your company? (please check one):
  * Business Development/Sales/Marketing
  * CEO/Executive Leadership
@@ -30,6 +31,7 @@ Please add the following question to the registration page to help CNCF gather d
  * Other, please specify
 
 Here are some other ways you can improve the registration process.
+
 * Ask for employer name (optional) if people want it printed on their badge
 * Ask for a Twitter handle (optional) to help attendees connect with one another
 * Ask for T-shirt sizes (make sure you offer more than S-M-L-XL “unisex”)
