@@ -33,7 +33,8 @@ Website
 
 * Update your data file for your event to add your start & end dates; this adds your event to the map on the front page!
 
-Twitter 
+Twitter
+
 * Set up an event-specific Twitter account such as @kubernetesdays(city initials)
 * Tag @kubernetesdays in your tweets 
 * Send tweets to the KCD-organizers slack channel to be retweeted
