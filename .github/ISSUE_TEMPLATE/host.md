@@ -32,6 +32,8 @@ Once you have identified your 3 organizers and 3 sponsors, please complete the i
 ### Organizer 2: First and Last Name, Company, Title, Email
 ### Organizer 3: First and Last Name, Company, Title, Email
 
-## Sponsor 1
-## Sponsor 2
-## Sponsor 3
+### Sponsor 1
+### Sponsor 2
+### Sponsor 3
+
+### Method of accepting payment
