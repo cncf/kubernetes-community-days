@@ -144,7 +144,7 @@ hr.thick-hr
     margin: 2rem 0 !important
     width: 7rem
   +mobile
-    margin: 1rem 0 !important
+    margin: 1.25rem 0 !important
     width: 5rem
 
 .page
@@ -161,7 +161,11 @@ hr.thick-hr
   margin-top: 5rem
 
   .copyright
-    font-size: 1rem
+    +desktop
+      font-size: 1rem
+
+    +mobile
+      font-size: .75rem
 
   .is-footer-logo
     +logo(75%, 50%)
