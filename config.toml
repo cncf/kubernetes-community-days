@@ -34,22 +34,22 @@ type = "sans_serif"
 [params.social]
 twitter = "https://twitter.com/cloudnativefdn"
 
-[[menu.navbar]]
+[[menu.main]]
 name = "Organizing"
 url = "/organizing"
 weight = 1
 
-[[menu.navbar]]
+[[menu.main]]
 name = "Code of Conduct"
 url = "/code-of-conduct"
 weight = 2
 
-[[menu.navbar]]
+[[menu.main]]
 name = "Speaking"
 url = "/speaking"
 weight = 3
 
-[[menu.navbar]]
+[[menu.main]]
 name = "Sponsoring"
 url = "/sponsoring"
 weight = 4

@@ -1,4 +1,5 @@
 {{ $logo := printf "admin/img/logos/%s" site.Params.footer.logo | relURL }}
+{{ $menu := site.Menus.main }}
 {{ $year := now.Year }}
 <footer class="footer">
   <div class="container">
@@ -8,7 +9,19 @@
       </div>
 
       <div class="column">
-        <p class="is-size-5 is-size-6-mobile has-text-weight-light">
+        <ul>
+          {{ range $menu }}
+          <li>
+            <a class="is-size-5 is-size-6-mobile has-text-grey-light" href="{{ .URL }}">
+              {{ .Name }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+
+        <hr class="thick-hr" />
+
+        <p class="has-text-weight-light copyright">
           Copyright &copy; {{ $year }} The Linux Foundation<sup>&reg;</sup>. All rights reserved.
         </p>
       </div>

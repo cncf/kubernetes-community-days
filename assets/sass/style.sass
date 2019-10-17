@@ -56,7 +56,6 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
   +mobile
     width: $w
 
-
 .navbar-menu.is-active .navbar-item.is-light
   color: $dark !important
 
@@ -159,9 +158,13 @@ hr.thick-hr
 .footer
   background-color: $black
   color: $grey-light
+  margin-top: 5rem
 
-.is-footer-logo
-  +logo(65%, 50%)
+  .copyright
+    font-size: 1rem
+
+  .is-footer-logo
+    +logo(75%, 50%)
 
 .variable-size-content
   +touch
@@ -184,5 +187,3 @@ hr.thick-hr
   +tablet
     width: 80%
 
-.footer
-  margin-top: 5rem

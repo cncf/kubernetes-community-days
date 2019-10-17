@@ -1,7 +1,7 @@
 {{ $isEvent := and (eq .Section "events") (ne .CurrentSection .FirstSection) }}
 {{ $home    := site.BaseURL }}
 {{ $logo    := printf "admin/img/logos/%s" site.Params.navbar.logo | relURL }}
-{{ $menu    := site.Menus.navbar }}
+{{ $menu    := site.Menus.main }}
 {{ $here    := .RelPermalink }}
 {{ $section := .CurrentSection }}
 {{ $url     := .RelPermalink }}
