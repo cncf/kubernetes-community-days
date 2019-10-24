@@ -31,7 +31,7 @@ This quick start guide covers all aspects of holding a successful event. Please 
 
 Once your team meets these criteria, you can create a GitHub [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=newevent&template=host.md) to notify CNCF that you wish to be officially recognized. Your organizing team will be invited to the [#kcd-organizers](https://cloud-native.slack.com/messages/GN6R2PV1A) private Slack channel where you can connect with other Kubernetes Community Days organizers around the world. You can then begin creating your website. Copy the page structure of the [Bouvet Island](/events/2020-bouvet-island) sample event as a guide. Here’s [instructions](/organizing-creating-website).
 
-* For the launch of KCD, we want to ensure that all KCD Organizers use a set of software that CNCF is familiar with, can help support, and that enables KCD Organizers from different cities to support each other. Additional we understand the privacy policies of the tools we have selected and are able to ensure that all organizers working together are on the same footing. 
+*  For the launch of KCD, we want to ensure that all KCD Organizers use a set of software that CNCF is familiar with, can help support, and that enables KCD Organizers from different cities to support each other. Additional we understand the privacy policies of the tools we have selected and are able to ensure that all organizers working together are on the same footing. 
 
 We acknowledge that there are many tools to choose from when setting up your local KCD event and that this may make being a KCD organizer more difficult for organizers that already have standardized on other tools. 
 
