@@ -1,7 +1,7 @@
 ---
 name: 'Organize event'
 labels: newevent
-assignees: christinevblum, iennae
+assignees: christinevblum, iennae, ktan
 about: 'Use this form to express interest or host a Kubernetes Community Days event in your area'
 ---
 
