@@ -3,6 +3,7 @@ title: Amsterdam
 date: 2019-09-13
 location:
   city: Amsterdam
+  country: The Nederlands
   url: https://dezwijger.nl
   venue: Pakhuis De Zwijger
 social:
