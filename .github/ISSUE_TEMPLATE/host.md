@@ -25,6 +25,7 @@ Once you have identified your 3 organizers and 3 sponsors, please complete the i
 * [ ] No other Kubernetes Community Days event in the same city
 * [ ] Agree to use Eventbrite for registration
 * [ ] Agree to use Sched for organizing the program page
+* [ ] Share Slack usernames for all organizers to be added to KCD organizers channel
 
 **Please include all the organizers following the format specified. At a minimum, you must have 3 organizers from 3 different organizations, and 3 sponsors.**
 
