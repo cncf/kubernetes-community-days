@@ -1,7 +1,7 @@
 ---
 name: 'Organize event'
 labels: newevent
-assignees: christinevblum, iennae, ktan
+assignees: iennae, ktan
 about: 'Use this form to express interest or host a Kubernetes Community Days event in your area'
 ---
 
@@ -25,7 +25,7 @@ Once you have identified your 3 organizers and 3 sponsors, please complete the i
 * [ ] No other Kubernetes Community Days event in the same city
 * [ ] Agree to use Eventbrite for registration
 * [ ] Agree to use Sched for organizing the program page
-* [ ] Share Slack usernames for all organizers to be added to KCD organizers channel
+* [ ] Share Slack usernames (on [CNCF Slack](https://slack.cncf.io/)) for all organizers so that we can add you to the #kcd-organizers channel
 
 **Please include all the organizers following the format specified. At a minimum, you must have 3 organizers from 3 different organizations, and 3 sponsors.**
 
