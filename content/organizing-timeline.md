@@ -1,5 +1,5 @@
 ---
-title: Organize a Kubernetes Community Days 
+title: Organize a Kubernetes Community Day 
 ---
 
 # Hosting a Kubernetes Community Days Event
@@ -8,7 +8,7 @@ This is a suggested planning timeline for running a successful event. Use the Ku
 ## 8-9 MONTHS IN ADVANCE          
 Begin to Plan for the event:
 
-* Make a pull request on GitHub to notify the Cloud Native Computing Foundation you intend to host an Kubernetes Community Days. 
+* Make a pull request on GitHub to notify the Cloud Native Computing Foundation you intend to host a Kubernetes Community Day. 
 * List out the the goals and objectives for the event (include # of attendees, # of sponsors, # of tracks and speaking sessions, etc.)
 * Name your event: Kubernetes Community Days + Location (e.g. Kubernetes Community Days Sydney or Kubernetes Community Days Australia).
  * This name will be used on the website and all outbound communications.
@@ -30,7 +30,7 @@ Guidelines, Toolkit, and support:
 * Once your event is approved, CNCF will do the following:
  * Give you a Hugo Template to build out the site.
  * Add you to the Kubernetes Community Days Organizers Slack Channel (so you can ask questions and best practices from other KCD organizers)
- * Use the tools at the bottom of the [organizing page](/organizing.md)
+ * Use the tools at the bottom of the [organizing page](/organizing)
 
 Select and reserve a venue:
 
@@ -62,7 +62,7 @@ Team roles and responsibilities:
 
 * Create an advisory team to help organize the event and define roles and responsibilities
 * It’s advised that you invite at least one Kubernetes Ambassador as a planning member.
-* Announce the formation of the advisory group  to local Kuberenetes User and MeetUp Groups in order to recruit more members
+* Announce the formation of the advisory group  to local Kubernetes User and MeetUp Groups in order to recruit more members
 
 Keynote Speakers:
 
@@ -137,7 +137,7 @@ Create your sponsorship prospectus and agreement:
 
 Pick your swag:
 
-* Please review the [Kubernetes Community Days tool kit](/organizing.md) on the Kubernetes Community Days website and [CNCF Store](https://store.cncf.io/) for ideas
+* Please review the [Kubernetes Community Days tool kit](/organizing) on the Kubernetes Community Days website and [CNCF Store](https://store.cncf.io/) for ideas
 * Stickers, pins, pens, and t-shirts are very popular
 
 Estimate signage needs: 
@@ -177,10 +177,10 @@ Website:
  * Begin to finalize and publish the agenda.
  * Consider creating 1-2 main themes for the event.
 
-Complete venue walkthrough and detail assessment:
+Complete venue walk through and detail assessment:
 
 * Confirm actual needs for A/V, signage, projection, wireless network connection, etc.
-* Identify any potential venue troublespots and begin to plan to deal with them
+* Identify any potential venue trouble spots and begin to plan to deal with them
 * Create event registration page:
 * Use Eventbrite to create your registration page. Note: Eventbrite will not release the funds collected for the event until 5 days after the event so plan finances accordingly.
 * Be sure to add in the demographic questions to the registration page listed above.
@@ -209,7 +209,7 @@ Social Media:
 * Task 2 -3 dedicated people to check attendees
 * Make sure all giveaway items / swag are received and prepped.
 * Determine how and where giveaways (2 person logistical task).
-* Brief speakers and send out master agenda walkthrough plan.
+* Brief speakers and send out master agenda walk through plan.
 * Continue promoting event via all relevant channels.
 * Finalize arrangements with all event vendors, including venue, catering, A/V, videography, and material suppliers.
 * Follow-up with sponsors who have not paid their invoice yet
@@ -261,7 +261,7 @@ Perform final preparations:
 * Share  videos with CNCF so they can be posted on the [CNCF YouTube channel](https://www.youtube.com/c/cloudnativefdn).
 * Send the complete registration lis to CNCF, including demographic question responses.
 * Send thank you emails to speakers, sponsors, and participants.
-* Collect all outsstanding invoices and process for payment.
+* Collect all outstanding invoices and process for payment.
 * Determine planning for the next Kubernetes Community Days event.
 
 
