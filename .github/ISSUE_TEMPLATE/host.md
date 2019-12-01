@@ -20,6 +20,7 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] All organizers agree to follow the event guidelines and CNCF Code of Conduct
 * [ ] Minimum of 3 sponsors committed
 * [ ] Identified fiscal sponsor that can accept payments such as from sponsorships and pay out expenses
+* [ ] Agree to offer a diversity scholarship for the event
 * [ ] Agree to use Eventbrite for registration
 * [ ] Agree to use Sched for organizing the program page
 * [ ] Added usernames for [CNCF Slack](https://slack.cncf.io/) for all organizers so that we can add you to the #kcd-organizers channel
