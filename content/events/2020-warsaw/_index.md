@@ -1,7 +1,7 @@
 ---
 title: Warsaw 
 date: '2020-09-09'
-end: '2021-09-10'
+end: '2020-09-10'
 location:
   country: Poland
   city: Warsaw
