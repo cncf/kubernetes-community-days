@@ -94,7 +94,7 @@ We recommend assigning the following responsibilities to one or two members of y
 
 ## Core Organizers
 
-The current organizers are [Dan Kohn](https://www.dankohn.com), [Chris Blum](https://twitter.com/chrisvblum), and [Jennifer Davis](https://twitter.com/sigje).
+The current organizers are [Dan Kohn](https://www.dankohn.com), [Kristi Tan](https://twitter.com/muellerkristi), and [Jennifer Davis](https://twitter.com/sigje).
 
 You can reach us on the CNCF Slack. Create a free [account](https://slack.cncf.io) and come to the [#kcd-formation](https://cloud-native.slack.com/messages/CN6LBV16G) channel.
 
