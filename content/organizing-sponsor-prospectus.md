@@ -1,5 +1,5 @@
 ---
-title: Sample Sponsor Contract
+title: Sample Sponsor Prospectus
 ---
 **Insert event name** 
 
