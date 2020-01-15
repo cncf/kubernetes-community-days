@@ -85,7 +85,7 @@ We recommend assigning the following responsibilities to one or two members of y
 * [Conference Planning Guide](/organizing-timeline) with event timeline.
 * [Conference Action Items and Checklist](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit) (Google Spreadsheet) a template for check-in meetings to keep everyone is on task. 
 * [Sponsorship Letter](/organizing-sponsorletter) to send to prospective sponsors.
-* [Sponsorship Prospectus](/organizing-sponsor-contract) (to send to prospective sponsors and post on the event website.) 
+* [Sponsorship Prospectus](/organizing-sponsor-prospectus) (to send to prospective sponsors and post on the event website.)
 * [Sample Invoice](https://docs.google.com/document/d/1Rbc8hvBgbO55asEQzzAHkpvSU2ogl52NmWq1-NhBYdY/edit) (Google Spreadsheet) to invoice sponsors.
 * [Sample Call for Proposals](/organizing-cfp) to recruit speakers.
 * [CNCF Speakers' Bureau](https://www.cncf.io/speakers/) to connect with expert speakers within the cloud native ecosystem.
