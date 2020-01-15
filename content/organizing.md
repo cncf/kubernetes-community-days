@@ -91,6 +91,7 @@ We recommend assigning the following responsibilities to one or two members of y
 * [CNCF Speakers' Bureau](https://www.cncf.io/speakers/) to connect with expert speakers within the cloud native ecosystem.
 * [CNCF Digital Assets](https://github.com/cncf/artwork) for  event promotions.
 * [How to build your site](/organizing-creating-website)
+* [FAQ](/organizing-faq)
 
 ## Core Organizers
 
