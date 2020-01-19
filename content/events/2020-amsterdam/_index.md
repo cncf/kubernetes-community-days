@@ -1,7 +1,7 @@
 ---
 title: Amsterdam
 date: '2020-09-24'
-end: '2021-09-25'
+end: '2020-09-25'
 location:
   country: The Netherlands
   city: Amsterdam
