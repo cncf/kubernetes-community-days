@@ -1,0 +1,14 @@
+.hero {
+  background-image: url(/img/2020-berlin/backdrop.svg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+
+.hero.is-light .title {
+  color: black;
+}
+
+.has-text-weight-medium {
+  color: black;
+}

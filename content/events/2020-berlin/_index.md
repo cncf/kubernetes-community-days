@@ -9,9 +9,9 @@ location:
   venue: Alte Münze; Molkenmarkt 2, 10179 Berlin
 #map:
 sched_slug: kubernetescommunitydaybln
-# social:
-#   facebook:
-#   twitter:
+social:
+  facebook: https://www.facebook.com/kcdberlin
+  twitter: https://twitter.com/kcd_berlin
 # sponsors:
 # - level: gold
 #   orgs:
@@ -30,30 +30,32 @@ speakers:
 #   bio: Phippy is a simple PHP app, trying to find a home in a cloud native world.
 #   homepage: https://phippy.io
 organizers:
-- name:
-  image:
-  twitter:
+- name: Bill Mulligan
+  image: team/bill_mulligan.png
+  twitter: https://twitter.com/breakawaybilly
   homepage:
-- name:
-  image:
-  twitter:
-  homepage:
-- name:
-  image:
-  twitter:
-  homepage:
-- name:
-  image:
-  twitter:
-  homepage:
-- name: Christin Rehbein
-  image:
-  twitter: https://twitter.com/SysEleven
-  homepage: https://www.syseleven.de
 - name: Carlos Panato
   image: team/carlos_panato.png
   twitter: https://twitter.com/comedordexis
   homepage: https://cpanato.dev
+- name: Carolin Kaps
+  image: team/carolin_kaps.png
+- name: Chris Kühl
+  image: team/chris_kuhl.jpg
+  twitter: https://twitter.com/blixtra
+  homepage: https://kinvolk.io/
+- name: Christin Rehbein
+  image: team/christin_rehbein.png
+  twitter: https://twitter.com/SysEleven
+  homepage: https://www.syseleven.de
+- name: Kristin Wittig
+  image: team/kristin_wittig.png
+  twitter: https://twitter.com/Loodse
+  homepage: https://www.loodse.com/
+- name: Lexi Nadolski
+  image: team/lexi_nadolski.jpg
+  twitter: https://twitter.com/aleksanadolski
+  homepage: https://kinvolk.io/
 organizers_email: organizers-berlin@kubernetescommunitydays.org
 local_law_enforcement: 112
 medical_emergency: 112
@@ -61,10 +63,19 @@ cfp_deadline:
 sponsor_deadline:
 ---
 
-Kubernetes Community Day comes to Berlin.
+# **Kubernetes Community Days are coming to Berlin!**
 
-Kubernetes Community Days Berlin is a new two day conference from german Kubernetes and cloud native community.
-It´s aimed at developer, IT professionals and decision makers with interest in cloud native technologies and it´s supported by the Cloud Native Computing Foundation.
+On May 26-27, the Kubernetes and cloud native community in Germany will gather at Alte Münze in Berlin. Join us for a two day technical conference loaded with exciting talks and plenty of opportunity to exchange and network. KCD Berlin are aimed at developers, operations people and all other IT professionals with an interest in cloud native technologies and are supported by the Cloud Native Computing Foundation.
+
+Button: “Register” with link to Eventbrite
+
+You have a Kubernetes story to tell? Great! Then don’t be shy and submit a proposal. Our CFP is open until March 15.
+
+[Submit CFP](https://sessionize.com/kubernetes-community-days-berlin-2020/)
+
+[Register](https://www.eventbrite.com/e/kubernetes-community-days-berlin-2020-tickets-90095641489)
+
+KCD is a community-organized and not for profit event and would not be possible without our partners. Don’t miss the opportunity to be part of and support this community event. Find our <a href="/events/2020-berlin/kcdberlin2020_sponsor_prospectus.pdf">Partnership Proposal here.</a>
 
 # Code of Conduct
 
