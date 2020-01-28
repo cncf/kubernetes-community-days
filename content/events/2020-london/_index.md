@@ -11,6 +11,34 @@ map: london-map.png
 sched_slug: kubernetescommunitydayslond2020
 social:
   twitter: 'https://twitter.com/kubedayslondon'
+organizers:
+- name: Cheryl Hung
+  image: cheryl.png
+  twitter: https://twitter.com/oicheryl
+  homepage: https://www.oicheryl.com/
+- name: Dominique Top
+  image: domi.png
+  twitter: https://twitter.com/devopsdom
+- name: Josh Michielsen
+  image: josh.png
+  twitter: https://twitter.com/jmickey_
+  homepage: https://mickey.dev
+- name: Eunice Hung
+  image: eunice.png
+  twitter: https://twitter.com/eunice_serina
+- name: Chris Kranz
+  image: chris.png
+  twitter: https://twitter.com/ckranz
+- name: Gianluca Arbezzano
+  image: gianluca.png
+  twitter: https://twitter.com/GianArb
+  homepage: https://gianarb.it/
+- name: Mihaela Constantinescu
+  image: mihaela.png
+- name: Suraj Narwade
+  image: suraj.png
+  twitter: https://twitter.com/red_suraj
+  homepage: https://suraj.pro
 organizers_email: organisers@kubernetesdays.london
 local_law_enforcement: 999
 medical_emergency: 999
