@@ -377,9 +377,7 @@ This page will need to be completely updated with your specific venue informatio
 
 ## Custom CSS
 
-If you'd like to customize the look and feel of your event pages, add a `custom.css` file...
-
-TODO
+If you'd like to customize the look and feel of your event pages, add a `custom.css` file to your event's directory. If the directory for your event is `content/events/2020-bouvet-island`, for example, the path of your custom CSS file should be `content/events/2020-bouvet-island/custom.css`. You can override *any* of the site's default CSS using this file.
 
 ## Pull request
 
