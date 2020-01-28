@@ -7,7 +7,6 @@
 {{ $prodOpts     := (dict "targetPath" $cssOutput "includePaths" $includePaths "outputStyle" "compressed") }}
 {{ $cssOpts      := cond $inServerMode $devOpts $prodOpts }}
 {{ $css          := resources.Get $sass | resources.ExecuteAsTemplate $sass . | toCSS $cssOpts }}
-{{ $hasCustom    := .CurrentSection.Params.custom_css }}
 {{ if $inServerMode }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 {{ else }}
@@ -17,7 +16,7 @@
 
 <link rel="shortcut icon" type="image/png" href="{{ $favicon }}">
 
-{{ if $hasCustom }}
 {{ $custom := printf "%s/custom.css" .CurrentSection.RelPermalink | relURL }}
+{{ if (fileExists $custom) }}
 <link rel="stylesheet" href="{{ $custom }}">
 {{ end }}
