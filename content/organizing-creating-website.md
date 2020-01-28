@@ -6,13 +6,14 @@ Congratulations on preparing to host a Kubernetes Community Days in your city! T
 
 If you run into any issues when going through the process outlined in this document, please suggest changes or problems. This is a working document and will be updated as needed. 
 
-# Create a GitHub Account
+## Create a GitHub Account
+
 The first thing you need to do is create a GitHub account if you don't already have one. 
 
 * Create your GitHub account here: https://github.com/ 
- * Enter your user name, email, password, and hit submit
+* Enter your user name, email, password, and hit submit
 
-![Screenshot](/admin/img/howto/github.png)
+    ![Screenshot](/admin/img/howto/github.png)
 
  * You will receive an email to activate your account
  * Log in and get started!
@@ -22,15 +23,11 @@ The first thing you need to do is create a GitHub account if you don't already h
 * Go to https://github.com/cncf/kubernetes-community-days.
 * If you are looking to find other organizers in your area, go to https://github.com/cncf/kubernetes-community-days/projects/2 and see if there are any events in your area.  If there is an event in progress or a past event, contact that events’ organizers to find out how you can get involved by adding a comment to their issue.
 
-* If there are not any events in your area, open an issue:
-  * Go to https://github.com/cncf/kubernetes-community-days/issues and click “New Issue”
-/create issue.png
+* If there are no events in your area, open an issue:
+  * Go to https://github.com/cncf/kubernetes-community-days/issues and click **New Issue**.
+* Click **Get started** on the Organizing Event issue
 
-![Screenshot](/admin/img/howto/gettingstarted.png)
-
-* Click “Get started” on the Organizing Event issue
-
-![Screenshot](/admin/img/howto/createissue.png)
+    ![Screenshot](/admin/img/howto/createissue.png)
 
 * In the “title” space enter “KCD <your city, your country>, Date (if you have one)”
 * If you are just getting started fill in as much detail as possible about your event in the “write” space
@@ -377,6 +374,12 @@ This page will need to be completely updated with your specific venue informatio
 * Click “commit changes"
 
 ![Screenshot](/admin/img/howto/venue1.png)
+
+## Custom CSS
+
+If you'd like to customize the look and feel of your event pages, add a `custom.css` file...
+
+TODO
 
 ## Pull request
 
