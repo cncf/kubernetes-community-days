@@ -14,8 +14,8 @@ social:
 organizers:
 - name: Cheryl Hung
   image: cheryl.png
-  twitter: https://twitter.com/oicheryl
-  homepage: https://www.oicheryl.com/
+  twitter: 'https://twitter.com/oicheryl'
+  homepage: 'https://www.oicheryl.com/'
 - name: Dominique Top
   image: domi.png
   twitter: https://twitter.com/devopsdom
