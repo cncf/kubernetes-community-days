@@ -3,9 +3,9 @@ title: Bouvet Island
 date: '2021-01-01'
 end: '2021-01-02'
 location:
-  country: Antarctica
-  city: Bouvet Island
-  url: https://en.wikipedia.org/wiki/Bouvet_Island
+  country: Canada
+  city: Quebec City
+  url: https://en.wikipedia.org/wiki/Quebec_City
   venue: Igloo 74
 map: bouvet-island-map.png
 sched_slug: kubernetescommunitydaybouve
