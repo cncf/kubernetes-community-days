@@ -2,16 +2,16 @@
 title: Creating a website for your event
 ---
 
-Congratulations on preparing to host a Kubernetes Community Days in your city! This page will take you through the steps of setting up pages for your event on Kubernetes community days.org, which uses GitHub and Hugo to edit and publish your pages.
+Congratulations on being approved to host a Kubernetes Community Days in your city! This page will guide you through the process of setting up web pages for your event at [kubernetescommunitydays.org](https://kubernetescommunitydays.org), which uses [GitHub](https://github.com/cncf/kubernetes-community-days) to host the website assets, the [Hugo](https://gohugo.io) static site generator to build the website, and [Netlify](https://netlify.com) to host.
 
-If you run into any issues when going through the process outlined in this document, please suggest changes or problems. This is a working document and will be updated as needed. 
+If you run into any issues when going through the process outlined in this document, feel free to alert us by [filing a GitHub issue](https://github.com/cncf/kubernetes-community-days/issues). This document is a work in progress and will be updated as needed.
 
 ## Create a GitHub Account
 
-The first thing you need to do is create a GitHub account if you don't already have one. 
+The first thing you need to do is create a [GitHub](https://github.com) account if you don't already have one. 
 
 * Create your GitHub account here: https://github.com/ 
-* Enter your user name, email, password, and hit submit
+* Enter your user name, email, and password, and click **Submit**
 
     ![Screenshot](/admin/img/howto/github.png)
 
@@ -21,33 +21,39 @@ The first thing you need to do is create a GitHub account if you don't already h
 # Interested in Organizing a Kubernetes Community Days?
 
 * Go to https://github.com/cncf/kubernetes-community-days.
-* If you are looking to find other organizers in your area, go to https://github.com/cncf/kubernetes-community-days/projects/2 and see if there are any events in your area.  If there is an event in progress or a past event, contact that events’ organizers to find out how you can get involved by adding a comment to their issue.
+* If you are looking to find other organizers in your area, go to https://github.com/cncf/kubernetes-community-days/projects/2 and see if there are any events in your area. If there *is* an event that is being planned or has already taken place, contact that events' organizers to find out how you can get involved by adding a comment to their issue.
 
 * If there are no events in your area, open an issue:
+
   * Go to https://github.com/cncf/kubernetes-community-days/issues and click **New Issue**.
-* Click **Get started** on the Organizing Event issue
+
+* Click **Get started** on the **Organize Event** option
 
     ![Screenshot](/admin/img/howto/createissue.png)
 
-* In the “title” space enter “KCD <your city, your country>, Date (if you have one)”
-* If you are just getting started fill in as much detail as possible about your event in the “write” space
+* In the **Title** space enter "KCD <your city, your country>, Date (if you have one)." The title for Tbilisi, Georgia in 2021, for example, would be "KCD 2021, Tbilisi, Georgia."
+
+* If you are just getting started, fill in as much detail as possible about your event in the **Write** area
   * Organizers information (name, company, title, email)
- * Target date (if you have one)
- * If you have any sponsors (name of company)
- * If you have any other organizers (name, company, title, email)
- * If you are looking for other organizers
- * Click “Submit new issue” when you are done
+  * Target date (if you have one)
+  * If you have any sponsors (name of company)
+  * If you have any other organizers (name, company, title, email)
+  * If you are looking for other organizers
  
-![Screenshot](/admin/img/howto/issue_filledout.png)
+    ![Screenshot](/admin/img/howto/issue_filledout.png)
+
+* Click “Submit new issue” when you are done
 
 * Once your issues have been added to the project you can check its status here: https://github.com/cncf/kubernetes-community-days/projects/2 
 * As you add organizers, update your issue
-![Screenshot](/img/howto/updateissue.png)
 
-When you have your 3 organizers and 2 sponsors and meet all the requirements of the “Getting Started Checklist” (https://kubernetescommunitydays.org/organizing/) fill out the lower part of the issue.
-Update your issue:
+    ![Screenshot](/img/howto/updateissue.png)
 
-* Check all the boxes, be sure to remove the space 
+    When you have your 3 organizers and 2 sponsors and meet all the requirements of the “Getting Started Checklist” (https://kubernetescommunitydays.org/organizing/) fill out the lower part of the issue.
+
+    Update your issue:
+
+    * Check all the boxes and be sure to remove the space 
  * Enter all your organizers' information 
  * Enter who is CNCF representative
  * Enter who will manage the money
