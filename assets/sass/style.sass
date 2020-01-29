@@ -104,35 +104,6 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
     height: 5rem
     width: auto
 
-.supporter-logo-container
-  & + &
-    margin-top: 2rem
-
-  &-block
-    display: flex
-    //margin: 3rem 0 2rem 0
-
-    +tablet
-      flex-direction: row
-
-    +mobile
-      flex-direction: column
-      align-items: center
-
-    .supporter-logo
-      +tablet
-        width: 8rem
-        height: auto
-
-        & + .supporter-logo
-          margin-left: 2.5rem
-      
-      +mobile
-        width: 40%
-
-        & + .supporter-logo
-          margin-top: 1rem
-
 hr.thick-hr
   background-color: $primary
   height: 0.2rem

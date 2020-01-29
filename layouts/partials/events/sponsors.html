@@ -26,22 +26,18 @@
           </header>
           
           <div class="card-content">
-              {{ with $orgs }}
-              <div class="supporter-logo-container-block">
+            {{ with $orgs }}
+            <div class="container">
+              <div class="columns is-multiline">
                 {{ range . }}
                 {{ $imgUrl := printf "img/%s/%s" $tag .logo | relURL }}
-                <div class="supporter-logo">
-                  {{ if .url }}
-                  <a href="{{ .url }}">
-                    <img src="{{ $imgUrl }}" alt="{{ .name }} logo">
-                  </a>
-                  {{ else }}
-                  <img src="{{ $imgUrl }}" alt="{{ .name }} logo">
-                  {{ end }}
+                <div class="column is-one-quarter">
+                  <img src="{{ $imgUrl }}">
                 </div>
                 {{ end }}
               </div>
-              {{ end }}
+            </div>
+            {{ end }}
           </div>
         </div>
       </div>
