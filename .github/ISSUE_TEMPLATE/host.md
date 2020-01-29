@@ -23,6 +23,7 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] Agree to use Eventbrite for registration
 * [ ] Agree to use Sched for organizing the program page
 * [ ] Added usernames for [CNCF Slack](https://slack.cncf.io/) for all organizers so that we can add you to the #kcd-organizers channel
+* [ ] Create a Twitter handle specific to your KCD event (except for countries like China and Korea where Twitter is not used) 
 
 ### Organizer 1: First and Last Name, Company, Title, Email, CNCF Slack Username
 ### Organizer 2: First and Last Name, Company, Title, Email, CNCF Slack Username
