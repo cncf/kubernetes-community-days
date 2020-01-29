@@ -56,7 +56,7 @@ organizers:
   image: non-public-organization-quail-member.svg
   #twitter: https://twitter.com/cloudnativefdn
   #homepage: https://landscape.cncf.io/format=card-mode&grouping=headquarters&headquarters=bouvet-island-antarctica
-organizers_email: organizers-bouvet-island-2020@kubernetescommunitydays.org
+organizers_email: organizers-quebec-city@kubernetescommunitydays.org
 local_law_enforcement: 911
 medical_emergency: 911
 cfp_deadline: '2020-09-01'
