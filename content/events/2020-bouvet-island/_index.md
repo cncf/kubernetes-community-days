@@ -33,6 +33,15 @@ sponsors:
   - name: Staypuft
     logo: staypuft.svg
     url: https://en.wikipedia.org/wiki/Stay_Puft_Marshmallow_Man
+  - name: Ghostbusters
+    logo: ghostbusters.svg
+    url: https://www.ghostbusters.com/
+  - name: Jurassic Park
+    logo: jurassic-park.svg
+    url: https://www.imdb.com/title/tt0107290/
+  - name: Staypuft
+    logo: staypuft.svg
+    url: https://en.wikipedia.org/wiki/Stay_Puft_Marshmallow_Man
 speakers:
 - name: Phippy
   image: phippy-color.png
