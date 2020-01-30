@@ -32,13 +32,13 @@ sponsors:
 - level: gold
   orgs:
   - name: Rancher
-    logo: sponsors/rancher.png
+    logo: sponsors/rancher.svg
     url: https://rancher.com/
   - name: Microsoft
-    logo: sponsors/microsoft.png
+    logo: sponsors/microsoft.svg
     url: https://microsoft.com
   - name: Lightbend
-    logo: sponsors/lightbend.png
+    logo: sponsors/lightbend.svg
     url: https://www.lightbend.com/
   - name: ABN AMRO
     logo: sponsors/abn-amro.svg
@@ -47,19 +47,19 @@ sponsors:
     logo: sponsors/lunatech.png
     url: https://www.lunatech.com/
   - name: CloudBees
-    logo: sponsors/cloudbees.png
+    logo: sponsors/cloudbees.svg
     url: https://www.cloudbees.com/
   - name: Vamp
-    logo: sponsors/vamp.jpeg
+    logo: sponsors/vamp.svg
     url: https://www.vamp.io/
   - name: Netapp
-    logo: sponsors/netapp.jpg
+    logo: sponsors/netapp.svg
     url: https://microsoft.com
   - name: JFrog
-    logo: sponsors/jfrog.png
+    logo: sponsors/jfrog.svg
     url: https://jfrog.com/
   - name: Red Hat
-    logo: sponsors/redhat.jpg
+    logo: sponsors/redhat.svg
     url: https://redhat.com/
 - level: Lanyard
   orgs:
@@ -69,7 +69,7 @@ sponsors:
 - level: Silver
   orgs:
   - name: Mambu
-    logo: sponsors/mambu.png
+    logo: sponsors/mambu.svg
     url: https://www.mambu.com/
 - level: Community
   orgs:
