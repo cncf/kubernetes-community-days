@@ -383,28 +383,26 @@ This page will need to be completely updated with your specific venue informatio
 
 ## Custom CSS
 
-<<<<<<< HEAD
 If you'd like to customize the look and feel of your event pages, add a `custom.css` file to your event's directory. If the directory for your event is `content/events/2020-bouvet-island`, for example, the path of your custom CSS file should be `content/events/2020-bouvet-island/custom.css`. You can override *any* of the site's default CSS using this file.
-=======
-You can override CSS elements by adding a `custom.css` file in the root of your event that looks like the following:
 
-```
+Here is an example `custom.css` file that adds a background image to the "hero" of each page:
+
+```css
 .hero {
-    background-image: url(/img/2019-amsterdam/backdrop.png);
+    background-image: url("/img/2019-amsterdam/backdrop.png");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
 }
 
-.hero.is-light .title {
+.hero .title {
     color: white;
 }
 
 .has-text-weight-medium {
     color: white;
-    }
+}
 ```
->>>>>>> Update organizing-creating-website.md
 
 ## Pull request
 
