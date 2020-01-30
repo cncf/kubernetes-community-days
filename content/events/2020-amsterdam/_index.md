@@ -70,7 +70,7 @@ Kubernetes Community Day comes back to Amsterdam after a great first edition and
 
 For 2020, we are going slightly bigger in attendance while mantaining the grassroot spirit and the community feeling that is our underlying theme; we selected a bigger, more spacious venue and we extended the program to 2 full days of technical talks, networking and bonding.
 
-You will be able to buy a ticket for one or two days [here](hhttps://kubernetescommunitydays.org/) soon! You'll be able to buy a discounted early bird ticket before we announce the full lineup, then it's regular price (it's still quite cheap!).
+You will be able to buy a ticket for one or two days soon, with a discounted early bird ticket before we announce the full lineup, then it's regular price (it's still quite cheap!).
 
 We will soon announce our [speaker](speakers)'s lineup; the [call for papers](cfp) will also go live mid-February.
 Our event would not be possible without support of our [sponsors](sponsor); prospective sponsors can review our [prospectus](prospectus) and get in touch with us via email. We're still finalizing our [program](program) but we're excited to have finalized a great [venue](venue). Please [contact](contact) the organizers with any questions.
