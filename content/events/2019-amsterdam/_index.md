@@ -16,10 +16,10 @@ sponsors:
 - level: Partners
   orgs:
   - name: Container Solutions
-    logo: sponsors/container-solutions.jpg
+    logo: sponsors/container-solutions.svg
     url: https://www.container-solutions.com/
   - name: Fullstaq
-    logo: sponsors/fullstaq.png
+    logo: sponsors/fullstaq.svg
     url: https://fullstaq.com/
 - level: Coffee & Drinks
   orgs:
@@ -27,7 +27,7 @@ sponsors:
     logo: sponsors/sentia.png
     url: https://www.sentia.com/
   - name: SUSE
-    logo: sponsors/suse.jpg
+    logo: sponsors/suse.svg
     url: https://www.suse.com/
 - level: gold
   orgs:
