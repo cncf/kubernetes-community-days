@@ -13,7 +13,7 @@ social:
   facebook: https://facebook.com/cloudnativeams
   twitter: 'https://twitter.com/cloudnativeams'
 sponsors:
-- level: Initial committers
+- level: Initial sponsors
   orgs:
   - name: Microsoft
     logo: sponsors/microsoft.svg
