@@ -22,7 +22,7 @@ sponsors:
     logo: sponsors/container-solutions.svg
     url: https://www.container-solutions.com/
   - name: Fullstaq
-    logo: sponsors/fullstaq.png
+    logo: sponsors/fullstaq.svg
     url: https://fullstaq.com/
 speakers:
 # - name: Phippy
