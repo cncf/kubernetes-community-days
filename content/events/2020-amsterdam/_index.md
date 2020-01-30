@@ -72,7 +72,8 @@ For 2020, we are going slightly bigger in attendance while mantaining the grassr
 
 You will be able to buy a ticket for one or two days soon, with a discounted early bird ticket before we announce the full lineup, then it's regular price (it's still quite cheap!).
 
-We will soon announce our [speaker](speakers)'s lineup; the [call for papers](cfp) will also go live mid-February.
+We will soon announce our [speaker](speakers)'s lineup; the [call for papers](https://sessionize.com/kcdams2020) is open until 15th of May. If you wonder how to submit a great talk, have a look at this [page](cfp).
+
 Our event would not be possible without support of our [sponsors](sponsor); prospective sponsors can review our [prospectus](prospectus) and get in touch with us via email. We're still finalizing our [program](program) but we're excited to have finalized a great [venue](venue). Please [contact](contact) the organizers with any questions.
 
 Can't wait until September? We meet every month at our [Dutch Kubernetes Meetup](https://www.meetup.com/Dutch-Kubernetes-Meetup/)! If you want to host, get in touch and if you want to give a talk, open a pull request to this [repository](https://github.com/cloudnative-amsterdam/meetups).
