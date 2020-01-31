@@ -388,18 +388,18 @@ If you'd like to customize the look and feel of your event pages, add a `custom.
 Here is an example `custom.css` file that adds a background image to the "hero" of each page:
 
 ```css
-.hero {
+#event-hero {
     background-image: url("/img/2019-amsterdam/backdrop.png");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
 }
 
-.hero .title {
+#event-title {
     color: white;
 }
 
-.has-text-weight-medium {
+#event-date {
     color: white;
 }
 ```

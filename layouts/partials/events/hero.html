@@ -9,10 +9,10 @@
 {{ $mainUrl  := .CurrentSection.RelPermalink }}
 {{ $isRoot   := eq .CurrentSection .FirstSection }}
 {{ $info     := (dict "location" $location "start" $start "end" $end) }}
-<section class="hero is-medium is-light">
+<section class="hero is-medium is-light" id="event-hero">
   <div class="hero-body">
     <div class="container">
-      <p class="title is-size-2 is-size-3-mobile has-text-weight-medium is-spaced">
+      <p class="title is-size-2 is-size-3-mobile has-text-weight-medium is-spaced" id="event-title">
         {{ $title | upper }}
       </p>
 
@@ -24,7 +24,7 @@
         {{ $month    := dateFormat "January" . }}
         {{ $startDay := dateFormat "2" . }}
         {{ $year     := dateFormat "2006" . }}
-        <p class="has-text-weight-medium">
+        <p class="has-text-weight-medium" id="event-date">
           {{ $month | upper }} {{ $startDay }}{{ with $end }}&ndash;{{ dateFormat "2" (time .) }}{{ end }}, {{ $year }}
         </p>
         {{ end }}
