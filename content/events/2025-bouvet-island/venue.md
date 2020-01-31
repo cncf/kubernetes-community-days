@@ -12,4 +12,4 @@ There are no developed public-access airports or landing facilities.
 
 ## Local Tranportation
 
-Local transportaion is dominated by seals, penguins, and other seabirds 
+Local transportaion is dominated by seals, penguins, and other seabirds.
