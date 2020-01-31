@@ -8,7 +8,7 @@ location:
   url: https://en.wikipedia.org/wiki/Quebec_City
   venue: TBD
 #map: bouvet-island-map.png
-sched_slug: kubernetescommunitydaybouve
+sched_slug: kubernetescommunitydayquebeccity
 social:
   #twitter: 'https://twitter.com/Bouvet_3Y0Z'
 sponsors:
@@ -63,6 +63,16 @@ cfp_deadline: '2020-09-01'
 sponsor_deadline: '2020-07-14'
 ---
 
-Kubernetes Community Day Bouvet Island is going to be the largest ever cloud native event in the Antarctic region, perhaps rivaling [KubeCon San Diego](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) in size.
+La Journée de la Communauté Kubernetes de Québec est le premier évènement à Québec permettant de rassembler toutes les communautés et compagnies impliquées et intéressées par Kubernetes à Québec. Basé sur [KubeCon San Diego 2019](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) l'objectif de notre évènement local est de présenter du contenu technique et non technique autour de l'Open Source, de Kubernetes et du "Cloud Native".
 
-Please take a look at our exciting [speaker](speakers) lineup. Our event would not be possible without support of our [sponsors](sponsor). Prospective sponsors can review our [offerings](sponsor-form). We're still finalizing our [program](program) due to some challenges with arranging flights to our exciting [venue](venue). In the meantime, please review our [Code of Conduct](/code-of-conduct). Please [contact](contact) the organizers with any questions.
+Cet évènement ne pourrait pas voir le jour sans nos sponsors, merci pour votre support ! Nos premiers sponsors sont Microsoft, RedHat, iA, MayaData, Lecentre.net et d'autres vont nous rejoindre très prochainement ! Si vous êtes intressés à contribuer à l'organisation de cet évènement et à son succès, n'hésitez pas à regarder nos [plans de commandites](sponsor.md).
+
+Nous envisageons l'une des dates suivantes pour cet évènement : 11 juin, 15 juin ou 18 juin 2020.
+
+L'emplacement n'est pas encore défini, mais nous travaillons activement pour trouver une salle capable de nous recevoir afin de permettre une belle experience pour tout le monde (nous visons ~100 participants).
+
+Nous envisageons commencer notre campagnes d'appel à conférencières et conférenciers au 15 février 2020 afin d'avoir un programme permettant de plaire à une large audience : technique et non-technique. Notre programme sera annoncé autour du 1er avril 2020, ce qui nous permettra d'ouvrir les inscriptions aux participantes et participants en suivant.
+
+Cette page sera actualisée dès que nous avons des avancements sur ces différents points dans l'organisation de cet évènement. En attendant, n'hésitez pas à lire notre "[Code de Conduite](/code-of-conduct)".
+
+Aussi, n'hésitez surtout pas à commencer à en parler autour de vous, cette journée se veut une belle opportunité pour apprendre et partager autour de l'Open Source, de Kubernetes et du "Cloud Native", on vous réserve de belles surprises et du contenu "sur la coche" ! ;)
