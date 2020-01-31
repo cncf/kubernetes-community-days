@@ -1,7 +1,7 @@
 ---
 title: Bouvet Island
-date: '2021-01-01'
-end: '2021-01-02'
+date: '2025-01-01'
+end: '2025-01-02'
 location:
   country: Antarctica
   city: Bouvet Island
@@ -26,22 +26,22 @@ sponsors:
   orgs:
   - name: Ghostbusters
     logo: ghostbusters.svg
-    url: https://www.ghostbusters.com/
+    url: https://en.wikipedia.org/wiki/Ghostbusters
   - name: Jurassic Park
     logo: jurassic-park.svg
-    url: https://www.imdb.com/title/tt0107290/
+    url: https://en.wikipedia.org/wiki/Jurassic_Park
   - name: Staypuft
     logo: staypuft.svg
     url: https://en.wikipedia.org/wiki/Stay_Puft_Marshmallow_Man
-  - name: Ghostbusters
-    logo: ghostbusters.svg
-    url: https://www.ghostbusters.com/
-  - name: Jurassic Park
-    logo: jurassic-park.svg
-    url: https://www.imdb.com/title/tt0107290/
-  - name: Staypuft
-    logo: staypuft.svg
-    url: https://en.wikipedia.org/wiki/Stay_Puft_Marshmallow_Man
+  - name: Duff Beer
+    logo: duff-beer.svg
+    url: https://en.wikipedia.org/wiki/Duff_Beer
+  - name: Weyland-Yutani
+    logo: weyland-yutani.svg
+    url: https://en.wikipedia.org/wiki/Alien_(franchise)#Setting
+  - name: Cyberdyne Systems
+    logo: cyberdyne-systems.svg
+    url: https://en.wikipedia.org/wiki/Skynet_(Terminator)#Films
 speakers:
 - name: Phippy
   image: phippy-color.png
@@ -78,8 +78,8 @@ organizers:
 organizers_email: organizers-bouvet-island-2020@kubernetescommunitydays.org
 local_law_enforcement: 112
 medical_emergency: 112
-cfp_deadline: '2020-09-01'
-sponsor_deadline: '2020-07-14'
+cfp_deadline: '2024-09-01'
+sponsor_deadline: '2024-07-14'
 ---
 
 Kubernetes Community Day Bouvet Island is going to be the largest ever cloud native event in the Antarctic region, perhaps rivaling [KubeCon San Diego](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) in size.
