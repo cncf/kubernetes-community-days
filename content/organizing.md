@@ -32,7 +32,7 @@ This quick start guide covers all aspects of holding a successful event. Please 
 * Share CNCF Slack usernames for all organizers to be added to #KCD-organizers channel*
 * Create Twitter handle for specific KCD event (like @KCD-BouvetIsland) except for countries like China and Korea where Twitter is not used*
 
-Once your team meets these criteria, you can create a GitHub [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=newevent&template=host.md) to notify CNCF that you wish to be officially recognized. Your organizing team will be invited to the [#kcd-organizers](https://cloud-native.slack.com/messages/GN6R2PV1A) private Slack channel where you can connect with other Kubernetes Community Days organizers around the world. You can then begin creating your website. Copy the page structure of the [Bouvet Island](/events/2020-bouvet-island) sample event as a guide. Here’s [instructions](/organizing-creating-website).
+Once your team meets these criteria, you can create a GitHub [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=newevent&template=host.md) to notify CNCF that you wish to be officially recognized. Your organizing team will be invited to the [#kcd-organizers](https://cloud-native.slack.com/messages/GN6R2PV1A) private Slack channel where you can connect with other Kubernetes Community Days organizers around the world. You can then begin creating your website. Copy the page structure of the [Bouvet Island](/events/2025-bouvet-island) sample event as a guide. Here’s [instructions](/organizing-creating-website).
 
 *  For the launch of KCD, we are standardizing on familiar tools to enable CNCF support and KCD Organizers to support each other. We understand the challenge of using new services and the specific privacy policies of the selected software.
 
@@ -62,7 +62,7 @@ Once your event and name have been accepted, you are authorized by CNCF to use t
 
 Please post your logo in SVG format, as [explained](https://www.cncf.io/blog/2019/07/17/what-image-formats-should-you-be-using-in-2019/)  in this blog post.
 
-All events must be called “Kubernetes Community Days LOCATION”,(e.g. Kubernetes Days Bouvet Island).
+All events must be called “Kubernetes Community Days LOCATION”, e.g. Kubernetes Community Days Bouvet Island.
 
 ## Assembling Your Team
 
