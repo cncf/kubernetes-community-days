@@ -66,11 +66,14 @@ cfp_deadline: '2020-07-01'
 sponsor_deadline: '2020-09-14'
 ---
 
-Kubernetes Community Day comes back to Amsterdam after a great first edition and on the trail of [KubeCon EU Amsterdam](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/). Check the [videos](https://www.youtube.com/playlist?list=PLQGLXxvf53b0fzCwFJSLRyn88bCoFNH2G) and the [photos](https://500px.com/cloudnativeams/galleries/kubernetes-community-day-amsterdam-2019) of last year, it was a lot of fun!
+Kubernetes Community Day comes back to Amsterdam! After a great first edition and on the trail of [KubeCon EU Amsterdam](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/), the Dutch Cloud Native community is gathering at [Westergas](venue) in Amsterdam. Join us for a two day technical conference loaded with exciting talks and plenty of opportunity to exchange and network. Kubernetes Community Day Amsterdam is aimed at developers, operations people and all other IT professionals with an interest in cloud native technologies and are supported by the Cloud Native Computing Foundation. Kubernetes Community Day Amsterdam is a community-organized and not for profit conference and would not be possible without our partners. Don’t miss the opportunity to be part of and support this community conference. Find our [Partnership Proposal](sponsor) here.
+
+Looking for the 2019 edition? 
+Check the [videos](https://www.youtube.com/playlist?list=PLQGLXxvf53b0fzCwFJSLRyn88bCoFNH2G) and the [photos](https://500px.com/cloudnativeams/galleries/kubernetes-community-day-amsterdam-2019) of last year,  it was a lot of fun! For the program and the speakers, check out the [full site](https://kubernetescommunitydays.org/events/2019-amsterdam/).
 
 For 2020, we are going slightly bigger in attendance while mantaining the grassroot spirit and the community feeling that is our underlying theme; we selected a bigger, more spacious venue and we extended the program to 2 full days of technical talks, networking and bonding.
 
-You will be able to buy a ticket for one or two days soon, with a discounted early bird ticket before we announce the full lineup, then it's regular price (it's still quite cheap!).
+**You will be able to buy a ticket for one or two days soon, with a discounted early bird ticket before we announce the full lineup, then it's regular price (it's still quite cheap!).**
 
 We will soon announce our [speaker](speakers)'s lineup; the [call for papers](https://sessionize.com/kcdams2020) is open until 15th of May (we accept only talks in English). If you wonder how to submit a great talk, have a look at this [page](cfp).
 

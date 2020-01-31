@@ -1,5 +1,5 @@
 ---
-title: Speakers
+title: CFP
 ---
 
 ## Call for Speakers
