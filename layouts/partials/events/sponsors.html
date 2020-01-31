@@ -28,11 +28,13 @@
           <div class="card-content">
             {{ with $orgs }}
             <div class="container">
-              <div class="columns is-multiline">
+              <div class="columns is-vcentered is-multiline">
                 {{ range . }}
                 {{ $imgUrl := printf "img/%s/%s" $tag .logo | relURL }}
-                <div class="column is-one-quarter">
-                  <img src="{{ $imgUrl }}">
+                <div class="column is-one-third">
+                  <a href="{{ .url }}" target="_blank">
+                    <img class="sponsor-logo" src="{{ $imgUrl }}" alt="{{ .name }} logo">
+                  </a>
                 </div>
                 {{ end }}
               </div>
