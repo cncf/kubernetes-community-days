@@ -19,23 +19,21 @@
         {{ else }}
         {{ .person.name }}
         {{ end }}
+      </p>
 
-        {{ with .person.bio }}
-        <p>
-          {{ . | markdownify }}
-        </p>
-        {{ end }}
+      {{ with .person.bio }}
+      <div class="content">
+        {{ . | markdownify }}
+      </div>
+      {{ end }}
 
-        {{ with .person.twitter }}
-      <br />
-
+      {{ with .person.twitter }}
       <a class="button is-twitter-blue" href="{{ . }}" target="_blank">
         <span class="icon">
           <i class="fab fa-twitter"></i>
         </span>
       </a>
       {{ end }}
-      </p>
     </div>
   </article>
 </div>
