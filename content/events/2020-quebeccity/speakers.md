@@ -1,8 +1,5 @@
 ---
-title: Speakers
+title: Conférencières et Conférenciers
 ---
 
-## Call for Speakers
-
-The call for participation for a Kubernetes Community Days event is now open. 
-Follow the [talk proposal submission](/cfp.md) process if you’d like to submit an idea.
+Nous y travaillons fort ! Voir notre page pour l'[appel à conférencières et conférenciers](cfp.md).
