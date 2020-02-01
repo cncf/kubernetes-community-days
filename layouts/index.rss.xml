@@ -71,10 +71,10 @@
         {{ . }}
       </country>
       {{ end }}
-      {{ with .country-code }}
-      <country-code>
+      {{ with .countrycode }}
+      <countrycode>
         {{ . }}
-      </country-code>
+      </countrycode>
       {{ end }}
       {{ with .city }}
       <city>
