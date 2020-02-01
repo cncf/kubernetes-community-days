@@ -2,6 +2,7 @@
 title: Portland, Oregon
 date: '2020-09-12'
 location:
+  country-code: us
   country: United States
   city: Portland, Oregon
   url: http://cnpdx.us/

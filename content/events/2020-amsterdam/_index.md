@@ -5,6 +5,7 @@ end: '2020-09-25'
 location:
   country: The Netherlands
   city: Amsterdam
+  country-code: nl
   url: https://www.amsterdam.nl/
   venue: Westergasterras
 map: amsterdam-map.png
