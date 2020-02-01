@@ -15,12 +15,12 @@ sponsors:
 - level: platine
   orgs:
   - name: Microsoft
-    logo: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31
+    logo: sponsors/microsoft.svg
     url: https://microsoft.com
 - level: or
   orgs:
   - name: RedHat
-    logo: https://static.redhat.com/libs/redhat/brand-assets/2/corp/logo--on-dark--200.png
+    logo: sponsors/redhat.svg
     url: https://redhat.com
 - level: argent
   orgs:
@@ -33,28 +33,28 @@ sponsors:
     logo: 
     url: https://mayadata.io/
   - name: Lecentre.net
-    logo: http://www.lecentre.net/assets/images/logo.png
+    logo: sponsors/lecentrenet.png
     url: http://www.lecentre.net/
 speakers:
 - name: Phippy
-  image: https://raw.githubusercontent.com/cncf/artwork/master/other/phippy-and-friends/phippy/color/phippy-color.png
+  image: speakers/phippy-color.png
   twitter: https://twitter.com/cloudnativefdn
   bio: Phippy is a simple PHP app, trying to find a home in a cloud native world.
   homepage: https://phippy.io
 organizers:
 - name: Mathieu Benoit
-  image: https://media-exp1.licdn.com/dms/image/C5603AQFMUuflKDTpgg/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=j0KczOQk2djDstBIAUpj7sZx0jjJfB-8xP1tKYQ3b7g
+  image: organizers/mathieu.jpg
   homepage: https://www.linkedin.com/in/mathieubenoitqc/
 - name: Sébastien Couturier
-  image: https://media-exp1.licdn.com/dms/image/C4E03AQHlOkwSz04qeg/profile-displayphoto-shrink_800_800/0?e=1585785600&v=beta&t=Ww5u1tNe8gTB6VPGgZ1c4-4-Z_bviy4jSc602jQZxbU
+  image: organizers/sebastien-c.jpg
   #twitter: https://twitter.com/cloudnativefdn
   homepage: https://www.linkedin.com/in/scouturier/
 - name: Sébastien Thomas
-  image: https://media-exp1.licdn.com/dms/image/C4D03AQHuGw21aiF9RA/profile-displayphoto-shrink_800_800/0?e=1585785600&v=beta&t=8cmfH6Jpq_cLOhx9YWCoygtMP1ogVTPcmfTXqNpIln8
+  image: organizers/sebastien-t.jpg
   #twitter: https://twitter.com/cloudnativefdn
   homepage: https://www.linkedin.com/in/prune/
 - name: Martin-Guy Lapointe
-  image: https://media-exp1.licdn.com/dms/image/C5603AQEIM5nGqllxyg/profile-displayphoto-shrink_800_800/0?e=1585785600&v=beta&t=k_ctWJILI-MCuX9kElZsncQ43qX3nzeZf1k2CjciCn8
+  image: organizers/martin.jpg
   #twitter: https://twitter.com/cloudnativefdn
   homepage: https://www.linkedin.com/in/martin-guy-lapointe-37aa37b4/
 organizers_email: organizers-quebec-city@kubernetescommunitydays.org
@@ -64,9 +64,9 @@ cfp_deadline: '2020-05-15'
 sponsor_deadline: '2020-02-15'
 ---
 
-La Journée de la Communauté Kubernetes de Québec est le premier évènement à Québec permettant de rassembler toutes les communautés et compagnies impliquées et intéressées par Kubernetes à Québec. Basé sur [KubeCon San Diego 2019](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) l'objectif de notre évènement local est de présenter du contenu technique et non technique autour de l'Open Source, de Kubernetes et du "Cloud Native".
+La Journée de la Communauté Kubernetes de Québec est le premier évènement dans son genre à Québec permettant de rassembler toutes les communautés et compagnies impliquées et intéressées par Kubernetes à Québec. Basé sur [KubeCon San Diego 2019](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) l'objectif de notre évènement local est de présenter du contenu technique et non technique autour de l'Open Source, de Kubernetes et du "Cloud Native".
 
-Cet évènement ne pourrait pas voir le jour sans nos sponsors, merci pour votre support ! Nos premiers sponsors sont Microsoft, RedHat, iA, MayaData, Lecentre.net et d'autres vont nous rejoindre très prochainement ! Si vous êtes intressés à contribuer à l'organisation de cet évènement et à son succès, n'hésitez pas à regarder nos [plans de commandites](sponsor.md).
+Cet évènement ne pourrait pas voir le jour sans nos sponsors, merci pour votre support ! Nos premiers sponsors sont Microsoft, RedHat, iA, MayaData, Lecentre.net et d'autres vont nous rejoindre très prochainement ! Si vous êtes intressés à contribuer à l'organisation de cet évènement et à son succès, n'hésitez pas à regarder nos [plans de commandites pour les sponsors](sponsor.md).
 
 Nous envisageons l'une des dates suivantes pour cet évènement : 11 juin, 15 juin ou 18 juin 2020.
 
