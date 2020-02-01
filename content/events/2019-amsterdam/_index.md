@@ -5,7 +5,7 @@ end: ''
 location:
   city: Amsterdam
   country: The Netherlands
-  country-code: nl
+  countrycode: nl
   url: https://dezwijger.nl
   venue: Pakhuis De Zwijger
 map: amsterdam-map.png
