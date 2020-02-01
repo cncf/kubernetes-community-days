@@ -43,7 +43,7 @@ Coffee: €8,000 (Limit 1)
 
 * 4 tickets
 * Logo on website
-* Branding on all Youtube livestream (if possible) and all videos and watermark on pictures
+* Branding on coffee cups and around the coffee booth
 * Giveaways on common areas
 
 Media: €8,000 (Limit 1)
