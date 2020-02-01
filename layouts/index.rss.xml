@@ -70,6 +70,8 @@
       <country>
         {{ . }}
       </country>
+      {{ end }}
+      {{ with .country-code }}
       <country-code>
         {{ . }}
       </country-code>
