@@ -8,7 +8,7 @@ location:
   countrycode: nl
   url: https://www.amsterdam.nl/
   venue: Westergasterras
-map: amsterdam-map.png
+map: amsterdam-map.jpg
 sched_slug: kubernetescommunitydayams
 social:
   facebook: https://facebook.com/cloudnativeams
