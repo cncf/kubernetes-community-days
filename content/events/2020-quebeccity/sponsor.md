@@ -4,11 +4,11 @@ title: Sponsors
 
 La Journée de la Communauté Kubernetes de Québec est le premier évènement dans son genre à Québec permettant de rassembler toutes les communautés et entreprises impliquées et intéressées par Kubernetes à Québec. Basé sur [KubeCon San Diego 2019](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) l'objectif de notre évènement local est de présenter du contenu technique et non technique autour de l'Open Source, de Kubernetes et du "Cloud Native". Cette journee s'inscrit dans une initiative globale de la [CNCF](https://www.cncf.io/).
 
-Être sponsor de l'événement donne à votre entreprise l'occasion de parler avec la communauté, les developpeurs, les gestionnaires et les cadres d'entreprises de toutes tailles et de toutes industries. Que vos objectifs incluent la visibilite de votre entreprise, le recrutement de nouveaux talents, l'ouverture de nouveaux marchés et clients ou la connexion avec vos clients existants, cet événement sera le lieu idéal pour échanger avec des experts et des leaders de l'innovation technologique.
+Être sponsor de l'évènement donne à votre entreprise l'occasion de parler avec la communauté, les developpeurs, les gestionnaires et les cadres d'entreprises de toutes tailles et de toutes industries. Que vos objectifs incluent la visibilité de votre entreprise, le recrutement de nouveaux talents, l'ouverture de nouveaux marchés et clients ou la connexion avec vos clients existants, cet événement sera le lieu idéal pour échanger avec des experts et des leaders de l'innovation technologique.
 
 Vous trouverez ci-dessous la liste des différents plans de sponsors. Si vous avez de l'intérêt, [merci de nous contacter](contact.md).
 
-Platine - 1 entreprise (5000$CAD)
+Platine - 1 entreprise (6000$CAD)
 
 * Logo sur le site internet de l'évènement en tant que Sponsor Platine
 * 1 emplacement dédié lors de l'évènement
@@ -35,7 +35,7 @@ Bronze - 10 entreprises (500$CAD)
 
 Communautaire
 
-Nous reconnaissons que les Meetups locaux favorisent pendant l'année longue le partage d'expériences et d'expertises autour de l'Open Source, du Cloud Native, etc. Merci aux personnes impliquées au bon déroulement de ces meetups et à leurs participantes et participants ! Ces Meetups ne verseront pas d'argent en tant que sponsor, mais nous souhaitons les lister sur le site web de cet évenement afin de les encourager en leur donnant plus de visibilité. N'hésitez pas à contacter leurs organisateurs, conférencieres et conférenciers sont recherchés à longueur d'année.
+Nous reconnaissons que les Meetups locaux favorisent pendant l'année longue le partage d'expériences et d'expertises autour de l'Open Source, du Cloud Native, etc. Merci aux personnes impliquées au bon déroulement de ces meetups et à leurs participantes et participants ! Ces Meetups ne verseront pas d'argent en tant que sponsor, mais nous souhaitons les lister sur cette page afin de les encourager en leur donnant plus de visibilité. N'hésitez pas à contacter leurs organisateurs, conférencières et conférenciers sont recherchés à longueur d'année.
 
 * [AnsibleQC Meetup](https://www.meetup.com/Ansible-Quebec/)
 * [AWSQC Meetup](https://www.meetup.com/QuebecCity-AWS-User-Group/)
@@ -47,4 +47,4 @@ Nous reconnaissons que les Meetups locaux favorisent pendant l'année longue le 
 * [KubernetesQC Meetup](https://www.meetup.com/Kubernetes-Quebec/)
 * [RedHatQC Meetup](https://www.meetup.com/RHUGQuebec/)
 
-Merci beaucoup pour le support de tous nos sponsors, cet évènement ne pourrait pas voir le jour sinon !
+Merci beaucoup pour le support de tous nos sponsors, cet évènement ne pourrait pas voir le jour sans vous !
