@@ -57,6 +57,10 @@ organizers:
   image: organizers/martin.jpg
   #twitter: https://twitter.com/cloudnativefdn
   homepage: https://www.linkedin.com/in/martin-guy-lapointe-37aa37b4/
+- name: Ayrat Khayretdinov
+  image: organizers/ayrat.jpg
+  #twitter: https://twitter.com/cloudnativefdn
+  homepage: https://www.linkedin.com/in/ayrat-khayretdinov-8503b6b/
 organizers_email: organizers-quebec-city@kubernetescommunitydays.org
 local_law_enforcement: 911
 medical_emergency: 911
@@ -66,7 +70,7 @@ sponsor_deadline: '2020-02-15'
 
 La Journée de la Communauté Kubernetes de Québec est le premier évènement dans son genre à Québec permettant de rassembler toutes les communautés et entreprises impliquées et intéressées par Kubernetes à Québec. Basé sur [KubeCon San Diego 2019](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) l'objectif de notre évènement local est de présenter du contenu technique et non technique autour de l'Open Source, de Kubernetes et du "Cloud Native".
 
-Cet évènement ne pourrait pas voir le jour sans nos sponsors, merci pour votre support ! Nos premiers sponsors sont Microsoft, RedHat, iA, MayaData, Lecentre.net et d'autres vont nous rejoindre très prochainement ! Si vous êtes intressés à contribuer à l'organisation de cet évènement et à son succès, n'hésitez pas à regarder nos [plans de commandites pour les sponsors](sponsor.md).
+Cet évènement ne pourrait pas voir le jour sans nos sponsors, merci pour votre support ! Nos premiers sponsors sont Microsoft, RedHat, iA, MayaData, Lecentre.net et d'autres vont nous rejoindre très prochainement ! Si vous êtes intressés à contribuer à l'organisation de cet évènement et à son succès, n'hésitez pas à regarder nos [plans de commandites pour les sponsors](sponsor).
 
 Nous envisageons l'une des dates suivantes pour cet évènement : 11 juin, 15 juin ou 18 juin 2020.
 
