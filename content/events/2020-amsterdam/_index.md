@@ -75,7 +75,7 @@ KCD Amsterdam is a community-organized and not for profit conference and would n
 
 For 2020, we are going slightly bigger in attendance while maintaining the grassroots spirit and the community feeling that is our underlying theme; we selected a bigger, more spacious [venue](venue) and we extended the program to **2 full days of technical talks**, networking and bonding.
 
-**You will be able to buy a ticket for one or two days soon, with a discounted early bird ticket before we announce the full lineup, then it's regular price (it's still quite cheap!).** Keep an eye on our [Twitter account](https://twitter.com/cloudnativeams) and the official [Kubernetes Community Days'](https://twitter.com/KubernetesDays).
+**You will be able to buy a ticket for one or two days soon, with a discounted early bird ticket before we announce the full lineup, then it's regular price (it's still quite cheap!).** Keep an eye on our [Twitter account](https://twitter.com/cloudnativeams) and the official [Kubernetes Community Days](https://twitter.com/KubernetesDays)'.
 
 We will soon announce our [speaker](speakers)'s lineup; the [call for papers](https://sessionize.com/kcdams2020) is open until 15th of May (we accept only talks in English). If you wonder how to submit a great talk, have a look at this [page](cfp).
 
