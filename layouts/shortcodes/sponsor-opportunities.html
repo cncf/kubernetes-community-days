@@ -23,7 +23,7 @@
     {{ range $events }}
     {{ if .Params.sponsor_deadline }}
     {{ $cfp   := time .Params.sponsor_deadline }}
-    {{ $start := dateFormat "January 1, 2006" .Date }}
+    {{ $start := dateFormat "January 2, 2006" .Date }}
     {{ if ($cfp.After now) }}
     {{ $cfpUrl := printf "%s/sponsor" .RelPermalink | relURL }}
     <tr>
