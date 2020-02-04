@@ -25,7 +25,7 @@ sponsors:
 - level: argent
   orgs:
   - name: iA
-    logo: 
+    logo: sponsors/ia.png
     url: https://ia.ca/
 - level: bronze
   orgs:
