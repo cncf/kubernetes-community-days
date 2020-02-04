@@ -35,7 +35,7 @@ Bronze - 10 entreprises (500$CAD)
 
 Communautaire
 
-Nous reconnaissons que les Meetups locaux favorisent pendant l'année longue le partage d'expériences et d'expertises autour de l'Open Source, du Cloud Native, etc. Merci aux personnes impliquées au bon déroulement de ces meetups et à leurs participantes et participants ! Ces Meetups ne verseront pas d'argent en tant que sponsor, mais nous souhaitons les lister sur cette page afin de les encourager en leur donnant plus de visibilité. N'hésitez pas à contacter leurs organisateurs, conférencières et conférenciers sont recherchés à longueur d'année.
+Nous savons que les Meetups locaux favorisent le partage d'expériences et d'expertises autour de l'Open Source et des outils Cloud Native, et ce pendant toute l'année. Merci aux personnes impliquées au bon déroulement de ces meetups et à leurs participantes et participants ! Ces Meetups ne contribuent pas financièrement à cet évènement, mais nous les listons sur cette page afin de les encourager en leur donnant plus de visibilité. N'hésitez pas à contacter leurs organisateurs, conférencières et conférenciers sont recherchés à longueur d'année.
 
 * [AnsibleQC Meetup](https://www.meetup.com/Ansible-Quebec/)
 * [AWSQC Meetup](https://www.meetup.com/QuebecCity-AWS-User-Group/)
