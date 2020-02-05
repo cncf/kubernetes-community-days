@@ -1,7 +1,6 @@
 {{ $tag      := index (split .CurrentSection.File "/") 1 }}
 {{ $sponsors := .CurrentSection.Params.sponsors }}
 
-
 {{ with $sponsors }}
 <hr />
 
@@ -13,46 +12,37 @@
 
     <hr class="thick-hr" />
 
-    <div class="columns is-multiline">
-      {{ range . }}
-      {{ $level   := .level }}
-      {{ $orgs    := .orgs }}
-      {{ $numOrgs := len $orgs }}
-      {{ $evenOdd := cond (eq (mod $numOrgs 2) 0) "even" "odd" }}
-      {{ $orphans  := (slice) }}
-      {{ range (seq 3 8) }}
-      {{ if eq (mod $numOrgs .) 1 }}
-      {{ $orphans = $orphans | append . }}
-      {{ end }}
-      {{ end }}
-      <div class="column is-half">
-        <div class="card">
-          <header class="card-header">
-            <p class="card-header-title is-size-5 is-size-6-mobile">
-              {{ $level | title }}
-            </p>
-          </header>
-          
-          <div class="card-content">
-            {{ with $orgs }}  
-            <div class="container">
-              <div class="s-logos {{ $evenOdd }}{{ range $orphans }} orphan-by-{{ . }}{{ end }}">
-                {{ range . }}
-                {{ $imgUrl := printf "img/%s/%s" $tag .logo | relURL }}
-                <div class="s-logo">
-                  <a href="{{ .url }}" target="_blank">
-                    <img src="{{ $imgUrl }}" alt="{{ .name }} logo">
-                  </a>
-                </div>
-                {{ end }}
-              </div>
-            </div>
-            {{ end }}
+    {{ range . }}
+    {{ $level   := .level }}
+    {{ $orgs    := .orgs }}
+    {{ $numOrgs := len $orgs }}
+    {{ $evenOdd := cond (eq (mod $numOrgs 2) 0) "even" "odd" }}
+    {{ $orphans  := (slice) }}
+    {{ range (seq 3 8) }}
+    {{ if eq (mod $numOrgs .) 1 }}
+    {{ $orphans = $orphans | append . }}
+    {{ end }}
+    {{ end }}
+
+    <div class="card">
+      <div class="card-content">
+        <p class="title is-size-4 is-size-5-mobile has-text-weight-bold">
+          {{ $level | upper }}
+        </p>
+
+        <div class="s-logos {{ $evenOdd }}{{ range $orphans }} orphan-by-{{ . }}{{ end }}">
+          {{ range $orgs }}
+          {{ $imgUrl := printf "img/%s/%s" $tag .logo | relURL }}
+          <div class="s-logo">
+            <a href="{{ .url }}" target="_blank">
+              <img src="{{ $imgUrl }}" alt="{{ .name }} logo">
+            </a>
           </div>
+          {{ end }}
         </div>
       </div>
-      {{ end }}
     </div>
+    {{ end }}
   </div>
 </section>
 {{ end }}
