@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-If you’d like to contact us by email: organisers@kubernetesdays.london
+If you’d like to contact us by email: organizers-london@kubernetescommunitydays.org
 
 # Want to be Kept Up-to-date?
 

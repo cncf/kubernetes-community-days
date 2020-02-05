@@ -39,7 +39,7 @@ organizers:
   image: suraj.png
   twitter: https://twitter.com/red_suraj
   homepage: https://suraj.pro
-organizers_email: organisers@kubernetesdays.london
+organizers_email: organizers-london@kubernetescommunitydays.org
 local_law_enforcement: 999
 medical_emergency: 999
 ---
