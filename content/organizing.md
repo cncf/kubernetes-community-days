@@ -68,7 +68,7 @@ All events must be called “Kubernetes Community Days LOCATION”, e.g. Kuberne
 
 The first step towards a successful event is building a team. Look for potential team members in local user groups and Meetups, such as the [CNCF Meetup groups](https://www.meetup.com/pro/cncf/), or online in the public Kubernetes slack or other related online communities.
 
-Check the GitHub Kubernetes Community Days Repo [project board](https://github.com/cncf/kubernetes-community-days/projects/2) to see if others have expressed interest in organizing an event in your area. If there are no GitHub issues for your area, create an [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=planningevent&template=interest.md) asking if others are interested in organizing an event with you.
+Check the GitHub Kubernetes Community Days Repo [project board](https://github.com/cncf/kubernetes-community-days/projects/2) to see if others have expressed interest in organizing an event in your area. If there are no GitHub issues for your area, create an [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=planningevent&template=interest.md) asking if others are interested in organizing an event with you. After your team is assembled, we encourage you to have regular meetings for planning purposes. If you would like to record your meetings or need a conference line, CNCF can provide a Zoom URL. Please contact a Core Organizer for access or to learn more.
 
 We recommend assigning the following responsibilities to one or two members of your organizing team:
 
