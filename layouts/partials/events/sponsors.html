@@ -15,8 +15,16 @@
 
     <div class="columns is-multiline">
       {{ range . }}
-      {{ $level := .level }}
-      {{ $orgs  := .orgs }}
+      {{ $level   := .level }}
+      {{ $orgs    := .orgs }}
+      {{ $numOrgs := len $orgs }}
+      {{ $evenOdd := cond (eq (mod $numOrgs 2) 0) "even" "odd" }}
+      {{ $orphans  := (slice) }}
+      {{ range (seq 3 8) }}
+      {{ if eq (mod $numOrgs .) 1 }}
+      {{ $orphans = $orphans | append . }}
+      {{ end }}
+      {{ end }}
       <div class="column is-half">
         <div class="card">
           <header class="card-header">
@@ -26,14 +34,14 @@
           </header>
           
           <div class="card-content">
-            {{ with $orgs }}
+            {{ with $orgs }}  
             <div class="container">
-              <div class="columns is-vcentered is-multiline">
+              <div class="s-logos {{ $evenOdd }}{{ range $orphans }} orphan-by-{{ . }}{{ end }}">
                 {{ range . }}
                 {{ $imgUrl := printf "img/%s/%s" $tag .logo | relURL }}
-                <div class="column is-one-third">
+                <div class="s-logo">
                   <a href="{{ .url }}" target="_blank">
-                    <img class="funder-logo" src="{{ $imgUrl }}" alt="{{ .name }} logo">
+                    <img src="{{ $imgUrl }}" alt="{{ .name }} logo">
                   </a>
                 </div>
                 {{ end }}
