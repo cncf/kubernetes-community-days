@@ -2,25 +2,27 @@
 {{ $sponsors := .CurrentSection.Params.sponsors }}
 
 {{ with $sponsors }}
+{{ $nLevels := len . }}
 <hr />
 
 <section class="section">
   <div class="container has-text-centered">
-    <p class="title is-size-2 is-size-3-mobile has-text-weight-bold">
+    <p class="title is-size-2 is-size-3-mobile">
       {{ "Sponsors" | upper }}
     </p>
 
     <hr class="thick-hr center" />
 
-    {{ range . }}
+    {{ range $idx, $v := . }}
     {{ $level   := .level }}
     {{ $size    := .size | default "medium" }}
     {{ $orgs    := .orgs }}
     {{ $colSize := cond (eq $size "large") "one-third" "one-quarter" }}
+    {{ $isLast  := eq $idx (sub $nLevels 1) }}
     <div class="s-logos">
       <div class="has-text-centered">
-        <p class="title is-size-3 is-size-4-mobile has-text-weight-light">
-          {{ $level }}
+        <p class="title is-size-3 is-size-4-mobile has-text-grey-dark has-text-weight-bold">
+          {{ $level | humanize }}
         </p>
 
         <div class="container s-logos {{ $size }}">
@@ -39,6 +41,10 @@
         </div>
       </div>
     </div>
+
+    {{ if not $isLast }}
+    <hr />
+    {{ end }}
     {{ end }}
   </div>
 </section>
