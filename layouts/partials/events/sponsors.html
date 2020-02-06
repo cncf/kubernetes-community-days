@@ -5,28 +5,29 @@
 <hr />
 
 <section class="section">
-  <div class="container">
-    <p class="title is-size-3 is-size-4-mobile has-text-weight-light">
-      Sponsors
+  <div class="container has-text-centered">
+    <p class="title is-size-2 is-size-3-mobile has-text-weight-bold">
+      {{ "Sponsors" | upper }}
     </p>
 
-    <hr class="thick-hr" />
+    <hr class="thick-hr center" />
 
     {{ range . }}
     {{ $level   := .level }}
     {{ $size    := .size | default "medium" }}
     {{ $orgs    := .orgs }}
-    <div class="card">
-      <div class="card-content has-text-centered">
+    {{ $colSize := cond (eq $size "large") "one-third" "one-quarter" }}
+    <div class="s-logos">
+      <div class="has-text-centered">
         <p class="title is-size-3 is-size-4-mobile has-text-weight-light">
-          {{ $level | upper }}
+          {{ $level }}
         </p>
 
         <div class="container s-logos {{ $size }}">
           <div class="columns is-multiline is-variable is-centered is-vcentered">
             {{ range $orgs }}
             {{ $img := printf "img/%s/%s" $tag .logo | relURL }}
-            <div class="column is-narrow is-one-quarter has-text-centered">
+            <div class="column is-narrow is-{{ $colSize }} has-text-centered">
               <div class="s-logos-item">
                 <a href="{{ .url }}" target="_blank">
                   <img src="{{ $img }}">

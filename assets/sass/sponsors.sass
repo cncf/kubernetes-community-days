@@ -1,13 +1,26 @@
 $transform-time: 0.2s
 $transform-scale: 1.1
 
+=logo-sizes($x, $y)
+  .s-logos-item img
+    max-width: $x
+    max-height: $y
+
 .s-logos
-  margin-top: 2rem
+  margin-top: 2.5rem
+
+  & + &
+    margin-top: 5rem
+
+  &.small
+    +logo-sizes(8rem, 6rem)
+  &.medium
+    +logo-sizes(10rem, 8rem)
+  &.large
+    +logo-sizes(12rem, 10rem)
 
 .s-logos-item
   img
-    max-width: 12rem
-    max-height: 10rem
     margin: 0 auto
     transform-origin: 50% 50%
     transition: transform $transform-time
