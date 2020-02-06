@@ -14,31 +14,27 @@
 
     {{ range . }}
     {{ $level   := .level }}
+    {{ $size    := .size | default "medium" }}
     {{ $orgs    := .orgs }}
-    {{ $numOrgs := len $orgs }}
-    {{ $evenOdd := cond (eq (mod $numOrgs 2) 0) "even" "odd" }}
-    {{ $orphans  := (slice) }}
-    {{ range (seq 3 8) }}
-    {{ if eq (mod $numOrgs .) 1 }}
-    {{ $orphans = $orphans | append . }}
-    {{ end }}
-    {{ end }}
-
     <div class="card">
       <div class="card-content">
-        <p class="title is-size-4 is-size-5-mobile has-text-weight-bold">
+        <p class="title is-size-3 is-size-4-mobile has-text-weight-light">
           {{ $level | upper }}
         </p>
 
-        <div class="s-logos {{ $evenOdd }}{{ range $orphans }} orphan-by-{{ . }}{{ end }}">
-          {{ range $orgs }}
-          {{ $imgUrl := printf "img/%s/%s" $tag .logo | relURL }}
-          <div class="s-logo">
-            <a href="{{ .url }}" target="_blank">
-              <img src="{{ $imgUrl }}" alt="{{ .name }} logo">
-            </a>
+        <div class="container s-logos {{ $size }}">
+          <div class="columns is-multiline is-variable is-centered is-vcentered">
+            {{ range $orgs }}
+            {{ $img := printf "img/%s/%s" $tag .logo | relURL }}
+            <div class="column is-narrow is-one-quarter has-text-centered">
+              <div class="s-logos-item">
+                <a href="{{ .url }}" target="_blank">
+                  <img src="{{ $img }}">
+                </a>
+              </div>
+            </div>
+            {{ end }}
           </div>
-          {{ end }}
         </div>
       </div>
     </div>

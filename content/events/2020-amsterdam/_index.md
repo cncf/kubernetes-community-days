@@ -12,9 +12,10 @@ map: amsterdam-map.jpg
 sched_slug: kubernetescommunitydayams
 social:
   facebook: https://facebook.com/cloudnativeams
-  twitter: 'https://twitter.com/cloudnativeams'
+  twitter: https://twitter.com/cloudnativeams
 sponsors:
 - level: Initial sponsors
+  size: large
   orgs:
   - name: Microsoft
     logo: sponsors/microsoft.svg

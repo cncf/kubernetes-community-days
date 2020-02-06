@@ -1,22 +1,16 @@
-=x
-  border: 1px solid red
+$transform-time: 0.2s
+$transform-scale: 1.1
 
 .s-logos
-  display: flex
-  flex-direction: row
-
-
   margin-top: 2rem
 
-  .s-logo
-    height: 2.5rem
+.s-logos-item
+  img
+    max-width: 12rem
+    max-height: 10rem
+    margin: 0 auto
+    transform-origin: 50% 50%
+    transition: transform $transform-time
 
-    a img
-      height: 100%
-
-      transform-origin: 50% 50%
-      transition: transform 0.2s
-
-      &:hover
-        transform: scale(1.1)
-    
+    &:hover
+      transform: scale($transform-scale)
