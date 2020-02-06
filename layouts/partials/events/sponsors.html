@@ -1,7 +1,6 @@
 {{ $tag      := index (split .CurrentSection.File "/") 1 }}
 {{ $sponsors := .CurrentSection.Params.sponsors }}
 
-
 {{ with $sponsors }}
 <hr />
 
@@ -13,38 +12,33 @@
 
     <hr class="thick-hr" />
 
-    <div class="columns is-multiline">
-      {{ range . }}
-      {{ $level := .level }}
-      {{ $orgs  := .orgs }}
-      <div class="column is-half">
-        <div class="card">
-          <header class="card-header">
-            <p class="card-header-title is-size-5 is-size-6-mobile">
-              {{ $level | title }}
-            </p>
-          </header>
-          
-          <div class="card-content">
-            {{ with $orgs }}
-            <div class="container">
-              <div class="columns is-vcentered is-multiline">
-                {{ range . }}
-                {{ $imgUrl := printf "img/%s/%s" $tag .logo | relURL }}
-                <div class="column is-one-third">
-                  <a href="{{ .url }}" target="_blank">
-                    <img class="funder-logo" src="{{ $imgUrl }}" alt="{{ .name }} logo">
-                  </a>
-                </div>
-                {{ end }}
+    {{ range . }}
+    {{ $level   := .level }}
+    {{ $size    := .size | default "medium" }}
+    {{ $orgs    := .orgs }}
+    <div class="card">
+      <div class="card-content has-text-centered">
+        <p class="title is-size-3 is-size-4-mobile has-text-weight-light">
+          {{ $level | upper }}
+        </p>
+
+        <div class="container s-logos {{ $size }}">
+          <div class="columns is-multiline is-variable is-centered is-vcentered">
+            {{ range $orgs }}
+            {{ $img := printf "img/%s/%s" $tag .logo | relURL }}
+            <div class="column is-narrow is-one-quarter has-text-centered">
+              <div class="s-logos-item">
+                <a href="{{ .url }}" target="_blank">
+                  <img src="{{ $img }}">
+                </a>
               </div>
             </div>
             {{ end }}
           </div>
         </div>
       </div>
-      {{ end }}
     </div>
+    {{ end }}
   </div>
 </section>
 {{ end }}
