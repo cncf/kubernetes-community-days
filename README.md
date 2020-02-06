@@ -2,55 +2,34 @@
 
 # Kubernetes Community Days website
 
-This repo houses all of the assets used to build https://kubernetescommunitydays.org.
+This repo houses the assets used to build the Kubernetes Community Days (KCD) site at https://kubernetescommunitydays.org.
 
-## Adding your Kubernetes Community Days event
+If you're interested in organizing your own KCD event, visit the [Organizing](https://kubernetescommunitydays.org/organizing) page of the site for requirements and instructions.
 
-All event data is kept in the [`content/events`](./content/events) directory. To add your Kubernetes Community Days event to this site:
+## Running the site locally
 
-1. Create a new directory under `content/events` with the name `YEAR-city`. So an event in Jakarta in the year 2025 would have the directory name `2025-jakarta`.
+You can run the KCD site in your local environment if you have the following installed:
 
-1. In that created directory, add a new [Markdown](https://www.markdownguide.org) filed named `_index.md`.
+* The [Hugo](https://gohugo.io) static site generator. Installation instructions are [here](https://gohugo.io/getting-started/installing/). Make sure to install the version specified in the [`netlify.toml`](./netlify.toml) configuration file.
+* The [Yarn](https://yarnpkg.com/lang/en/) dependency management tool for JavaScript and other assets. Installation instructions are [here](https://yarnpkg.com/lang/en/docs/install/#mac-stable).
 
-1. Add a header to the file that looks like this:
+On a Mac with Homebrew already installed, these instructions can be summarized as `brew install hugo yarn`.
 
-    ```yaml
-    ---
-    title: Kubernetes Community Day Pittsburgh # A title for the page
-    ---
-    ```
+Once those tools are installed, run these commands to view the site locally:
 
-1. In addition to a title, add the following information:
+```bash
+# Install Sass and other dependencies
+yarn
 
-    * A `location` for the event, which has two pieces of information: a `name` for the venue and a `url` for that venue.
-    * A `date` for the event in `YYYY-MM-DD` form, e.g. `2020-01-02` for January 2, 2020.
-  
-    Here's an example event configuration:
+# Run Hugo in "server" mode
+hugo server --buildDrafts --buildFuture
+```
 
-    ```yaml
-    ---
-    title: Kubernetes Community Days Ridgefield
-    url: https://k8s-ridgefield.io
-    location:
-      name: Ridgefield Community Center, Ridgefield, Washington
-      url: https://ridgefieldcommunitycenter.info
-    date: 2020-03-30
-    social:
-      twitter: ridge_k8s
-      facebook: ridge_k8s
-    ---
-    ```
+Open your browser to `http://localhost:1313` to view the site. When you make changes to the source files, the site updates in real time, including a browser refresh.
 
-1. Optionally, add any Markdown content you want below the YAML metadata header.
+## Site publishing
 
-1. Submit a pull request (PR) to this repository.
+The KCD site is published via the [Netlify](https://netlify.com) platform. The site is updated under two conditions:
 
-1. Netlify creates a preview of your PR. Ensure that things look correct and then add `LGTM` as a comment to your PR.
-
-## Publishing the site
-
-The Kubernetes Community Days website is published automatically by [Netlify](https://netlify.com) upon pushes to the `master` branch.
-
-## License
-
-The contents of this website are published under the Apache 2.0 license. You are also welcome to repurpose any of the content under the CC-BY 4.0 license. Note that sponsor logos are hosted on the site for reliability, but are generally a trademark of the sponsoring organization.
+1. When changes are pushed to this repository's `master` branch
+1. Every 24 hours, triggered by a [Zapier Zap](https://zapier.com)

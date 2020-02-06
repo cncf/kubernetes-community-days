@@ -1,0 +1,16 @@
+$transform-time: 0.2s
+$transform-scale: 1.1
+
+.s-logos
+  margin-top: 2rem
+
+.s-logos-item
+  img
+    max-width: 12rem
+    max-height: 10rem
+    margin: 0 auto
+    transform-origin: 50% 50%
+    transition: transform $transform-time
+
+    &:hover
+      transform: scale($transform-scale)

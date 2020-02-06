@@ -1,0 +1,33 @@
+<div class="buttons has-addons">
+  <span class="button is-primary has-text-weight-bold is-radiusless">
+    <span class="icon is-small">
+      <i class="fas fa-city fa-sm"></i>
+    </span>
+    &nbsp;
+    <span>
+      {{ with .city }}{{ . }}{{ end }}
+      {{- with .country }}, {{ . }}{{ end }}
+    </span>
+  </span>
+  {{ if .url }}
+  <a class="button is-dark has-text-weight-bold is-radiusless" href="{{ .url }}">
+    <span class="icon is-small">
+      <i class="fas fa-map-marker-alt fa-sm"></i>
+    </span>
+    &nbsp;
+    <span>
+      {{ .venue }}
+    </span>
+  </a>
+  {{ else }}
+  <div class="button is-dark has-text-weight-bold is-radiusless">
+    <span class="icon is-small">
+      <i class="fas fa-map-marker-alt fa-sm"></i>
+    </span>
+    &nbsp;
+    <span>
+      {{ .venue }}
+    </span>
+  </div>
+  {{ end }}
+</div>

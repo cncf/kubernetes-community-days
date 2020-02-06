@@ -1,41 +1,42 @@
-{{ $isEventRoot := eq .File.BaseFileName "_index" }}
-{{ $sponsors    := .CurrentSection.Params.sponsors }}
+{{ $tag      := index (split .CurrentSection.File "/") 1 }}
+{{ $sponsors := .CurrentSection.Params.sponsors }}
 
 {{ with $sponsors }}
 <hr />
 
 <section class="section">
   <div class="container">
-    <p class="title is-size-2 is-size-3-mobile">
+    <p class="title is-size-3 is-size-4-mobile has-text-weight-light">
       Sponsors
     </p>
 
-    <br /><br />
+    <hr class="thick-hr" />
 
     {{ range . }}
-    {{ $level := .level }}
-    {{ $orgs  := .orgs }}
-    <div class="logo-container">
-      <p class="title is-size-3 is-size-4-mobile has-text-weight-light">
-        {{ $level | upper }}
-      </p>
+    {{ $level   := .level }}
+    {{ $size    := .size | default "medium" }}
+    {{ $orgs    := .orgs }}
+    <div class="card">
+      <div class="card-content has-text-centered">
+        <p class="title is-size-3 is-size-4-mobile has-text-weight-light">
+          {{ $level | upper }}
+        </p>
 
-      {{ with $orgs }}
-      <div class="logo-container-block">
-        {{ range . }}
-        {{ $imgUrl := printf "img/sponsors/%s" .logo | relURL }}
-        <div class="logo">
-          {{ if .url }}
-          <a href="{{ .url }}">
-            <img src="{{ $imgUrl }}" alt="{{ .name }} logo">
-          </a>
-          {{ else }}
-          <img src="{{ $imgUrl }}" alt="{{ .name }} logo">
-          {{ end }}
+        <div class="container s-logos {{ $size }}">
+          <div class="columns is-multiline is-variable is-centered is-vcentered">
+            {{ range $orgs }}
+            {{ $img := printf "img/%s/%s" $tag .logo | relURL }}
+            <div class="column is-narrow is-one-quarter has-text-centered">
+              <div class="s-logos-item">
+                <a href="{{ .url }}" target="_blank">
+                  <img src="{{ $img }}">
+                </a>
+              </div>
+            </div>
+            {{ end }}
+          </div>
         </div>
-        {{ end }}
       </div>
-      {{ end }}
     </div>
     {{ end }}
   </div>

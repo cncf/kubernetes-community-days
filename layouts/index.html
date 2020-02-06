@@ -9,26 +9,24 @@
 
 {{ partial "navbar.html" . }}
 {{ partial "home/hero.html" . }}
+
 <section class="section">
   <div class="container">
-    <div class="is-hidden-desktop">
-      {{ partial "home/events.html" . }}
-      {{ partial "home/sidebar.html" $events }}
-    </div>
-
-    <div class="is-hidden-touch">
-      <div class="columns is-variable is-8">
-        <div class="column is-4">
+    <div class="columns is-variable is-8 main-page-columns">
+      <div class="column is-one-third">
+        <section class="section sidebar">
           {{ partial "home/sidebar.html" $events }}
-        </div>
-  
-        <div class="column">
-          {{ partial "home/events.html" . }}
-        </div>
+        </section>
+      </div>
+
+      <div class="column">
+        {{ partial "home/events.html" $events }}
+
+        {{ partial "home/twitter-feed.html" . }}
       </div>
     </div>
-
-    {{ partial "home/logos.html" . }}
   </div>
 </section>
+
+{{ partial "home/logos.html" . }}
 {{ end }}

@@ -9,24 +9,28 @@
   <div class="card">
     <div class="card-content">
       <div class="content">
-        <h2 class="title is-size-4 is-size-5-mobile has-text-weight-medium has-text-primary is-uppercase">
-          <a href="{{ $url }}">
-            {{ $title }}
-          </a>
-        </h2>
+        <span class="title is-size-6 has-text-primary">
+          Kubernetes Community Day
+        </span>
 
-        <h4 class="has-text-weight-bold">
+        <p class="title is-size-3 is-size-4-mobile">
+          <a class="has-text-white-primary" href="{{ $url }}">
+            {{ $title | upper }}
+          </a>
+        </p>
+
+        <h4 class="title has-text-weight-bold has-text-black">
           {{ $month }} {{ $day }}{{ with .Params.end }}&ndash;{{ dateFormat "2" (time .) }}{{ end }}, {{ $year }}
         </h4>
 
-        <a class="is-size-5 is-size-6-mobile has-text-grey" href="{{ $where.url }}" target="_blank">
+        <a class="subtitle is-size-4 is-size-4 has-text-grey" href="{{ $where.url }}" target="_blank">
           {{ $where.venue }}
         </a>
-
-        {{ with $social }}
-        {{ partial "social-buttons.html" (dict "margin" true "centered" false "text" false "social" .) }}
-        {{ end }}
       </div>
+
+      {{ with $social }}
+      {{ partial "social-buttons.html" (dict "margin" true "centered" false "text" false "social" .) }}
+      {{ end }}
     </div>
   </div>
 </div>

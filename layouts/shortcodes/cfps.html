@@ -1,9 +1,15 @@
-{{ $events := site.Data.events }}
+{{ $events     := (slice) }}
+{{ $eventPages := where site.Sections "Section" "events" }}
+{{ range $eventPages }}
+{{ range .Sections }}
+{{ $events = $events | append . }}
+{{ end }}
+{{ end }}
 <table>
   <thead>
     <tr>
       <th>
-        City
+        Event
       </th>
       <th>
         CFP closes
@@ -14,20 +20,26 @@
     </tr>
   </thead>
   <tbody>
-    {{ range $events }}
-    {{ if .cfpdate }}
-    {{ $date := .date | dateFormat "January 2, 2006" }}
+    {{ range $events.ByDate }}
+    {{ if .Params.cfp_deadline }}
+    {{ $cfp   := time .Params.cfp_deadline }}
+    {{ $start := dateFormat "January 2, 2006" .Date }}
+    {{ if ($cfp.After now) }}
+    {{ $cfpUrl := printf "%s/cfp" .RelPermalink | relURL }}
     <tr>
       <td>
-        {{ .title }}
+        <a href="{{ $cfpUrl }}">
+          {{ .Title }}
+        </a>
       </td>
       <td>
-        {{ .cfpdate }}
+        {{ dateFormat "January 2, 2006" $cfp }}
       </td>
       <td>
-        {{ $date }}
+        {{ $start }}
       </td>
     </tr>
+    {{ end }}
     {{ end }}
     {{ end }}
   </tbody>

@@ -1,4 +1,4 @@
-{{ $favicon      := "favicon.png" | absURL }}
+{{ $favicon      := "admin/favicon.png" | absURL }}
 {{ $inServerMode := site.IsServer }}
 {{ $includePaths := (slice "node_modules") }}
 {{ $sass         := "sass/style.sass" }}
@@ -15,3 +15,8 @@
 {{ end }}
 
 <link rel="shortcut icon" type="image/png" href="{{ $favicon }}">
+
+{{ $custom := printf "%s/custom.css" .CurrentSection.RelPermalink | relURL }}
+{{ if (fileExists $custom) }}
+<link rel="stylesheet" href="{{ $custom }}">
+{{ end }}

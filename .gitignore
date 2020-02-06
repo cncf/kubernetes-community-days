@@ -5,5 +5,8 @@ node_modules/
 public/
 resources/
 
+# Yarn error output
+yarn-error.log
+
 # Ignore Dropbox files
 .DS_Store

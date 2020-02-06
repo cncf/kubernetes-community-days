@@ -4,9 +4,10 @@
 {{ $fontSlice = $fontSlice | append (printf "%s:%s" (replace .name " " "+") (delimit .sizes ",")) }}
 {{ end }}
 {{ $fontsUrl := printf "https://fonts.googleapis.com/css?family=%s" (delimit $fontSlice "|") }}
-{{ $sansSerifFont := site.Params.sans_serif_font | string }}
+{{ $sansSerifFont := (index (where $fonts "type" "eq" "sans_serif") 0).name }}
 {{ $fontAwesomeVersion := site.Params.font_awesome_version | string }}
 {{ $fontAwesomeUrl     := printf "https://use.fontawesome.com/releases/v%s/css/all.css" $fontAwesomeVersion }}
+{{ $heroBanner         := printf "admin/img/%s" site.Params.hero_banner | relURL }}
 
 @charset "utf-8"
 @import url({{ $fontsUrl }})
@@ -25,8 +26,15 @@ $primary: $k8s-dark-blue
 $secondary: $k8s-light-blue
 $section-padding: 2rem 1.5rem
 $hr-margin: 3rem 0
-$navbar-height: 5rem
+$navbar-height: 3.5rem
 $navbar-item-img-max-height: $navbar-height * 0.7
+$navbar-item-active-color: $primary
+$card-header-color: $white
+$card-header-shadow: none
+$card-header-weight: $weight-bold
+$card-header-background-color: $primary
+$navbar-dropdown-radius: none
+$navbar-breakpoint: $desktop + 225
 
 @import "bulma/sass/utilities/functions"
 @import "bulma/sass/utilities/mixins"
@@ -36,57 +44,78 @@ $family-sans-serif: "{{ $sansSerifFont }}", BlinkMacSystemFont, -apple-system, "
 
 @import "bulma/sass/utilities/derived-variables"
 
-$colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue": ($facebook-blue, $white)), $colors)
+$colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue": ($facebook-blue, $white), "white-bis": ($white-bis, $black)), $colors)
 
 @import "bulma/bulma"
 
-@import "accordion"
+@import "sidebar"
+@import "sponsors"
+
+.is-speaker-card
+  margin-bottom: 3rem
+
+.has-extra-right-margin
+  margin-right: 1.5rem
+
+=logo($d, $w)
+  +desktop
+    width: $d
+  +mobile
+    width: $w
+
+.navbar-menu.is-active .navbar-item.is-light
+  color: $dark !important
+
+  &.is-active
+    color: $primary !important
+
+.navbar-item
+  &.is-light
+    color: $grey-lighter !important
+
+.main-logo
+  +logo(70%, 100%)
+
+.text-content
+  ul ul
+    margin-top: 1rem
+    margin-bottom: 1rem
+
+  +desktop
+    width: 75%
+
+.project-logo
+  +desktop
+    width: 50%
+  +touch
+    width: 60%
+
+.card
+  &.is-shadowless
+    box-shadow: none
+
+.banner
+  background-attachment: fixed
+  background-image: url({{ $heroBanner }})
+  background-size: cover
+
+.index-events-section
+  padding: 4rem 0
+
+.twitter-timeline
+  font-family: "{{ $sansSerifFont }}"
+
+.external-link
+  margin-left: .2rem
+  font-size: .75rem
 
 .person
   &-image
+    margin: 0 0 1.5rem 0
     height: 5rem
     width: auto
 
-.logo-container
-  & + &
-    margin-top: 3rem
-
-  &-block
-    display: flex
-    margin: 3rem 0 2rem 0
-
-    +tablet
-      flex-direction: row
-
-    +mobile
-      flex-direction: column
-      align-items: center
-
-    .logo
-      +tablet
-        width: 10rem
-        height: auto
-
-        & + .logo
-          margin-left: 2.5rem
-      
-      +mobile
-        width: 40%
-
-        & + .logo
-          margin-top: 1rem
-
-.logos
-  margin-top: 3rem
-
-  .logo
-    +tablet
-      width: 50%
-    +touch
-      width: 70%
-
 hr.thick-hr
-  margin: 1.5rem 0 !important
   background-color: $primary
   height: 0.25rem
 
@@ -94,36 +123,11 @@ hr.thick-hr
     margin: 5rem 0
 
   +tablet
-    width: 5rem
+    margin: 2rem 0 !important
+    width: 3.5rem
   +mobile
-    width: 3rem
-
-.event-list
-  text-transform: uppercase
-
-  .year
-    &-title
-      font-size: 1.5rem
-      font-weight: 700
-      margin-bottom: 1rem
-
-    & + .year
-      margin-top: 1rem
-
-  .month
-    &-title
-      font-size: 1.25rem
-      margin-bottom: .5rem
-
-    & + .month
-      margin-top: 1.5rem
-
-    ul.events
-      li
-        line-height: 120%
-      
-        & + li
-          margin-top: .5rem
+    margin: 1.25rem 0 !important
+    width: 5rem
 
 .page
   display: flex
@@ -134,14 +138,19 @@ hr.thick-hr
     flex: 1
 
 .footer
-  background-color: $primary
-  color: $light
+  background-color: $black
+  color: $grey-light
+  margin-top: 5rem
 
-.is-hero-logo
-  +desktop
-    width: 65%
-  +mobile
-    width: 90%
+  .copyright
+    +desktop
+      font-size: 1rem
+
+    +mobile
+      font-size: .75rem
+
+  .is-footer-logo
+    +logo(75%, 50%)
 
 .variable-size-content
   +touch
@@ -164,5 +173,6 @@ hr.thick-hr
   +tablet
     width: 80%
 
-.footer
-  margin-top: 5rem
+
+.funder-logo
+  max-height: 3.5rem

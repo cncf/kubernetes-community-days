@@ -1,36 +1,39 @@
+{{ $tag := .tag }}
 <div class="column is-one-third">
-  <div class="card person">
-    <div class="card-content">
-      <p class="title">
-        {{ if .homepage }}
-        <a href="{{ .homepage }}">
-          {{ .name }}
+  <article class="media is-speaker-card">
+    <figure class="media-left has-extra-right-margin">
+      {{ with .person.image }}
+      {{ $src := printf "img/%s/%s" $tag . | relURL }}
+      <p class="image is-96x96">
+        <img src="{{ $src }}">
+      </p>
+      {{ end }}
+    </figure>
+
+    <div class="media-content">
+      <p class="title is-size-4 is-size-5-mobile">
+        {{ if .person.homepage }}
+        <a href="{{ .person.homepage }}" target="_blank">
+          {{ .person.name }}
         </a>
         {{ else }}
-        {{ .name }}
+        {{ .person.name }}
         {{ end }}
       </p>
 
-      {{ with .image }}
-      {{ $src := printf "img/people/%s" . | relURL }}
-      <img class="person-image" src="{{ $src }}">
-      {{ end }}
-
-      {{ with .bio }}
-      <p>
+      {{ with .person.bio }}
+      <div class="content">
         {{ . | markdownify }}
-      </p>
+      </div>
       {{ end }}
 
-      {{ with .twitter }}
-      <br />
-
-      <a class="button is-twitter-blue">
+      {{ with .person.twitter }}
+      <a class="button is-twitter-blue" href="{{ . }}" target="_blank">
         <span class="icon">
           <i class="fab fa-twitter"></i>
         </span>
       </a>
       {{ end }}
     </div>
-  </div>
+  </article>
 </div>

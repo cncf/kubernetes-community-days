@@ -1,15 +1,12 @@
 {{ $description := site.Params.description | markdownify }}
-{{ $logo        := printf "img/logos/%s" site.Params.logo }}
+{{ $logo        := printf "admin/img/logos/%s" site.Params.hero.logo }}
 {{ $twitter     := site.Params.social.twitter }}
 {{ $facebook    := site.Params.social.facebook }}
-<section class="hero has-text-centered">
-  <div class="hero-body">
-    <div class="container">
-      <img class="is-hero-logo" src="{{ $logo }}" alt="Kubernetes Community Days main logo">
 
-      <!--
-      {{ partial "social-buttons.html" (dict "centered" true "social" site.Params.social) }}
-      -->
+<section class="hero is-medium banner">
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <img class="main-logo" src="{{ $logo }}" alt="Kubernetes Community Days main logo">
     </div>
   </div>
 </section>

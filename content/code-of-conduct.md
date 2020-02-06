@@ -3,6 +3,7 @@ title: Code of Conduct
 ---
 
 The Linux Foundation and its project communities are dedicated to providing a harassment-free experience for participants at all of our events. Linux Foundation events are working conferences intended for professional networking and collaboration within the open source community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While at Linux Foundation events or related ancillary or social events, any participants, including members, speakers, attendees, volunteers, sponsors, exhibitors, booth staff and anyone else, should not engage in harassment in any form.
+
 This Code of Conduct may be revised at any time by The Linux Foundation and the terms are non-negotiable. Your registration for or attendance at any Linux Foundation event indicates your agreement to abide by this policy and its terms.
 
 ## Expected behavior
@@ -25,11 +26,11 @@ If a participant (or individual wishing to participate in a Linux Foundation eve
 
 ## What to do if you witness or are subject to unacceptable behavior
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of conference staff immediately. Conference staff can be identified by t-shirts/staff badges onsite; and an organizer can be found at the event registration counter at any time. You are also encouraged to contact Angela Brown, General Manager of Events at angela (at) linuxfoundation (dot) org.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of conference staff immediately. Conference staff can be identified by t-shirts/staff badges onsite; and an organizer can be found at the event registration counter at any time. You are also encouraged to contact Angela Brown, General Manager of Events at angela (at) linuxfoundation (dot) org if your issues are not being addressed by event staff. 
 
 ## Incident response
 
-Our staff has taken incident response training and responds to harassment reports quickly and thoroughly. As referenced above, if a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund, depending on the circumstances. The Linux Foundation reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further Linux Foundation events, trainings or other activities.
+Our staff responds to harassment reports quickly and thoroughly. As referenced above, if a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund, depending on the circumstances. The Linux Foundation reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further Linux Foundation events, trainings or other activities.
 
 Conference staff will also provide support to victims, including, but not limited to:
 
@@ -40,4 +41,4 @@ Conference staff will also provide support to victims, including, but not limite
 
 ## Pre-event concerns
 
-If you are planning to attend an upcoming event and have concerns regarding another individual who may be present, please contact Angela Brown at angela (at) linuxfoundation (dot) org. Precautions will be taken to ensure your comfort and safety, including, but not limited to: providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact.
+If you are planning to attend an upcoming event and have concerns regarding another individual who may be present, please contact event organizers or Angela Brown at angela (at) linuxfoundation (dot) org. Precautions will be taken to ensure your comfort and safety, including, but not limited to: providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact.

@@ -5,8 +5,6 @@ baseURL = "https://kubernetescommunitydays.org/"
 [params]
 description = "A series of conferences devoted to the cloud native and [Kubernetes](https://kubernetes.io) ecosystem"
 font_awesome_version = "5.8.1"
-sans_serif_font = "Lato"
-logo = "kubernetes-community-days.png"
 allowed_event_pages = [
     "sponsor",
     "speakers",
@@ -15,23 +13,44 @@ allowed_event_pages = [
     "contact",
     "code-of-conduct"
 ]
+twitter_handle = "KubernetesDays"
+tweet_limit = 5
+hero_banner = "hero-banner.jpg"
+google_analytics_id = "UA-82811140-39"
 
-[blackfriday]
-hrefTargetBlank = true
+[params.hero]
+logo = "kubernetes-community-days-whitetext.svg"
+
+[params.navbar]
+logo = "kubernetes-community-days-white.png"
+
+[params.footer]
+logo = "kubernetes-community-days-white.png"
 
 [[params.fonts]]
-name = "Lato"
+name = "Noto Sans"
 sizes = [300,400,600,700]
+type = "sans_serif"
 
 [params.social]
 twitter = "https://twitter.com/cloudnativefdn"
 
-[[menu.navbar]]
+[[menu.main]]
 name = "Organizing"
 url = "/organizing"
 weight = 1
 
-[[menu.navbar]]
+[[menu.main]]
 name = "Code of Conduct"
 url = "/code-of-conduct"
 weight = 2
+
+[[menu.main]]
+name = "Speaking"
+url = "/speaking"
+weight = 3
+
+[[menu.main]]
+name = "Sponsoring"
+url = "/sponsoring"
+weight = 4
