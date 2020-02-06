@@ -14,16 +14,19 @@ social:
   twitter: 'https://twitter.com/Bouvet_3Y0Z'
 sponsors:
 - level: diamond
+  size: large
   orgs:
   - name: Oceanic Airways
     logo: oceanic-airways.svg
     url: https://en.wikipedia.org/wiki/Oceanic_Airlines
 - level: platinum
+  size: medium
   orgs:
   - name: BnL
     logo: bnl.svg
     url: https://pixar.fandom.com/wiki/Buy_n_Large
 - level: gold
+  size: small
   orgs:
   - name: Ghostbusters
     logo: ghostbusters.svg

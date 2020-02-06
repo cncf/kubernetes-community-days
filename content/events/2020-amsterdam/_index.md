@@ -15,7 +15,6 @@ social:
   twitter: https://twitter.com/cloudnativeams
 sponsors:
 - level: Initial sponsors
-  size: large
   orgs:
   - name: Microsoft
     logo: sponsors/microsoft.svg
