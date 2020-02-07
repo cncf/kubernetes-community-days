@@ -30,7 +30,7 @@ sponsors:
 - level: bronze
   orgs:
   - name: MayaData
-    logo: 
+    logo: sponsors/mayadata.png
     url: https://mayadata.io/
   - name: Lecentre.net
     logo: sponsors/lecentrenet.png
