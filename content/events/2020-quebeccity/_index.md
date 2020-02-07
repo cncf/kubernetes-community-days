@@ -1,7 +1,6 @@
 ---
 title: Québec
 date: '2020-06-18'
-end: '2020-06-18'
 location:
   country: Canada
   city: Québec
