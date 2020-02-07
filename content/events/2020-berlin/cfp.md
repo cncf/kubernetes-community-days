@@ -42,4 +42,4 @@ Note: All submissions with 3–5 speakers are required to have at least one spea
 # CODE OF CONDUCT
 The Kubernetes Community Days are dedicated to providing a  harassment-free experience for participants at all of our events. We encourage all submitters to review our complete [Code of Conduct](https://kubernetescommunitydays.org/code-of-conduct/).
 
-If you have any questions regarding the process, please contact [organizers-berlin@kubernetescommunitydays.org](organizers-berlin@kubernetescommunitydays.org).
+If you have any questions regarding the process, please contact [organizers-berlin@kubernetescommunitydays.org](mailto:organizers-berlin@kubernetescommunitydays.org).

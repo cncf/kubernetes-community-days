@@ -12,6 +12,18 @@ sched_slug: kubernetescommunitydaybln
 social:
   facebook: https://www.facebook.com/kcdberlin
   twitter: https://twitter.com/kcd_berlin
+sponsors:
+- level: Initial Sponsors
+  orgs:
+  - name: Loodse
+    logo: sponsors/loodse.png
+    url: https://www.loodse.com/
+  - name: Kinvolk
+    logo: sponsors/kinvolk.png
+    url: https://kinvolk.io
+  - name: SysEleven
+    logo: sponsors/syseleven.png
+    url: https://www.syseleven.de/en/
 # sponsors:
 # - level: gold
 #   orgs:
@@ -43,7 +55,7 @@ organizers:
 - name: Chris Kühl
   image: team/chris_kuhl.jpg
   twitter: https://twitter.com/blixtra
-  homepage: https://kinvolk.io/
+  homepage: https://kinvolk.io
 - name: Christin Rehbein
   image: team/christin_rehbein.png
   twitter: https://twitter.com/SysEleven
@@ -59,7 +71,7 @@ organizers:
 organizers_email: organizers-berlin@kubernetescommunitydays.org
 local_law_enforcement: 112
 medical_emergency: 112
-cfp_deadline:
+cfp_deadline: '2020-03-31'
 sponsor_deadline:
 ---
 
@@ -67,18 +79,16 @@ sponsor_deadline:
 
 On May 26-27, the Kubernetes and cloud native community in Germany will gather at Alte Münze in Berlin. Join us for a two day technical conference loaded with exciting talks and plenty of opportunity to exchange and network. KCD Berlin are aimed at developers, operations people and all other IT professionals with an interest in cloud native technologies and are supported by the Cloud Native Computing Foundation.
 
-Button: “Register” with link to Eventbrite
+[Register](https://www.eventbrite.com/e/kubernetes-community-days-berlin-2020-tickets-90095641489)
 
 You have a Kubernetes story to tell? Great! Then don’t be shy and submit a proposal. Our CFP is open until March 15.
 
-[Submit CFP](https://sessionize.com/kubernetes-community-days-berlin-2020/)
+[Submit CFP](https://kcdcfpsubmissions.smapply.io/prog/kcd_berlin)
 
-[Register](https://www.eventbrite.com/e/kubernetes-community-days-berlin-2020-tickets-90095641489)
-
-KCD is a community-organized and not for profit event and would not be possible without our partners. Don’t miss the opportunity to be part of and support this community event. Find our <a href="/events/2020-berlin/kcdberlin2020_sponsor_prospectus.pdf">Partnership Proposal here.</a>
+KCD is a community-organized and not for profit event and would not be possible without our partners. Don’t miss the opportunity to be part of and support this community event. Find our [Partnership Prospectus](/img/2020-berlin/kcdberlin2020_sponsor_prospectus.pdf).
 
 # Code of Conduct
 
 The Kubernetes Community Days are dedicated to providing a  harassment-free experience for participants at all of our events. We encourage all submitters to review our complete [Code of Conduct](https://kubernetescommunitydays.org/code-of-conduct/).
 
-If you have any questions regarding the process, please contact [organizers-berlin@kubernetescommunitydays.org](organizers-berlin@kubernetescommunitydays.org).
+If you have any questions regarding the process, please contact [organizers-berlin@kubernetescommunitydays.org](mailto:organizers-berlin@kubernetescommunitydays.org).
