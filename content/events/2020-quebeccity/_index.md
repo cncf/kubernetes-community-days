@@ -2,6 +2,7 @@
 title: Québec
 date: '2020-06-18'
 location:
+  countrycode: ca
   country: Canada
   city: Québec
   url: https://en.wikipedia.org/wiki/Quebec_City
