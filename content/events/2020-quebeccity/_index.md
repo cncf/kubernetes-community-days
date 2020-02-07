@@ -1,6 +1,6 @@
 ---
 title: Québec
-date: '2020-06-11'
+date: '2020-06-18'
 end: '2020-06-18'
 location:
   country: Canada
@@ -68,11 +68,9 @@ cfp_deadline: '2020-05-15'
 sponsor_deadline: '2020-02-15'
 ---
 
-La Journée de la Communauté Kubernetes de Québec est le premier évènement dans son genre à Québec permettant de rassembler toutes les communautés et entreprises impliquées et intéressées par Kubernetes à Québec. Basé sur [KubeCon San Diego 2019](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) l'objectif de notre évènement local est de présenter du contenu technique et non technique autour de l'Open Source, de Kubernetes et du "Cloud Native".
+La Journée de la Communauté Kubernetes de Québec se tiendra le jeudi 18 juin 2020. C'est le premier évènement dans son genre à Québec permettant de rassembler toutes les communautés et entreprises impliquées et intéressées par Kubernetes à Québec. Basé sur [KubeCon San Diego 2019](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) l'objectif de notre évènement local est de présenter du contenu technique et non technique autour de l'Open Source, de Kubernetes et du "Cloud Native".
 
 Cet évènement ne pourrait pas voir le jour sans nos sponsors, merci pour votre support ! Nos premiers sponsors sont Microsoft, RedHat, iA, MayaData, Lecentre.net et d'autres vont nous rejoindre très prochainement ! Si vous êtes intressés à contribuer à l'organisation de cet évènement et à son succès, n'hésitez pas à regarder nos [plans de commandites pour les sponsors](sponsor).
-
-Nous envisageons l'une des dates suivantes pour cet évènement : 11 juin, 15 juin ou 18 juin 2020.
 
 L'emplacement n'est pas encore défini, mais nous travaillons activement pour trouver une salle capable de nous recevoir afin de permettre une belle experience pour tout le monde (nous visons ~100 participants).
 
