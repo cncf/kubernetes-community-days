@@ -36,11 +36,11 @@ sponsors:
     logo: sponsors/lecentrenet.png
     url: http://www.lecentre.net/
 speakers:
-- name: Phippy
-  image: speakers/phippy-color.png
-  twitter: https://twitter.com/cloudnativefdn
-  bio: Phippy is a simple PHP app, trying to find a home in a cloud native world.
-  homepage: https://phippy.io
+#- name: Phippy
+#  image: speakers/phippy-color.png
+#  twitter: https://twitter.com/cloudnativefdn
+#  bio: Phippy is a simple PHP app, trying to find a home in a cloud native world.
+#  homepage: https://phippy.io
 organizers:
 - name: Mathieu Benoit
   image: organizers/mathieu.jpg
