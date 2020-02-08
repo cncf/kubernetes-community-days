@@ -84,6 +84,15 @@ local_law_enforcement: 112
 medical_emergency: 112
 cfp_deadline: '2024-09-01'
 sponsor_deadline: '2024-07-14'
+extra_teams:
+- name: Program Committee
+  members:
+  - name: Ada Lovelace
+    image: captainkube-color.svg
+    twitter: https://twitter.com/cloudnativefdn
+  - name: Foo
+    image: zee-color.svg
+    twitter: https://twitter.com/cloudnativefdn
 ---
 
 Kubernetes Community Day Bouvet Island is going to be the largest ever cloud native event in the Antarctic region, perhaps rivaling [KubeCon San Diego](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) in size.
