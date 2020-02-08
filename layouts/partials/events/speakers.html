@@ -8,7 +8,9 @@
       Current speakers
     </p>
 
-    <div class="columns is-multiline">
+    <br /><br />
+
+    <div class="columns is-multiline is-variable is-8">
       {{ range . }}
       {{ partial "events/person.html" (dict "person" . "tag" $tag) }}
       {{ end }}

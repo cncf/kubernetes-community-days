@@ -49,6 +49,13 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
 @import "bulma/bulma"
 
 @import "sidebar"
+@import "sponsors"
+
+.is-speaker-card
+  margin-bottom: 3rem
+
+.has-extra-right-margin
+  margin-right: 2rem
 
 =logo($d, $w)
   +desktop
@@ -70,6 +77,10 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
   +logo(70%, 100%)
 
 .text-content
+  ul ul
+    margin-top: 1rem
+    margin-bottom: 1rem
+
   +desktop
     width: 75%
 
@@ -100,49 +111,24 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
 
 .person
   &-image
-    margin: 1.5rem 0
+    margin: 0 0 1.5rem 0
     height: 5rem
     width: auto
 
-.supporter-logo-container
-  & + &
-    margin-top: 2rem
-
-  &-block
-    display: flex
-    //margin: 3rem 0 2rem 0
-
-    +tablet
-      flex-direction: row
-
-    +mobile
-      flex-direction: column
-      align-items: center
-
-    .supporter-logo
-      +tablet
-        width: 8rem
-        height: auto
-
-        & + .supporter-logo
-          margin-left: 2.5rem
-      
-      +mobile
-        width: 40%
-
-        & + .supporter-logo
-          margin-top: 1rem
-
 hr.thick-hr
   background-color: $primary
-  height: 0.2rem
+  height: 0.25rem
+
+  &.center
+    margin: 2rem auto 3rem auto !important
+    width: 5rem
 
   &.extra-space
     margin: 5rem 0
 
   +tablet
     margin: 2rem 0 !important
-    width: 7rem
+    width: 3.5rem
   +mobile
     margin: 1.25rem 0 !important
     width: 5rem
@@ -182,7 +168,7 @@ hr.thick-hr
     margin-top: 1.5rem
 
   +tablet
-    margin-top: 1.5rem
+    margin-top: 2rem
 
 .sidebar-logo
   +touch
@@ -191,3 +177,6 @@ hr.thick-hr
   +tablet
     width: 80%
 
+
+.funder-logo
+  max-height: 3.5rem
