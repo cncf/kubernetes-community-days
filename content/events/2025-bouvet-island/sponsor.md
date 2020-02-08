@@ -6,7 +6,7 @@ Kubernetes Community Day Bouvet Island is a community-organized, not-for-profit 
 
 Sponsoring Kubernetes Community Days events gives your organization an opportunity to speak with practitioners, managers, and executives from companies of all sizes and industries. Whether your goals include recruiting new talent, opening new markets, or connecting with your existing customers, this event will be the place to have those conversations with experts and leaders in tech innovation.
 
-Below is a list of the available sponsorship. If interested in sponsoring, please complete this [form](sponsor-form) and send to  [organizers-bouvet-island@kubernetescommunitydays.org](mailto:organizers-bouvet-island@kubernetescommunitydays.org).
+Below is a list of the available sponsorship. If interested in sponsoring, please complete this [form](/2025-bouvet-island/sponsor-form) and send to  [organizers-bouvet-island@kubernetescommunitydays.org](mailto:organizers-bouvet-island@kubernetescommunitydays.org).
 
 ## Kubernetes Community Days Bouvet Isand Sponsorship Opportunies
 
