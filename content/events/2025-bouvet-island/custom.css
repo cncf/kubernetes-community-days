@@ -1,0 +1,14 @@
+#event-hero {
+    background-image: url(/img/2025-bouvet-island/backdrop.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+#event-title {
+    color: white !important;
+}
+
+#event-date {
+    color: white;
+}
