@@ -25,6 +25,8 @@ preview-build:
 open:
 	open https://kubernetescommunitydays.org
 
-check-links:
+link-checker-setup:
 	curl https://htmltest.wjdp.uk | bash
+
+check-links: link-checker-setup
 	bin/htmltest
