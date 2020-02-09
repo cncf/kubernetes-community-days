@@ -1,0 +1,3 @@
+DirectoryPath: public
+IgnoreDirectoryMissingTrailingSlash: true
+CheckExternal: false

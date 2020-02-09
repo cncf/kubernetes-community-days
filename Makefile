@@ -12,6 +12,7 @@ production-build:
 		--buildFuture \
 		--ignoreCache \
 		--minify
+	make check-links
 
 preview-build:
 	hugo \
@@ -19,6 +20,11 @@ preview-build:
 		--buildDrafts \
 		--buildFuture \
 		--minify
+	make check-links
 
 open:
 	open https://kubernetescommunitydays.org
+
+check-links:
+	curl https://htmltest.wjdp.uk | bash
+	bin/htmltest
