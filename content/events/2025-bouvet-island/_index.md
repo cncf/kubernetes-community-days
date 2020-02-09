@@ -95,6 +95,6 @@ extra_teams:
     twitter: https://twitter.com/cloudnativefdn
 ---
 
-Kubernetes Community Day Bouvet Island is going to be the largest ever cloud native event in the Antarctic region, perhaps rivaling [KubeCon San Diego](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) in size.
+Kubernetes Community Day Bouvet Island is going to be the largest ever cloud native event in the Antarctic region, perhaps rivaling [KubeCon San Diego](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) in size.
 
 Please take a look at our exciting [speaker](speakers) lineup. Our event would not be possible without support of our [sponsors](sponsor). Prospective sponsors can review our [offerings](sponsor-form). We're still finalizing our [program](program) due to some challenges with arranging flights to our exciting [venue](venue). In the meantime, please review our [Code of Conduct](/code-of-conduct). Please [contact](contact) the organizers with any questions.

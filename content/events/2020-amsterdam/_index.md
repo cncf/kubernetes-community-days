@@ -67,7 +67,7 @@ cfp_deadline: '2020-07-01'
 sponsor_deadline: '2020-09-14'
 ---
 
-**Kubernetes Community Day** comes back to Amsterdam! After a great first edition and on the trail of [KubeCon EU Amsterdam](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/), the Dutch Cloud Native community is gathering at [Westergas](venue) in Amsterdam. Join us for a **two day technical conference** loaded with exciting talks and plenty of opportunity to exchange and network. 
+**Kubernetes Community Day** comes back to Amsterdam! After a great first edition and on the trail of [KubeCon EU Amsterdam](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/), the Dutch Cloud Native community is gathering at [Westergas](venue) in Amsterdam. Join us for a **two day technical conference** loaded with exciting talks and plenty of opportunity to exchange and network.
 
 Kubernetes Community Days Amsterdam is aimed at developers, operations people and all other IT professionals with an interest in cloud native technologies and are supported by the [Cloud Native Computing Foundation](https://cncf.io). 
 

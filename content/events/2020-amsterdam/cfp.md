@@ -1,4 +1,6 @@
-The [call for papers](https://sessionize.com/kcdams2020) is live until the 15th of May!
+---
+title: Call for Papers (CFP)
+---
 
 Kubernetes Community Days are regional events that bring together hundreds of IT executives, cloud operators and technology providers to discuss cloud computing and to learn about Kubernetes.  These annual events are supported by the Cloud Native Computing Foundation and are organized by a community of local Kubernetes user groups and supporting companies.
 
