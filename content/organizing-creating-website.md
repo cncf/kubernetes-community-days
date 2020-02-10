@@ -549,5 +549,5 @@ Click “Create Pull Request”
 * Why images should be .svg https://www.cncf.io/blog/2019/07/17/what-image-formats-should-you-be-using-in-2019/. 
 * Using Branches: https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser
 * Synching your Fork: https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser
-* Bouvet Island content https://github.com/cncf/kubernetes-community-days/edit/master/content/events/2020-bouvet-island/_index.md
+* Bouvet Island content https://github.com/cncf/kubernetes-community-days/edit/master/content/events/2025-bouvet-island/_index.md
 
