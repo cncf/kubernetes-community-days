@@ -28,7 +28,7 @@
         {{ $hasVenuePage := fileExists $venuePage }}
         {{ if $hasVenuePage }}
         {{ $venuePageUrl := printf "%s/venue" $url | relURL }}
-        <a class="subtitle is-size-4 is-size-5-mobile has-text-grey" href="{{ $venuePageUrl }}">
+        <a class="subtitle is-size-4 is-size-5-mobile has-text-primary has-text-weight-medium" href="{{ $venuePageUrl }}">
           {{ .venue }}
         </a>
         {{ else }}
