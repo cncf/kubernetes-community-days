@@ -5,6 +5,7 @@ end: '2020-09-04'
 location:
   country: United Kindon
   city: London
+  countrycode: gb
   url: https://goo.gl/maps/UMW7mDDFvWdvPfXG8
   venue: Emmanuel Centre
 map: london-map.png
