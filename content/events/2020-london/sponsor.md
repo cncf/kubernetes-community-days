@@ -24,7 +24,7 @@ Session intermission promotion    | Yes      | Yes        | No
 Keynote hall promotion            | Yes      | No        | No
 Logo on Signage                   | Large    | Medium    | Small
 Attendee Door Prize               | Limit 2  | Limit 1   | Limit 1
-**Price excluding VAT**           | **£25k** | **£15k**  | **£7.5k**
+**Price excluding VAT**           | **£25k** | **£12k**  | **£7k**
 
 ## Additional sponsorship
 
