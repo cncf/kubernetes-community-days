@@ -32,3 +32,6 @@ run-link-checker:
 	bin/htmltest
 
 check-links: link-checker-setup run-link-checker
+
+check-external-links: production-build
+	bin/htmltest --conf .htmltest.external.yml
