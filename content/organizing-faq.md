@@ -29,3 +29,7 @@ Organizers are responsible for creating the content, but CNCF hosts the website.
 # What corporate entity should sponsors sign a contract with?
 
 DevOpsDays has been successful bringing on sponsors without having them sign [contracts](https://devopsdays.org/sponsor/). Although we don't forbid organizers from signing a contract (such as by having their employer as the counterparty), we recommend against it.
+
+# Why do I need a fiscal sponsor? Can I just use Stripe or Debit cards to accept payment? #
+
+Each event needs a fiscal sponsor or company that agrees to accept payments. In most cases, one of the organizer's employers will agree to serve as a fiscal sponsor. In the future, CNCF is working on a scenario of enabling the use of Debit cards and Stripe accounts to be able to receive and distribute money.
