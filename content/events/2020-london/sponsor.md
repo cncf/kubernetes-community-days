@@ -41,7 +41,7 @@ Diversity sponsor | Unlimited        | £2000
 
 # Ready to sponsor?
 
-[TODO - link to form on http://kubernetesdays.london]()
+<!-- [TODO - link to form on http://kubernetesdays.london]() -->
 
 Questions? Contact [sponsor-london@kubernetescommunitydays.org](mailto:sponsor-london@kubernetescommunitydays.org).
 
