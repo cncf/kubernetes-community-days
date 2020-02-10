@@ -20,10 +20,10 @@
     </tr>
   </thead>
   <tbody>
-    {{ range $events }}
+    {{ range $events.ByDate }}
     {{ if .Params.cfp_deadline }}
     {{ $cfp   := time .Params.cfp_deadline }}
-    {{ $start := dateFormat "January 1, 2006" .Date }}
+    {{ $start := dateFormat "January 2, 2006" .Date }}
     {{ if ($cfp.After now) }}
     {{ $cfpUrl := printf "%s/cfp" .RelPermalink | relURL }}
     <tr>
@@ -33,7 +33,7 @@
         </a>
       </td>
       <td>
-        {{ dateFormat "January 1, 2006" $cfp }}
+        {{ dateFormat "January 2, 2006" $cfp }}
       </td>
       <td>
         {{ $start }}

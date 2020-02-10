@@ -19,27 +19,9 @@ function navbarBurgerToggle() {
   });
 }
 
-function navbarLinks() {
-  const host = window.location.hostname;
-
-  $('.content a').each(function () {
-
-    const link = undefined === $(this).attr('href') ? '' : $(this).attr('href');
-
-    if (link && link.includes('//') && !link.includes(host)) {
-      $(this).append('<sup><i class="fas fa-external-link-alt external-link"></i></sup>');
-      $(this).attr('target', '_blank');
-    }
-  });
-}
-
-
 $(function() {
   console.log($('.navbar')[0].scrollWidth);
 
   navbarBurgerToggle();
   navbarLinks();
-  {{ if not $home }}
-  anchorLinks();
-  {{ end }}
 });

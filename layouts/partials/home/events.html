@@ -19,7 +19,7 @@
   
   <div class="container">
     <div class="columns is-variable is-2 is-multiline">
-      {{ range $upcoming }}
+      {{ range $upcoming.ByDate }}
       {{ partial "event-tile.html" . }}
       {{ end }}
     </div>

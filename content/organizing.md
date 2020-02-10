@@ -28,8 +28,11 @@ This quick start guide covers all aspects of holding a successful event. Please 
 * Schedule an event date a minimum of 6 months after  you file your event request with CNCF request submission,  (9 months prior is preferable)
 * Agree to use [Eventbrite](https://www.eventbrite.com/) for registration*
 * Agree to use [Sched](https://sched.com) for organizing the program page*
+* Confirm that one of the organizer's employers will agree to serve as a fiscal sponsor*
+* Share CNCF Slack usernames for all organizers to be added to #KCD-organizers channel*
+* Create Twitter handle for specific KCD event (like @KCD-BouvetIsland) except for countries like China and Korea where Twitter is not used*
 
-Once your team meets these criteria, you can create a GitHub [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=newevent&template=host.md) to notify CNCF that you wish to be officially recognized. Your organizing team will be invited to the [#kcd-organizers](https://cloud-native.slack.com/messages/GN6R2PV1A) private Slack channel where you can connect with other Kubernetes Community Days organizers around the world. You can then begin creating your website. Copy the page structure of the [Bouvet Island](/events/2020-bouvet-island) sample event as a guide. Here’s [instructions](/organizing-creating-website).
+Once your team meets these criteria, you can create a GitHub [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=newevent&template=host.md) to notify CNCF that you wish to be officially recognized. Your organizing team will be invited to the [#kcd-organizers](https://cloud-native.slack.com/messages/GN6R2PV1A) private Slack channel where you can connect with other Kubernetes Community Days organizers around the world. You can then begin creating your website. Copy the page structure of the [Bouvet Island](/events/2025-bouvet-island) sample event as a guide. Here’s [instructions](/organizing-creating-website).
 
 *  For the launch of KCD, we are standardizing on familiar tools to enable CNCF support and KCD Organizers to support each other. We understand the challenge of using new services and the specific privacy policies of the selected software.
 
@@ -59,13 +62,13 @@ Once your event and name have been accepted, you are authorized by CNCF to use t
 
 Please post your logo in SVG format, as [explained](https://www.cncf.io/blog/2019/07/17/what-image-formats-should-you-be-using-in-2019/)  in this blog post.
 
-All events must be called “Kubernetes Community Days LOCATION”,(e.g. Kubernetes Days Bouvet Island).
+All events must be called “Kubernetes Community Days LOCATION”, e.g. Kubernetes Community Days Bouvet Island.
 
 ## Assembling Your Team
 
 The first step towards a successful event is building a team. Look for potential team members in local user groups and Meetups, such as the [CNCF Meetup groups](https://www.meetup.com/pro/cncf/), or online in the public Kubernetes slack or other related online communities.
 
-Check the GitHub Kubernetes Community Days Repo [project board](https://github.com/cncf/kubernetes-community-days/projects/2) to see if others have expressed interest in organizing an event in your area. If there are no GitHub issues for your area, create an [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=planningevent&template=interest.md) asking if others are interested in organizing an event with you.
+Check the GitHub Kubernetes Community Days Repo [project board](https://github.com/cncf/kubernetes-community-days/projects/2) to see if others have expressed interest in organizing an event in your area. If there are no GitHub issues for your area, create an [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=planningevent&template=interest.md) asking if others are interested in organizing an event with you. After your team is assembled, we encourage you to have regular meetings for planning purposes. If you would like to record your meetings or need a conference line, CNCF can provide a Zoom URL. Please contact a Core Organizer for access or to learn more.
 
 We recommend assigning the following responsibilities to one or two members of your organizing team:
 
@@ -84,16 +87,17 @@ We recommend assigning the following responsibilities to one or two members of y
 * [Conference Planning Guide](/organizing-timeline) with event timeline.
 * [Conference Action Items and Checklist](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit) (Google Spreadsheet) a template for check-in meetings to keep everyone is on task. 
 * [Sponsorship Letter](/organizing-sponsorletter) to send to prospective sponsors.
-* [Sponsorship Prospectus](/organizing-sponsor-contract) (to send to prospective sponsors and post on the event website.) 
+* [Sponsorship Prospectus](/organizing-sponsor-prospectus) (to send to prospective sponsors and post on the event website.)
 * [Sample Invoice](https://docs.google.com/document/d/1Rbc8hvBgbO55asEQzzAHkpvSU2ogl52NmWq1-NhBYdY/edit) (Google Spreadsheet) to invoice sponsors.
 * [Sample Call for Proposals](/organizing-cfp) to recruit speakers.
 * [CNCF Speakers' Bureau](https://www.cncf.io/speakers/) to connect with expert speakers within the cloud native ecosystem.
 * [CNCF Digital Assets](https://github.com/cncf/artwork) for  event promotions.
 * [How to build your site](/organizing-creating-website)
+* [FAQ](/organizing-faq)
 
 ## Core Organizers
 
-The current organizers are [Dan Kohn](https://www.dankohn.com), [Chris Blum](https://twitter.com/chrisvblum), and [Jennifer Davis](https://twitter.com/sigje).
+The current organizers are [Dan Kohn](https://www.dankohn.com), [Kristi Tan](https://twitter.com/muellerkristi), and [Jennifer Davis](https://twitter.com/sigje).
 
 You can reach us on the CNCF Slack. Create a free [account](https://slack.cncf.io) and come to the [#kcd-formation](https://cloud-native.slack.com/messages/CN6LBV16G) channel.
 
