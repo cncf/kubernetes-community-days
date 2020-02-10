@@ -26,3 +26,10 @@ hugo server --buildDrafts --buildFuture
 ```
 
 Open your browser to `http://localhost:1313` to view the site. When you make changes to the source files, the site updates in real time, including a browser refresh.
+
+## Site publishing
+
+The KCD site is published via the [Netlify](https://netlify.com) platform. The site is updated under two conditions:
+
+1. When changes are pushed to this repository's `master` branch
+1. Every 24 hours, triggered by a [Zapier Zap](https://zapier.com)

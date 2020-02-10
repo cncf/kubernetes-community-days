@@ -9,7 +9,7 @@ title: Sample Sponsor Prospectus
 
 # Sponsorship Application Form
 
-## Host: Cost of Venue (Limit 1)
+## Host: Venue Sponsor (Limit 1 - get in touch for pricing)
 
 * Sponsor the venue
 * Logo on event materials and website
