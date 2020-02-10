@@ -5,9 +5,9 @@ location:
   countrycode: ca
   country: Canada
   city: Québec
-  url: https://en.wikipedia.org/wiki/Quebec_City
-  venue: TBD
-#map: bouvet-island-map.png
+  url: https://goo.gl/maps/xTvcknrmbL5fQDEcA
+  venue: ENAP
+map: enap.PNG
 sched_slug: kubernetescommunitydayquebeccity
 social:
   #twitter: 'https://twitter.com/Bouvet_3Y0Z'
@@ -73,9 +73,7 @@ La **Journée de la Communauté Kubernetes de Québec se tiendra le jeudi 18 jui
 
 Cet évènement ne pourrait pas voir le jour sans nos sponsors, merci pour votre support ! Nos premiers sponsors sont Microsoft, RedHat, iA, MayaData, Lecentre.net et d'autres vont nous rejoindre très prochainement ! Si vous êtes intressés à contribuer à l'organisation de cet évènement et à son succès, n'hésitez pas à regarder nos [plans de commandites pour les sponsors](sponsor).
 
-L'emplacement n'est pas encore défini, mais nous travaillons activement pour trouver une salle capable de nous recevoir afin de permettre une belle experience pour tout le monde (nous visons ~100 participants).
-
-Nous envisageons commencer notre campagnes d'appel à conférencières et conférenciers au 15 février 2020 afin d'avoir un programme permettant de plaire à une large audience : technique et non-technique. Notre programme sera annoncé autour du 1er avril 2020, ce qui nous permettra d'ouvrir les inscriptions aux participantes et participants en suivant.
+Nous envisageons commencer notre campagne d'appel à conférencières et conférenciers au 15 février 2020 afin d'avoir un programme permettant de plaire à une large audience : technique et non-technique. Notre programme sera annoncé autour du 1er avril 2020, ce qui nous permettra d'ouvrir les inscriptions aux participantes et participants en suivant.
 
 Cette page sera actualisée dès que nous avons des avancements sur ces différents points dans l'organisation de cet évènement. En attendant, n'hésitez pas à lire notre "[Code de Conduite](/code-of-conduct)".
 
