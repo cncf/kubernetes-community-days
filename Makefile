@@ -28,5 +28,7 @@ open:
 link-checker-setup:
 	curl https://htmltest.wjdp.uk | bash
 
-check-links: link-checker-setup
+run-link-checker:
 	bin/htmltest
+
+check-links: link-checker-setup run-link-checker

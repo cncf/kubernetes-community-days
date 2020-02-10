@@ -327,12 +327,12 @@ Embed the Sched link into your KCD page
 ![Screenshot](/admin/img/howto/program5.png)
 
 ## speakers.md
-This page will pull in your speakers' photo, bio, and twitter from the _index.md page. You will need to make sure the link to the cfs.md is working and you enter your close date for accepting speakers. 
+This page will pull in your speakers' photo, bio, and Twitter handle from the `_index.md` page. You will need to make sure the link to the `cfs.md` is working and you enter your close date for accepting speakers. 
 
 * Make sure link to cfs is working:
   * Put brackets around [proposal submission process]
   * Put parentheses around (.cfs.md)
-  * It should look like this [proposal submission process](speakers.md)
+  * It should look like this [proposal submission process](/speakers)
   * Update your close date
   * Comment on your changes
   * Click “Commit changes”

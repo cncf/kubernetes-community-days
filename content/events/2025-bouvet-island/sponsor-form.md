@@ -98,4 +98,4 @@ Printed Name ______________     Printed Name ______________
 
 Sponsor ___________________     Organizer _________________
 
-Please email the completed form to [info@kcdbouvetisland](info@kcdbouvetisland).
+Please email the completed form to [info@kcdbouvetisland](mailto:info@kcdbouvetisland).
