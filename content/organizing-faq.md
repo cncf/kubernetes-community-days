@@ -4,11 +4,11 @@ title: Kubernetes Community Day FAQ
 
 # Are Kubernetes Community Days limited to Kubernetes?
 
-No! Any open source, cloud native technology is appropriate to cover at a KCD. The only requirements are that presentations not be vendor pitches. Please see the cloud native [definition](https://github.com/cncf/toc/blob/master/DEFINITION.md).
+No! Any open source, cloud native technology is appropriate to cover at a KCD (including any combination of Kubernetes + any other CNCF project). The only requirements are that presentations not be vendor pitches. Please see the cloud native [definition](https://github.com/cncf/toc/blob/master/DEFINITION.md).
 
 # Can I call it a Cloud Native Day, Mini-KubeCon, or similar?
 
-Sorry, but it needs to be called Kubernetes Community Day [Location] (e.g., Kubernetes Community Day Bouvet Island). There are two reasons. First, we need it to include the term Kubernetes, as CNCF's ownership of the trademark lets us maintain control. Specifically, cloud native is not trademarked so anyone can run a Cloud Native Day, but Kubernetes Community Days can only operate under CNCF's aegis. Second, we believe that there will be a lot of value over time in building up the Kubernetes Community Day brand, in that it will enable new cities to more easily recruit speakers, sponsors, and attendees.
+Sorry, but it needs to be called Kubernetes Community Day [Location] (e.g., Kubernetes Community Day Bouvet Island). There are two reasons. Kubernetes is our strongest, worldwide, brand, communicating not only cloud native technology but openness and community participation with the name. As such, the Kubernetes Community Day name is the one that the CNCF is prepared to support with our marketing and legal resources. At some point in the future this may be revisited, but not for the first two years of the program.
 
 # Why is CNCF mandating the use of specific tools like Eventbrite for registration, Sched for the schedule, and SM Apply for the CFP?
 
@@ -24,7 +24,7 @@ The organizers are taking on the risk for running the events.
 
 # Will CNCF host the website or does one of the organizers have to take ownership?
 
-Organizers are responsible for creating the content, but CNCF hosts the website. Lots of details are in the [creating website](https://kubernetescommunitydays.org/organizing-creating-website/) page. In particular, we don't allow KCDs to have a separate website, because we want all changes to come through the KCD GitHub repo so that we can review changes and engage if there is any problematic content.
+Organizers are responsible for creating the content, but CNCF hosts the website. All program content must be reflected on the the official CNCF-hosted page. Lots of details are in the [creating website](https://kubernetescommunitydays.org/organizing-creating-website/) page. In particular, we don't allow KCDs to have a separate website, because we want all changes to come through the KCD GitHub repo so that we can review changes and engage if there is any problematic content.
 
 # What corporate entity should sponsors sign a contract with?
 
