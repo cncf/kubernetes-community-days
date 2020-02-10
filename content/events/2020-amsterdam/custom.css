@@ -1,0 +1,14 @@
+#event-hero {
+    background-image: url(/img/2019-amsterdam/backdrop.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+#event-title {
+    color: white !important;
+}
+
+#event-date {
+    color: white;
+}

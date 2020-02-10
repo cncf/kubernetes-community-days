@@ -71,6 +71,11 @@
         {{ . }}
       </country>
       {{ end }}
+      {{ with .countrycode }}
+      <countrycode>
+        {{ . }}
+      </countrycode>
+      {{ end }}
       {{ with .city }}
       <city>
         {{ . }}

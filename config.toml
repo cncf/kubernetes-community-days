@@ -16,6 +16,7 @@ allowed_event_pages = [
 twitter_handle = "KubernetesDays"
 tweet_limit = 5
 hero_banner = "hero-banner.jpg"
+google_analytics_id = "UA-82811140-39"
 
 [params.hero]
 logo = "kubernetes-community-days-whitetext.svg"

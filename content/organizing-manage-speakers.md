@@ -11,6 +11,7 @@ Some basic guidelines for building a good event program include:
 * Make sure one organization does not receive too many speaking slotsMake sure that all content is sensitive and appropriate
 * Promote fun and participation
 * Encourage interaction between attendees
+* Specify what languages are acceptable for talks
 
 
 ## Recruiting Speakers
