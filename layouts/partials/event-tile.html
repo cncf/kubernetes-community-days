@@ -24,9 +24,18 @@
         </h4>
 
         {{ with $where }}
-        <p class="subtitle is-size-4 is-size-4 has-text-grey">
+        {{ $venuePage    := printf "%s/venue.md" $url | relURL }}
+        {{ $hasVenuePage := fileExists $venuePage }}
+        {{ if $hasVenuePage }}
+        {{ $venuePageUrl := printf "%s/venue" $url | relURL }}
+        <a class="subtitle is-size-4 is-size-5-mobile has-text-grey" href="{{ $venuePageUrl }}">
+          {{ .venue }}
+        </a>
+        {{ else }}
+        <p class="subtitle is-size-4 is-size-5-mobile has-text-grey">
           {{ .venue }}
         </p>
+        {{ end }}
         {{ end }}
       </div>
 
