@@ -10,4 +10,4 @@ A number of scholarships will be provided and recipients will receive up to $150
 
 Scholarships are awarded based on a combination of need and impact. Selection will be made by an assembled group of reviewers who will assess each applicant’s request.  All application information will be kept confidential.
 
-Apply by contacting us at [organizers-amsterdam@kubernetescommunitydays.org](mailto://organizers-amsterdam@kubernetescommunitydays.org).
+Apply by contacting us at [organizers-amsterdam@kubernetescommunitydays.org]organizers-amsterdam@kubernetescommunitydays.org).
