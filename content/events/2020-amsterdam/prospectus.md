@@ -6,6 +6,9 @@ Kubernetes Community Days is a community-organized, not-for-profit conference se
 
 Sponsoring Kubernetes Community Days events gives your organization an opportunity to speak with practitioners, managers, and executives from companies of all sizes and industries. Whether your goals include recruiting new talent, opening new markets, or connecting with your existing customers, this event will be the place to have those conversations with experts and leaders in tech innovation.
 
+[Sponsorship prospectus in PDF](/img/2020-amsterdam/kcdams2020_sponsor_prospectus.pdf)
+
+
 Below is a list of the available sponsorship. If interested in sponsoring, please complete this [form](sponsor-form) and send to  [organizers-amsterdam@kubernetescommunitydays.org](mailto:organizers-amsterdam@kubernetescommunitydays.org).
 
 ## Kubernetes Community Days Amsterdam Sponsorship Opportunities
@@ -46,16 +49,16 @@ Coffee: €8,000 (Limit 1)
 * Branding on coffee cups and around the coffee booth
 * Giveaways on common areas
 
-Media: €8,000 (Limit 1)
+Media: €8,000 (Limit 2)
 
 * 4 tickets
 * Logo on website
 * Branding on all Youtube livestream (if possible) and all videos and watermark on pictures
 * Giveaways on common areas
 
-Party: €5,000 (Limit 1)
+Party: €5,000 (Limit 2)
 
-* 4 tickets (Limit 2)
+* 4 tickets
 * Logo on website
 * Logo on party wristband
 * Special area on party site (same as the keynote area)
