@@ -1,7 +1,7 @@
 ---
 title: Bouvet Island
-date: '2025-01-01'
-end: '2025-01-02'
+date: '2019-01-01'
+end: '2019-01-02'
 location:
   countrycode: bv
   country: Antarctica
@@ -82,8 +82,8 @@ organizers:
 organizers_email: organizers-bouvet-island-2020@kubernetescommunitydays.org
 local_law_enforcement: 112
 medical_emergency: 112
-cfp_deadline: '2024-09-01'
-sponsor_deadline: '2024-07-14'
+cfp_deadline: '2018-09-01'
+sponsor_deadline: '2018-07-14'
 extra_teams:
 - name: Program Committee
   members:
@@ -95,6 +95,6 @@ extra_teams:
     twitter: https://twitter.com/cloudnativefdn
 ---
 
-Kubernetes Community Day Bouvet Island is going to be the largest ever cloud native event in the Antarctic region, perhaps rivaling [KubeCon San Diego](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) in size.
+Kubernetes Community Day Bouvet Island was going to be the largest ever cloud native event in the Antarctic region, perhaps rivaling [KubeCon San Diego](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) in size.
 
 Please take a look at our exciting [speaker](speakers) lineup. Our event would not be possible without support of our [sponsors](sponsor). Prospective sponsors can review our [offerings](sponsor-form). We're still finalizing our [program](program) due to some challenges with arranging flights to our exciting [venue](venue). In the meantime, please review our [Code of Conduct](/code-of-conduct). Please [contact](contact) the organizers with any questions.
