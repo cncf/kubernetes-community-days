@@ -3,7 +3,7 @@ title: London
 date: '2020-09-03'
 end: '2020-09-04'
 location:
-  country: United Kindon
+  country: United Kingdom
   city: London
   countrycode: gb
   url: https://goo.gl/maps/UMW7mDDFvWdvPfXG8

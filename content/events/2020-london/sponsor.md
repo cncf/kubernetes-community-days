@@ -9,10 +9,10 @@ Kubernetes Community Days are community-organized, not-for-profit conferences. T
 
 Sponsoring KCD London is a great way to raise awareness of your company across the Kubernetes and cloud native ecosystem, as well as supporting the community.
 
-Benefits                          | Platinum | Gold      | Silver
+Sponsorship                       | Platinum | Gold      | Silver
 ----------------------------------|----------|-----------|----------
 Number available                  | 2        | 10        | 8
-Booth size                        | 3m x 2m  | 2.3m x 2m | 1.5m x 1.5m
+Table size                        | 3m x 2m  | 2.3m x 2m | 1.5m x 1.5m
 Lead scanners                     | 2        | 2         | 1
 Included tickets                  | 8        | 4         | 2
 20% Ticket Discount               | Yes      | Yes       | Yes
@@ -28,7 +28,7 @@ Attendee Door Prize               | Limit 2  | Limit 1   | Limit 1
 
 ## Additional sponsorship
 
-Opportunity       | Number available |  Price excluding VAT
+Sponsorship       | Number available |  Price excluding VAT
 ------------------|------------------|---------------------
 Lanyard Sponsor   | 1                | £5000
 Coffee Sponsor    | 2 (1 per day)    | £5000
