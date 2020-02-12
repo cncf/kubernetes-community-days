@@ -27,7 +27,7 @@ Session intermission promotion    | Yes      | Yes        | No
 Keynote hall promotion            | Yes      | No        | No
 Logo on Signage                   | Large    | Medium    | Small
 Attendee Door Prize               | Limit 2  | Limit 1   | Limit 1
-**Price**                         | **£18k** | **£7200**  | **£3600**
+**Price**                         | **£18k** | **£8400**  | **£4800**
 
 ## Sponsored workshops
 
