@@ -94,4 +94,4 @@ Looking for the 2019 edition? Check the [videos](https://www.youtube.com/playlis
 
 The Kubernetes Community Days are dedicated to providing a  harassment-free experience for participants at all of our events. We encourage all submitters to review our complete [Code of Conduct](https://kubernetescommunitydays.org/code-of-conduct/).
 
-If you have any questions regarding the process, please contact [organizers-amsterdam@kubernetescommunitydays.org](organizers-amsterdam@kubernetescommunitydays.org).
+If you have any questions regarding the process, please contact [organizers-amsterdam@kubernetescommunitydays.org](mailto:organizers-amsterdam@kubernetescommunitydays.org).

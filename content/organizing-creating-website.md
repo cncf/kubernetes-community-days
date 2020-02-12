@@ -40,16 +40,16 @@ The first thing you need to do is create a [GitHub](https://github.com) account 
   * If you have any other organizers (name, company, title, email)
   * If you are looking for other organizers
  
-    ![Screenshot](/admin/img/howto/issue_filledout.png)
+    ![Screenshot](/admin/img/howto/issue-filled-out.png)
 
 * Click “Submit new issue” when you are done
 
 * Once your issues have been added to the project you can check its status here: https://github.com/cncf/kubernetes-community-days/projects/2 
 * As you add organizers, update your issue
 
-    ![Screenshot](/img/howto/updateissue.png)
+    ![Screenshot](/admin/img/howto/updateissue.png)
 
-    When you have your 3 organizers and 2 sponsors and meet all the requirements of the “Getting Started Checklist” (https://kubernetescommunitydays.org/organizing/) fill out the lower part of the issue.
+    When you have your 3 organizers and 2 sponsors and meet all the requirements of the [Getting Started Checklist](/organizing) fill out the lower part of the issue.
 
     Update your issue:
 
@@ -61,7 +61,7 @@ The first thing you need to do is create a [GitHub](https://github.com) account 
  * Enter date, location, venue (if you have one selected)
  * When you have entered all your information “click submit new issue”
 
-![Screenshot](/admin/img/howto/issuecomplete.png)
+![Screenshot](/admin/img/howto/issue-complete.png)
 
 KCD organizers will then review your issue.
 
@@ -107,7 +107,7 @@ A branch is a parallel version of a repository. It is contained within the repos
  * Name your branch (2nd arrow)
  * Click “blue” “create branch”(3rd arrow)
  
-![Screenshot](/admin/img/howto/createfork.png)
+![Screenshot](/admin/img/howto/fork.png)
 
  * Always check to be sure that you are in your Fork (1st arrow) and on your branch (2nd arrow) before you start editing. 
 
@@ -137,7 +137,7 @@ The easiest way to build your website is to copy the existing files from Bouvet 
  * In the new tab, click the green “Clone or download” button
  * Select “Download ZIP
  
-![Screenshot](/admin/img/howto/evnet4.png)
+![Screenshot](/admin/img/howto/event4.png)
 
  * Go to your downloads window on your computer 
  * Unzip the “kubernetes-community-day-master” 
@@ -327,12 +327,12 @@ Embed the Sched link into your KCD page
 ![Screenshot](/admin/img/howto/program5.png)
 
 ## speakers.md
-This page will pull in your speakers' photo, bio, and twitter from the _index.md page. You will need to make sure the link to the cfs.md is working and you enter your close date for accepting speakers. 
+This page will pull in your speakers' photo, bio, and Twitter handle from the `_index.md` page. You will need to make sure the link to the `cfs.md` is working and you enter your close date for accepting speakers. 
 
 * Make sure link to cfs is working:
   * Put brackets around [proposal submission process]
   * Put parentheses around (.cfs.md)
-  * It should look like this [proposal submission process](speakers.md)
+  * It should look like this [proposal submission process](/speaking)
   * Update your close date
   * Comment on your changes
   * Click “Commit changes”
@@ -549,5 +549,5 @@ Click “Create Pull Request”
 * Why images should be .svg https://www.cncf.io/blog/2019/07/17/what-image-formats-should-you-be-using-in-2019/. 
 * Using Branches: https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser
 * Synching your Fork: https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser
-* Bouvet Island content https://github.com/cncf/kubernetes-community-days/edit/master/content/events/2020-bouvet-island/_index.md
+* Bouvet Island content https://github.com/cncf/kubernetes-community-days/edit/master/content/events/2025-bouvet-island/_index.md
 
