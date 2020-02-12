@@ -155,7 +155,7 @@ The easiest way to build your website is to copy the existing files from Bouvet 
  * Click on “kubernetes-community-days-events”
  * Click on “content”
  * Click on “events”
- * Click on “2020-bouvet-island”
+ * Click on “2019-bouvet-island”
  * Select the following with “command-click”
   * venue.md
   * sponsor.md
@@ -383,7 +383,7 @@ This page will need to be completely updated with your specific venue informatio
 
 ## Custom CSS
 
-If you'd like to customize the look and feel of your event pages, add a `custom.css` file to your event's directory. If the directory for your event is `content/events/2020-bouvet-island`, for example, the path of your custom CSS file should be `content/events/2020-bouvet-island/custom.css`. You can override *any* of the site's default CSS using this file.
+If you'd like to customize the look and feel of your event pages, add a `custom.css` file to your event's directory. If the directory for your event is `content/events/2019-bouvet-island`, for example, the path of your custom CSS file should be `content/events/2019-bouvet-island/custom.css`. You can override *any* of the site's default CSS using this file.
 
 Here is an example `custom.css` file that adds a background image to the "hero" of each page:
 
@@ -549,5 +549,5 @@ Click “Create Pull Request”
 * Why images should be .svg https://www.cncf.io/blog/2019/07/17/what-image-formats-should-you-be-using-in-2019/. 
 * Using Branches: https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser
 * Synching your Fork: https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser
-* Bouvet Island content https://github.com/cncf/kubernetes-community-days/edit/master/content/events/2025-bouvet-island/_index.md
+* Bouvet Island content https://github.com/cncf/kubernetes-community-days/edit/master/content/events/2019-bouvet-island/_index.md
 
