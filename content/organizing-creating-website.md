@@ -2,7 +2,7 @@
 title: Creating a website for your event
 ---
 
-Congratulations on being approved to host a Kubernetes Community Days in your city! This page will guide you through the process of setting up web pages for your event at [kubernetescommunitydays.org](https://kubernetescommunitydays.org), which uses [GitHub](https://github.com/cncf/kubernetes-community-days) to host the website assets, the [Hugo](https://gohugo.io) static site generator to build the website, and [Netlify](https://netlify.com) to host.
+Congratulations on being approved to host a Kubernetes Community Days in your city! This page will guide you through the process of setting up web pages for your event at [kubernetescommunitydays.org](/), which uses [GitHub](https://github.com/cncf/kubernetes-community-days) to host the website assets, the [Hugo](https://gohugo.io) static site generator to build the website, and [Netlify](https://netlify.com) to host.
 
 If you run into any issues when going through the process outlined in this document, feel free to alert us by [filing a GitHub issue](https://github.com/cncf/kubernetes-community-days/issues). This document is a work in progress and will be updated as needed.
 

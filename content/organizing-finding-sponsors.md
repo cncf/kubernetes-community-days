@@ -32,7 +32,7 @@ Seeking out sponsorships
 * Talk to the other organizers on Slack; many of them work at sponsors!
 * Write a blog on the organizers' website to promote your event
 
-Sponsor packages are decided upon by the local organizing team for a city. You can use the [examples](https://kubernetescommunitydays.org/organizing-cfp) in the template to help you make your decisions. Here are some typical offerings:
+Sponsor packages are decided upon by the local organizing team for a city. You can use the [examples](/organizing-cfp) in the template to help you make your decisions. Here are some typical offerings:
 
 * Venue: if a company sponsors the venue they will be acknowledged as the venue sponsor. This sponsorship could also include food and beverage, and might include the benefits of gold sponsorship.
 * Gold (around 5000 Euro/USD): 6 included tickets + a ‘sponsored’ talking slot during talk intermissions + the ability to have a simple table/sponsor presence at the venue.
