@@ -1,3 +1,6 @@
+clean:
+	rm -rf public
+
 setup:
 	yarn
 
@@ -7,14 +10,14 @@ serve: setup
 		--buildFuture \
 		--ignoreCache
 
-production-build:
+production-build: clean
 	hugo \
 		--buildFuture \
 		--ignoreCache \
 		--minify
 	make check-links
 
-preview-build:
+preview-build: clean
 	hugo \
 		--baseURL $(DEPLOY_PRIME_URL) \
 		--buildDrafts \

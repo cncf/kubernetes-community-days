@@ -19,13 +19,24 @@
           </a>
         </p>
 
-        <h4 class="title has-text-weight-bold has-text-black">
+        <h4 class="title has-text-weight-bold has-text-black{{ if $where }} is-spaced{{ end }}">
           {{ $month }} {{ $day }}{{ with .Params.end }}&ndash;{{ dateFormat "2" (time .) }}{{ end }}, {{ $year }}
         </h4>
 
-        <a class="subtitle is-size-4 is-size-4 has-text-grey" href="{{ $where.url }}" target="_blank">
-          {{ $where.venue }}
+        {{ with $where }}
+        {{ $venuePage    := printf "%s/venue.md" $url | relURL }}
+        {{ $hasVenuePage := fileExists $venuePage }}
+        {{ if $hasVenuePage }}
+        {{ $venuePageUrl := printf "%s/venue" $url | relURL }}
+        <a class="subtitle is-size-4 is-size-5-mobile has-text-primary has-text-weight-medium" href="{{ $venuePageUrl }}">
+          {{ .venue }}
         </a>
+        {{ else }}
+        <p class="subtitle is-size-4 is-size-5-mobile has-text-grey">
+          {{ .venue }}
+        </p>
+        {{ end }}
+        {{ end }}
       </div>
 
       {{ with $social }}

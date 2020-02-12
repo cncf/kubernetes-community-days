@@ -2,15 +2,13 @@
 {{ if $showEdit }}
 {{ with .File.Path }}
 {{ $editUrl  := printf "https://github.com/cncf/kubernetes-community-days/edit/master/content/%s" . }}
-<div class="column is-2">
-  <a class="button is-black is-radiusless" href="{{ $editUrl }}" target="_blank">
-    <span class="icon">
-      <i class="fab fa-github"></i>
-    </span>
-    <span>
-      Edit this page
-    </span>
-  </a>
-</div>
+<a class="button is-black is-outlined is-inverted is-radiusless" href="{{ $editUrl }}" target="_blank">
+  <span class="icon">
+    <i class="fab fa-github"></i>
+  </span>
+  <span>
+    Edit this page
+  </span>
+</a>
 {{ end }}
 {{ end }}

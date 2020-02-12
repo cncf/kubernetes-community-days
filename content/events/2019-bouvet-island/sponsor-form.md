@@ -3,7 +3,7 @@ title: Sponsor Form
 ---
 **Kubernetes Days Bouvet Island* 
 
-**January 1, 2021** 
+**January 1, 2021**
 
 **Bouvet Island, Antartica**
 
