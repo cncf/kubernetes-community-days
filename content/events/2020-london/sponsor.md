@@ -9,10 +9,10 @@ Kubernetes Community Days are community-organized, not-for-profit conferences. T
 
 Sponsoring KCD London is a great way to raise awareness of your company across the Kubernetes and cloud native ecosystem, as well as supporting the community.
 
-All prices include VAT.
+## [Sponsor Kubernetes Community Days London 2020](https://form.jotform.com/200432186845050)
 
 
-Sponsorship                       | Platinum | Gold      | Silver
+Sponsorship details               | Platinum | Gold      | Silver
 ----------------------------------|----------|-----------|----------
 Number available                  | 2        | 10        | 8
 Table size                        | 3m x 2m  | 2.3m x 2m | 1.5m x 1.5m
@@ -31,28 +31,24 @@ Attendee Door Prize               | Limit 2  | Limit 1   | Limit 1
 
 ## Sponsored workshops
 
-Sponsored workshops are 2 hour training sessions, including a lead scanner for registering workshop participants.
+Sponsored workshops are 2 hour training sessions. You receive a lead scanner for registering workshop participants.
 
 Workshop sponsorship is £3600 and there are 6 available slots.
 
 ## Additional sponsorship
 
-Sponsorship       | Number available | Price
-------------------|------------------|---------------------
-Lanyard Sponsor   | 1                | £5000
-Coffee Sponsor    | 2 (1 per day)    | £5000
-Recording Sponsor | 1                | £3000
-WiFi Sponsor      | 1                | £2000
-Swag              | 2 (1 per day)    | £4000
-Speaker Dinner    | Unlimited        | £5000
-Evening party     | Unlimited        | £5000
-Diversity sponsor | Unlimited        | £2000
+Sponsorship       | Number available | Price | Notes
+------------------|------------------|-------| ---------------------
+Lanyard Sponsor   | 1                | £5000 | Logo on 1500 lanyards
+Coffee Sponsor    | 2 (1 per day)    | £5000 |
+Video Sponsor     | 1                | £3000 | Logo on videos of talks
+WiFi Sponsor      | 1                | £2000 | Choose the wifi password
+Swag              | 2 (1 per day)    | £4000 | Secret - but this will super fun!
+Speaker Dinner    | Unlimited        | £5000 |
+Evening party     | Unlimited        | £5000 |
+Diversity sponsor | Unlimited        | £2000 |
 
-# Ready to sponsor?
-
-[TODO - link to form on http://kubernetesdays.london]()
-
-Questions? Contact [sponsor-london@kubernetescommunitydays.org](mailto:sponsor-london@kubernetescommunitydays.org).
+All prices include VAT. Invoices are payable via bank transfer within 30 days.
 
 ## Community Partnership
 
@@ -62,3 +58,5 @@ Community partners gain the following benefits:
 
 * Cross-promotion via social media (You promote us, we acknowledge you)
 * Logo on website under the banner of community partners
+
+[Contact organizers](organizers-london@kubernetescommunitydays.org) to request community partnership.
