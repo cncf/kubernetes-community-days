@@ -88,7 +88,7 @@ City____________________________ ST:____________________________
 Zip:____________________________ Country:_______________________
 
 Sponsorships are accepted on a first-come, first-served basis. 
-Sponsor must be paid by credit card upon acceptance. 
+Sponsor must be paid by credit card upon acceptance. Sponsors must also agree to the Code of Conduct.
 
 Signature:_________________     Signature:_________________
 
