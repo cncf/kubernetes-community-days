@@ -58,8 +58,5 @@ Community partners gain the following benefits:
 
 * Cross-promotion via social media (You promote us, we acknowledge you)
 * Logo on website under the banner of community partners
-<<<<<<< HEAD
 
 [Contact organizers](organizers-london@kubernetescommunitydays.org) to request community partnership.
-=======
->>>>>>> 4261fb8cec71e3ae3380c4fc5891b26f1808e6c8
