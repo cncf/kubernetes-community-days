@@ -87,9 +87,7 @@ For 2020, we are going slightly bigger in attendance while maintaining the grass
 
 We will announce our [speaker](speakers)'s lineup in the beginning of June; the [call for papers](https://sessionize.com/kcdams2020) is open until 15th of May (we accept only talks in English). If you wonder how to submit a great talk, have a look at this [page](cfp).
 
-Our event would not be possible without support of our [sponsors](sponsor); prospective sponsors can review our [prospectus](prospectus) (here the [PDF version](/img/2020-amsterdam/kcdams2020_sponsor_prospectus.pdf)) and get in touch with us via email. We're still finalizing our [program](program) but we're excited to have finalized a great [venue](venue). Please [contact](contact) the organizers with any questions.
-
-[Partnership Prospectus](/img/2020-amsterdam/kcdams2020_sponsor_prospectus.pdf)
+Our event would not be possible without support of our [sponsors](sponsor); prospective sponsors can review our [prospectus](sponsor) (here the [PDF version](/img/2020-amsterdam/kcdams2020_sponsor_prospectus.pdf)) and get in touch with us via email. We're still finalizing our [program](program) but we're excited to have finalized a great [venue](venue). Please [contact](contact) the organizers with any questions.
 
 Can't wait until September? We meet every month at our [Dutch Kubernetes Meetup](https://www.meetup.com/Dutch-Kubernetes-Meetup/)! If you want to host, get in touch and if you want to give a talk, open a pull request to this [repository](https://github.com/cloudnative-amsterdam/meetups).
 
