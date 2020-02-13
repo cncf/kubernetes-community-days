@@ -10,29 +10,33 @@ Vous trouverez ci-dessous la liste des différents plans de sponsors. Si vous av
 
 **Platine - 1 entreprise (6000$CAD)**
 
-* Logo sur le site internet de l'évènement en tant que Sponsor Platine
-* 1 emplacement dédié lors de l'évènement
+* Large logo sur le site internet de l'évènement en tant que Sponsor Platine
+* Logo inclu dans tous les courriels de communication avec les participants
+* 1 emplacement dédié au choix lors de l'évènement
 * 2 créneaux de 5 min pour parler au moment des Keynotes
 * 1er prix qui sera tiré au sort
 * 5 entrées gratuites
 
 **Or - 2 entreprises (3000$CAD)**
 
-* Logo sur le site internet de l'évènement en tant que Sponsor Or
+* Moyen logo sur le site internet de l'évènement en tant que Sponsor Or
+* Logo inclu dans tous les courriels de communication avec les participants
 * 1 emplacement dédié lors de l'évènement
 * 1 créneau de 3 min pour parler au moment des Keynotes
-* 2ème et 3ème prix qui seront tirés au sort
+* 2ème ou 3ème prix qui seront tirés au sort
 * 3 entrées gratuites
 
 **Argent - 5 entreprises (1500$CAD)**
 
-* Logo sur le site internet de l'évènement en tant que Sponsor Argent
+* Petit logo sur le site internet de l'évènement en tant que Sponsor Argent
+* Logo sur le courriel de remerciement aux participants après l'évènement
 * 1 table dediée lors de l'évènement
 * 2 entrées gratuites
 
 **Bronze - 10 entreprises (500$CAD)**
 
-* Logo sur le site internet de l'évènement en tant que Sponsor Bronze
+* Petit logo sur le site internet de l'évènement en tant que Sponsor Bronze
+* Logo sur le courriel de remerciement aux participants après l'évènement
 * 1 entrée gratuite
 
 **Communautaire**
