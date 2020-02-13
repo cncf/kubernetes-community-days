@@ -8,32 +8,34 @@ La Journée de la Communauté Kubernetes de Québec est le premier évènement d
 
 Vous trouverez ci-dessous la liste des différents plans de sponsors. Si vous avez de l'intérêt, [merci de nous contacter](contact.md).
 
-Platine - 1 entreprise (6000$CAD)
+**Platine - 1 entreprise (6000$CAD)**
 
 * Logo sur le site internet de l'évènement en tant que Sponsor Platine
 * 1 emplacement dédié lors de l'évènement
 * 2 créneaux de 5 min pour parler au moment des Keynotes
+* 1er prix qui sera tiré au sort
 * 5 entrées gratuites
 
-Or - 2 entreprises (3000$CAD)
+**Or - 2 entreprises (3000$CAD)**
 
 * Logo sur le site internet de l'évènement en tant que Sponsor Or
 * 1 emplacement dédié lors de l'évènement
 * 1 créneau de 3 min pour parler au moment des Keynotes
+* 2ème et 3ème prix qui seront tirés au sort
 * 3 entrées gratuites
 
-Argent - 5 entreprises (1500$CAD)
+**Argent - 5 entreprises (1500$CAD)**
 
 * Logo sur le site internet de l'évènement en tant que Sponsor Argent
 * 1 table dediée lors de l'évènement
 * 2 entrées gratuites
 
-Bronze - 10 entreprises (500$CAD)
+**Bronze - 10 entreprises (500$CAD)**
 
 * Logo sur le site internet de l'évènement en tant que Sponsor Bronze
 * 1 entrée gratuite
 
-Communautaire
+**Communautaire**
 
 Nous savons que les Meetups locaux favorisent le partage d'expériences et d'expertises autour de l'Open Source et des outils Cloud Native, et ce pendant toute l'année. Merci aux personnes impliquées au bon déroulement de ces meetups et à leurs participantes et participants ! Ces Meetups ne contribuent pas financièrement à cet évènement, mais nous les listons sur cette page afin de les encourager en leur donnant plus de visibilité. N'hésitez pas à contacter leurs organisateurs, conférencières et conférenciers sont recherchés à longueur d'année.
 
