@@ -13,21 +13,25 @@ social:
   #twitter: 'https://twitter.com/Bouvet_3Y0Z'
 sponsors:
 - level: platine
+  size: large
   orgs:
   - name: Microsoft
     logo: sponsors/microsoft.svg
     url: https://microsoft.com
 - level: or
+  size: medium
   orgs:
   - name: RedHat
     logo: sponsors/redhat.svg
     url: https://redhat.com
 - level: argent
+  size: small
   orgs:
   - name: iA
     logo: sponsors/ia.png
     url: https://ia.ca
 - level: bronze
+  size: small
   orgs:
   - name: MayaData
     logo: sponsors/mayadata.png
