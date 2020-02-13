@@ -22,6 +22,6 @@ Once you have met the hosting requirements for Kubernetes Community Days, next s
   * Contact information for the organizers, and 
   * the code of conduct. 
 * CNCF team will request any required changes in the PR.
-* Once approved, CNCF team will merge your PR and your page will appear on [Kubernetes Community Days](https://kubernetescommunitydays.org/)
+* Once approved, CNCF team will merge your PR and your page will appear on [Kubernetes Community Days](/)
 * Update your site by submitting new PRs. 
 * CNCF team will review and merge content. 

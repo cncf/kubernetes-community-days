@@ -161,7 +161,7 @@ Confirm venue costs and catering costs (this may be with the same vendor):
 ## 4-6 MONTHS IN ADVANCE: 
 Call for presentations and select your speakers:
 
-* Publish and promote your [“Call for Presentations”](https://kubernetescommunitydays.org/organizing-cfp)
+* Publish and promote your [“Call for Presentations”](/organizing-cfp)
 * Word the call simply and cleanly
 * Consider creating a theme for the event
 * Actively and repeatedly promote your call across as many relevant channels as possible

@@ -5,6 +5,10 @@ node_modules/
 public/
 resources/
 
+# Link checker executable and output
+bin/htmltest
+tmp/
+
 # Yarn error output
 yarn-error.log
 

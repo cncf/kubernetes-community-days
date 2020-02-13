@@ -3,7 +3,7 @@ title: Sponsor Form
 ---
 **Kubernetes Days Bouvet Island* 
 
-**January 1, 2021** 
+**January 1, 2021**
 
 **Bouvet Island, Antartica**
 
@@ -98,4 +98,4 @@ Printed Name ______________     Printed Name ______________
 
 Sponsor ___________________     Organizer _________________
 
-Please email the completed form to [info@kcdbouvetisland](info@kcdbouvetisland).
+Please email the completed form to [info@kcdbouvetisland](mailto:info@kcdbouvetisland).

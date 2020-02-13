@@ -17,6 +17,7 @@ Guidelines and rules
 * Anchor sponsors encourage additional sponsorships.
 * The sponsorship team works very closely with the finance team.
 * Communicate clearly with sponsors what they are getting and what they are NOT getting. 
+* All sponsors must agree to the Code of Conduct.
 * Sponsors do not get access to the attendees list. They may collect contact information at their booth.
 * You can share demographics in aggregate to give sponsors a feel for what kind of crowd will attend.
 * The Core Organizers recommend that KCD organizing teams use a main alias or subgroup rather than their own email, so that they can have a record and ability to change the organizers in future years. The Core Organizers can provide additional mailing lists for groups that would like to create subgroups (like kcd-bouvet-island-sponsors@lists.cncf.io).
@@ -32,7 +33,7 @@ Seeking out sponsorships
 * Talk to the other organizers on Slack; many of them work at sponsors!
 * Write a blog on the organizers' website to promote your event
 
-Sponsor packages are decided upon by the local organizing team for a city. You can use the [examples](https://kubernetescommunitydays.org/organizing-cfp) in the template to help you make your decisions. Here are some typical offerings:
+Sponsor packages are decided upon by the local organizing team for a city. You can use the [examples](/organizing-cfp) in the template to help you make your decisions. Here are some typical offerings:
 
 * Venue: if a company sponsors the venue they will be acknowledged as the venue sponsor. This sponsorship could also include food and beverage, and might include the benefits of gold sponsorship.
 * Gold (around 5000 Euro/USD): 6 included tickets + a ‘sponsored’ talking slot during talk intermissions + the ability to have a simple table/sponsor presence at the venue.

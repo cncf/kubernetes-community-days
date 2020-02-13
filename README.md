@@ -33,3 +33,9 @@ The KCD site is published via the [Netlify](https://netlify.com) platform. The s
 
 1. When changes are pushed to this repository's `master` branch
 1. Every 24 hours, triggered by a [Zapier Zap](https://zapier.com)
+
+## Link checking
+
+To check the links on the site, run `make production-build`. This builds the "preview" version of the site (which includes future events), downloads the [htmltest](https://github.com/wjdp/htmltest) into your local repo, and checks all of the site's internal links. Any broken links are listed via stdout and also written to a log file in your local repo at `tmp/.htmltest/htmltest.log`.
+
+To check external links, run `make external-link-check`. This checks both internal and external links and could take several minutes given dependence on external web resources. We recommend running it periodically and paying attention only to 404 errors.
