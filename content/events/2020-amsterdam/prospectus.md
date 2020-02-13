@@ -6,9 +6,29 @@ Kubernetes Community Days is a community-organized, not-for-profit conference se
 
 Sponsoring Kubernetes Community Days events gives your organization an opportunity to speak with practitioners, managers, and executives from companies of all sizes and industries. Whether your goals include recruiting new talent, opening new markets, or connecting with your existing customers, this event will be the place to have those conversations with experts and leaders in tech innovation.
 
-Below is a list of available sponsorships. If interested in sponsoring, please complete this [form](../sponsor-form) and send it to [organizers-amsterdam@kubernetescommunitydays.org](mailto:organizers-amsterdam@kubernetescommunitydays.org).
+Below is a list of available sponsorships. If interested in sponsoring, please get in touch via mail: [organizers-amsterdam@kubernetescommunitydays.org](mailto:organizers-amsterdam@kubernetescommunitydays.org).
 
-## Kubernetes Community Days Amsterdam Sponsorship Opportunities
+Here's the [PDF version](/img/2020-amsterdam/kcdams2020_sponsor_prospectus.pdf).
+
+## Kubernetes Community Days Amsterdam 2020 Sponsorship Opportunities
+
+Sponsorship details               | Platinum | Gold      | Silver      | Bronze
+----------------------------------|----------|-----------|-------------|------
+Number available                  | 2        | 10        | 8           | 10
+Table size                        | 3m x 2m  | 2.3m x 2m | 1.5m x 1.5m | 
+Lead scanners                     | 2        | 2         | 1            |
+Included tickets                  | 8        | 4         | 2            |
+20% Ticket Discount               | Yes      | Yes       | Yes          |
+10 min keynote                    | Yes      | No        | No
+Recognition on website            | Logo and Link      | Logo and Link        | Logo and Link |Logo and Link
+Recognition in promotional emails | Logo and Link      | Company Name and Link        | None|
+Marketing pitch in pre and post conference emails | Logo + 100 words      | Name + 50 words        | None
+Session intermission promotion    | Yes      | Yes        | No   |
+Keynote hall promotion            | Yes      | No        | No   |
+Logo on Signage                   | Large    | Medium    | Small  |
+Attendee Door Prize               | Limit 2  | Limit 1   | Limit 1 |
+**Price (ex-VAT)**                         | **€18k** | **€8400**  | **€4800** |
+
 
 Platinum/Host: Contact us for pricing (Limit 1)
 
