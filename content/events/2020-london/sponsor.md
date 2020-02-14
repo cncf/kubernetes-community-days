@@ -2,12 +2,8 @@
 title: Sponsor
 ---
 
-<<<<<<< HEAD
 Kubernetes Community Days are community-organized, not-for-profit conferences for
 
-=======
-Kubernetes Community Days are community-organized, not-for-profit conferences. The London 2020 event will attract 1500 attendees from London, the UK, Europe and globally.
->>>>>>> upstream/master
    * Developers, Architects, Technical Specialists
    * Operations, Infrastructure, Platform, and Site Reliability Engineers
    * Executives
@@ -15,7 +11,6 @@ Kubernetes Community Days are community-organized, not-for-profit conferences. T
 The London 2020 event will attract 1500 attendees from London, the UK, Europe and globally. It's a great way to raise awareness across the Kubernetes and cloud native ecosystem, as well as support the community.
 
 ## [Sponsor Kubernetes Community Days London 2020](https://form.jotform.com/200432186845050)
-<<<<<<< HEAD
 
 ![Emmanual Centre, Upper Hall](https://images.squarespace-cdn.com/content/v1/5bf7dd8775f9ee8d5a2783c7/1542973505321-4JFHAY0I0EYXVHTBIMQJ/ke17ZwdGBToddI8pDm48kDCUkWATuGt6znLiRApwHYxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpy_rfsz2m03nseFLnJOsdshZO2Q1byn5TEbeFJufCPTiLRAOCtAt559iEboZGAVP-8/upper-hall.jpg)
 
@@ -45,31 +40,6 @@ Attendee Door Prize               | Limit 2  | Limit 1   | Limit 1
 
 Sponsored workshops are 2 hour training sessions. You receive a lead scanner for registering up to 58 workshop participants.
 
-=======
-
-
-Sponsorship details               | Platinum | Gold      | Silver
-----------------------------------|----------|-----------|----------
-Number available                  | 2        | 10        | 8
-Table size                        | 3m x 2m  | 2.3m x 2m | 1.5m x 1.5m
-Lead scanners                     | 2        | 2         | 1
-Included tickets                  | 8        | 4         | 2
-20% Ticket Discount               | Yes      | Yes       | Yes
-10 min keynote                    | Yes      | No        | No
-Recognition on website            | Logo and Link      | Logo and Link        | Logo and Link
-Recognition in promotional emails | Logo and Link      | Company Name and Link        | None
-Marketing pitch in pre and post conference emails | Logo + 100 words      | Name + 50 words        | None
-Session intermission promotion    | Yes      | Yes        | No
-Keynote hall promotion            | Yes      | No        | No
-Logo on Signage                   | Large    | Medium    | Small
-Attendee Door Prize               | Limit 2  | Limit 1   | Limit 1
-**Price**                         | **£18k** | **£8400**  | **£4800**
-
-## Sponsored workshops
-
-Sponsored workshops are 2 hour training sessions. You receive a lead scanner for registering workshop participants.
-
->>>>>>> upstream/master
 Workshop sponsorship is £3600 and there are 6 available slots.
 
 ## Additional sponsorship
