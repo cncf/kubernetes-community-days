@@ -54,7 +54,7 @@ organizers:
   image: organizers/sebastien-c.jpg
   twitter: https://www.linkedin.com/in/scouturier
   homepage: https://www.linkedin.com/in/scouturier
-- name: Sébastien Thoma
+- name: Sébastien Thomas
   image: organizers/sebastien-t.jpg
   twitter: https://www.linkedin.com/in/prune
   homepage: https://www.linkedin.com/in/prune
