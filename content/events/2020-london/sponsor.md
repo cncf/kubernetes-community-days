@@ -2,15 +2,17 @@
 title: Sponsor
 ---
 
-Kubernetes Community Days are community-organized, not-for-profit conferences. The London 2020 event will attract 1500 attendees from London, the UK, Europe and globally.
+Kubernetes Community Days are community-organized, not-for-profit conferences for
+
    * Developers, Architects, Technical Specialists
    * Operations, Infrastructure, Platform, and Site Reliability Engineers
    * Executives
 
-Sponsoring KCD London is a great way to raise awareness of your company across the Kubernetes and cloud native ecosystem, as well as supporting the community.
+The London 2020 event will attract 1500 attendees from London, the UK, Europe and globally. It's a great way to raise awareness across the Kubernetes and cloud native ecosystem, as well as support the community.
 
 ## [Sponsor Kubernetes Community Days London 2020](https://form.jotform.com/200432186845050)
 
+![Emmanual Centre, Upper Hall](https://images.squarespace-cdn.com/content/v1/5bf7dd8775f9ee8d5a2783c7/1542973505321-4JFHAY0I0EYXVHTBIMQJ/ke17ZwdGBToddI8pDm48kDCUkWATuGt6znLiRApwHYxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpy_rfsz2m03nseFLnJOsdshZO2Q1byn5TEbeFJufCPTiLRAOCtAt559iEboZGAVP-8/upper-hall.jpg)
 
 Sponsorship details               | Platinum | Gold      | Silver
 ----------------------------------|----------|-----------|----------
@@ -29,9 +31,14 @@ Logo on Signage                   | Large    | Medium    | Small
 Attendee Door Prize               | Limit 2  | Limit 1   | Limit 1
 **Price**                         | **£18k** | **£8400**  | **£4800**
 
+[Sponsor hall layout](https://docs.google.com/presentation/d/1uuCvtOIM-isUd5aLQEhC6P6KSS0-93y2Q70kehqC3w4/edit#slide=id.g76a82254d0_1_0) - first come first served for choosing location.
+
+
 ## Sponsored workshops
 
-Sponsored workshops are 2 hour training sessions. You receive a lead scanner for registering workshop participants.
+![Emmanual Centre, Lower Hall](https://images.squarespace-cdn.com/content/v1/5bf7dd8775f9ee8d5a2783c7/1542973540805-1XNQZXXARIK6EL8BZY10/ke17ZwdGBToddI8pDm48kDCUkWATuGt6znLiRApwHYxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpy_rfsz2m03nseFLnJOsdshZO2Q1byn5TEbeFJufCPTiLRAOCtAt559iEboZGAVP-8/lower-hall.jpg)
+
+Sponsored workshops are 2 hour training sessions. You receive a lead scanner for registering up to 58 workshop participants.
 
 Workshop sponsorship is £3600 and there are 6 available slots.
 
