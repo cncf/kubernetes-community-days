@@ -17,9 +17,8 @@ organizers:
   image: cheryl.png
   twitter: 'https://twitter.com/oicheryl'
   homepage: 'https://www.oicheryl.com/'
-- name: Dominique Top
-  image: domi.png
-  twitter: https://twitter.com/devopsdom
+- name: Danielle Cook
+  image: danielle.jpg
 - name: Josh Michielsen
   image: josh.png
   twitter: https://twitter.com/jmickey_
@@ -40,6 +39,9 @@ organizers:
   image: suraj.png
   twitter: https://twitter.com/red_suraj
   homepage: https://suraj.pro
+- name: Ferran A. Castell
+  image: ferran.jpeg
+  twitter: https://twitter.com/ferranarau
 organizers_email: organizers-london@kubernetescommunitydays.org
 local_law_enforcement: 999
 medical_emergency: 999
