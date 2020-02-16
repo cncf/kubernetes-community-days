@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Team
 ---
 
 If you’d like to contact us by email: organizers-london@kubernetescommunitydays.org
