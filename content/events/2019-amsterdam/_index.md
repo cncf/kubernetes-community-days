@@ -91,7 +91,7 @@ sponsors:
     url: https://www.meetup.com/Azure-Thursdays/
   - name: Instruqt
     logo: sponsors/instruqt-logo-text-right-red-on-transparent.png
-    url: https://www.istruqt.com/
+    url: https://www.instruqt.com/
   - name: Startup Amsterdam
     logo: sponsors/startupamsterdam.png
     url: https://www.iamsterdam.com/en/business/startupamsterdam
