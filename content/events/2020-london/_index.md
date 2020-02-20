@@ -65,7 +65,7 @@ sponsor_deadline: '2020-07-06'
 
 Kubernetes Community Days London is happening September 3rd and 4th 2020! The organisers are hard at work preparing the CFP and ticket sales. Check back regularly for updates.
 
-{{< tweet 1225135172099756032 >}}
+{{< tweet 1229699975497551874 >}}
 
 ## Want to be kept up-to-date?
 
