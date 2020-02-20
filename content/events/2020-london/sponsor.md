@@ -14,7 +14,14 @@ The London 2020 event will attract 1500 attendees from London, the UK, Europe an
 
 ![Emmanual Centre, Upper Hall](https://images.squarespace-cdn.com/content/v1/5bf7dd8775f9ee8d5a2783c7/1542973505321-4JFHAY0I0EYXVHTBIMQJ/ke17ZwdGBToddI8pDm48kDCUkWATuGt6znLiRApwHYxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpy_rfsz2m03nseFLnJOsdshZO2Q1byn5TEbeFJufCPTiLRAOCtAt559iEboZGAVP-8/upper-hall.jpg)
 
-Sponsorship details               | Platinum | Gold      | Silver
+## Sponsorship details
+
+**Contract deadline:** July 6th
+
+**Event days:** September 3rd and 4th
+
+
+Details                           | Platinum | Gold      | Silver
 ----------------------------------|----------|-----------|----------
 Number available                  | 2        | 10        | 8
 Table size                        | 3m x 2m  | 2.3m x 2m | 1.5m x 1.5m
