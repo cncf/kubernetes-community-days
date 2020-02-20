@@ -11,7 +11,7 @@ allowed_event_pages = [
     "venue",
     "program",
     "contact",
-    "tickets",
+    "register",
     "code-of-conduct"
 ]
 twitter_handle = "KubernetesDays"
