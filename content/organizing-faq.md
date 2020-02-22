@@ -10,6 +10,12 @@ No! Any open source, cloud native technology is appropriate to cover at a KCD (i
 
 Sorry, but it needs to be called Kubernetes Community Day [Location] (e.g., Kubernetes Community Day Bouvet Island). There are two reasons. Kubernetes is our strongest, worldwide, brand, communicating not only cloud native technology but openness and community participation with the name. As such, the Kubernetes Community Day name is the one that the CNCF is prepared to support with our marketing and legal resources. At some point in the future this may be revisited, but not for the first two years of the program.
 
+## Can I combine a Kubernetes Community Day with another event, like DevOps Days or OpenStack Days?
+
+No, we're not allowing the combination at this time. Our first concern is that we are trying to build up the Kubernetes Community Days brand to have a positive and meaningful connotation, and combining events could conduse that. The other issue is that KCDs have a relatively detailed set of rules around organization, marketing, privacy policy, etc. which could have incompatibilities with other event types.
+
+We are open to reconsidering this policy in the future, but definitely want to start out with KCDs as standalone events.
+
 ## Why is CNCF mandating the use of specific tools like Eventbrite for registration, Sched for the schedule, and SM Apply for the CFP?
 
 At launch, we want to ensure that KCDs use a set of software that CNCF staff is familiar with and can help support, and that enables KCD organizers from different cities to support each other. Additionally, we understand the privacy policies of the tools we're using, and we're able to ensure that each organizer in a city is on the same footing.
