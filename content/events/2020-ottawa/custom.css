@@ -1,0 +1,14 @@
+#event-hero {
+    background-image: url("/img/2020-ottawa/parliament2.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center -380px;
+}
+
+#event-title {
+    color: white !important;
+}
+
+#event-date {
+    color: white;
+}
