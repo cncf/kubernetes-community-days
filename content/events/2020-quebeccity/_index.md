@@ -77,8 +77,8 @@ La **Journée de la Communauté Kubernetes de Québec se tiendra le jeudi 18 jui
 
 Cet évènement ne pourrait pas voir le jour sans nos sponsors, merci pour votre support ! Nos premiers sponsors sont Microsoft, RedHat, iA, MayaData, Lecentre.net et d'autres vont nous rejoindre très prochainement ! Si vous êtes intressés à contribuer à l'organisation de cet évènement et à son succès, n'hésitez pas à regarder nos [plans de commandites pour les sponsors](sponsor).
 
-Nous envisageons commencer notre campagne d'appel à conférencières et conférenciers au 15 février 2020 afin d'avoir un programme permettant de plaire à une large audience : technique et non-technique. Notre programme sera annoncé autour du 1er avril 2020, ce qui nous permettra d'ouvrir les inscriptions aux participantes et participants en suivant.
+Notre campagne d'appel à conférencières et conférenciers au 15 février 2020 afin d'avoir un programme permettant de plaire à une large audience : technique et non-technique. Notre programme sera annoncé autour du 15 avril 2020.
 
 Cette page sera actualisée dès que nous avons des avancements sur ces différents points dans l'organisation de cet évènement. En attendant, n'hésitez pas à lire notre "[Code de Conduite](/code-of-conduct)".
 
-Aussi, n'hésitez surtout pas à commencer à en parler autour de vous, cette journée se veut une belle opportunité pour apprendre et partager autour de l'Open Source, de Kubernetes et du "Cloud Native", on vous réserve de belles surprises et du contenu "sur la coche" ! ;)
+Aussi, n'hésitez surtout pas à commencer à en parler autour de vous, cette journée se veut une belle opportunité pour apprendre et partager ensemble autour de l'Open Source, de Kubernetes et du "Cloud Native", on vous réserve de belles surprises et du contenu "sur la coche" ! ;)
