@@ -2,4 +2,4 @@
 title: Programme
 ---
 
-Nous y travaillons fort ! Voir notre page pour l'[appel à conférencières et conférenciers](speakers).
+Il vous est maintenant possible de soumettre votre présentation ici : https://www.papercall.io/kcd-quebec .
