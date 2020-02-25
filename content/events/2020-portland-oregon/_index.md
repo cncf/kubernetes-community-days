@@ -18,7 +18,7 @@ medical_emergency: 112
 
 Kubernetes Community Day Portland Oregon is the first of its kind in the city of Portland, Oregon.
 
-It is currently sponsored by Puppet, Microsoft, Red Hat, and VMware.
+It is currently sponsored by Puppet, Microsoft, Red Hat, and VMware. If you are interested in becoming a sponsor, please see our [sponsorship prospectus](./prospectus).
 
 Interested in this event?  Please take our [potential attendee survey](https://forms.gle/MKwurmEDMkVFmLqXA).
 
