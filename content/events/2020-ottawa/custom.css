@@ -2,7 +2,8 @@
     background-image: url("/img/2020-ottawa/parliament2.jpg");
     background-attachment: fixed;
     background-size: cover;
-    background-position: center -380px;
+    background-position: bottom center;
+    background-repeat: no-repeat;
 }
 
 #event-title {

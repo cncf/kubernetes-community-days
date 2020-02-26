@@ -8,4 +8,4 @@ title: Call for Papers (CFP)
 
 **CFP Notifications:** TBD
 
-[Submit your talk now.](https://www.papercall.io/events/2681)
+[Submit your talk now.](https://www.papercall.io/events/32591)
