@@ -10,7 +10,7 @@ location:
 map: enap.PNG
 sched_slug: kubernetescommunitydayquebeccity
 social:
-  #twitter: 'https://twitter.com/Bouvet_3Y0Z'
+  twitter: 'https://twitter.com/kcd_quebec'
 sponsors:
 - level: platine
   size: large
