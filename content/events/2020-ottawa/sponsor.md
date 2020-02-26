@@ -29,7 +29,7 @@ Session intermission promotion                    | Yes              | Yes      
 Keynote hall promotion                            | Yes              | No                    | No
 Logo on Signage                                   | Large            | Medium                | Small
 Attendee Door Prize                               | Limit 2          | Limit 1               | Limit 1
-**Price**                                         | **$18k**         | **$8400**             | **$4800**
+**Price**                                         | **$6000**        | **$3000**             | **$1500**
 
 [Sponsor hall layout](https://example.ca) - first come first served for choosing location.
 
@@ -46,14 +46,14 @@ Workshop sponsorship is $3600 and there are 6 available slots.
 
 Sponsorship       | Number available | Price | Notes
 ------------------|------------------|-------|----------------------------------
-Lanyard Sponsor   | 1                | $5000 | Logo on 1500 lanyards
-Coffee Sponsor    | 2 (1 per day)    | $5000 |
-Video Sponsor     | 1                | $3000 | Logo on videos of talks
-WiFi Sponsor      | 1                | $2000 | Choose the wifi password
-Swag              | 2 (1 per day)    | $4000 | Secret - but this will super fun!
-Speaker Dinner    | Unlimited        | $5000 |
-Evening party     | Unlimited        | $5000 |
-Diversity sponsor | Unlimited        | $2000 |
+Lanyard Sponsor   | 1                | $2000 | Logo on 1500 lanyards
+Coffee Sponsor    | 2 (1 per day)    | $1000 |
+Video Sponsor     | 1                | $1000 | Logo on videos of talks
+WiFi Sponsor      | 1                | $1000 | Choose the wifi password
+Swag              | 2 (1 per day)    | $1000 | Secret - but this will super fun!
+Speaker Dinner    | Unlimited        | $1000 |
+Evening party     | Unlimited        | $1000 |
+Diversity sponsor | Unlimited        | $1000 |
 
 All prices include HST. Invoices are payable via bank transfer within 30 days.
 
