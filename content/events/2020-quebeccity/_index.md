@@ -30,6 +30,9 @@ sponsors:
   - name: iA
     logo: sponsors/ia.png
     url: https://ia.ca
+  - name: SSQ
+    logo: sponsors/ssq.jpg
+    url: https://ssq.ca
 - level: bronze
   size: small
   orgs:
