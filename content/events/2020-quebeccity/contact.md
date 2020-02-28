@@ -2,4 +2,4 @@
 title: Contact
 ---
 
-Si vous souhaitez nous contacter, vous pouvez le faire par courriel : organizers-quebec-city[at]kubernetescommunitydays[dot]org.
+Si vous souhaitez nous contacter, vous pouvez le faire par courriel : [organizers-quebec-city@kubernetescommunitydays.org](mailto:organizers-quebec-city@kubernetescommunitydays.org).
