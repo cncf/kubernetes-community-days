@@ -1,7 +1,7 @@
 ---
 title: CFP
 ---
-[Versão Português](/speakers-pt_br.md)
+[Versão Português](./speakers-pt_br.md)
 
 ## Call for Speakers
 

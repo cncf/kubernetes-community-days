@@ -1,7 +1,7 @@
 ---
 title: CFP
 ---
-[English Version](/speakers-en_us.md)
+[English Version](./speakers-en_us.md)
 
 ## Call for Speakers
 

@@ -1,7 +1,7 @@
 ---
 title: Bolsas para Diversidade
 ---
-[English Version](/diversity-scholarship-en_us.md)
+[English Version](./diversity-scholarship-en_us.md)
 
 O programa de bolsas à diversidade da Cloud Native Computing Foundation fornece suporte àqueles de grupos tradicionalmente sub-representados e / ou marginalizados nas comunidades de tecnologia e / ou código aberto (incluindo, entre outros, pessoas identificadas como LGBTQ, mulheres, pessoas de cor e / ou pessoas com deficiência) que, de outra forma, não teriam a oportunidade de participar de eventos do CNCF por razões financeiras.
 

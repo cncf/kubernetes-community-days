@@ -1,7 +1,7 @@
 ---
 title: Diversity Scholarship
 ---
-[Versão Português](/diversity-scholarship-pt_br.md)
+[Versão Português](./diversity-scholarship-pt_br.md)
 
 Cloud Native Computing Foundation’s diversity scholarship program provides support to those from traditionally underrepresented and/or marginalized groups in the technology and/or open source communities (including, but not limited to: persons identifying as LGBTQ, women, persons of color, and/or persons with disabilities) who may not otherwise have the opportunity to attend CNCF events for financial reasons.
 
