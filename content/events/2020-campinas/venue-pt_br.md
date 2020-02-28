@@ -1,6 +1,7 @@
 ---
 title: Venue
 ---
+[English Version](./venue-en_us.md)
 
 {{< venue-map >}}
 
@@ -8,7 +9,7 @@ title: Venue
 
 There's always something going on at Westergas, the buzzing creative complex at Westerpark. Once the city's gasworks, this collection of former industrial buildings is now one of Amsterdam's most exciting and vibrant creative hubs, and home to a variety of bars, restaurants and entertainment venues.
 
-Cultural hub in Amsterdam West 
+Cultural hub in Amsterdam West
 This complex of late 19th-century industrial buildings in [Westerpark](https://www.iamsterdam.com/en/about-amsterdam/amsterdam-neighbourhoods/westerpark) was once the city’s gasworks, but after a complete redevelopment in 2003 it re-opened as a cultural complex, housing a selection of independent shops, galleries, trendy restaurants and interesting venues. The complex hosts a busy schedule of exhibitions, food markets, festivals and cultural events, so you’ll always find something new to discover. Read on to explore some of Westergas's main restaurants, cafes and cultural venues or find out [how to get to Westergas](https://www.iamsterdam.com/en/see-and-do/whats-on/clubbing-nightlife-amsterdam/dance-clubs/westergas).
 
 ## Local Transportation
