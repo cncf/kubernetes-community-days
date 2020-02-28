@@ -6,7 +6,7 @@ La Journée de la Communauté Kubernetes de Québec est le premier évènement d
 
 Être sponsor de l'évènement donne à votre entreprise l'occasion de parler avec la communauté, les developpeurs, les gestionnaires et les cadres d'entreprises de toutes tailles et de toutes industries. Que vos objectifs incluent la visibilité de votre entreprise, le recrutement de nouveaux talents, l'ouverture de nouveaux marchés et clients ou la connexion avec vos clients existants, cet événement sera le lieu idéal pour échanger avec des experts et des leaders de l'innovation technologique.
 
-Vous trouverez ci-dessous la liste des différents plans de sponsors. Si vous avez de l'intérêt, [merci de nous contacter](contact.md).
+Vous trouverez ci-dessous la liste des différents plans de sponsors. Si vous avez de l'intérêt, [merci de nous contacter](../contact).
 
 **Platine - 1 entreprise (6000$CAD)**
 

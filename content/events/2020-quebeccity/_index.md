@@ -72,7 +72,7 @@ organizers:
 organizers_email: organizers-quebec-city@kubernetescommunitydays.org
 local_law_enforcement: 911
 medical_emergency: 911
-cfp_deadline: '2020-05-15'
+cfp_deadline: '2020-04-15'
 sponsor_deadline: '2020-04-15'
 ---
 
@@ -82,7 +82,7 @@ Il vous est maintenant possible d'**acheter vos tickets pour participer à cet �
 
 Cet évènement ne pourrait pas voir le jour sans nos sponsors, merci pour votre support ! Nos premiers sponsors sont Microsoft, RedHat, iA, MayaData, Lecentre.net et d'autres vont nous rejoindre très prochainement ! Si vous êtes intressés à contribuer à l'organisation de cet évènement et à son succès, n'hésitez pas à regarder nos [plans de commandites pour les sponsors](sponsor).
 
-Nous envisageons commencer notre campagne d'appel à conférencières et conférenciers au 15 mars 2020. Nous travaillons fort afin d'avoir un programme permettant de plaire à une large audience : technique et non-technique. Notre programme sera annoncé autour du 15 avril 2020. Si vous connaissez quelqu'un qui aurait de l'intérêt à présenter lors de cette conférence, merci de partager ce lien !
+Notre campagne d'appel à conférencières et conférenciers est maintenant ouverte : [https://www.papercall.io/kcd-quebec](https://www.papercall.io/kcd-quebec). Nous travaillons fort afin d'avoir un programme permettant de plaire à une large audience : technique et non-technique. Notre programme sera annoncé autour du 15 avril 2020. Si vous connaissez quelqu'un qui aurait de l'intérêt à présenter lors de cette conférence, merci de partager ce lien !
 
 Cette page sera actualisée dès que nous avons des avancements sur ces différents points dans l'organisation de cet évènement. En attendant, n'hésitez pas à lire notre "[Code de Conduite](/code-of-conduct)".
 
