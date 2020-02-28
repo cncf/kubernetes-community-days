@@ -7,7 +7,7 @@ location:
   city: Québec
   url: https://goo.gl/maps/xTvcknrmbL5fQDEcA
   venue: ENAP
-map: enap.PNG
+map: enap.png
 sched_slug: kubernetescommunitydayquebeccity
 social:
   twitter: 'https://twitter.com/kcd_quebec'
