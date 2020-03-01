@@ -6,8 +6,8 @@ location:
   country: Brasil
   city: Campinas
   countrycode: br
-  url: https://www.amsterdam.nl/
-  venue: Westergasterras
+  url: http://www.campinas.sp.gov.br/
+  venue: Teatro IMA Cultural
 map: ima.jpg
 sched_slug: kubernetecommunitydayscampinas
 social:
