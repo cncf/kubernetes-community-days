@@ -2,6 +2,7 @@
 {{ $pageType       := cond $isHome "website" "article" }}
 {{ $isEventRoot    := and (eq .Section "events") (eq .File.BaseFileName "_index") }}
 {{ $twitterCardImg := "admin/img/logos/kubernetes-icon-color.svg" | absURL }}
+{{ $dateFormat     := "2006-01-02" }}
 <meta charset="utf-8">
 <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
 
@@ -27,26 +28,43 @@
 {{ end -}}
 
 {{ if $isEventRoot }}
-{{ $name     := .Title }}
+{{ $name     := printf "Kubernetes Community Days %s %s" (dateFormat "2006" .Date) .Title }}
 {{ $start    := .Date }}
 {{ $desc     := .Params.description }}
-{{ $end      := time .Params.end }}
+{{ $end      := .Params.end }}
 {{ $location := .Params.location }}
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "{{ $name }}",
-    "startDate": "{{ $start }}",
+    {{ with $start }}
+    {{ $fmt := dateFormat $dateFormat . }}
+    "startDate": "{{ $fmt }}",
+    {{ end }}
     {{ with $desc }}
     "description": "{{ . }}",
     {{ end }}
     {{ with $end }}
-    "endDate": "{{ . }}",
+    {{ $fmt := dateFormat $dateFormat (time .) }}
+    "endDate": "{{ $fmt }}",
     {{ end }}
+    {{ with $location }}
     "location": {
-      "@type": "Place"
+      "@type": "Place",
+      {{ with .venue }}
+      "name": {{ . }},
+      {{ end }}
+      "address": {
+        {{ with .city }}
+        "addressLocality": {{ . }},
+        {{ end }}
+        {{ with .country }}
+        "addressCountry": {{ . }},
+        {{ end }}
+      }
     }
+    {{ end }}
   }
 </script>
 {{ end }}
