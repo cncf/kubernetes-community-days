@@ -8,23 +8,16 @@ location:
   countrycode: br
   url: https://www.amsterdam.nl/
   venue: Westergasterras
-map: amsterdam-map.jpg
-sched_slug: kubernetescommunitydayams
+map: ima.jpg
+sched_slug: kubernetecommunitydayscampinas
 social:
-  facebook: https://facebook.com/cloudnativeams
-  twitter: https://twitter.com/cloudnativeams
+  twitter: https://twitter.com/kcdcampinas
 sponsors:
 - level: Initial sponsors
   orgs:
-  - name: Microsoft
-    logo: sponsors/microsoft.svg
-    url: https://microsoft.com
-  - name: Container Solutions
-    logo: sponsors/container-solutions.svg
-    url: https://www.container-solutions.com/
-  - name: Fullstaq
-    logo: sponsors/fullstaq.svg
-    url: https://fullstaq.com/
+  - name: Mandic
+    logo: sponsors/mandic.svg
+    url: https://www.mandic.com.br/
 speakers:
 # - name: Phippy
 #   image: team/phippy-color.png
@@ -32,42 +25,30 @@ speakers:
 #   bio: Phippy is a simple PHP app, trying to find a home in a cloud native world.
 #   homepage: https://phippy.io
 organizers:
-- name: Alessandro Vozza
-  image: team/alessandro_vozza.jpeg
-  twitter: https://twitter.com/bongo
-  homepage: https://www.linkedin.com/in/alessandrovozza
-- name: Fabio Tiriticco
-  image: team/fabio_tiriticco.jpeg
-  twitter: https://twitter.com/ticofab
-  homepage: https://twitter.com/ticofab
-- name: Daniel Paulus
-  image: team/daniel_paulus.jpeg
-  twitter: https://twitter.com/dpnl87
-  homepage: https://twitter.com/dpnl87
-- name: Floor Drees
-  image: team/floor_drees.jpeg
-  twitter: https://github.com/floord
+- name: Paulo Simões
+  image: team/paulo.jpeg
+  twitter: https://twitter.com/pasimoes
+  homepage: https://www.linkedin.com/in/paulosimoes/
+- name: Eduardo Neves - eth0
+  image: team/eduardo.jpeg
+  twitter: https://twitter.com/_eth0_
+  homepage: https://www.linkedin.com/in/eduardo-neves/
+- name: Christiano Linuxmen
+  image: team/linuxmen.jpeg
+  twitter: https://twitter.com/linuxmen
+  homepage: https://www.linkedin.com/in/linuxmen/
+- name: Gabriela Dias
+  image: team/gaby.jpeg
+  twitter: https://twitter.com/gabyldias
   homepage: https://github.com/floord
-- name: Walter Heck
-  image: team/walter_heck.jpeg
-  twitter: https://github.com/walterheck
-  homepage: https://github.com/walterheck
-- name: Serkan Capkan
-  image: team/serkan_capkan.jpeg
-  twitter: https://github.com/srknc
-  homepage: https://github.com/srknc
-- name: Samuel Attal 
-  image: team/samuel_attal.jpeg
-  twitter: https://twitter.com/AttalSam
-  homepage: https://twitter.com/AttalSam
-organizers_email: organizers-amsterdam@kubernetescommunitydays.org
-local_law_enforcement: 112
-medical_emergency: 112
-cfp_deadline: '2020-07-01'
-sponsor_deadline: '2020-09-14'
+organizers_email: organizers-campinas@kubernetescommunitydays.org
+local_law_enforcement: 190
+medical_emergency: 193
+cfp_deadline: '2020-02-17'
+sponsor_deadline: '2020-03-15'
 ---
 
-**Kubernetes Community Day** comes to Campinas! After a great first edition and on the trail of [KubeCon EU Amsterdam](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/), the Dutch Cloud Native community is gathering at [Westergas](venue) in Amsterdam. Join us for a **two day technical conference** loaded with exciting talks and plenty of opportunity to exchange and network.
+**Kubernetes Community Day** comes to Campinas! After a great first edition and on the trail of [KubeCon EU Amsterdam](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/), the Dutch Cloud Native community is gathering at [Westergas](venue) in Amsterdam. Join us for a **one day technical conference** loaded with exciting talks and plenty of opportunity to exchange and network.
 
 {{< tweet 1223629703501828096 >}}
 
@@ -89,7 +70,7 @@ Our event would not be possible without support of our [sponsors](sponsor); pros
 
 Can't wait until September? We meet every month at our [Dutch Kubernetes Meetup](https://www.meetup.com/Dutch-Kubernetes-Meetup/)! If you want to host, get in touch and if you want to give a talk, open a pull request to this [repository](https://github.com/cloudnative-amsterdam/meetups).
 
-Kubernetes Community Day Amsterdam offers a [Diversity Scholarship](diversity-scholarship), apply by contacting us at [organizers-amsterdam@kubernetescommunitydays.org](mailto:organizers-amsterdam@kubernetescommunitydays.org).
+Kubernetes Community Day Amsterdam offers a [Diversity Scholarship](diversity-scholarship), apply by contacting us at [organizers-campinas@kubernetescommunitydays.org](mailto:organizers-campinas@kubernetescommunitydays.org).
 
 Looking for the 2019 edition? Check the [videos](https://www.youtube.com/playlist?list=PLQGLXxvf53b0fzCwFJSLRyn88bCoFNH2G) and the [photos](https://500px.com/cloudnativeams/galleries/kubernetes-community-day-amsterdam-2019) of last year,  it was a lot of fun! For the program and the speakers, check out the [full site](/events/2019-amsterdam/).
 
