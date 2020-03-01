@@ -1,4 +1,6 @@
-The [call for papers](https://sessionize.com/kcdams2020) is live until the 15th of May!
+---
+title: Call for Papers (CFP)
+---
 
 Kubernetes Community Days are regional events that bring together hundreds of IT executives, cloud operators and technology providers to discuss cloud computing and to learn about Kubernetes.  These annual events are supported by the Cloud Native Computing Foundation and are organized by a community of local Kubernetes user groups and supporting companies.
 
@@ -40,10 +42,10 @@ Note: All submissions with 3–5 speakers are required to have at least one spea
 * Provide a biography for all speakers, including previous speaking experience.
 * Provide resources to enhance your proposal. These can be videos of you or your speakers presenting elsewhere, links to personal websites (including LinkedIn), links to your open source projects, or published books.
 * If you choose to submit a tutorial please explicitly mention what the audience will learn from or walk away with after attending your session. Additionally, please indicate what prerequisites (if any) are needed for the attendee to know prior to attending, and if any materials should be brought with them or downloaded ahead of time (i.e. must install Python 2.7.15) prior to attending.
-* Submit speaking session on [sessionize](). 
+* Submit speaking session on [sessionize](https://sessionize.com/). 
 
 # Code of Conduct
 
-The Kubernetes Community Days are dedicated to providing a  harassment-free experience for participants at all of our events. We encourage all submitters to review our complete [Code of Conduct](https://kubernetescommunitydays.org/code-of-conduct/).
+The Kubernetes Community Days are dedicated to providing a  harassment-free experience for participants at all of our events. We encourage all submitters to review our complete [Code of Conduct](/code-of-conduct).
 
-If you have any questions regarding the process, please contact [organizers-amsterdam@kubernetescommunitydays.org](organizers-amsterdam@kubernetescommunitydays.org).
+If you have any questions regarding the process, please contact [organizers-amsterdam@kubernetescommunitydays.org](mailto:organizers-amsterdam@kubernetescommunitydays.org).

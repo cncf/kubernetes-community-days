@@ -20,7 +20,7 @@
 <meta name="twitter:creator" content="@k8scommunitydays">
 <meta name="twitter:image" content="{{ $twitterCardImg }}">
 
-<link rel="canonical" content="{{ .Permalink }}">
+<link rel="canonical" href="{{ .Permalink }}">
 {{ hugo.Generator }}
 {{ with .OutputFormats.Get "rss" -}}
 {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}

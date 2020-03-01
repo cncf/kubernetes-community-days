@@ -13,6 +13,6 @@ Below are the Kubernetes Community Day events that currently have an open call f
 
 ## CNCF Speaker’s Bureau
 
-The CNCF Speaker’s Bureau helps connect event organizers with speakers who have varied expertise in the cloud native ecosystem. Speakers consist of CNCF ambassadors, meetup organizers, and prominent community members who are willing to speak at events on the topics they are proficient in. Learn more about this program and [sign up](https://www.cncf.io/speakers/).
+The CNCF Speaker’s Bureau helps connect event organizers with speakers who have varied expertise in the cloud native ecosystem. Speakers consist of CNCF ambassadors, meetup organizers, and prominent community members who are willing to speak at events on the topics they are proficient in. Learn more about this program and [sign up](https://www.cncf.io/speakers).
 
 Organizers, check out the speakers and contact them directly to come speak at your event.

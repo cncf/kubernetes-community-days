@@ -10,8 +10,8 @@
 {{ $heroBanner         := printf "admin/img/%s" site.Params.hero_banner | relURL }}
 
 @charset "utf-8"
-@import url({{ $fontsUrl }})
-@import url({{ $fontAwesomeUrl }})
+@import url("{{ $fontsUrl }}")
+@import url("{{ $fontAwesomeUrl }}")
 
 // Site-specific variables
 $k8s-dark-blue: rgb(50, 108, 229)
@@ -55,7 +55,7 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
   margin-bottom: 3rem
 
 .has-extra-right-margin
-  margin-right: 1.5rem
+  margin-right: 2rem
 
 =logo($d, $w)
   +desktop
@@ -119,6 +119,10 @@ hr.thick-hr
   background-color: $primary
   height: 0.25rem
 
+  &.center
+    margin: 2rem auto 3rem auto !important
+    width: 5rem
+
   &.extra-space
     margin: 5rem 0
 
@@ -164,7 +168,7 @@ hr.thick-hr
     margin-top: 1.5rem
 
   +tablet
-    margin-top: 1.5rem
+    margin-top: 2rem
 
 .sidebar-logo
   +touch
