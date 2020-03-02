@@ -19,10 +19,10 @@ sponsors:
     logo: sponsors/mandic.svg
     url: https://www.mandic.com.br/
   - name: PagSeguro
-    logo: sponsors/pagseguro.svg
+    logo: sponsors/pagseguro.png
     url: https://www.pagseguro.com.br
   - name: Aqua
-    logo: sponsors/aquasec.svg
+    logo: sponsors/aquasec.png
     url:  https://www.aquasec.com/
 speakers:
 # - name: Phippy
