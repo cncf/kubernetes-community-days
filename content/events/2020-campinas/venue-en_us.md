@@ -3,14 +3,17 @@ title: Venue
 ---
 [Versão Português](./venue-pt_br.md)
 
-{{< venue-map >}}
+![IMA](/static/img/2020-campinas/ima-en_us.jpg)
 
 ## About the Location
 
-There's always something going on at Westergas, the buzzing creative complex at Westerpark. Once the city's gasworks, this collection of former industrial buildings is now one of Amsterdam's most exciting and vibrant creative hubs, and home to a variety of bars, restaurants and entertainment venues.
+**Associação IMA Cultural**
 
-Cultural hub in Amsterdam West
-This complex of late 19th-century industrial buildings in [Westerpark](https://www.iamsterdam.com/en/about-amsterdam/amsterdam-neighbourhoods/westerpark) was once the city’s gasworks, but after a complete redevelopment in 2003 it re-opened as a cultural complex, housing a selection of independent shops, galleries, trendy restaurants and interesting venues. The complex hosts a busy schedule of exhibitions, food markets, festivals and cultural events, so you’ll always find something new to discover. Read on to explore some of Westergas's main restaurants, cafes and cultural venues or find out [how to get to Westergas](https://www.iamsterdam.com/en/see-and-do/whats-on/clubbing-nightlife-amsterdam/dance-clubs/westergas).
+The IMA Cultural Theater is managed by the IMA Cultural Association, a non-profit organization, created in 2015 with the aim of promoting actions focused on culture and entertainment in the city of Campinas. Built in the 1960s, the Theater is located in an area attached to the IMA (Informatics of Associated Municipalities) building.
+
+Since the creation of the IMA Cultural Association, the Theater has received a series of investments in modernization, which guarantee an air-conditioned space, with excellent acoustics and equipped with equipment that enable the success of the events held there. Although modernized, the Theater maintains the classic style, preserving the original wooden seats and the structure of the stage.
+
+Visit us [https://ima.sp.gov.br/](https://ima.sp.gov.br/)
 
 ## Local Transportation
 

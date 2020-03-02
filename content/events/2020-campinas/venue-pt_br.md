@@ -1,18 +1,21 @@
 ---
-title: Venue
+title: Localização
 ---
 [English Version](./venue-en_us.md)
 
-{{< venue-map >}}
+![IMA](/static/img/2020-campinas/ima-pt_br.jpg)
 
-## About the Location
+## Sobre o Local do Evento
 
-There's always something going on at Westergas, the buzzing creative complex at Westerpark. Once the city's gasworks, this collection of former industrial buildings is now one of Amsterdam's most exciting and vibrant creative hubs, and home to a variety of bars, restaurants and entertainment venues.
+**Associação IMA Cultural**
 
-Cultural hub in Amsterdam West
-This complex of late 19th-century industrial buildings in [Westerpark](https://www.iamsterdam.com/en/about-amsterdam/amsterdam-neighbourhoods/westerpark) was once the city’s gasworks, but after a complete redevelopment in 2003 it re-opened as a cultural complex, housing a selection of independent shops, galleries, trendy restaurants and interesting venues. The complex hosts a busy schedule of exhibitions, food markets, festivals and cultural events, so you’ll always find something new to discover. Read on to explore some of Westergas's main restaurants, cafes and cultural venues or find out [how to get to Westergas](https://www.iamsterdam.com/en/see-and-do/whats-on/clubbing-nightlife-amsterdam/dance-clubs/westergas).
+O Teatro IMA Cultural é administrado pela Associação IMA Cultural, entidade sem fins lucrativos, criada em 2015 com o objetivo de fomentar ações voltadas para a cultura e entretenimento na cidade de Campinas. Construído na década de 1960, o Teatro está localizado em área anexa ao prédio da IMA (Informática de Municípios Associados).
 
-## Local Transportation
+Desde a criação da Associação IMA Cultural, o Teatro recebeu uma série de investimentos em modernização, que garantem um espaço climatizado, com excelente acústica e dotado de equipamentos que possibilitam o sucesso dos eventos nele realizados. Apesar de modernizado, o Teatro mantém o estilo clássico, ao preservar os assentos originais em madeira e a estrutura do palco.
+
+Visite nosso Site em [https://ima.sp.gov.br/](https://ima.sp.gov.br/)
+
+## Transportes Locais
 
 Amsterdam has a fantastic public transportation system.
 

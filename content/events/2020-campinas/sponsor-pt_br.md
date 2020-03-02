@@ -1,14 +1,12 @@
 ---
-title: Sponsor
+title: Patrocínio
 ---
 [English Version](./sponsor-en_us.md)
 
-Kubernetes Community Days is a community-organized, not-for-profit conference series for practitioners.
+Kubernetes Community Days é uma série de conferências organizadas pela comunidade e sem fins lucrativos para profissionais.
 
-Sponsoring Kubernetes Community Days events gives your organization an opportunity to speak with practitioners, managers, and executives from companies of all sizes and industries. Whether your goals include recruiting new talent, opening new markets, or connecting with your existing customers, this event will be the place to have those conversations with experts and leaders in tech innovation.
+O patrocínio dos eventos do Kubernetes Community Days oferece à sua organização a oportunidade de conversar com profissionais, gerentes e executivos de empresas de todos os tamanhos e setores. Se seus objetivos incluem recrutar novos talentos, abrir novos mercados ou conectar-se com seus clientes existentes, este evento será o lugar para ter essas conversas com especialistas e líderes em inovação tecnológica.
 
-Below is a list of available sponsorships. If interested in sponsoring, please get in touch via mail: [organizers-campinas@kubernetescommunitydays.org](mailto:organizers-campinas@kubernetescommunitydays.org).
+Aqui está no Midia Kit que descreve os modelos de patrocínio [PDF version](/img/2020-campinas/kcd_campinas_midia_kit.pdf).
 
-Here's the [PDF version](/img/2020-campinas/kcd_campinas_midia_kit.pdf).
-
-We are open to different forms of collaboration! Get in [touch](mailto:organizers-campinas@kubernetescommunitydays.org).
+Se estiver interessado em patrocinar, entre em contato por e-mail:[organizers-campinas@kubernetescommunitydays.org](mailto:organizers-campinas@kubernetescommunitydays.org).

@@ -6,9 +6,9 @@ location:
   country: Brasil
   city: Campinas
   countrycode: br
-  url: http://www.campinas.sp.gov.br/
+  url: https://ima.sp.gov.br/
   venue: Teatro IMA Cultural
-map: ima.jpg
+map: ima-en_us.jpg
 sched_slug: kubernetecommunitydayscampinas
 social:
   twitter: https://twitter.com/kcdcampinas
@@ -18,6 +18,12 @@ sponsors:
   - name: Mandic
     logo: sponsors/mandic.svg
     url: https://www.mandic.com.br/
+  - name: PagSeguro
+    logo: sponsors/pagseguro.svg
+    url: https://www.pagseguro.com.br
+  - name: Aqua
+    logo: sponsors/aquasec.svg
+    url:  https://www.aquasec.com/
 speakers:
 # - name: Phippy
 #   image: team/phippy-color.png
@@ -44,39 +50,39 @@ organizers:
 organizers_email: organizers-campinas@kubernetescommunitydays.org
 local_law_enforcement: 190
 medical_emergency: 193
-cfp_deadline: '2020-02-17'
+cfp_deadline: '2020-03-13'
 sponsor_deadline: '2020-03-15'
 ---
+[Versão Português](./_index-pt_br.md)
 
-**Kubernetes Community Day** comes to Campinas! After a great first edition and on the trail of [KubeCon EU Amsterdam](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/), the Dutch Cloud Native community is gathering at [Westergas](venue) in Amsterdam. Join us for a **one day technical conference** loaded with exciting talks and plenty of opportunity to exchange and network.
-
-{{< tweet 1223629703501828096 >}}
+**Kubernetes Community Days** Arrives in Campinas. KCD will have its premiere in Brazil in the wonderful city of Campinas. We are gathering at [IMA](venue) in Campinas. Join us for a **one day technical conference** loaded with exciting talks and plenty of opportunity to exchange and network.
 
 ## Want to be kept up-to-date?
 
-[Subscribe to the Kubernetes Community Days Amsterdam mailing list](https://mailchi.mp/f686e201c599/kcdams2020)
+Please join us on our [#kcd-campinas](https://slack.com/share/IUT46ARPH/BaCwIzIjbmm36WCoL5LNxJE1/enQtOTc5MTQyMzY1Nzk5LWI3NTI4NjU1YzZiODA1MTIyZWU4NmE1ZDIyMWNmM2FjYmM4NDMyMmExNGFkODA0MDJlNDVmYTkxNmRlOTUzMDk) channel on [CNCF Slack](https://slack.cncf.io).
+
+<!--
+[Subscribe to the Kubernetes Community Days Campinas mailing list](https://mailchi.mp/f686e201c599/kcdams2020) or in #kcd-campinas channel on [CNCF Slack](https://slack.cncf.io).
+-->
 
 ## What to expect?
 
-Kubernetes Community Days Amsterdam is aimed at developers, operations people and all other IT professionals with an interest in cloud native technologies and are supported by the [Cloud Native Computing Foundation](https://cncf.io). 
+Kubernetes Community Days Campinas is aimed at developers, operations people and all other IT professionals with an interest in cloud native technologies and are supported by the [Cloud Native Computing Foundation](https://cncf.io).
 
-KCD Amsterdam is a community-organized and not for profit conference and would not be possible without **our partners**. Don’t miss the opportunity to be part of and support this community conference. Find our [Partnership Proposal](sponsor) here.
+KCD Campinas is a community-organized and not for profit conference and would not be possible without **our partners**. Don’t miss the opportunity to be part of and support this community conference. Find our [Partnership Proposal](sponsor) here.
 
-For 2020, we are going slightly bigger in attendance while maintaining the grassroots spirit and the community feeling that is our underlying theme; we selected a bigger, more spacious [venue](venue) and we extended the program to **2 full days of technical talks**, networking and bonding.
+We are expecting a big attendance while maintaining the grassroots spirit and the community feeling that is our underlying theme; we selected a great [venue](venue) and we extended the program to **full days of technical talks**, networking and bonding.
 
-We will announce our [speaker](speakers)'s lineup in the beginning of June; the [call for papers](https://sessionize.com/kcdams2020) is open until 15th of May (we accept only talks in English). If you wonder how to submit a great talk, have a look at this [page](cfp).
+We will announce our [speaker](speakers)'s lineup in the ending of March; the call for papers is open until 13th of March (we will prefer talks in Portugues but we will provide simultaneous translation for sessions in english). If you wonder how to submit a great talk, have a look at this [page](cfp).
 
-Our event would not be possible without support of our [sponsors](sponsor); prospective sponsors can review our [prospectus](sponsor) (here the [PDF version](/img/2020-amsterdam/kcdams2020_sponsor_prospectus.pdf)) and get in touch with us via email. We're still finalizing our [program](program) but we're excited to have finalized a great [venue](venue). Please [contact](contact) the organizers with any questions.
+Our event would not be possible without support of our [sponsors](sponsor); prospective sponsors can review our [prospectus](sponsor) (here the [PDF version](/img/2020-campinas/kcd_campinas_midia_kit.pdf)) and get in touch with us via email. We're still finalizing our [program](program) but we're excited to have finalized a great [venue](venue). Please [contact](contact) the organizers with any questions.
 
-Can't wait until September? We meet every month at our [Dutch Kubernetes Meetup](https://www.meetup.com/Dutch-Kubernetes-Meetup/)! If you want to host, get in touch and if you want to give a talk, open a pull request to this [repository](https://github.com/cloudnative-amsterdam/meetups).
+Kubernetes Community Day Campinas offers a [Diversity Scholarship](diversity-scholarship), apply by contacting us at [organizers-campinas@kubernetescommunitydays.org](mailto:organizers-campinas@kubernetescommunitydays.org) .
 
-Kubernetes Community Day Amsterdam offers a [Diversity Scholarship](diversity-scholarship), apply by contacting us at [organizers-campinas@kubernetescommunitydays.org](mailto:organizers-campinas@kubernetescommunitydays.org).
-
-Looking for the 2019 edition? Check the [videos](https://www.youtube.com/playlist?list=PLQGLXxvf53b0fzCwFJSLRyn88bCoFNH2G) and the [photos](https://500px.com/cloudnativeams/galleries/kubernetes-community-day-amsterdam-2019) of last year,  it was a lot of fun! For the program and the speakers, check out the [full site](/events/2019-amsterdam/).
-
+Can't wait until May? We meet every month at our [Cloud Native Computing Talks Brazil](https://www.meetup.com/Cloud-Native-Computing-Talks-Brazil/) !
 
 ## Code of Conduct
 
 The Kubernetes Community Days are dedicated to providing a  harassment-free experience for participants at all of our events. We encourage all submitters to review our complete [Code of Conduct](/code-of-conduct/).
 
-If you have any questions regarding the process, please contact [organizers-campinas@kubernetescommunitydays.org](mailto:organizers-campinas@kubernetescommunitydays.org).
+If you have any questions regarding the process, please contact [organizers-campinas@kubernetescommunitydays.org](mailto:organizers-campinas@kubernetescommunitydays.org) .
