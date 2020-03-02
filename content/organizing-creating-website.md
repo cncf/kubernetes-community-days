@@ -179,6 +179,7 @@ Now you are ready to start creating your site!
 # Uploading Images
 
 * Make sure you are in your forked account and in the correct branch
+* Make sure all images should be below 500kB so as not to slow down page load times
  * Click the “static” folder
  
  ![Screenshot](/admin/img/howto/image1.png)

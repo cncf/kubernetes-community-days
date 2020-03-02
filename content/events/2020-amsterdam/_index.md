@@ -77,13 +77,11 @@ sponsor_deadline: '2020-09-14'
 
 ## What to expect?
 
-Kubernetes Community Days Amsterdam is aimed at developers, operations people and all other IT professionals with an interest in cloud native technologies and are supported by the [Cloud Native Computing Foundation](https://cncf.io). 
+Kubernetes Community Days Amsterdam is aimed at developers, operations people and all other IT professionals with an interest in cloud native technologies and is supported by the [Cloud Native Computing Foundation](https://cncf.io). 
 
 KCD Amsterdam is a community-organized and not for profit conference and would not be possible without **our partners**. Don’t miss the opportunity to be part of and support this community conference. Find our [Partnership Proposal](sponsor) here.
 
 For 2020, we are going slightly bigger in attendance while maintaining the grassroots spirit and the community feeling that is our underlying theme; we selected a bigger, more spacious [venue](venue) and we extended the program to **2 full days of technical talks**, networking and bonding.
-
-**You will be able to buy a ticket for one or two days soon, with a discounted early bird ticket before we announce the full lineup. After than it's regular price (it's still quite cheap!).** Keep an eye on our [Twitter account](https://twitter.com/cloudnativeams) and the official [Kubernetes Community Days](https://twitter.com/KubernetesDays)'.
 
 We will announce our [speaker](speakers)'s lineup in the beginning of June; the [call for papers](https://sessionize.com/kcdams2020) is open until 15th of May (we accept only talks in English). If you wonder how to submit a great talk, have a look at this [page](cfp).
 
