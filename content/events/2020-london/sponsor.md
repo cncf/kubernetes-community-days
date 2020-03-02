@@ -45,9 +45,9 @@ Attendee Door Prize               | Limit 2  | Limit 1   | Limit 1
 
 ![Emmanual Centre, Lower Hall](https://images.squarespace-cdn.com/content/v1/5bf7dd8775f9ee8d5a2783c7/1542973540805-1XNQZXXARIK6EL8BZY10/ke17ZwdGBToddI8pDm48kDCUkWATuGt6znLiRApwHYxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpy_rfsz2m03nseFLnJOsdshZO2Q1byn5TEbeFJufCPTiLRAOCtAt559iEboZGAVP-8/lower-hall.jpg)
 
-Sponsored workshops are 2 hour training sessions. You receive a lead scanner for registering up to 58 workshop participants.
+Sponsored workshops are 3 hour training sessions. You receive a lead scanner for registering up to 58 workshop participants.
 
-Workshop sponsorship is £3600 and there are 6 available slots.
+Workshop sponsorship is £3600 and there are 4 available slots.
 
 ## Additional sponsorship
 
