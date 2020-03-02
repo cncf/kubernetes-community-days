@@ -84,7 +84,7 @@ sponsor_deadline: '2020-07-15'
 
 La **Journée de la Communauté Kubernetes de Montréal se tiendra le 25 Septembre 2020**. C'est le premier évènement dans son genre à Montréal permettant de rassembler toutes les communautés et entreprises impliquées et intéressées par Kubernetes à Montréal. Basé sur [KubeCon](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) l'objectif de notre évènement local est de présenter du contenu **technique et non technique autour de l'Open Source, de Kubernetes et du "Cloud Native"**.
 
-Nous sommes présentement à la recherche de commandiataires, [n\'hésitez pas à consulter les plans de commandite](./sponsor)
+Nous sommes présentement à la recherche de commanditaires, [n\'hésitez pas à consulter les plans de commandite](./sponsor)
 
 Notre campagne d'appel à conférencières et conférenciers est maintenant ouverte : [https://www.papercall.io/kcd-quebec](https://www.papercall.io/kcd-quebec). Nous travaillons fort afin d'avoir un programme permettant de plaire à une large audience : technique et non-technique. Notre programme sera annoncé autour du 15 avril 2020. Si vous connaissez quelqu'un qui aurait de l'intérêt à présenter lors de cette conférence, merci de partager ce lien !
 
