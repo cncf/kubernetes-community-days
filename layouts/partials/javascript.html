@@ -3,6 +3,8 @@
 {{ $schedSlug := .CurrentSection.Params.sched_slug }}
 {{ $isProgram := eq .File.BaseFileName "program" }}
 
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.0.2/dist/alpine-ie11.js" defer></script>
+
 {{ if not $home }}
 {{ $anchor := resources.Get "js/anchor.min.js" }}
 <script src="{{ $anchor.RelPermalink }}" integrity="{{ $anchor.Data.Integrity }}"></script>
