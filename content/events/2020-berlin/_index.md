@@ -5,6 +5,7 @@ end: '2020-05-27'
 location:
   country: Germany
   city: Berlin
+  countrycode: de
   url: https://alte-muenze-berlin.de
   venue: Alte Münze; Molkenmarkt 2, 10179 Berlin
 #map:
