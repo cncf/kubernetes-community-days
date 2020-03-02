@@ -26,7 +26,7 @@ speakers:
 #   homepage: https://phippy.io
 organizers:
 - name: Paulo Simões
-  image: team/paulo.jpeg
+  image: team/paulosimoes.jpeg
   twitter: https://twitter.com/pasimoes
   homepage: https://www.linkedin.com/in/paulosimoes/
 - name: Eduardo Neves - eth0
