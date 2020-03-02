@@ -1,34 +1,45 @@
-{{ $logo := printf "admin/img/logos/%s" site.Params.footer.logo | relURL }}
-{{ $menu := site.Menus.main }}
-{{ $year := now.Year }}
+{{ $logo   := printf "admin/img/logos/%s" site.Params.footer.logo | relURL }}
+{{ $menu   := site.Menus.main }}
+{{ $year   := now.Year }}
+{{ $social := site.Params.social }}
 <footer class="footer">
   <div class="container">
     <div class="columns is-variable">
-      <div class="column is-one-quarter">
+      <div class="column is-one-third">
         <img class="is-footer-logo" src="{{ $logo }}">
       </div>
 
       <div class="column">
-        <ul>
-          {{ range $menu }}
-          <li>
-            <a class="is-size-5 is-size-6-mobile has-text-grey-light" href="{{ .URL }}">
-              {{ .Name }}
-            </a>
-          </li>
-          {{ end }}
-        </ul>
+        <div class="container">
+          <div class="columns">
+            <div class="column">
+              <ul>
+                {{ range $menu }}
+                <li>
+                  <a class="is-size-5 is-size-6-mobile has-text-grey-light" href="{{ .URL }}">
+                    {{ .Name }}
+                  </a>
+                </li>
+                {{ end }}
+              </ul>
+      
+              <br />
+      
+              {{ partial "edit-button.html" . }}
+            </div>
 
-        <br />
-
-        {{ partial "edit-button.html" . }}
-
-        <hr class="thick-hr" />
-
-        <p class="has-text-weight-light copyright">
-          Copyright &copy; {{ $year }} The Linux Foundation<sup>&reg;</sup>. All rights reserved.
-        </p>
+            <div class="column is-one-quarter">
+              {{ partial "social-buttons.html" (dict "social" $social "size" "small") }}
+            </div>
+          </div>
+        </div>
       </div>
     </div>
+
+    <hr class="thick-hr" />
+
+    <p class="has-text-weight-light copyright">
+      Copyright &copy; {{ $year }} The Linux Foundation<sup>&reg;</sup>. All rights reserved.
+    </p>
   </div>
 </footer>
