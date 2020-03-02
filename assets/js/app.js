@@ -18,9 +18,6 @@ function navbarBurgerToggle() {
 }
 
 $(function() {
-  console.log($('.navbar')[0].scrollWidth);
-
   anchorLinks();
   navbarBurgerToggle();
-  navbarLinks();
 });
