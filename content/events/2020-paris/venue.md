@@ -6,5 +6,12 @@ title: Venue
 
 ## Getting to Location
 
+
+
 ## Local Tranportation
 
+### Airports
+
+### Train stations
+
+### Métro

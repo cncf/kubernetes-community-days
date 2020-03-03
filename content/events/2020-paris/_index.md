@@ -1,7 +1,7 @@
 ---
 title: Paris
-date: '2020-10-29'
-end: '2020-10-30'
+date: '2020-11-05'
+#end: '2020-11-05'
 location:
   country: France
   city: Paris
@@ -53,8 +53,7 @@ organizers:
   # image:
   twitter: https://twitter.com/gioindahouz
 
-
-organizers_email: organizers-paris-2020@kubernetescommunitydays.org
+organizers_email: organizers-paris@kubernetescommunitydays.org
 local_law_enforcement: "17 or 112"
 medical_emergency: "18 or 112"
 cfp_deadline: '2020-06-28'
