@@ -14,5 +14,3 @@ yarn-error.log
 
 # Ignore Dropbox files
 .DS_Store
-content/events/2020-amsterdam/.speakers.md.swp
-*.swp
