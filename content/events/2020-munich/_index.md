@@ -87,6 +87,6 @@ Of course all this wouldn't be possible without or **[sponsors and partners](spo
 
 ### Code of Conduct
 
-The Kubernetes Community Days are dedicated to providing a  harassment-free experience for participants at all of our events. We encourage all submitters to review our complete [Code of Conduct](https://kubernetescommunitydays.org/code-of-conduct/).
+The Kubernetes Community Days are dedicated to providing a  harassment-free experience for participants at all of our events. We encourage all submitters to review our complete [Code of Conduct](/code-of-conduct).
 
 Backdrop by [Philipp Bachhuber](https://unsplash.com/@philippbachhuber) on [Unsplash](https://unsplash.com/photos/dgWlxsytiYA)
