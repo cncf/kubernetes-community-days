@@ -43,9 +43,13 @@ organizers:
   twitter: https://twitter.com/linuxmen
   homepage: https://www.linkedin.com/in/linuxmen/
 - name: Gabriela Dias
-  image: team/gaby.jpeg
+  image: team/gaby.jpg
   twitter: https://twitter.com/gabyldias
   homepage: https://github.com/floord
+- name: Carol Vilas Boas
+  image: team/carol.jpeg
+  twitter: https://twitter.com/cavillasboas
+  homepage: https://www.linkedin.com/in/carolfvb/
 organizers_email: organizers-campinas@kubernetescommunitydays.org
 local_law_enforcement: 190
 medical_emergency: 193
