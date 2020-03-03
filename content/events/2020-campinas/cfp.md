@@ -1,8 +1,9 @@
 ---
 title: Chamadas de Trabalhos (CFP)
 ---
+<!--
 [English Version](./cfp-en_us.md)
-
+-->
 Os Kubernetes Community Days são eventos regionais que reúnem centenas de executivos de TI, operadores de nuvem e provedores de tecnologia para discutir a computação em nuvem e aprender sobre o Kubernetes e outras tecnologias relacionadas. Esses eventos anuais são suportados pela Cloud Native Computing Foundation e são organizados por uma comunidade de grupos de usuários locais do Kubernetes e empresas de suporte.
 
 ## Submetendo pela primeira vez? Não se sinta intimidado

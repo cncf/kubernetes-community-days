@@ -1,8 +1,9 @@
 ---
 title: Localização
 ---
+<!--
 [English Version](./venue-en_us.md)
-
+-->
 ![IMA](/static/img/2020-campinas/ima-pt_br.jpg)
 
 ## Sobre o Local do Evento

@@ -1,8 +1,9 @@
 ---
 title: CFP
 ---
+<!--
 [English Version](./speakers-en_us.md)
-
+-->
 ## Call for Speakers
 
 A chamada para participação em um evento do Kubernetes Community Days está agora aberta.

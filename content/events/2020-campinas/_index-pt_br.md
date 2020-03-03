@@ -1,7 +1,6 @@
 ---
 title: Campinas
 date: '2020-04-04'
-end: '2020-04-04'
 location:
   country: Brasil
   city: Campinas

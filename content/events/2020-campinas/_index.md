@@ -1,7 +1,6 @@
 ---
 title: Campinas
 date: '2020-04-04'
-end: '2020-04-04'
 location:
   country: Brasil
   city: Campinas
@@ -53,36 +52,36 @@ medical_emergency: 193
 cfp_deadline: '2020-03-13'
 sponsor_deadline: '2020-03-15'
 ---
-[Versão Português](./_index-pt_br.md)
 
-**Kubernetes Community Days** Arrives in Campinas. KCD will have its premiere in Brazil in the wonderful city of Campinas. We are gathering at [IMA](venue) in Campinas. Join us for a **one day technical conference** loaded with exciting talks and plenty of opportunity to exchange and network.
+**Kubernetes Community Days** Chega em Campinas. O KCD terá sua estreia no Brasil na maravilhosa cidade de Campinas. Estamos nos reunindo no [IMA] (local) em Campinas para realizar um grande evento. Junte-se a nós para uma **um dia de conferência técnica**, repleta de palestras emocionantes e muitas oportunidades de intercâmbio e networking.
 
-## Want to be kept up-to-date?
+## Deseja ficar atualizado das novidades?
 
-Please join us on our [#kcd-campinas](https://slack.com/share/IUT46ARPH/BaCwIzIjbmm36WCoL5LNxJE1/enQtOTc5MTQyMzY1Nzk5LWI3NTI4NjU1YzZiODA1MTIyZWU4NmE1ZDIyMWNmM2FjYmM4NDMyMmExNGFkODA0MDJlNDVmYTkxNmRlOTUzMDk) channel on [CNCF Slack](https://slack.cncf.io).
+Junte-se a nós no canal [#kcd-campinas](https://slack.com/share/IUT46ARPH/BaCwIzIjbmm36WCoL5LNxJE1/enQtOTc5MTQyMzY1Nzk5LWI3NTI4NjU1YzZiODA1MTIyZWU4NmE1ZDIyMWNmM2FjYmM4NDMyMmExNGFkODA0MDJlNDVmYTkxNmRlOTUzMDk) no [CNCF Slack](https://slack.cncf.io).
 
 <!--
-[Subscribe to the Kubernetes Community Days Campinas mailing list](https://mailchi.mp/f686e201c599/kcdams2020) or in #kcd-campinas channel on [CNCF Slack](https://slack.cncf.io).
+Se você deseja ser notificado sobre novidades, inscreva-se em nosso [mailing list](https://mailchi.mp/f686e201c599/kcdams2020) ou no canal #kcd-campinas no [CNCF Slack](https://slack.cncf.io).
 -->
 
-## What to expect?
 
-Kubernetes Community Days Campinas is aimed at developers, operations people and all other IT professionals with an interest in cloud native technologies and are supported by the [Cloud Native Computing Foundation](https://cncf.io).
+## O que esperar?
 
-KCD Campinas is a community-organized and not for profit conference and would not be possible without **our partners**. Don’t miss the opportunity to be part of and support this community conference. Find our [Partnership Proposal](sponsor) here.
+O Kubernetes Community Day Campinas é voltado para desenvolvedores, equipe de operações e todos os outros profissionais de TI interessados em tecnologias nativas da nuvem e são suportados pela [Cloud Native Computing Foundation](https://cncf.io) .
 
-We are expecting a big attendance while maintaining the grassroots spirit and the community feeling that is our underlying theme; we selected a great [venue](venue) and we extended the program to **full days of technical talks**, networking and bonding.
+O KCD Campinas é uma conferência organizada pela comunidade e sem fins lucrativos e não seria possível sem **nossos parceiros**. Não perca a oportunidade de fazer parte e apoiar esta conferência da comunidade. Encontre nossa [Proposta de parceria](sponsor) aqui.
 
-We will announce our [speaker](speakers)'s lineup in the ending of March; the call for papers is open until 13th of March (we will prefer talks in Portugues but we will provide simultaneous translation for sessions in english). If you wonder how to submit a great talk, have a look at this [page](cfp).
+Esperamos uma grande participação enquanto mantemos o espírito de base e o sentimento da comunidade que é o nosso tema subjacente; nós selecionamos um ótimo [local](venue) e estendemos o programa para **um dia inteiro de palestras técnicas**, criação de redes e vínculos.
 
-Our event would not be possible without support of our [sponsors](sponsor); prospective sponsors can review our [prospectus](sponsor) (here the [PDF version](/img/2020-campinas/kcd_campinas_midia_kit.pdf)) and get in touch with us via email. We're still finalizing our [program](program) but we're excited to have finalized a great [venue](venue). Please [contact](contact) the organizers with any questions.
+Anunciaremos a programação de nossos [palestrantes](speakers) no final de março; a chamada de trabalhos está aberta até 13 de março (preferimos palestras em português, mas forneceremos tradução simultânea para as sessões em inglês). Se você quer saber como enviar uma ótima palestra, dê uma olhada neste [link](cfp).
 
-Kubernetes Community Day Campinas offers a [Diversity Scholarship](diversity-scholarship), apply by contacting us at [organizers-campinas@kubernetescommunitydays.org](mailto:organizers-campinas@kubernetescommunitydays.org) .
+Nosso evento não seria possível sem o apoio de nossos [patrocinadores](sponsor); possíveis patrocinadores podem revisar nosso [prospecto](sponsor) (aqui a [Versão em PDF](/img/2020-campinas/kcd_campinas_midia_kit.pdf))) e entrar em contato conosco por e-mail. Ainda estamos finalizando nosso [programa](program), mas estamos animados por ter finalizado um ótimo [local](venue). Entre em contato com os organizadores com qualquer dúvida.
 
-Can't wait until May? We meet every month at our [Cloud Native Computing Talks Brazil](https://www.meetup.com/Cloud-Native-Computing-Talks-Brazil/) !
+Kubernetes Community Day Campinas oferece uma [Bolsa de Diversidade] (bolsa de diversidade), inscrevendo-se em contato conosco [organizers-campinas@kubernetescommunitydays.org](mailto:organizers-campinas@kubernetescommunitydays.org) .
 
-## Code of Conduct
+Mal pode esperar até Maio? Nos reunimos todos os meses em nosso [Cloud Native Computing Talks Brazil Meetup](https://www.meetup.com/Cloud-Native-Computing-Talks-Brazil/) !
 
-The Kubernetes Community Days are dedicated to providing a  harassment-free experience for participants at all of our events. We encourage all submitters to review our complete [Code of Conduct](/code-of-conduct/).
+## Código de Conduta
 
-If you have any questions regarding the process, please contact [organizers-campinas@kubernetescommunitydays.org](mailto:organizers-campinas@kubernetescommunitydays.org) .
+O Kubernetes Community Days é dedicado a fornecer uma experiência sem assédio para os participantes de todos os nossos eventos. Incentivamos todos os remetentes a revisar nosso [Código de Conduta completo](/code-of-conduct/).
+
+Se você possuie duvidas ou qualquer questão relativa ao processo, por favor nos contate através do email [organizers-campinas@kubernetescommunitydays.org](mailto:organizers-campinas@kubernetescommunitydays.org) .
