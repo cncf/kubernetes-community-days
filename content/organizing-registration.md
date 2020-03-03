@@ -4,15 +4,15 @@ title: Registration
 
 Once pricing has been decided you’re ready to set up registration. Here are some basic guidelines.
 
-* Use [Eventbrite](https://www.eventbrite.com/) for registration and PayPal for payments (not Eventbrite payment processing). 
+* Use [Eventbrite](https://www.eventbrite.com) for registration and PayPal for payments (not Eventbrite payment processing). 
 * Link the PayPal account for payment directly to the company that does the invoicing. 
 * Keep registration fees below 100 USD / 70 EU - the lower the better to attract a more diverse group of attendees
 * Sell tickets on a first-come/first-serve basis that is completely open to the public
 * Offer “early bird” pricing (10% to 25% discount)  to drive initial registration
 * Registration lists may NOT be used for commercial or marketing purposes
 * Registration lists may NOT be shared with third parties or any organization not directly involved in organizing the event.  Please review the Kubernetes Community Privacy Policy Statement.
-* Event organizers must add the following statement to the registration page: 
-  “Personal information gathered by the organizers is handled in accordance with the [Foundation’s Privacy Policy](http://www.kubernetes%20community.org/privacy) and is used for internal purposes only.
+* Event organizers must add the following statement to the registration page:
+  “Personal information gathered by the organizers is handled in accordance with the Foundation’s Privacy Policy and is used for internal purposes only."
 
 Please add the following question to the registration page to help CNCF gather demographic information. Please share this information with the CNCF after the event
 

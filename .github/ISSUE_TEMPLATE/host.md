@@ -23,6 +23,7 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] Agree to offer (at minimum) 3 complimentary tickets to increase diversity for the event.
 * [ ] Agree to use Eventbrite for registration
 * [ ] Agree to use Sched for organizing the program page
+* [ ] Agree to use SM Apply for CFP
 * [ ] Added usernames for [CNCF Slack](https://slack.cncf.io/) for all organizers so that we can add you to the #kcd-organizers channel
 * [ ] Create a Twitter handle specific to your KCD event (except for countries like China and Korea where Twitter is not used) 
 

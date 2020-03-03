@@ -31,7 +31,7 @@
       </p>
 
       <ul class="events">
-        {{ range .Pages }}
+        {{ range .Pages.Reverse }}
         {{ $start := dateFormat "Jan 2" .Date }}
         <li class="events-item">
           {{ $start }}{{ with .Params.end }}&ndash;{{ dateFormat "2" (time .) }}{{ end }}

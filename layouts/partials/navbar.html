@@ -6,20 +6,20 @@
 {{ $section := .CurrentSection }}
 {{ $url     := .RelPermalink }}
 {{ $allowed := site.Params.allowed_event_pages }}
-<nav class="navbar is-primary is-fixed-top">
+<nav class="navbar is-primary is-fixed-top" x-data="{ open: false }">
   <div class="navbar-brand">
     <a class="navbar-item" href="{{ $home }}">
       <img src="{{ $logo }}" alt="Kubernetes Community Days navbar logo">
     </a>
 
-    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbar-menu">
+    <div role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbar-menu" @click="open = !open">
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
-    </a>
+    </div>
   </div>
 
-  <div id="navbar-menu" class="navbar-menu">
+  <div id="navbar-menu" class="navbar-menu" :class="{ 'is-active': open }">
     {{ if $isEvent }}
     {{ $title := .CurrentSection.Title }}
     <div class="navbar-start">

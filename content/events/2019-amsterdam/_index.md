@@ -91,7 +91,7 @@ sponsors:
     url: https://www.meetup.com/Azure-Thursdays/
   - name: Instruqt
     logo: sponsors/instruqt-logo-text-right-red-on-transparent.png
-    url: https://www.istruqt.com/
+    url: https://www.instruqt.com/
   - name: Startup Amsterdam
     logo: sponsors/startupamsterdam.png
     url: https://www.iamsterdam.com/en/business/startupamsterdam
@@ -189,7 +189,7 @@ organizers:
 organizers_email: organizers-amsterdam@kubernetescommunitydays.org
 ---
 
-## Kubernetes Community Day Amsterdam 2019 is a wrap!
+## Kubernetes Community Day Amsterdam 2019 is a wrap! Check out the [2020 website](/events/2020-amsterdam) for the current edition
 
 Thank you to all attendees, [speakers](speakers), [sponsors](sponsor) and our great [team](contact) to have put together a special day and a great [program](program) to make a great start of a long tradition of Kubernetes Community Days im Amsterdam and around the world. 
 

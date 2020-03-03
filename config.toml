@@ -11,6 +11,7 @@ allowed_event_pages = [
     "venue",
     "program",
     "contact",
+    "register",
     "code-of-conduct"
 ]
 twitter_handle = "KubernetesDays"
@@ -33,7 +34,7 @@ sizes = [300,400,600,700]
 type = "sans_serif"
 
 [params.social]
-twitter = "https://twitter.com/cloudnativefdn"
+twitter = "https://twitter.com/KubernetesDays"
 
 [[menu.main]]
 name = "Organizing"

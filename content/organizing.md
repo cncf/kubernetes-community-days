@@ -28,11 +28,12 @@ This quick start guide covers all aspects of holding a successful event. Please 
 * Schedule an event date a minimum of 6 months after  you file your event request with CNCF request submission,  (9 months prior is preferable)
 * Agree to use [Eventbrite](https://www.eventbrite.com/) for registration*
 * Agree to use [Sched](https://sched.com) for organizing the program page*
+* Agree to use [SM Apply](https://apply.surveymonkey.com/) for the CFP*
 * Confirm that one of the organizer's employers will agree to serve as a fiscal sponsor*
 * Share CNCF Slack usernames for all organizers to be added to #KCD-organizers channel*
 * Create Twitter handle for specific KCD event (like @KCD-BouvetIsland) except for countries like China and Korea where Twitter is not used*
 
-Once your team meets these criteria, you can create a GitHub [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=newevent&template=host.md) to notify CNCF that you wish to be officially recognized. Your organizing team will be invited to the [#kcd-organizers](https://cloud-native.slack.com/messages/GN6R2PV1A) private Slack channel where you can connect with other Kubernetes Community Days organizers around the world. You can then begin creating your website. Copy the page structure of the [Bouvet Island](/events/2025-bouvet-island) sample event as a guide. Here’s [instructions](/organizing-creating-website).
+Once your team meets these criteria, you can create a GitHub [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=newevent&template=host.md) to notify CNCF that you wish to be officially recognized. Your organizing team will be invited to the [#kcd-organizers](https://cloud-native.slack.com/messages/GN6R2PV1A) private Slack channel where you can connect with other Kubernetes Community Days organizers around the world. At this time, the Core Organizers will also grant you access to our preferred tools and create email aliases (for general organizers and sponsorships). You can then begin creating your website. Copy the page structure of the [Bouvet Island](/events/2019-bouvet-island) sample event as a guide. Here’s [instructions](/organizing-creating-website).
 
 *  For the launch of KCD, we are standardizing on familiar tools to enable CNCF support and KCD Organizers to support each other. We understand the challenge of using new services and the specific privacy policies of the selected software.
 
@@ -68,7 +69,7 @@ All events must be called “Kubernetes Community Days LOCATION”, e.g. Kuberne
 
 The first step towards a successful event is building a team. Look for potential team members in local user groups and Meetups, such as the [CNCF Meetup groups](https://www.meetup.com/pro/cncf/), or online in the public Kubernetes slack or other related online communities.
 
-Check the GitHub Kubernetes Community Days Repo [project board](https://github.com/cncf/kubernetes-community-days/projects/2) to see if others have expressed interest in organizing an event in your area. If there are no GitHub issues for your area, create an [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=planningevent&template=interest.md) asking if others are interested in organizing an event with you.
+Check the GitHub Kubernetes Community Days Repo [project board](https://github.com/cncf/kubernetes-community-days/projects/2) to see if others have expressed interest in organizing an event in your area. If there are no GitHub issues for your area, create an [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=planningevent&template=interest.md) asking if others are interested in organizing an event with you. After your team is assembled, we encourage you to have regular meetings for planning purposes. If you would like to record your meetings or need a conference line, CNCF can provide a Zoom URL. Please contact a Core Organizer for access or to learn more.
 
 We recommend assigning the following responsibilities to one or two members of your organizing team:
 
@@ -93,6 +94,7 @@ We recommend assigning the following responsibilities to one or two members of y
 * [CNCF Speakers' Bureau](https://www.cncf.io/speakers/) to connect with expert speakers within the cloud native ecosystem.
 * [CNCF Digital Assets](https://github.com/cncf/artwork) for  event promotions.
 * [How to build your site](/organizing-creating-website)
+* [FAQ](/organizing-faq)
 
 ## Core Organizers
 

@@ -12,7 +12,7 @@ map: amsterdam-map.jpg
 sched_slug: kubernetescommunitydayams
 social:
   facebook: https://facebook.com/cloudnativeams
-  twitter: 'https://twitter.com/cloudnativeams'
+  twitter: https://twitter.com/cloudnativeams
 sponsors:
 - level: Initial sponsors
   orgs:
@@ -67,29 +67,35 @@ cfp_deadline: '2020-07-01'
 sponsor_deadline: '2020-09-14'
 ---
 
-**Kubernetes Community Day** comes back to Amsterdam! After a great first edition and on the trail of [KubeCon EU Amsterdam](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/), the Dutch Cloud Native community is gathering at [Westergas](venue) in Amsterdam. Join us for a **two day technical conference** loaded with exciting talks and plenty of opportunity to exchange and network. 
+**Kubernetes Community Day** comes back to Amsterdam! After a great first edition and on the trail of [KubeCon EU Amsterdam](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/), the Dutch Cloud Native community is gathering at [Westergas](venue) in Amsterdam. Join us for a **two day technical conference** loaded with exciting talks and plenty of opportunity to exchange and network.
 
-Kubernetes Community Days Amsterdam is aimed at developers, operations people and all other IT professionals with an interest in cloud native technologies and are supported by the [Cloud Native Computing Foundation](https://cncf.io). 
+{{< tweet 1223629703501828096 >}}
+
+## Want to be kept up-to-date?
+
+[Subscribe to the Kubernetes Community Days Amsterdam mailing list](https://mailchi.mp/f686e201c599/kcdams2020)
+
+## What to expect?
+
+Kubernetes Community Days Amsterdam is aimed at developers, operations people and all other IT professionals with an interest in cloud native technologies and is supported by the [Cloud Native Computing Foundation](https://cncf.io). 
 
 KCD Amsterdam is a community-organized and not for profit conference and would not be possible without **our partners**. Don’t miss the opportunity to be part of and support this community conference. Find our [Partnership Proposal](sponsor) here.
 
 For 2020, we are going slightly bigger in attendance while maintaining the grassroots spirit and the community feeling that is our underlying theme; we selected a bigger, more spacious [venue](venue) and we extended the program to **2 full days of technical talks**, networking and bonding.
 
-**You will be able to buy a ticket for one or two days soon, with a discounted early bird ticket before we announce the full lineup, then it's regular price (it's still quite cheap!).** Keep an eye on our [Twitter account](https://twitter.com/cloudnativeams) and the official [Kubernetes Community Days](https://twitter.com/KubernetesDays)'.
+We will announce our [speaker](speakers)'s lineup in the beginning of June; the [call for papers](https://sessionize.com/kcdams2020) is open until 15th of May (we accept only talks in English). If you wonder how to submit a great talk, have a look at this [page](cfp).
 
-We will soon announce our [speaker](speakers)'s lineup; the [call for papers](https://sessionize.com/kcdams2020) is open until 15th of May (we accept only talks in English). If you wonder how to submit a great talk, have a look at this [page](cfp).
-
-Our event would not be possible without support of our [sponsors](sponsor); prospective sponsors can review our [prospectus](prospectus) and get in touch with us via email. We're still finalizing our [program](program) but we're excited to have finalized a great [venue](venue). Please [contact](contact) the organizers with any questions.
+Our event would not be possible without support of our [sponsors](sponsor); prospective sponsors can review our [prospectus](sponsor) (here the [PDF version](/img/2020-amsterdam/kcdams2020_sponsor_prospectus.pdf)) and get in touch with us via email. We're still finalizing our [program](program) but we're excited to have finalized a great [venue](venue). Please [contact](contact) the organizers with any questions.
 
 Can't wait until September? We meet every month at our [Dutch Kubernetes Meetup](https://www.meetup.com/Dutch-Kubernetes-Meetup/)! If you want to host, get in touch and if you want to give a talk, open a pull request to this [repository](https://github.com/cloudnative-amsterdam/meetups).
 
-Kubernetes Community Day Amsterdam offers a [Diversity Scholarship](diversity-scholarship), apply by contacting us at [organizers-amsterdam@kubernetescommunitydays.org](mailto://organizers-amsterdam@kubernetescommunitydays.org).
+Kubernetes Community Day Amsterdam offers a [Diversity Scholarship](diversity-scholarship), apply by contacting us at [organizers-amsterdam@kubernetescommunitydays.org](mailto:organizers-amsterdam@kubernetescommunitydays.org).
 
-Looking for the 2019 edition? Check the [videos](https://www.youtube.com/playlist?list=PLQGLXxvf53b0fzCwFJSLRyn88bCoFNH2G) and the [photos](https://500px.com/cloudnativeams/galleries/kubernetes-community-day-amsterdam-2019) of last year,  it was a lot of fun! For the program and the speakers, check out the [full site](https://kubernetescommunitydays.org/events/2019-amsterdam/).
+Looking for the 2019 edition? Check the [videos](https://www.youtube.com/playlist?list=PLQGLXxvf53b0fzCwFJSLRyn88bCoFNH2G) and the [photos](https://500px.com/cloudnativeams/galleries/kubernetes-community-day-amsterdam-2019) of last year,  it was a lot of fun! For the program and the speakers, check out the [full site](/events/2019-amsterdam/).
 
 
 # Code of Conduct
 
-The Kubernetes Community Days are dedicated to providing a  harassment-free experience for participants at all of our events. We encourage all submitters to review our complete [Code of Conduct](https://kubernetescommunitydays.org/code-of-conduct/).
+The Kubernetes Community Days are dedicated to providing a  harassment-free experience for participants at all of our events. We encourage all submitters to review our complete [Code of Conduct](/code-of-conduct/).
 
-If you have any questions regarding the process, please contact [organizers-amsterdam@kubernetescommunitydays.org](organizers-amsterdam@kubernetescommunitydays.org).
+If you have any questions regarding the process, please contact [organizers-amsterdam@kubernetescommunitydays.org](mailto:organizers-amsterdam@kubernetescommunitydays.org).
