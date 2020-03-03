@@ -2,7 +2,7 @@
 title: CFP
 ---
 
-**CFP Opens:** February 28th
+**CFP Opens:** ~~February 28th~~ Due to a delay caused by a tool change, the CFP will open March 6th 2020.
 
 **CFP Closes:** May 6th
 
