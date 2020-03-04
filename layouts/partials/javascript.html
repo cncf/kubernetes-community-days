@@ -1,16 +1,13 @@
 {{ $home      := .IsHome }}
 {{ $app       := resources.Get "js/app.js" | resources.ExecuteAsTemplate "js/app.js" . | minify | fingerprint }}
+{{ $anchor    := resources.Get "js/anchor.min.js" | fingerprint }}
 {{ $schedSlug := .CurrentSection.Params.sched_slug }}
 {{ $isProgram := eq .File.BaseFileName "program" }}
 
-<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.0.2/dist/alpine-ie11.js" defer></script>
-
-{{ if not $home }}
-{{ $anchor := resources.Get "js/anchor.min.js" }}
 <script src="{{ $anchor.RelPermalink }}" integrity="{{ $anchor.Data.Integrity }}"></script>
-{{ end }}
 
-<script src="{{ $app.RelPermalink }}" integrity="{{ $app.Data.Integrity }}"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script defer src="{{ $app.RelPermalink }}" integrity="{{ $app.Data.Integrity }}"></script>
 
 {{ if $home }}
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

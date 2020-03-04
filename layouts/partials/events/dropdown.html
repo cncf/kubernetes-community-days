@@ -1,8 +1,8 @@
 {{ $title := .CurrentSection.Title }}
-<div class="navbar-item" x-data="{ open: false }">
-  <div class="dropdown" :class="{ 'is-active': open }">
+<div class="navbar-item">
+  <div class="dropdown">
     <div class="dropdown-trigger">
-      <button class="button is-black is-radiusless is-borderless" aria-haspopup="true" aria-controls="dropdown-menu" @click="open = !open">
+      <button class="button is-black is-radiusless is-borderless" aria-haspopup="true" aria-controls="dropdown-menu">
         <span class="has-text-weight-bold">{{ $title }} pages</span>
         <span class="icon is-small has-text-grey-light">
           <i class="fas fa-angle-down" aria-hidden="true"></i>
