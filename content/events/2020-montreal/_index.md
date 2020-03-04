@@ -1,6 +1,6 @@
 ---
 title: Montréal
-date: '2020-09-25'
+date: '2020-09-15'
 location:
   countrycode: ca
   country: Canada
@@ -71,8 +71,13 @@ organizers:
   homepage: https://www.linkedin.com/in/ayrat-khayretdinov-8503b6b
 - name: Frédéric Médery
   image: organizers/frederic.jpg
-  twitter: https://ca.linkedin.com/in/fredericmedery
+  twitter: https://twitter.com/fmedery
   homepage: https://ca.linkedin.com/in/fredericmedery
+- name: Jean-François Chevrette
+  image: organizers/jeanfrancois.jpg
+  twitter: https://twitter.com/jfchevrette
+  homepage: https://www.linkedin.com/in/jfchevrette/
+dropdown_menu: true  
 organizers_email: organizers-montreal@kubernetescommunitydays.org
 local_law_enforcement: 911
 medical_emergency: 911
@@ -82,7 +87,7 @@ sponsor_deadline: '2020-07-15'
 
 *english description below*
 
-La **Journée de la Communauté Kubernetes de Montréal se tiendra le 25 Septembre 2020**. C'est le premier évènement dans son genre à Montréal permettant de rassembler toutes les communautés et entreprises impliquées et intéressées par Kubernetes à Montréal. Basé sur [KubeCon](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) l'objectif de notre évènement local est de présenter du contenu **technique et non technique autour de l'Open Source, de Kubernetes et du "Cloud Native"**.
+La **Journée de la Communauté Kubernetes de Montréal se tiendra le 15 Septembre 2020**. C'est le premier évènement dans son genre à Montréal permettant de rassembler toutes les communautés et entreprises impliquées et intéressées par Kubernetes à Montréal. Basé sur [KubeCon](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) l'objectif de notre évènement local est de présenter du contenu **technique et non technique autour de l'Open Source, de Kubernetes et du "Cloud Native"**.
 
 Nous sommes présentement à la recherche de commanditaires, [n\'hésitez pas à consulter les plans de commandite](./sponsor)
 
@@ -94,7 +99,7 @@ Aussi, n'hésitez surtout pas à commencer à en parler autour de vous, cette jo
 
 ---
 
-The **Kubernetes Community Day in Montreal will take place on September 25th 2020**. This event (first of its kind in Montreal), inspired by [KubeCon](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/), will allow the Montreal Kubernetes community to meet and get the best Kubernetes content from local as well as international speakers.
+The **Kubernetes Community Day in Montreal will take place on September 15th 2020**. This event (first of its kind in Montreal), inspired by [KubeCon](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/), will allow the Montreal Kubernetes community to meet and get the best Kubernetes content from local as well as international speakers.
 
 We are currently actively looking for sponsors, [please have a look at the available plans](./sponsor).
 

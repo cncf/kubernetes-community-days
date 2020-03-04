@@ -1,13 +1,13 @@
 # index.md
-* precise date
+* precise date ->  same week as Toronto KCD
 * venue
 
 ~~ * find out who controls https://twitter.com/kdc_montreal~~ found it
 * sched_slug: kubernetescommunitydaymontreal ?
-* organizers_email: organizers-montreal@kubernetescommunitydays.org ?
+~~* organizers_email: organizers-montreal@kubernetescommunitydays.org ?~~ --> Archy looking
 
 # cfp.md
-* we should create https://www.papercall.io/kcd-montreal ?
+~~ * we should create https://www.papercall.io/kcd-montreal ?~~ -> Active already, or smapply from CNCF?
 * precise dates
 
 # program.md
@@ -15,7 +15,7 @@
 * papercall.io ?
 
 # register.md
-* create https://kcd-montreal.eventbrite.ca ?
+* create https://kcd-montreal.eventbrite.ca ? Not yet, venue, date
 
 # speakers.md
 * precise dates?
