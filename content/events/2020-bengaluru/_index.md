@@ -21,15 +21,15 @@ sponsors:
 - level: Gold sponsors
   orgs:
   - name: Grafana
-    logo: sponsors/grafana.jpg
+    logo: sponsors/grafana.svg
     url: https://grafana.com/
   - name: MayaData
-    logo: sponsors/mayadata.png
+    logo: sponsors/mayadata.svg
     url: https://www.mayadata.io/
 - level: Silver sponsors
   orgs:
   - name: CloudYuga
-    logo: sponsors/cloudyuga.png
+    logo: sponsors/cloudyuga.svg
     url: https://cloudyuga.guru/
 speakers:
 # - name: Phippy
