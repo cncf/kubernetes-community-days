@@ -50,6 +50,12 @@ $colors: mergeColorMaps(("twitter-blue": ($twitter-blue, $white), "facebook-blue
 @import "sidebar"
 @import "sponsors"
 
+#event-dropdown
+  display: none !important
+
+  &.is-active
+    display: block !important
+
 .is-speaker-card
   margin-bottom: 3rem
 

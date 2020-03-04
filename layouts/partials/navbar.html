@@ -22,12 +22,10 @@
   <div id="navbar-menu" class="navbar-menu">
     {{ if $isEvent }}
     <div class="navbar-start">
-      {{ if $dropdown }}
-      {{ partial "events/dropdown.html" . }}
-      {{ else }}
       {{ partial "events/menu.html" . }}
-      {{ end }}
     </div>
+
+    {{ partial "events/dropdown.html" . }}
     {{ end }}
 
     <div class="navbar-end">

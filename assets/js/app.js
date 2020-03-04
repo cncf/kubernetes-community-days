@@ -29,8 +29,32 @@ function dropdownToggle() {
   }
 }
 
+function calculateMaxWidth() {
+  return $(window).width() - $('.navbar-brand').width() - $('.navbar-end').width();
+}
+
+function showHamburger() {
+  return ($('.navbar-start').width() > calculateMaxWidth());
+}
+
+function toggleHamburger() {
+  if (showHamburger()) {
+    $('#event-dropdown').toggleClass('is-active');
+    $('.navbar-start').hide();
+  }
+}
+
+function menuDetect() {
+  toggleHamburger();
+
+  $(window).resize(function() {
+    toggleHamburger();
+  });
+}
+
 $(function() {
   anchorLinks();
   navbarBurger();
   dropdownToggle();
+  menuDetect();
 });

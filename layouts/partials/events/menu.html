@@ -4,14 +4,14 @@
 
 {{ with .CurrentSection }}
 {{ $isEventRoot := eq $url .RelPermalink }}
-<a class="navbar-item is-light has-text-weight-bold{{ if $isEventRoot }} is-active{{ end }}" href="{{ .RelPermalink }}">
+<a class="left-menu navbar-item is-light has-text-weight-bold{{ if $isEventRoot }} is-active{{ end }}" href="{{ .RelPermalink }}">
   {{ $title }} Overview
 </a>
 
 {{ range .Pages }}
 {{ if and .Title (in $allowed .File.BaseFileName) }}
 {{ $isActive := eq $url .RelPermalink }}
-<a class="navbar-item is-light has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .RelPermalink }}">
+<a class="left-menu navbar-item is-light has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .RelPermalink }}">
   {{ .Title }}
 </a>
 {{ end }}
