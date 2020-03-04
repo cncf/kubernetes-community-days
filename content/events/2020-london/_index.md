@@ -43,7 +43,7 @@ organizers:
   image: ferran.jpeg
   twitter: https://twitter.com/ferranarau  
 sponsors:
-- level: Now open!
+- level: Submit now to get 20% off
   orgs:
   - name:
     logo: sponsor.jpeg
