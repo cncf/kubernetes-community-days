@@ -74,6 +74,7 @@ local_law_enforcement: 911
 medical_emergency: 911
 cfp_deadline: '2020-04-15'
 sponsor_deadline: '2020-04-15'
+dropdown_menu: true
 ---
 
 La **Journée de la Communauté Kubernetes de Québec se tiendra le jeudi 18 juin 2020**. C'est le premier évènement dans son genre à Québec permettant de rassembler toutes les communautés et entreprises impliquées et intéressées par Kubernetes à Québec. Basé sur [KubeCon San Diego 2019](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) l'objectif de notre évènement local est de présenter du contenu **technique et non technique autour de l'Open Source, de Kubernetes et du "Cloud Native"**.
