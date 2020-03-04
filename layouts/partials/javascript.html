@@ -1,5 +1,4 @@
 {{ $home      := .IsHome }}
-{{ $app       := resources.Get "js/app.js" | resources.ExecuteAsTemplate "js/app.js" . | minify | fingerprint }}
 {{ $anchor    := resources.Get "js/anchor.min.js" | fingerprint }}
 {{ $schedSlug := .CurrentSection.Params.sched_slug }}
 {{ $isProgram := eq .File.BaseFileName "program" }}
@@ -7,7 +6,6 @@
 <script src="{{ $anchor.RelPermalink }}" integrity="{{ $anchor.Data.Integrity }}"></script>
 
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-<script defer src="{{ $app.RelPermalink }}" integrity="{{ $app.Data.Integrity }}"></script>
 
 {{ if $home }}
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -17,3 +15,66 @@
 {{ $schedEmbedUrl := printf "https://%s.sched.org/js/embed.js" $schedSlug }}
 <script src="{{ $schedEmbedUrl }}"></script>
 {{ end }}
+
+<script>
+  function anchorLinks() {
+    if ($('.content').length > 0) {
+      const selectors = '.content h1, .content h2, .content h3, .content h4, .content h5, .content h6';
+
+      anchors.options = {
+        icon: '#'
+      }
+    
+      anchors.add(selectors);
+    }
+  }
+
+  function navbarBurger() {
+    const burger = $(".navbar-burger"),
+      menu = $(".navbar-menu");
+
+    burger.click(() => {
+      [burger, menu].forEach((el) => el.toggleClass('is-active'));
+    });
+  }
+
+  function dropdownToggle() {
+    const drop = $('.dropdown');
+
+    if (drop) {
+      drop.click(function() {
+        $(this).toggleClass('is-active');
+      });
+    }
+  }
+
+  function calculateMaxWidth() {
+    return $(window).width() - $('.navbar-brand').width() - $('.navbar-end').width();
+  }
+
+  function showHamburger() {
+    return ($('.navbar-start').width() > calculateMaxWidth());
+  }
+
+  function toggleHamburger() {
+    if (showHamburger()) {
+      $('#event-dropdown').toggleClass('is-active');
+      $('.navbar-start').hide();
+    }
+  }
+
+  function menuDetect() {
+    toggleHamburger();
+
+    $(window).resize(function() {
+      toggleHamburger();
+    });
+  }
+
+  $(function() {
+    anchorLinks();
+    navbarBurger();
+    dropdownToggle();
+    menuDetect();
+  });
+</script>
