@@ -71,22 +71,26 @@ sponsor_deadline: '2020-07-01'
 
 ## **Kubernetes Community Days** are coming to Munich!
 
-On July 15, the Kubernetes community will gather in Munich for a one-day technical conference loaded with exciting talks and plenty of opportunities to exchange and network. The event is aimed at developers,systems engineer and all IT professionals with an interest in Cloud Native technologies.
+On July 15, the Kubernetes community will gather in Munich for a one-day technical conference loaded with exciting talks and plenty of opportunities to exchange and network. The event is aimed at developers, systems engineers and all IT professionals with an interest in Cloud Native technologies.
 
 ### The Event
+
+#### Attending
 
 **[Registration is now open!](https://www.eventbrite.de/e/kubernetes-community-days-munich-2020-tickets-93879631505)**
 
 As for our [venue](venue), we're happy to gather in the [Tonhalle München](https://www.eventfabrik-muenchen.de/tonhalle-muenchen/) located right in Munich's [Werksviertel](https://werksviertel.de/?page_id=410&lang=en).
 
-The schedule and [speaker](speakers)'s lineup will be announced shortly before the event. Right now we've opened up the call for papers, pleas head over to [this page](cfp) for more information.
+#### Speaking
+
+The schedule and [speaker](speakers)'s lineup will be announced shortly before the event. Right now we've opened up the call for papers, please head over to [this page](cfp) for more information, or visit the **[CFP Applications page](https://kcdcfpsubmissions.smapply.io/prog/kcd_munich_cfp/)** directly
 
 ### Support Us
 
-Of course all this wouldn't be possible without or **[sponsors and partners](sponsor)**. After all our open source community lives from the contributions of its members - from individual contributors to the big players. Helping the event will give local and international businesses the chance to contribute to the regional community, while sending a strong signal of commitment to Cloud Native technologies. If you're interested in support KCD Munich have a look at our [sponsoring prospectus](sponsor) (here the [PDF version](/img/2020-munich/sponsoring_prospectus.pdf)). Please [contact us](contact) if you have any questions.
+Of course all this wouldn't be possible without or **[sponsors and partners](sponsor)**. After all our open source community lives from the contributions of its members - from individual contributors to the big players. Helping the event will give local and international businesses the chance to contribute to the regional community, while sending a strong signal of commitment to Cloud Native technologies. If you're interested in supporting KCD Munich have a look at our [sponsoring prospectus](sponsor) (here the [PDF version](/img/2020-munich/sponsoring_prospectus.pdf)). Please [contact us](contact) if you have any questions.
 
 ### Code of Conduct
 
-The Kubernetes Community Days are dedicated to providing a  harassment-free experience for participants at all of our events. We encourage all submitters to review our complete [Code of Conduct](/code-of-conduct).
+The Kubernetes Community Days are dedicated to providing a harassment-free experience for participants at all of our events. We encourage all submitters to review our complete [Code of Conduct](https://kubernetescommunitydays.org/code-of-conduct/).
 
 Backdrop by [Philipp Bachhuber](https://unsplash.com/@philippbachhuber) on [Unsplash](https://unsplash.com/photos/dgWlxsytiYA)
