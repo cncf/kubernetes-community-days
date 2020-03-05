@@ -12,15 +12,18 @@ sched_slug: kubernetescommunitydayparis
 social:
   twitter: 'https://twitter.com/kubedaysparis'
 sponsors:
-- level: diamond
+- level: Initial sponsors
   orgs:
-#  - name: OVH
-#    logo: ovh.svg
-#    url: https://en.wikipedia.org/wiki/OVH
-- level: platinum
-  orgs:
-- level: gold
-  orgs:
+  - name: OVH Cloud
+    logo: ovh.svg
+    url: https://www.ovhcloud.com/
+  - name: Red Hat
+    logo: red-hat.svg
+    url: https://www.redhat.com/fr/global/france
+# - level: silver
+#  orgs:
+#- level: bronze
+#  orgs:
 speakers:
 # - name: Phippy
 #   image: phippy-color.png
