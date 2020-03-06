@@ -1,5 +1,5 @@
 ---
-title: Speakers
+title: Call for Papers (CFP)
 ---
 
 **CFP Opens:** March 6th 2020  
