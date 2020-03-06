@@ -3,8 +3,6 @@ title: Localização
 ---
 <!--
 [English Version](./venue-en_us.md)
-
-![IMA](static/img/2020-campinas/ima-pt_br.jpg)
 -->
 
 ## Sobre o Local do Evento
@@ -16,6 +14,8 @@ O Teatro IMA Cultural é administrado pela Associação IMA Cultural, entidade s
 Desde a criação da Associação IMA Cultural, o Teatro recebeu uma série de investimentos em modernização, que garantem um espaço climatizado, com excelente acústica e dotado de equipamentos que possibilitam o sucesso dos eventos nele realizados. Apesar de modernizado, o Teatro mantém o estilo clássico, ao preservar os assentos originais em madeira e a estrutura do palco.
 
 Visite nosso Site em [https://ima.sp.gov.br/](https://ima.sp.gov.br/)
+
+![IMA](/img/2020-campinas/ima-pt_br.jpg)
 
 ## Transportes Locais
 

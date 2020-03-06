@@ -57,7 +57,7 @@ cfp_deadline: '2020-03-13'
 sponsor_deadline: '2020-03-15'
 ---
 
-**Kubernetes Community Days** Chega em Campinas. O KCD terá sua estreia no Brasil na maravilhosa cidade de Campinas. Estamos nos reunindo no [IMA] (local) em Campinas para realizar um grande evento. Junte-se a nós para uma **um dia de conferência técnica**, repleta de palestras emocionantes e muitas oportunidades de intercâmbio e networking.
+**Kubernetes Community Days** Chega em Campinas. O KCD terá sua estreia no Brasil na maravilhosa cidade de Campinas. Estamos nos reunindo no [IMA](venue) em Campinas para realizar um grande evento. Junte-se a nós para uma **um dia de conferência técnica**, repleta de palestras emocionantes e muitas oportunidades de intercâmbio e networking.
 
 ## Deseja ficar atualizado das novidades?
 
