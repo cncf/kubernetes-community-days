@@ -1,101 +1,46 @@
 ---
-title: Bouvet Island
-date: '2019-01-01'
-end: '2019-01-02'
+title: Tokyo
+date: '2020-06-13'
 location:
-  countrycode: bv
-  country: Antarctica
-  city: Bouvet Island
-  url: https://en.wikipedia.org/wiki/Bouvet_Island
-  venue: Igloo 74
+  countrycode: jp
+  country: Japan
+  city: Tokyo
+  url:
+  url: https://www.google.com/maps/place/%E6%9D%B1%E4%BA%AC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%86%E3%83%A9%E3%82%B9%E7%B4%80%E5%B0%BE%E4%BA%95%E7%94%BA/@35.6795267,139.7371817,15z/data=!4m2!3m1!1s0x0:0x9db449572f8beef6?sa=X&ved=2ahUKEwiQ-8_t94foAhVPIIgKHRClDLQQ_BIwCnoECBwQCA
+  venue: Tokyo Garden Terrace Kioicho
 map: bouvet-island-map.png
-sched_slug: kubernetescommunitydaybouve
+sched_slug: kubernetescommunitydaytokyo
 social:
-  twitter: 'https://twitter.com/Bouvet_3Y0Z'
+  twitter: 'https://twitter.com/KcdTokyo'
 sponsors:
-- level: diamond
-  size: large
-  orgs:
-  - name: Oceanic Airways
-    logo: oceanic-airways.svg
-    url: https://en.wikipedia.org/wiki/Oceanic_Airlines
-- level: platinum
-  size: medium
-  orgs:
-  - name: BnL
-    logo: bnl.svg
-    url: https://pixar.fandom.com/wiki/Buy_n_Large
-- level: gold
-  size: small
-  orgs:
-  - name: Ghostbusters
-    logo: ghostbusters.svg
-    url: https://en.wikipedia.org/wiki/Ghostbusters
-  - name: Jurassic Park
-    logo: jurassic-park.svg
-    url: https://en.wikipedia.org/wiki/Jurassic_Park
-  - name: Staypuft
-    logo: staypuft.svg
-    url: https://en.wikipedia.org/wiki/Stay_Puft_Marshmallow_Man
-  - name: Duff Beer
-    logo: duff-beer.svg
-    url: https://en.wikipedia.org/wiki/Duff_Beer
-  - name: Weyland-Yutani
-    logo: weyland-yutani.svg
-    url: https://en.wikipedia.org/wiki/Alien_(franchise)#Setting
-  - name: Cyberdyne Systems
-    logo: cyberdyne-systems.svg
-    url: https://en.wikipedia.org/wiki/Skynet_(Terminator)#Films
 speakers:
-- name: Phippy
-  image: phippy-color.png
-  twitter: https://twitter.com/cloudnativefdn
-  bio: Phippy is a simple PHP app, trying to find a home in a cloud native world.
-  homepage: https://phippy.io
-- name: Goldie
-  image: goldie-color.svg
-  twitter: https://twitter.com/cloudnativefdn
-  bio: Goldie is Phippy's best friend. Goldie is a leading expert on Volumes, which represent a location where containers can access and store information.
-  homepage: https://phippy.io
-- name: Zee
-  image: zee-color.svg
-  twitter: https://twitter.com/cloudnativefdn
-  bio: Zee is Phippy's niece.
-- name: Captain Kube
-  image: captainkube-color.svg
-  twitter: https://twitter.com/cloudnativefdn
-  bio: Captain Kube manages the ship where Phippy moved her container and is an expert on the Kubernetes project.
-  homepage: https://phippy.io
 organizers:
-- name: Non-Public Organization Octopus
-  image: non-public-organization-octopus-member.svg
-  twitter: https://twitter.com/cloudnativefdn
-  homepage: https://landscape.cncf.io/format=card-mode&grouping=headquarters&headquarters=bouvet-island-antarctica
-- name: Non-Public Organization Alligator
-  image: non-public-organization-alligator-member.svg
-  twitter: https://twitter.com/cloudnativefdn
-  homepage: https://landscape.cncf.io/format=card-mode&grouping=headquarters&headquarters=bouvet-island-antarctica
-- name: Non-Public Organization Quail
-  image: non-public-organization-quail-member.svg
-  twitter: https://twitter.com/cloudnativefdn
-  homepage: https://landscape.cncf.io/format=card-mode&grouping=headquarters&headquarters=bouvet-island-antarctica
-organizers_email: organizers-bouvet-island-2020@kubernetescommunitydays.org
-local_law_enforcement: 112
-medical_emergency: 112
+- name: Kazuki Suda (@superbrothers)
+  image:
+  twitter: https://twitter.com/superbrothers
+  homepage: https://twitter.com/superbrothers
+- name: Masaya Aoyama (@amsy810)
+  image:
+  twitter: https://twitter.com/amsy810
+  homepage: https://twitter.com/amsy810
+- name: Aya Igarashi (@ladicle)
+  image:
+  twitter: https://twitter.com/Ladicle
+  homepage: https://twitter.com/Ladicle
+- name: Ian Lewis (@ianmlewis)
+  image:
+  twitter: https://twitter.com/ianmlewis
+  homepage: https://twitter.com/ianmlewis
+- name: Seigo Uchida (@spesnova)
+  image:
+  twitter: https://twitter.com/spesnova
+  homepage: https://twitter.com/spesnova
+organizers_email: organizers-tokyo@kubernetescommunitydays.org
+local_law_enforcement: 110
+medical_emergency: 119
 cfp_deadline: '2018-09-01'
 sponsor_deadline: '2018-07-14'
-extra_teams:
-- name: Program Committee
-  members:
-  - name: Ada Lovelace
-    image: captainkube-color.svg
-    twitter: https://twitter.com/cloudnativefdn
-  - name: Foo
-    image: zee-color.svg
-    twitter: https://twitter.com/cloudnativefdn
 dropdown_menu: true
 ---
-
-Kubernetes Community Day Bouvet Island was going to be the largest ever cloud native event in the Antarctic region, perhaps rivaling [KubeCon San Diego](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) in size.
 
 Please take a look at our exciting [speaker](speakers) lineup. Our event would not be possible without support of our [sponsors](sponsor). Prospective sponsors can review our [offerings](sponsor-form). We're still finalizing our [program](program) due to some challenges with arranging flights to our exciting [venue](venue). In the meantime, please review our [Code of Conduct](/code-of-conduct). Please [contact](contact) the organizers with any questions.
