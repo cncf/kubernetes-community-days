@@ -27,7 +27,7 @@ The London 2020 event will attract 1500 attendees from London, the UK, Europe an
 
 Details                           | Platinum | Gold      | Silver
 ----------------------------------|----------|-----------|----------
-Number available                  | 2        | 10        | 8
+Number available                  | ~~2~~ 1  | 10        | ~~8~~ 7
 Table size                        | 3m x 2m  | 2.3m x 2m | 1.5m x 1.5m
 Lead scanners                     | 2        | 2         | 1
 Included tickets                  | 8        | 4         | 2
