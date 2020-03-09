@@ -2,7 +2,9 @@
 title: Call for Papers (CFP)
 ---
 
-**The CFP will start shortly, stay tuned! In the meantime send us an [Email](mailto:organizers-munich@kubernetescommunitydays.org) if you have any questions.**
+**[CFP is now open!](https://kcdcfpsubmissions.smapply.io/prog/kcd_munich_cfp/)**
+
+Send us an [Email](mailto:organizers-munich@kubernetescommunitydays.org) if you have any questions.
 
 ## First Time Submitting? Don’t Feel Intimidated
 

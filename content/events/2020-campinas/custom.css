@@ -1,0 +1,14 @@
+#event-hero {
+    background-image: url(/img/2020-campinas/campinas-3.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+#event-title {
+    color: white !important;
+}
+
+#event-date {
+    color: white;
+}
