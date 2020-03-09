@@ -1,0 +1,16 @@
+#event-hero {
+    background-image: url(/img/2020-toronto/toronto.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-color: #464646;
+}
+
+#event-title {
+    color: white !important;
+}
+
+#event-date {
+    color: white;
+}
