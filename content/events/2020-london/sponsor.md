@@ -51,7 +51,7 @@ Attendee Door Prize               | Limit 2  | Limit 1   | Limit 1
 
 Sponsored workshops are 3 hour training sessions. You receive a lead scanner for registering up to 58 workshop participants.
 
-Workshop sponsorship is £3600 and there are 4 available slots.
+Workshop sponsorship is £3600 and there are ~~4~~ 3 available slots.
 
 ## Additional sponsorship
 
