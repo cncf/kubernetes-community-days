@@ -27,7 +27,7 @@ Option 1: One of the organizer's companies serve as the financial sponsor. They 
 
 Option 2: If a local company is not an option, we recommend several companies that are willing to help you for a fee, generally 10%. 
 
-US Based: Laura from [Conference Ops](http://www.conferenceops.com)
+US Based: TBD
 EU Based: Bernd from [Netways](http://www.netways.com)
 
 If you would like to use this method, contact us on the KCD Organizers Slack channel to get more details.
