@@ -27,7 +27,7 @@ The London 2020 event will attract 1500 attendees from London, the UK, Europe an
 
 Details                           | Platinum | Gold      | Silver
 ----------------------------------|----------|-----------|----------
-Number available                  | 2        | 10        | 8
+Number available                  | ~~2~~ 1  | 10        | ~~8~~ 7
 Table size                        | 3m x 2m  | 2.3m x 2m | 1.5m x 1.5m
 Lead scanners                     | 2        | 2         | 1
 Included tickets                  | 8        | 4         | 2
@@ -51,7 +51,7 @@ Attendee Door Prize               | Limit 2  | Limit 1   | Limit 1
 
 Sponsored workshops are 3 hour training sessions. You receive a lead scanner for registering up to 58 workshop participants.
 
-Workshop sponsorship is £3600 and there are 4 available slots.
+Workshop sponsorship is £3600 and there are ~~4~~ 3 available slots.
 
 ## Additional sponsorship
 
