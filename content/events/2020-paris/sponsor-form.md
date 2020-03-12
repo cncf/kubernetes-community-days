@@ -3,7 +3,7 @@ title: Sponsor Form
 ---
 **Kubernetes Days Paris**
 
-**October 29, 20210**
+**November 4, 2020**
 
 **Paris, France**
 

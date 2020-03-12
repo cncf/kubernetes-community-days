@@ -1,12 +1,12 @@
 ---
 title: Paris
-date: '2020-11-05'
-#end: '2020-11-05'
+date: '2020-11-04'
+#end: '2020-11-04'
 location:
   country: France
   city: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-  venue: "????"
+  url: https://www.paris.fr
+  venue: Station F
 map: paris-map.png
 sched_slug: kubernetescommunitydayparis
 social:
@@ -15,11 +15,14 @@ sponsors:
 - level: Initial sponsors
   orgs:
   - name: OVH Cloud
-    logo: ovh.svg
+    logo: sponsors/ovh.svg
     url: https://www.ovhcloud.com/
   - name: Red Hat
-    logo: red-hat.svg
+    logo: sponsors/red-hat.svg
     url: https://www.redhat.com/fr/global/france
+  - name: Enix
+    logo: sponsors/enix.svg
+    url: https://enix.io/
 # - level: silver
 #  orgs:
 #- level: bronze
@@ -32,28 +35,28 @@ speakers:
 #   homepage: https://phippy.io
 organizers:
 - name: Reda Benzair
-  # image: non-public-organization-octopus-member.svg
+  image: team/rbenzair.jpg
   twitter: https://twitter.com/BenzairReda
   # homepage: 
 - name: Smaïne Kahlouch 
-  # image: non-public-organization-alligator-member.svg
+  image: team/smana.jpg
   twitter: https://twitter.com/_smana_
   # homepage: 
-- name: Stan Chollet 
+#- name: Stan Chollet 
   # image: non-public-organization-quail-member.svg
-  twitter: https://twitter.com/tsunammis
+#  twitter: https://twitter.com/tsunammis
   # homepage:
 - name: Jean-Christophe Sirot
-  # image:
+  image: team/jcsirot.jpg
   twitter: https://twitter.com/jcsirot
 - name: Christophe Gasmi 
-  # image:
+  image: team/cgasmi.jpg
   twitter: https://twitter.com/RekCaH_fr
 - name: Jeremy Garrouste
-  # image:
+  image: team/jgarrouste.jpg
   twitter: https://twitter.com/JeremyGarrouste
 - name: Giovanni Clément
-  # image:
+  image: team/gclement.jpg
   twitter: https://twitter.com/gioindahouz
 
 organizers_email: organizers-paris@kubernetescommunitydays.org
@@ -63,6 +66,13 @@ cfp_deadline: '2020-06-28'
 sponsor_deadline: '2020-03-31'
 ---
 
-**Kubernetes Community Day** are coming to **Paris, France**. More information about the venue, CFP, and Sponsors soon.
+**Kubernetes Community Day** are coming to **Paris, France**. The registration and the CFP will open soon. Follow our [Twitter account](https://twitter.com/KubeDaysParis) for more information.
+
+# CODE OF CONDUCT
+The Kubernetes Community Days are dedicated to providing a  harassment-free experience for participants at all of our events. We encourage all submitters to review our complete [Code of Conduct](https://kubernetescommunitydays.org/code-of-conduct/).
+
+If you have any questions regarding the process, please contact [organizers-paris@kubernetescommunitydays.org](mailto:organizers-paris@kubernetescommunitydays.org).
+
+
 
 <!-- Please take a look at our exciting [speaker](speakers) lineup. Our event would not be possible without support of our [sponsors](sponsor). Prospective sponsors can review our [offerings](sponsor-form). We're still finalizing our [program](program) due to some challenges with arranging flights to our exciting [venue](venue). In the meantime, please review our [Code of Conduct](/code-of-conduct). Please [contact](contact) the organizers with any questions. -->
