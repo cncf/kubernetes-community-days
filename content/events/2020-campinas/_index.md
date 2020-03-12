@@ -34,10 +34,6 @@ organizers:
   image: team/paulosimoes.jpeg
   twitter: https://twitter.com/pasimoes
   homepage: https://www.linkedin.com/in/paulosimoes/
-- name: Eduardo Neves - eth0
-  image: team/eduardo.jpeg
-  twitter: https://twitter.com/_eth0_
-  homepage: https://www.linkedin.com/in/eduardo-neves/
 - name: Christiano Linuxmen
   image: team/linuxmen.jpeg
   twitter: https://twitter.com/linuxmen
