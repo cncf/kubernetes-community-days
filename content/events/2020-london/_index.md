@@ -41,7 +41,11 @@ organizers:
   homepage: https://suraj.pro
 - name: Ferran A. Castell
   image: ferran.jpeg
-  twitter: https://twitter.com/ferranarau  
+  twitter: https://twitter.com/ferranarau
+- name: Vipul Agarwal
+  image: vipul.png
+  twitter: https://twitter.com/vagarwal100
+  homepage: https://vagarwal.net
 sponsors:
 - level: Submit now to get 20% off
   orgs:
