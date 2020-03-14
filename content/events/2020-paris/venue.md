@@ -8,6 +8,12 @@ title: Venue
 
 Station F is the world largest business incubator for startups. It is location in in 13th arrondissement of Paris in a former rail freight depot previously known as _Halle Freyssinet_. This 34,000 m² facility has been founded by Xavier Niel and formally opened in June 2017.
 
+![Station F Facade](/img/2020-paris/venue/Facade.jpg)
+![Station F Open Platform](/img/2020-paris/venue/Open_Platform.jpg)
+![Station F Master Stage](/img/2020-paris/venue/Master_stage.jpg)
+
+(Crédits Photos Patrick Tourneboeuf)
+
 ## Getting to Location
 
 Venue address:
