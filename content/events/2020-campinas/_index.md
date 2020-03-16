@@ -1,6 +1,6 @@
 ---
-title: Campinas
-date: '2020-07-01'
+title: Campinas - CANCELAMENTO
+date: '2020-04-04'
 location:
   country: Brasil
   city: Campinas
@@ -59,9 +59,9 @@ sponsor_deadline:
 
 A organização do KCD Campinas, previsto para acontecer em 04 de abril de 2020, comunicam oficialmente o CANCELAMENTO do evento.
 
-A medida foi tomada em razão do agravamento da situação provocada pelo Coronavírus (CONVID-19), que inclusive tem provocado decisões similares em eventos de grande porte em todo o mundo. A organização tentou até o último momento manter a realização do evento, por entender a importância desde lançamento para a Comunidade interessada nos assuntos e projetos da Cloud Native Computing Foundation (CNCF). Porém, com o anúncio da pandemia realizado ontem pela OMS, a organização decidiu por bem adiar a realização do evento, levando em consideração sobretudo o momento de precaução e a preservação do bem-estar da sociedade.
+A medida foi tomada em razão do agravamento da situação provocada pelo Coronavírus (COVID-19), que inclusive tem provocado decisões similares em eventos de grande porte em todo o mundo. A organização tentou até o último momento manter a realização do evento, por entender a importância desde lançamento para a Comunidade interessada nos assuntos e projetos da Cloud Native Computing Foundation (CNCF). Porém, com o anúncio da pandemia realizado ontem pela OMS, a organização decidiu por bem adiar a realização do evento, levando em consideração sobretudo o momento de precaução e a preservação do bem-estar da sociedade.
 
-Todas as compras de entradas serão devidamente reembolsadas. Se você possuie duvidas ou qualquer questão relativa ao processo, por favor nos contate através do email [organizers-campinas@kubernetescommunitydays.org](mailto:organizers-campinas@kubernetescommunitydays.org) .
+Todas as compras de entradas serão devidamente reembolsadas. Se você possui duvidas ou qualquer questão relativa ao processo, por favor nos contate através do email [organizers-campinas@kubernetescommunitydays.org](mailto:organizers-campinas@kubernetescommunitydays.org) .
 
 
 Agradecemos pela compreensão e nos desculpamos !
