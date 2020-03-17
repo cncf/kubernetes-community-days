@@ -37,7 +37,7 @@ organizers:
   twitter: https://twitter.com/RoyKimYYZ
   homepage: https://www.linkedin.com/in/roykimtoronto/
 - name: Ayrat Khayretdinov
-  #image: team/mkazakova.jpg
+  #image: team/akhayretdinov.jpg
   twitter: https://twitter.com/mkazakova
   homepage: https://www.linkedin.com/in/ayrat-khayretdinov-8503b6b
 - name: Maxime Coquerel
