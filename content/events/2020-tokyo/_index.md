@@ -7,7 +7,7 @@ location:
   city: Tokyo
   url: https://goo.gl/maps/wZJ6JY7XvMu8xKgm8
   venue: 東京ガーデンテラス紀尾井町
-map: tokyo-map.svg
+map: map.svg
 sched_slug: kubernetescommunitydaytokyo
 social:
   twitter: 'https://twitter.com/KcdTokyo'
