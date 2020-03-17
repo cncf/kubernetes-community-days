@@ -5,10 +5,9 @@ location:
   countrycode: jp
   country: Japan
   city: Tokyo
-  url:
-  url: https://www.google.com/maps/place/%E6%9D%B1%E4%BA%AC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%86%E3%83%A9%E3%82%B9%E7%B4%80%E5%B0%BE%E4%BA%95%E7%94%BA/@35.6795267,139.7371817,15z/data=!4m2!3m1!1s0x0:0x9db449572f8beef6?sa=X&ved=2ahUKEwiQ-8_t94foAhVPIIgKHRClDLQQ_BIwCnoECBwQCA
-  venue: Tokyo Garden Terrace Kioicho
-map: bouvet-island-map.png
+  url: https://goo.gl/maps/wZJ6JY7XvMu8xKgm8
+  venue: 東京ガーデンテラス紀尾井町
+map: tokyo-map.svg
 sched_slug: kubernetescommunitydaytokyo
 social:
   twitter: 'https://twitter.com/KcdTokyo'
@@ -40,7 +39,7 @@ local_law_enforcement: 110
 medical_emergency: 119
 cfp_deadline: '2018-09-01'
 sponsor_deadline: '2018-07-14'
-dropdown_menu: true
+dropdown_menu: false
 ---
 
 Please take a look at our exciting [speaker](speakers) lineup. Our event would not be possible without support of our [sponsors](sponsor). Prospective sponsors can review our [offerings](sponsor-form). We're still finalizing our [program](program) due to some challenges with arranging flights to our exciting [venue](venue). In the meantime, please review our [Code of Conduct](/code-of-conduct). Please [contact](contact) the organizers with any questions.

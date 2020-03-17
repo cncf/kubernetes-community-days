@@ -1,15 +1,55 @@
 ---
-title: Venue
+title: 会場
 ---
+
+## 住所
+102-8282
+東京都 千代田区紀尾井町 1-3
+東京ガーデンテラス紀尾井町 ヤフー株式会社
 
 {{< venue-map >}}
 
-## Getting to Location
+## アクセス
+### 電車をご利用の方
+東京メトロ永田町駅 9a 出口直結
+東京メトロ赤坂見附駅 D 出口より徒歩 3 分
 
-The only way to get to Bouvet Island is by boat. Bouvet Island is approximately 2,600 km (1,600 mi) south-southwest of the coast of South Africa. There is nothing even remotely usable as a harbor, although it is possible to anchor outside of it. If you are willing to put your life at risk, you might try using a light boat with outboard engine to enter.
+### 車をご利用の方
+首都高速 都心環状線「霞が関ランプ」より 約 10 分
 
-There are no developed public-access airports or landing facilities.
+### リムジンバスをご利用の方
+成田空港 〜 東京ガーデンテラス紀尾井町
+羽田空港 〜 東京ガーデンテラス紀尾井町
 
-## Local Tranportation
+### 東京ガーデンテラス紀尾井町 2 階オフィスエントランス〜受付まで
+向かって一番右側のフラッパーゲートを通り、左側のエレベーターで 18F へ上がります。
+エレベーターを降りて左へ進み、看板に従って受付へ向かいます。
 
-Local transportaion is dominated by seals, penguins, and other seabirds.
+## 最寄駅から東京ガーデンテラス紀尾井町まで
+### 南北線
+1. 永田町駅9a出口を出て直進してください。
+2. 直結しているガーデンテラスに店舗エリアを直進します。
+3. 右手の自動ドアからエントランスへお入りください。
+
+{{< youtube OPkAo2oxlF4 >}}
+
+### 半蔵門線
+1. 永田町駅7番出口を出て、橋を渡ります。
+2. 東京ガーデンテラス1階、DEAN & DELUCAの前で右折します。
+3. 右手エスカレーターで2階に上がり、左手の自動ドアからエントランスへお入りください。
+
+{{< youtube 1dcoznq-zyk >}}
+
+### 有楽町線、半蔵門線
+1. 永田町駅5番出口を目指し、都道府県会館脇の地下通路を進みます。
+2. 9a出口の脇からガーデンテラスに入り、店舗エリアを直進します。
+3. 突き当たり右手の自動ドアから2階エントランスへお入りください。(※途中にある9b出口から出ないようお気を付けください)
+
+{{< youtube Xr4dLyy_aCg >}}
+
+### 銀座線、丸ノ内線
+1. D出口の脇からガーデンテラスにお入りください。
+2. 直結している東京ガーデンテラスに店舗エリアを直進します。
+3. 右手の自動ドアからエントランスへお入りください。
+
+{{< youtube gctm3cuG7bs >}}
