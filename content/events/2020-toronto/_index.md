@@ -1,6 +1,6 @@
 ---
 title: Toronto
-date: '2020-09-24'
+date: '2020-09-21'
 location:
   countrycode: ca
   country: Canada
@@ -53,7 +53,7 @@ medical_emergency: 911
 
 # Kubernetes Community Days in Toronto
 
-We are excited to announce the Kubernetes Community Days in Toronto, is being held on September XX, 2020 -- Join us for a two-days technical conference, filled with thought-provoking talks and networking opportunities.
+We are excited to announce the Kubernetes Community Days in Toronto, is being held on September 21, 2020 -- Join us for a one-day technical conference, filled with thought-provoking talks and networking opportunities.
 
 # Attending
 
