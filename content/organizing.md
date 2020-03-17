@@ -8,6 +8,8 @@ Kubernetes Community Days (KCDs) are community-organized events that gather adop
 
 We'd like to thank [DevOpsDays](https://devopsdays.org) and [OpenStack Days](https://www.openstack.org/community/events/openstackdays) for providing some of the core ideas and content for this document.
 
+Due to Novel Coronavirus, we recommend each event refer to guidelines provided by [The Linux Foundation](https://events.linuxfoundation.org/2020/03/13/novel-coronavirus-update/).
+
 ## Interested in Hosting a Kubernetes Community Day?
 
 Any city or region can host a Kubernetes Community Day. Each local KCD event team handles its own sponsorships, registration, and logistics. Check if there is a KCD event scheduled in your area on the [main page](/). If there *is* already an event scheduled, you can reach out to the organizers and offer to help. The CNCF supports KCDs with guidance and event promotion via CNCF newsletters, blog posts, and social media channels.
