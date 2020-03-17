@@ -65,32 +65,25 @@ organizers:
 organizers_email: organizers-munich@kubernetescommunitydays.org
 local_law_enforcement: 110
 medical_emergency: 112
-cfp_deadline: '2020-05-01'
-sponsor_deadline: '2020-07-01'
+cfp_deadline:
+sponsor_deadline:
 ---
 
-## **Kubernetes Community Days** are coming to Munich!
+## **Kubernetes Community Days** in Munich have been postponed
 
-On July 15, the Kubernetes community will gather in Munich for a one-day technical conference loaded with exciting talks and plenty of opportunities to exchange and network. The event is aimed at developers, systems engineers and all IT professionals with an interest in Cloud Native technologies.
+Unfortunately given the recent developments around COVID-19 it's very difficult
+for us to say how things will play out in the coming months and how it'll
+effect the event space in general later this year. Due to these
+uncertainties we have decided to postpone the Kubernetes Community Days Munich
+2020 to an unspecified date.
 
-### The Event
+We have thus closed the Eventbrite registration and all tickets already bought
+will be refunded. We're also in touch with our supporters about the possiblity
+to sponsor the future event instead, or issue a refund.
 
-#### Attending
-
-**[Registration is now open!](https://www.eventbrite.de/e/kubernetes-community-days-munich-2020-tickets-93879631505)**
-
-As for our [venue](venue), we're happy to gather in the [Tonhalle München](https://www.eventfabrik-muenchen.de/tonhalle-muenchen/) located right in Munich's [Werksviertel](https://werksviertel.de/?page_id=410&lang=en).
-
-#### Speaking
-
-The schedule and [speaker](speakers)'s lineup will be announced shortly before the event. Right now we've opened up the call for papers, please head over to [this page](cfp) for more information, or visit the **[CFP Applications page](https://kcdcfpsubmissions.smapply.io/prog/kcd_munich_cfp/)** directly
-
-### Support Us
-
-Of course all this wouldn't be possible without or **[sponsors and partners](sponsor)**. After all our open source community lives from the contributions of its members - from individual contributors to the big players. Helping the event will give local and international businesses the chance to contribute to the regional community, while sending a strong signal of commitment to Cloud Native technologies. If you're interested in supporting KCD Munich have a look at our [sponsoring prospectus](sponsor) (here the [PDF version](/img/2020-munich/sponsoring_prospectus.pdf)). Please [contact us](contact) if you have any questions.
-
-### Code of Conduct
-
-The Kubernetes Community Days are dedicated to providing a harassment-free experience for participants at all of our events. We encourage all submitters to review our complete [Code of Conduct](https://kubernetescommunitydays.org/code-of-conduct/).
+We want to thank everyone who has reached out to us in the form of a talk proposal,
+offering sponsorship or just expressing interest in our event. We do hope that
+the situation will soon become clearer and that we can announce a new date for
+Kubernetes Community Days Munich as soon as possible. 💙
 
 Backdrop by [Philipp Bachhuber](https://unsplash.com/@philippbachhuber) on [Unsplash](https://unsplash.com/photos/dgWlxsytiYA)
