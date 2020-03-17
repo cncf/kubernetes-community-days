@@ -25,23 +25,23 @@ social:
 #  homepage: https://phippy.io
 organizers:
 - name: Kayla Matson
-  #image: team/kmatson.jpg
+  image: team/kmatson.jpg
   twitter: https://twitter.com/arctiqkayla
   homepage: https://www.linkedin.com/in/kayla-matson-835b29a4/
-- name: David (Dave) Ambrad
-  #image: team/dambrad.jpg
+- name: Dave Ambrad
+  image: team/dambrad.jpg
   twitter: https://twitter.com/tbd
   homepage: https://www.linkedin.com/in/davidambrad/
 - name: Roy Kim
-  #image: team/rkim.jpg
+  image: team/rkim.jpg
   twitter: https://twitter.com/RoyKimYYZ
   homepage: https://www.linkedin.com/in/roykimtoronto/
 - name: Ayrat Khayretdinov
-  #image: team/akhayretdinov.jpg
+  image: team/akhayretdinov.jpg
   twitter: https://twitter.com/archyufa
   homepage: https://www.linkedin.com/in/ayrat-khayretdinov-8503b6b
 - name: Maxime Coquerel
-  #image: team/mcoquerel.jpg
+  image: team/mcoquerel.jpg
   twitter: https://twitter.com/zig_max
   homepage: https://www.linkedin.com/in/maximecoquerel/
 organizers_email: organizers-toronto@kubernetescommunitydays.org
