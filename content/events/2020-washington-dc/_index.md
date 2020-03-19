@@ -62,9 +62,15 @@ We are excited to announce the Kubernetes Community Days in Washington, DC is be
 
 [Subscribe to our KCD DC mailing](https://mailchi.mp/9bba9529e871/kubernetescommunitydayswashingtondc) list for event updates.
 
+# Novel Coronavirus Update
+
+Our team is monitoring the COVID-19/Novel Coronavirus situation to ensure the safety of our community. Out of caution and in keeping with government policies, we may have to reschedule or even cancel the conference. At this time, we are moving forward with event planning as scheduled and truly welcome your support.
+
+If it is determined that we cannot move forward with the event due to government restrictions and/or a continued concern for the welfare of our attendees, we will update all event participants in a timely manner.
+
 # Attending
 
-Whether you are a developer, ops guy/gal, system engineer or any other IT professional excited about cloud native technologies, the Kubernetes Community Days DC (KCD DC) will have something for you.  Supported by the [Cloud Native Computing Foundation](https://cncf.io/), this one-day conference will focus on knowledge sharing, best practices, and new developments in and around Kubernetes.
+Whether you are a developer, ops pro, system engineer or any other IT professional excited about cloud native technologies, the Kubernetes Community Days DC (KCD DC) will have something for you.  Supported by the [Cloud Native Computing Foundation](https://cncf.io/), this one-day conference will focus on knowledge sharing, best practices, and new developments in and around Kubernetes. [Register today]({{< relref "register.md" >}}).
 
 # Support Us
 
