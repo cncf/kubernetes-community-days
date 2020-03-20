@@ -53,7 +53,7 @@ Kubernetesに関連する良いアイディアや取り組みがあれば、是�
 書き方や登録方法については[こちら]({{< ref "cfp.md" >}})を参照してください。
 
 ## 行動規範 (Code of Conduct) について
-Kubernetes Community Daysは、すべての参加者にハラスメントフリーな体験を提供したいと思っています。参加者の方は [Code of Conduct](https://kubernetescommunitydays.org/code-of-conduct/) を確認してください(現在日本語版 Code of Conduct もです)。
+Kubernetes Community Daysは、すべての参加者にハラスメントフリーな体験を提供したいと思っています。参加者の方は [行動規範（Code of Conduct）](https://www.linuxfoundation.jp/code-of-conduct/) を確認してください。
 
 ## 問い合わせ
 質問やご意見等あれば organizers-tokyo@kubernetescommunitydays.org へお問い合わせください。
