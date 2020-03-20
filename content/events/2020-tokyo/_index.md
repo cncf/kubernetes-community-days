@@ -57,3 +57,7 @@ Kubernetes Community Daysは、すべての参加者にハラスメントフリ�
 
 ## 問い合わせ
 質問やご意見等あれば organizers-tokyo@kubernetescommunitydays.org へお問い合わせください。
+
+---
+
+Photo by [Darren Chan](https://unsplash.com/@dchan_93?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
