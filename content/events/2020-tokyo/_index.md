@@ -10,7 +10,7 @@ location:
 map: map.svg
 sched_slug: kubernetescommunitydaytokyo
 social:
-  twitter: 'https://twitter.com/KcdTokyo'
+  twitter: 'https://twitter.com/kcd_tokyo'
 sponsors:
 speakers:
 organizers:
@@ -38,13 +38,22 @@ organizers_email: organizers-tokyo@kubernetescommunitydays.org
 local_law_enforcement: 110
 medical_emergency: 119
 cfp_deadline: '2020-04-19'
-sponsor_deadline: '2018-07-14'
+sponsor_deadline: '2020-05-01'
 dropdown_menu: false
 ---
 
-Please take a look at our exciting [speaker](speakers) lineup. Our event would not be possible without support of our [sponsors](sponsor). Prospective sponsors can review our [offerings](sponsor-form). We're still finalizing our [program](program) due to some challenges with arranging flights to our exciting [venue](venue). In the meantime, please review our [Code of Conduct](/code-of-conduct). Please [contact](contact) the organizers with any questions.
+# Kubernetes Community Days が東京に !
+Kubernetes Community Days (KCDs) は Cloud Native Computing Foundation (CNCF) 公式のコミュニティ主催イベントです。 Kubernetes を利用している人、これから導入したい人が新しいことを学んだり、ネットワーキングすることを狙いとして世界各都市で開催が予定されています。東京では 2020 年 6 月 13 日 東京ガーデンテラス紀尾井町にて開催予定です。
+
+スピーカー、セッションプログラム、スポンサーシップなどのイベント詳細は随時アップデートしていきます。
 
 ## 皆様のプロポーザルをお待ちしています!
 
 Kubernetesに関連する良いアイディアや取り組みがあれば、是非イベントでシェアしてください! プロポーザルは4/19まで募集しています。
 書き方や登録方法については[こちら]({{< ref "cfp.md" >}})を参照してください。
+
+## 行動規範 (Code of Conduct) について
+Kubernetes Community Daysは、すべての参加者にハラスメントフリーな体験を提供したいと思っています。参加者の方は [Code of Conduct](https://kubernetescommunitydays.org/code-of-conduct/) を確認してください(現在日本語版 Code of Conduct もです)。
+
+## 問い合わせ
+質問やご意見等あれば organizers-tokyo@kubernetescommunitydays.org へお問い合わせください。
