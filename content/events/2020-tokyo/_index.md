@@ -30,6 +30,10 @@ organizers:
   image:
   twitter: https://twitter.com/ianmlewis
   homepage: https://twitter.com/ianmlewis
+- name: Kato Yusuke (@kpang0)
+  image:
+  twitter: https://twitter.com/kpang0
+  homepage: https://twitter.com/kpang0
 - name: Seigo Uchida (@spesnova)
   image:
   twitter: https://twitter.com/spesnova
