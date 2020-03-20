@@ -15,27 +15,27 @@ sponsors:
 speakers:
 organizers:
 - name: Kazuki Suda (@superbrothers)
-  image:
+  image: organizer_superbrothers.svg
   twitter: https://twitter.com/superbrothers
   homepage: https://twitter.com/superbrothers
 - name: Masaya Aoyama (@amsy810)
-  image:
+  image: organizer_amsy810.svg
   twitter: https://twitter.com/amsy810
   homepage: https://twitter.com/amsy810
 - name: Aya Igarashi (@ladicle)
-  image:
+  image: organizer_ladicle.svg
   twitter: https://twitter.com/Ladicle
   homepage: https://twitter.com/Ladicle
 - name: Ian Lewis (@ianmlewis)
-  image:
+  image: organizer_IanMLewis.svg
   twitter: https://twitter.com/ianmlewis
   homepage: https://twitter.com/ianmlewis
 - name: Kato Yusuke (@kpang0)
-  image:
+  image: organizer_kpango.svg
   twitter: https://twitter.com/kpang0
   homepage: https://twitter.com/kpang0
 - name: Seigo Uchida (@spesnova)
-  image:
+  image: organizer_spesnova.svg
   twitter: https://twitter.com/spesnova
   homepage: https://twitter.com/spesnova
 organizers_email: organizers-tokyo@kubernetescommunitydays.org
