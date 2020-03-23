@@ -72,8 +72,8 @@ organizers:
 organizers_email: organizers-quebec-city@kubernetescommunitydays.org
 local_law_enforcement: 911
 medical_emergency: 911
-cfp_deadline: '2020-08-15'
-sponsor_deadline: '2020-08-15'
+cfp_deadline: '2020-07-15'
+sponsor_deadline: '2020-07-15'
 dropdown_menu: true
 ---
 
