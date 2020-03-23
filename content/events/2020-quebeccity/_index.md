@@ -77,6 +77,9 @@ sponsor_deadline: '2020-07-15'
 dropdown_menu: true
 ---
 
+**Mise à jour au 23 mars 2020** : au vu de la situation actuelle avec COVID-19, la Journée de la Communauté Kubernetes de Québec se tiendra maintenant le jeudi 15 octobre 2020. Cela nous permettra d'avoir plus de temps dans l'organisation de cet évènement avec nos sponsors et les présentateurs. Si vous voulez soumettre une présentation ça se passe [ici](https://www.papercall.io/kcd-quebec). Si vous n'êtes pas encore inscrit à cet évènement, vous pouvez encore le faire [ici](https://kcd-quebec.eventbrite.ca). Si vous vous êtes inscrit mais que vous souhaitez vous faire rembourser car la nouvelle date ne vous convient pas, merci de nous contacter par courriel : [organizers-quebec-city@kubernetescommunitydays.org](mailto:organizers-quebec-city@kubernetescommunitydays.org). 
+Merci pour votre compréhension et bien hâte de vous voir lors de cet évènement ! ;)
+
 La **Journée de la Communauté Kubernetes de Québec se tiendra le jeudi 15 octobre 2020**. C'est le premier évènement dans son genre à Québec permettant de rassembler toutes les communautés et entreprises impliquées et intéressées par Kubernetes à Québec. Basé sur [KubeCon San Diego 2019](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) l'objectif de notre évènement local est de présenter du contenu **technique et non technique autour de l'Open Source, de Kubernetes et du "Cloud Native"**.
 
 Il vous est maintenant possible d'**acheter vos tickets pour participer à cet évènement en avance et à prix réduit** ici : [https://kcd-quebec.eventbrite.ca](https://kcd-quebec.eventbrite.ca).
