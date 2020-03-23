@@ -77,6 +77,10 @@ organizers:
   image: organizers/jeanfrancois.jpg
   twitter: https://twitter.com/jfchevrette
   homepage: https://www.linkedin.com/in/jfchevrette/
+- name: Julia Simon
+  image: organizers/julia.png
+  twitter: https://twitter.com/JuliaSimon14
+  homepage: https://www.linkedin.com/in/jsimon14/  
 dropdown_menu: true  
 organizers_email: organizers-montreal@kubernetescommunitydays.org
 local_law_enforcement: 911
