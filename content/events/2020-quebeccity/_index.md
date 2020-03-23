@@ -72,18 +72,18 @@ organizers:
 organizers_email: organizers-quebec-city@kubernetescommunitydays.org
 local_law_enforcement: 911
 medical_emergency: 911
-cfp_deadline: '2020-04-15'
-sponsor_deadline: '2020-04-15'
+cfp_deadline: '2020-08-15'
+sponsor_deadline: '2020-08-15'
 dropdown_menu: true
 ---
 
-La **Journée de la Communauté Kubernetes de Québec se tiendra le jeudi 18 juin 2020**. C'est le premier évènement dans son genre à Québec permettant de rassembler toutes les communautés et entreprises impliquées et intéressées par Kubernetes à Québec. Basé sur [KubeCon San Diego 2019](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) l'objectif de notre évènement local est de présenter du contenu **technique et non technique autour de l'Open Source, de Kubernetes et du "Cloud Native"**.
+La **Journée de la Communauté Kubernetes de Québec se tiendra le jeudi 15 octobre 2020**. C'est le premier évènement dans son genre à Québec permettant de rassembler toutes les communautés et entreprises impliquées et intéressées par Kubernetes à Québec. Basé sur [KubeCon San Diego 2019](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) l'objectif de notre évènement local est de présenter du contenu **technique et non technique autour de l'Open Source, de Kubernetes et du "Cloud Native"**.
 
 Il vous est maintenant possible d'**acheter vos tickets pour participer à cet évènement en avance et à prix réduit** ici : [https://kcd-quebec.eventbrite.ca](https://kcd-quebec.eventbrite.ca).
 
 Cet évènement ne pourrait pas voir le jour sans nos sponsors, merci pour votre support ! Nos premiers sponsors sont Microsoft, RedHat, iA, MayaData, Lecentre.net et d'autres vont nous rejoindre très prochainement ! Si vous êtes intressés à contribuer à l'organisation de cet évènement et à son succès, n'hésitez pas à regarder nos [plans de commandites pour les sponsors](sponsor).
 
-Notre campagne d'appel à conférencières et conférenciers est maintenant ouverte : [https://www.papercall.io/kcd-quebec](https://www.papercall.io/kcd-quebec). Nous travaillons fort afin d'avoir un programme permettant de plaire à une large audience : technique et non-technique. Notre programme sera annoncé autour du 15 avril 2020. Si vous connaissez quelqu'un qui aurait de l'intérêt à présenter lors de cette conférence, merci de partager ce lien !
+Notre campagne d'appel à conférencières et conférenciers est maintenant ouverte : [https://www.papercall.io/kcd-quebec](https://www.papercall.io/kcd-quebec). Nous travaillons fort afin d'avoir un programme permettant de plaire à une large audience : technique et non-technique. Notre programme sera annoncé autour du 15 août 2020. Si vous connaissez quelqu'un qui aurait de l'intérêt à présenter lors de cette conférence, merci de partager ce lien !
 
 Cette page sera actualisée dès que nous avons des avancements sur ces différents points dans l'organisation de cet évènement. En attendant, n'hésitez pas à lire notre "[Code de Conduite](/code-of-conduct)".
 
