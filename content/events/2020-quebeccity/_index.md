@@ -37,7 +37,7 @@ sponsors:
   size: small
   orgs:
   - name: MayaData
-    logo: sponsors/mayadata.png
+    logo: sponsors/mayadata.svg
     url: https://mayadata.io
   - name: Lecentre.net
     logo: sponsors/lecentrenet.png
