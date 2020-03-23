@@ -1,6 +1,6 @@
 ---
 title: Québec
-date: '2020-06-18'
+date: '2020-10-15'
 location:
   countrycode: ca
   country: Canada
