@@ -41,13 +41,13 @@ organizers:
   homepage: https://suraj.pro
 - name: Ferran A. Castell
   image: ferran.jpeg
-  twitter: https://twitter.com/ferranarau  
+  twitter: https://twitter.com/ferranarau
 sponsors:
-- level: Submit now to get 20% off
+- level: Platinum
   orgs:
-  - name:
-    logo: sponsor.jpeg
-    url: /events/2020-london//sponsor
+  - name: Soda Foundation
+    logo: soda-foundation.png
+    url: https://www.opensds.io/soda-foundation/
 - level: Community
   orgs:
   - name: Cloud Native London
