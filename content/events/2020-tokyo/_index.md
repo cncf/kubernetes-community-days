@@ -42,7 +42,7 @@ organizers_email: organizers-tokyo@kubernetescommunitydays.org
 local_law_enforcement: 110
 medical_emergency: 119
 cfp_deadline: '2020-04-19'
-sponsor_deadline: '2020-05-01'
+# sponsor_deadline: '2020-05-01'
 dropdown_menu: false
 ---
 
