@@ -37,9 +37,14 @@ organizers:
 organizers_email: organizers-tokyo@kubernetescommunitydays.org
 local_law_enforcement: 110
 medical_emergency: 119
-cfp_deadline: '2018-09-01'
+cfp_deadline: '2020-04-19'
 sponsor_deadline: '2018-07-14'
 dropdown_menu: false
 ---
 
 Please take a look at our exciting [speaker](speakers) lineup. Our event would not be possible without support of our [sponsors](sponsor). Prospective sponsors can review our [offerings](sponsor-form). We're still finalizing our [program](program) due to some challenges with arranging flights to our exciting [venue](venue). In the meantime, please review our [Code of Conduct](/code-of-conduct). Please [contact](contact) the organizers with any questions.
+
+## 皆様のプロポーザルをお待ちしています!
+
+Kubernetesに関連する良いアイディアや取り組みがあれば、是非イベントでシェアしてください! プロポーザルは4/19まで募集しています。
+書き方や登録方法については[こちら]({{< ref "cfp.md" >}})を参照してください。
