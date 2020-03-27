@@ -1,0 +1,14 @@
+#event-hero {
+    background-image: url(/img/2020-tokyo/backdrop.svg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+#event-title {
+    color: black !important;
+}
+
+#event-date {
+    color: black;
+}
