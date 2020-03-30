@@ -2,11 +2,11 @@
 title: Speakers / Conférenciers
 ---
 
-**CFP Opens:** March ??th
+**CFP Opens:** April 15th
 
-**CFP Closes:** July ??th
+**CFP Closes:** June 15th
 
-**CFP Notifications:** July ??rd
+**CFP Notifications:** July 1st
 
 Our Call For Papers is now opened: [https://www.papercall.io/kcd-montreal](https://www.papercall.io/kcd-montreal). We're looking for submissions both technical and non technical. Our schedule will be announced around July 1st 2020. Feel free to share the link around you and on social networks!
 

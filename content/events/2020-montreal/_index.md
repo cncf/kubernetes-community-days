@@ -6,7 +6,7 @@ location:
   country: Canada
   city: Montréal
   url: https://www.google.com/maps/place/%C3%89cole+de+technologie+sup%C3%A9rieure+%C3%89TS/@45.4945497,-73.5644347,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a60aa839707:0xb732a719a45c45f6!8m2!3d45.494546!4d-73.562246
-  venue: ETS
+  venue: TBD
 map: ets.png
 sched_slug: kubernetescommunitydaymontreal
 social:
