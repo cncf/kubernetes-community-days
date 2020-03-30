@@ -1,7 +1,7 @@
 ---
 title: Berlin
-date: '2020-05-26'
-end: '2020-05-27'
+date: '2020-12-01'
+end: '2020-12-02'
 location:
   country: Germany
   city: Berlin
@@ -72,19 +72,18 @@ organizers:
 organizers_email: organizers-berlin@kubernetescommunitydays.org
 local_law_enforcement: 112
 medical_emergency: 112
-cfp_deadline: '2020-03-31'
+cfp_deadline: '2020-10-31'
 sponsor_deadline:
 ---
 
 # **Kubernetes Community Days are coming to Berlin!**
 
-On May 26-27, the Kubernetes and cloud native community in Germany will gather at Alte Münze in Berlin. Join us for a two day technical conference loaded with exciting talks and plenty of opportunity to exchange and network. KCD Berlin are aimed at developers, operations people and all other IT professionals with an interest in cloud native technologies and are supported by the Cloud Native Computing Foundation.
+On Dec 1-2, the Kubernetes and cloud native community in Germany will gather at Alte Münze in Berlin. Join us for a two day technical conference loaded with exciting talks and plenty of opportunity to exchange and network. KCD Berlin are aimed at developers, operations people and all other IT professionals with an interest in cloud native technologies and are supported by the Cloud Native Computing Foundation.
 
 [Register](https://www.eventbrite.com/e/kubernetes-community-days-berlin-2020-tickets-90095641489)
 
-You have a Kubernetes story to tell? Great! Then don’t be shy and submit a proposal. Our CFP is open until March 15.
+You have a Kubernetes story to tell? Great! Then don’t be shy and submit a proposal. Please check back for updated CFP information.
 
-[Submit CFP](https://kcdcfpsubmissions.smapply.io/prog/kcd_berlin)
 
 KCD is a community-organized and not for profit event and would not be possible without our partners. Don’t miss the opportunity to be part of and support this community event. Find our [Partnership Prospectus](/img/2020-berlin/kcdberlin2020_sponsor_prospectus.pdf).
 
