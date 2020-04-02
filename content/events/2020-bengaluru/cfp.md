@@ -2,11 +2,7 @@
 title: Call for Papers (CFP)
 ---
 
-**CFP Opens:** March 15th
-
-**CFP Closes:** April 25th
-
-**CFP Notifications:** June 1st
+**Kubernetes Community Days Bengaluru** is scheduled for December 1st 2020! The organisers are hard at work preparing the CFP and ticket sales. Check back regularly for updates.
 
 ## Want to be kept up-to-date?
 
