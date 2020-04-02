@@ -1,7 +1,7 @@
 ---
 title: Bengaluru
-date: '2020-06-27'
-end: '2020-06-27'
+date: '2020-12-01'
+end: '2020-12-01'
 location:
   country: India
   city: Bengaluru
@@ -61,11 +61,9 @@ organizers:
 organizers_email: organizers-bengaluru@kubernetescommunitydays.org
 local_law_enforcement: 100
 medical_emergency: 108
-cfp_deadline: '2020-04-25'
-sponsor_deadline: '2020-03-31'
 ---
 
-**Kubernetes Community Days Bengaluru** is happening June 27th 2020! The organisers are hard at work preparing the CFP and ticket sales. Check back regularly for updates.
+**Kubernetes Community Days Bengaluru** is happening December 1st 2020! The organisers are hard at work preparing the CFP and ticket sales. Check back regularly for updates.
 
 ## Want to be kept up-to-date?
 
