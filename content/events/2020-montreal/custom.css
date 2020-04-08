@@ -1,0 +1,15 @@
+#event-hero {
+  background-image: url(/img/2020-montreal/montreal.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+#event-title {
+  color: white !important;
+}
+
+#event-date {
+  color: white;
+  background-color: #2764e4;
+  width: 20%;
+}
