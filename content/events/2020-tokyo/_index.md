@@ -12,6 +12,18 @@ sched_slug: kubernetescommunitydaytokyo
 social:
   twitter: 'https://twitter.com/kcd_tokyo'
 sponsors:
+- level: gold
+  size: large
+  orgs:
+  - name: ヤフー株式会社
+    logo: Yahoo_JAPAN_online_logo_01.svg
+    url: https://www.yahoo.co.jp
+  - name: 株式会社サイバーエージェント
+    logo: logo_CyberAgent_01.png
+    url: https://developers.cyberagent.co.jp/blog/
+  - name: サイボウズ株式会社
+    logo: cybozu.svg
+    url: https://cybozu.co.jp/
 speakers:
 organizers:
 - name: Kazuki Suda (@superbrothers)
