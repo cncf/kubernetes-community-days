@@ -24,6 +24,12 @@ sponsors:
   - name: サイボウズ株式会社
     logo: cybozu.svg
     url: https://cybozu.co.jp/
+- level: silver
+  size: medium
+  orgs:
+  - name: ゼットラボ株式会社
+    logo: Z_Lab.png
+    url: https://zlab.co.jp/
 speakers:
 organizers:
 - name: Kazuki Suda (@superbrothers)
