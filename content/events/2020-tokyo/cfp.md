@@ -22,7 +22,7 @@ Kubernetes Community Daysのイベントは、コミュニティに関わりあ�
 
 # プロポーザルの提出方法
 
-[KCD Tokyo CFP](https://kcdcfpsubmissions.smapply.io/prog/kcd_tokyo/)から4/19 23:59(JST)までに提出してください。
+[KCD Tokyo CFP](https://kcdcfpsubmissions.smapply.io/prog/kcd_tokyo/)から4/19 23:59(JST)までに提出してください。選考結果は4月末に通知する予定です。
 
 > 注意: システムの仕様上CFPの期間がPDTで表示されています。
 
