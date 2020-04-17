@@ -1,6 +1,6 @@
 ---
 title: Portland, Oregon
-date: '2020-09-12'
+date: '2020-12-01'
 location:
   countrycode: us
   country: United States
@@ -18,6 +18,9 @@ medical_emergency: 112
 
 Kubernetes Community Day Portland Oregon is the first of its kind in the city of Portland, Oregon.
 
+This event has been postponed due to COVID-19.  A new date for the event will be announced sometime in August 2020.
+
+<!--
 It is currently sponsored by Puppet, Microsoft, Red Hat, and VMware. If you are interested in becoming a sponsor, please see our [sponsorship prospectus](./prospectus).
 
 Interested in this event?  Please take our [potential attendee survey](https://forms.gle/MKwurmEDMkVFmLqXA).
@@ -33,3 +36,4 @@ We will have updates to the event on the following schedule:
 Watch this space for developments!
 
 Please review our [Code of Conduct](/code-of-conduct).
+-->
