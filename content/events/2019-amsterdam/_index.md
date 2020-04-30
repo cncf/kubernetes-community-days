@@ -189,7 +189,7 @@ organizers:
 organizers_email: organizers-amsterdam@kubernetescommunitydays.org
 ---
 
-## Kubernetes Community Day Amsterdam 2019 is a wrap! Check out the [2020 website](/events/2020-amsterdam) for the current edition
+## Kubernetes Community Day Amsterdam 2019 is a wrap! Check out the [2021 website](/events/2021-amsterdam) for the current edition
 
 Thank you to all attendees, [speakers](speakers), [sponsors](sponsor) and our great [team](contact) to have put together a special day and a great [program](program) to make a great start of a long tradition of Kubernetes Community Days im Amsterdam and around the world. 
 
