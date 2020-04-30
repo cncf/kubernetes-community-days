@@ -8,9 +8,9 @@ Sponsoring Kubernetes Community Days events gives your organization an opportuni
 
 Below is a list of available sponsorships. If interested in sponsoring, please get in touch via mail: [organizers-amsterdam@kubernetescommunitydays.org](mailto:organizers-amsterdam@kubernetescommunitydays.org). You can also fill this [form](https://form.jotform.com/200433471035039).
 
-Here's the [PDF version](/img/2020-amsterdam/kcdams2020_sponsor_prospectus.pdf).
+Here's the [PDF version](/img/2021-amsterdam/kcdams2021_sponsor_prospectus.pdf).
 
-## Kubernetes Community Days Amsterdam 2020 Sponsorship Opportunities (prices ex-VAT)
+## Kubernetes Community Days Amsterdam 2021 Sponsorship Opportunities (prices ex-VAT)
 
 Sponsorship details               | Platinum | Gold      | Silver      | Bronze
 ----------------------------------|----------|-----------|-------------|------
@@ -125,6 +125,6 @@ Help foster diversity by providing grants to applications for speaking and atten
 ** **
 **Sponsor area layout**
 
-![Sponsor area layout](/img/2020-amsterdam/sponsor_area_layout.png)
+![Sponsor area layout](/img/2021-amsterdam/sponsor_area_layout.png)
 
 We are open to different forms of collaboration! Get in [touch](mailto:organizers-amsterdam@kubernetescommunitydays.org).
