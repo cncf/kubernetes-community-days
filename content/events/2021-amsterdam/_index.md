@@ -92,7 +92,7 @@ KCD Amsterdam is a community-organized and not for profit conference and would n
 
 For 2021, we are going slightly bigger in attendance while maintaining the grassroots spirit and the community feeling that is our underlying theme; we selected a bigger, more spacious [venue](venue) and we extended the program to **2 full days of technical talks**, networking and bonding.
 
-We will announce our [speaker](speakers)'s lineup in the beginning of June; the [call for papers](https://sessionize.com/kcdams2020) is open until 15th of May (we accept only talks in English). If you wonder how to submit a great talk, have a look at this [page](cfp).
+We will announce our [speaker](speakers)'s lineup in the beginning of June; the [call for papers](https://sessionize.com/kcdams2021) is open until 15th of May (we accept only talks in English). If you wonder how to submit a great talk, have a look at this [page](cfp).
 
 Our event would not be possible without support of our [sponsors](sponsor); prospective sponsors can review our [prospectus](sponsor) (here the [PDF version](/img/2021-amsterdam/kcdams2021_sponsor_prospectus.pdf)) and get in touch with us via email. We're still finalizing our [program](program) but we're excited to have finalized a great [venue](venue). Please [contact](contact) the organizers with any questions.
 
