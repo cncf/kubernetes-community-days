@@ -1,7 +1,7 @@
 ---
 title: Amsterdam
-date: '2020-09-24'
-end: '2020-09-25'
+date: '2021-04-08'
+end: '2021-04-09'
 location:
   country: The Netherlands
   city: Amsterdam
@@ -63,9 +63,18 @@ organizers:
 organizers_email: organizers-amsterdam@kubernetescommunitydays.org
 local_law_enforcement: 112
 medical_emergency: 112
-cfp_deadline: '2020-07-01'
-sponsor_deadline: '2020-09-14'
+cfp_deadline: '2020-12-01'
+sponsor_deadline: '2021-03-30'
 ---
+
+<H1>Update May 2020</H1>
+
+As the world is suffering from the worst global crisis of this century, we decided to postpone the event to 2021, to keep everyone safe and to restart next year with renewed enthusiasm and passion. We are close to whoever in our community is struggling right now, losing their livelihoods or worse, feeling uncertain for the future and for their safety. We believe that the beginning of next year will be safe enough to meet again and have meaningful, safe in-person interactions; hence, we reached an agreement with the venue and we moved the event to beginning of April 2021
+
+-------------
+
+
+
 
 **Kubernetes Community Day** comes back to Amsterdam! After a great first edition and on the trail of [KubeCon EU Amsterdam](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/), the Dutch Cloud Native community is gathering at [Westergas](venue) in Amsterdam. Join us for a **two day technical conference** loaded with exciting talks and plenty of opportunity to exchange and network.
 
@@ -81,11 +90,11 @@ Kubernetes Community Days Amsterdam is aimed at developers, operations people an
 
 KCD Amsterdam is a community-organized and not for profit conference and would not be possible without **our partners**. Don’t miss the opportunity to be part of and support this community conference. Find our [Partnership Proposal](sponsor) here.
 
-For 2020, we are going slightly bigger in attendance while maintaining the grassroots spirit and the community feeling that is our underlying theme; we selected a bigger, more spacious [venue](venue) and we extended the program to **2 full days of technical talks**, networking and bonding.
+For 2021, we are going slightly bigger in attendance while maintaining the grassroots spirit and the community feeling that is our underlying theme; we selected a bigger, more spacious [venue](venue) and we extended the program to **2 full days of technical talks**, networking and bonding.
 
-We will announce our [speaker](speakers)'s lineup in the beginning of June; the [call for papers](https://sessionize.com/kcdams2020) is open until 15th of May (we accept only talks in English). If you wonder how to submit a great talk, have a look at this [page](cfp).
+We will announce our [speaker](speakers)'s lineup in the beginning of June; the [call for papers](https://sessionize.com/kcdams2021) is open until 15th of May (we accept only talks in English). If you wonder how to submit a great talk, have a look at this [page](cfp).
 
-Our event would not be possible without support of our [sponsors](sponsor); prospective sponsors can review our [prospectus](sponsor) (here the [PDF version](/img/2020-amsterdam/kcdams2020_sponsor_prospectus.pdf)) and get in touch with us via email. We're still finalizing our [program](program) but we're excited to have finalized a great [venue](venue). Please [contact](contact) the organizers with any questions.
+Our event would not be possible without support of our [sponsors](sponsor); prospective sponsors can review our [prospectus](sponsor) (here the [PDF version](/img/2021-amsterdam/kcdams2021_sponsor_prospectus.pdf)) and get in touch with us via email. We're still finalizing our [program](program) but we're excited to have finalized a great [venue](venue). Please [contact](contact) the organizers with any questions.
 
 Can't wait until September? We meet every month at our [Dutch Kubernetes Meetup](https://www.meetup.com/Dutch-Kubernetes-Meetup/)! If you want to host, get in touch and if you want to give a talk, open a pull request to this [repository](https://github.com/cloudnative-amsterdam/meetups).
 
