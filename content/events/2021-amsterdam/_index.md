@@ -77,6 +77,8 @@ We have a new CFP link too, and we'll keep it open until the 15th of December 20
 
 https://sessionize.com/kcdams2021/
 
+If youy submitted already, your submission is still valid. You can choose to withdraw it if the dates are not compatible with your schedule; we will contact you when the CFP closes if you are selected.
+
 -------------
 
 
