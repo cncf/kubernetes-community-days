@@ -24,6 +24,9 @@ sponsors:
   - name: サイボウズ株式会社
     logo: cybozu.svg
     url: https://cybozu.co.jp/
+  - name: 株式会社メルカリ
+    logo: mercari.png
+    url: https://about.mercari.com/
 - level: silver
   size: medium
   orgs:
