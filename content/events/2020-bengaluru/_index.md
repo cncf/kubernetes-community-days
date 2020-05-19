@@ -1,7 +1,7 @@
 ---
 title: Bengaluru
 date: '2020-12-01'
-end: '2020-12-01'
+end: ''
 location:
   country: India
   city: Bengaluru
