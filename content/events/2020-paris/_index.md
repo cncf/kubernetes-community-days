@@ -1,7 +1,7 @@
 ---
 title: Paris
-date: '2020-11-04'
-#end: '2020-11-04'
+date: '2020-12-01'
+#end: ''
 location:
   country: France
   city: Paris
@@ -62,8 +62,7 @@ organizers:
 organizers_email: organizers-paris@kubernetescommunitydays.org
 local_law_enforcement: "17 or 112"
 medical_emergency: "18 or 112"
-cfp_deadline: '2020-06-28'
-sponsor_deadline: '2020-03-31'
+
 ---
 
 **Kubernetes Community Day** are coming to **Paris, France**. The registration and the CFP will open soon. Follow our [Twitter account](https://twitter.com/KubeDaysParis) for more information.
