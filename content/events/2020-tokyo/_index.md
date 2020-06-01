@@ -64,6 +64,10 @@ cfp_deadline: '2020-04-19'
 dropdown_menu: false
 ---
 
+**Kubernetes Community Days Tokyo 2020 は、オンラインイベントの「KubeFest Tokyo 2020」として2020年6月13日に開催することに決定いたしました。詳しい情報は[新しい公式サイト](https://k8sjp.connpass.com/event/176105/)をご確認ください。**
+
+**Kubernetes Community Days Tokyo 2020 is set to take place on June 13, 2020 as the online event "KubeFest Tokyo 2020". For more information, please visit [new official site](https://k8sjp.connpass.com/event/176105/).**
+
 # Kubernetes Community Days が東京に !
 Kubernetes Community Days (KCDs) は Cloud Native Computing Foundation (CNCF) 公式のコミュニティ主催イベントです。 Kubernetes を利用している人、これから導入したい人が新しいことを学んだり、ネットワーキングすることを狙いとして世界各都市で開催が予定されています。東京では 2020 年 6 月 13 日 東京ガーデンテラス紀尾井町にて開催予定です。
 
