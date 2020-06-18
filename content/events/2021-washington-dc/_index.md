@@ -1,6 +1,6 @@
 ---
 title: Washington, DC
-date: '2020-09-15'
+date: '2021-03-16'
 location:
   countrycode: us
   country: United States
@@ -56,17 +56,15 @@ medical_emergency: 112
 
 # Kubernetes Community Days in our Nation's Capital
 
-## Hosted at American Red Cross, a CNCF Nonprofit Member
-
-We are excited to announce the Kubernetes Community Days in Washington, DC is being held on September 15, 2020 -- the first of its kind in the DC Metro Area. Join us for a one-day technical conference, filled with thought-provoking talks and networking opportunities at the historic Red Cross Square in downtown Washington, DC.
-
-[Subscribe to our KCD DC mailing](https://mailchi.mp/9bba9529e871/kubernetescommunitydayswashingtondc) list for event updates.
-
 # Novel Coronavirus Update
 
-Our team is monitoring the COVID-19/Novel Coronavirus situation to ensure the safety of our community. Out of caution and in keeping with government policies, we may have to reschedule. At this time, we are moving forward with event planning as scheduled and truly welcome your support.
+Due to the current pandemic and to keep everyone safe, we decided to postpone the event to 2021. We hope that the beginning of next year will be safe enough to meet in-person. Stay safe and hope to see you all in March 2021.
 
-If it is determined that we cannot move forward with the event due to government restrictions and/or a continued concern for the welfare of our attendees, we will update all event participants in a timely manner.
+# Hosted at American Red Cross, a CNCF Nonprofit Member
+
+We are excited to announce the Kubernetes Community Days in Washington, DC is being held on March 16, 2021 -- the first of its kind in the DC Metro Area. Join us for a one-day technical conference, filled with thought-provoking talks and networking opportunities at the historic Red Cross Square in downtown Washington, DC.
+
+[Subscribe to our KCD DC mailing list](https://mailchi.mp/9bba9529e871/kubernetescommunitydayswashingtondc) and/or follow us on [Twitter](https://twitter.com/KubeDaysDC) for event updates.
 
 # Attending
 
@@ -82,11 +80,11 @@ We are thrilled to be holding our conference in the historic Hall of Service at 
 
 # Speakers
 
-We plan to start announcing speakers in early July. The call for papers will be opened soon. For updates, please check back or stay in touch via [Twitter](https://twitter.com/KubeDaysDC) or our [mailing list](https://mailchi.mp/9bba9529e871/kubernetescommunitydayswashingtondc).
+Interested in speaking? Head over to [our CFP page]({{< relref "speakers.md" >}}). 
 
 # DC Kubernetes Meetup
 
-Can’t wait until September? Join our [Kubernetes meetup group](https://www.meetup.com/All-Things-Kubernetes-k8s-DC/) and our brand new slack channel (#meetup-dc) on Kubernetes' slack to learn from and network with your peers.
+Can’t wait until March? Join our [Kubernetes meetup group](https://www.meetup.com/All-Things-Kubernetes-k8s-DC/) and our brand new slack channel (#meetup-dc) on Kubernetes' slack to learn from and network with your peers.
 
 # Code of Conduct
 
