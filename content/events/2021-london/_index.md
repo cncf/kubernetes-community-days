@@ -1,7 +1,7 @@
 ---
 title: London
-date: '2020-09-03'
-end: '2020-09-04'
+date: '2021-09-06'
+end: '2021-09-08'
 location:
   country: United Kingdom
   city: London
@@ -42,6 +42,10 @@ organizers:
 - name: Ferran A. Castell
   image: ferran.jpeg
   twitter: https://twitter.com/ferranarau
+- name: Vipul Agarwal
+  image: vipul.png
+  twitter: https://twitter.com/vagarwal100
+  homepage: https://vagarwal.net
 sponsors:
 - level: Platinum
   orgs:
