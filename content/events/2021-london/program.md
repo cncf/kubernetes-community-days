@@ -2,4 +2,4 @@
 title: Program
 ---
 
-The program will be announced on July 6th.
+The program will be announced closer to the event.

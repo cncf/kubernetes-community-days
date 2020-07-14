@@ -8,17 +8,13 @@ Kubernetes Community Days are community-organized, not-for-profit conferences fo
    * Operations, Infrastructure, Platform, and Site Reliability Engineers
    * Executives
 
-The London 2020 event will attract 1500 attendees from London, the UK, Europe and globally. It's a great way to raise awareness across the Kubernetes and cloud native ecosystem, as well as support the community.
-
-## [Sponsor Kubernetes Community Days London 2020](https://form.jotform.com/200432186845050)
+The London 2021 event will attract 1500 attendees from London, the UK, Europe and globally. It's a great way to raise awareness across the Kubernetes and cloud native ecosystem, as well as support the community.
 
 ![Emmanual Centre, Upper Hall](https://images.squarespace-cdn.com/content/v1/5bf7dd8775f9ee8d5a2783c7/1542973505321-4JFHAY0I0EYXVHTBIMQJ/ke17ZwdGBToddI8pDm48kDCUkWATuGt6znLiRApwHYxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpy_rfsz2m03nseFLnJOsdshZO2Q1byn5TEbeFJufCPTiLRAOCtAt559iEboZGAVP-8/upper-hall.jpg)
 
 ## Sponsorship details
 
-**Deadline:** July 6th
-
-**Invoices before March 16th will not incur VAT, so [request sponsorship ASAP](https://form.jotform.com/200432186845050) to get -20% on these prices.**
+**Deadline:** TBD
 
 
 Details                           | Platinum | Gold      | Silver

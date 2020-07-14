@@ -63,17 +63,15 @@ sponsors:
 organizers_email: organizers-london@kubernetescommunitydays.org
 local_law_enforcement: 999
 medical_emergency: 999
-cfp_deadline: '2020-05-06'
-sponsor_deadline: '2020-07-06'
+cfp_deadline: ''
+sponsor_deadline: ''
 ---
 
-Kubernetes Community Days London is happening September 3rd and 4th 2020! The CFP is now open, and ticket sales will be opening soon.
+**CORONAVIRUS UPDATE:** We are sorry to announce that Kubernetes Community Days London has been postponed to September 6-8, 2021 due to COVID-19 crisis.
 
-CORONAVIRUS UPDATE: At the moment, we don't expect we'll need to postpone KCD London 2020 but the organisers are keeping a close eye on the latest information and if anything changes, we'll let people know by July 15. If we do postpone, attendees and sponsors will be refunded (minus any service fees taken by payment services).
+The CFP and ticket sales will open closer to the event.
 
-Check back regularly for updates.
-
-{{< tweet 1229699975497551874 >}}
+Please check back regularly for updates.
 
 ## Want to be kept up-to-date?
 
