@@ -2,15 +2,13 @@
 title: Speakers
 ---
 
-**CFP Opens:** March 6th 2020  
-**CFP Closes:** May 6th 2020  
-**CFP Notifications:** July 3rd
-
-## [Click Here to Submit](https://kcdcfpsubmissions.smapply.io/prog/kcd_london_cfp)
+**CFP Opens:** TBD  
+**CFP Closes:** TBD  
+**CFP Notifications:** TBD
 
 Kubernetes Community Days London brings together hundreds of IT executives, cloud operators, and technology providers to discuss cloud computing and to learn about Kubernetes. The Kubernetes Community Day London is supported by the Cloud Native Computing Foundation and organized by supporting companies.
 
-The conference will take place over 2 days in September of 2020, and will consist of a single talk track, and a workshop track. Talks are 25 minutes in length, including Q&A (which is completely optional), while workshops should be 2.5 hours long.
+The conference will take place over 3 days in September of 2021, and will consist of a single talk track, and a workshop track. Talks are 25 minutes in length, including Q&A (which is completely optional), while workshops should be 2.5 hours long.
 
 Talk sessions can include up to 2 speakers, and topics should be relevant to the current state of the Kubernetes and Cloud Native Ecosystem. Some topics that we would love to see:
 
