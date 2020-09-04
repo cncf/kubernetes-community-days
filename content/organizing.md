@@ -10,6 +10,8 @@ We'd like to thank [DevOpsDays](https://devopsdays.org) and [OpenStack Days](htt
 
 Due to Novel Coronavirus, we recommend each event refer to guidelines provided by [The Linux Foundation](https://events.linuxfoundation.org/2020/03/13/novel-coronavirus-update/).
 
+As an alternative to the physical events, CNCF recommends running the virtual events on the [Cloud Native Community Groups](https://community.cncf.io/) platform, powered by [Bevy](https://www.bevy.com/). 
+
 ## Interested in Hosting a Kubernetes Community Day?
 
 Any city or region can host a Kubernetes Community Day. Each local KCD event team handles its own sponsorships, registration, and logistics. Check if there is a KCD event scheduled in your area on the [main page](/). If there *is* already an event scheduled, you can reach out to the organizers and offer to help. The CNCF supports KCDs with guidance and event promotion via CNCF newsletters, blog posts, and social media channels.
@@ -24,11 +26,11 @@ This quick start guide covers all aspects of holding a successful event. Please 
 * Verify that no other Kubernetes Community Day events are planned in your local area
 * Have a minimum of 3 local organizers (5 is recommended) from at least 3 different organizations. Each organizer needs to live in or just outside of the KCD location.
 * Have a minimum of 3 sponsors**
-* Make sure that at least one organizer is an employee of a CNCF [member](https://www.cncf.io/about/members/), an [Ambassador](https://www.cncf.io/people/ambassadors/), or a CNCF project [maintainer](https://docs.google.com/spreadsheets/u/1/d/1Pr8cyp8RLrNGx9WBAgQvBzUUmqyOv69R7QAFKhacJEM/)
+* Make sure that at least one organizer is an employee of a CNCF [member](https://www.cncf.io/about/members/), an [Ambassador](https://www.cncf.io/people/ambassadors/), or a CNCF project [maintainer](http://maintainers.cncf.io/)
 * Have a method to accept payments (sponsorships, tickets) and make payments (catering, A/V, other costs)
 * Verify that all organizers have agreed to these event guidelines and to abide by the Kubernetes Community Day [Code of Conduct](/code-of-conduct/)
 * Schedule an event date a minimum of 6 months after  you file your event request with CNCF request submission,  (9 months prior is preferable)
-* Agree to use [Eventbrite](https://www.eventbrite.com/) for registration*
+* Agree to use [Eventbrite](https://www.eventbrite.com/) or [Bevy Ticketing](https://help.bevylabs.com/article/369-manage-event-ticketing) for registration*
 * Agree to use [Sched](https://sched.com) for organizing the program page*
 * Agree to use [SM Apply](https://apply.surveymonkey.com/) for the CFP*
 * Confirm that one of the organizer's employers will agree to serve as a fiscal sponsor*
@@ -69,7 +71,7 @@ All events must be called “Kubernetes Community Days LOCATION”, e.g. Kuberne
 
 ## Assembling Your Team
 
-The first step towards a successful event is building a team. Look for potential team members in local user groups and Meetups, such as the [CNCF Meetup groups](https://www.meetup.com/pro/cncf/), or online in the public Kubernetes slack or other related online communities.
+The first step towards a successful event is building a team. Look for potential team members in local user groups and Meetups, such as the [CNCF Community Groups](https://community.cncf.io/), or online in the public Kubernetes slack or other related online communities.
 
 Check the GitHub Kubernetes Community Days Repo [project board](https://github.com/cncf/kubernetes-community-days/projects/2) to see if others have expressed interest in organizing an event in your area. If there are no GitHub issues for your area, create an [issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=christinevblum%2C+iennae&labels=planningevent&template=interest.md) asking if others are interested in organizing an event with you. After your team is assembled, we encourage you to have regular meetings for planning purposes. If you would like to record your meetings or need a conference line, CNCF can provide a Zoom URL. Please contact a Core Organizer for access or to learn more.
 
