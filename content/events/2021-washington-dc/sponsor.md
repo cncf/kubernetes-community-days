@@ -16,7 +16,7 @@ Benefits                |Gold       |Silver     |Bronze     |Community Sponsorsh
 Sponsorships left       |5          |6          |12         |12
 Table                   |1 	        |1/2	      |--	        |--
 Included tickets        |4	        |2	        |1	        |--
-Sponsored talk (10 min) |1	        |--	        |--	        |--
+Sponsored talk (1 min)  |1	        |--	        |--	        |--
 Recognition on website 	|yes	      |yes	      |yes	      |yes
 Swags on shared table	  |yes	      |yes	      |yes	      |yes
 **Price**	              |**$5,000** |**$3,000** |**$1,500** |**No cost***
