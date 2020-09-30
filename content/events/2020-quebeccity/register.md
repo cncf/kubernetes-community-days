@@ -2,4 +2,4 @@
 title: Participer
 ---
 
-Il vous est maintenant possible d'acheter vos tickets pour participer à cet évènement en avance et à prix réduit ici : [https://kcd-quebec.eventbrite.ca](https://kcd-quebec.eventbrite.ca).
+Au vu de la situation actuelle et incertaine du COVID-19, nous avons fermé l'achat des tickets pour participer à cet évènement : [https://kcd-quebec.eventbrite.ca](https://kcd-quebec.eventbrite.ca).
