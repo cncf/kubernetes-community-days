@@ -1,6 +1,6 @@
 ---
 title: Québec
-date: '2020-10-15'
+date: '2021-07-15'
 location:
   countrycode: ca
   country: Canada
@@ -72,22 +72,20 @@ organizers:
 organizers_email: organizers-quebec-city@kubernetescommunitydays.org
 local_law_enforcement: 911
 medical_emergency: 911
-cfp_deadline: '2020-07-15'
-sponsor_deadline: '2020-07-15'
+cfp_deadline: '2021-05-15'
+sponsor_deadline: '2021-05-15'
 dropdown_menu: true
 ---
 
-**Mise à jour au 23 mars 2020** : au vu de la situation actuelle avec COVID-19, la Journée de la Communauté Kubernetes de Québec se tiendra maintenant le jeudi 15 octobre 2020. Cela nous permettra d'avoir plus de temps dans l'organisation de cet évènement avec nos sponsors et les présentateurs. Si vous voulez soumettre une présentation ça se passe [ici](https://www.papercall.io/kcd-quebec). Si vous n'êtes pas encore inscrit à cet évènement, vous pouvez encore le faire [ici](https://kcd-quebec.eventbrite.ca). Si vous vous êtes inscrit mais que vous souhaitez vous faire rembourser car la nouvelle date ne vous convient pas, merci de nous contacter par courriel : [organizers-quebec-city@kubernetescommunitydays.org](mailto:organizers-quebec-city@kubernetescommunitydays.org). 
-Merci pour votre compréhension et bien hâte de vous voir lors de cet évènement ! ;)
+**Mise à jour au 30 septembre 2020** : au vu de la situation actuelle avec COVID-19, la Journée de la Communauté Kubernetes de Québec sera remise en 2021. La date n'est pas encore déterminée. Nous avons remboursé toutes les participantes et participants et réouvrirons les inscriptions au moment opportun en 2021. Si vous avez la moindre question, merci de nous contacter par courriel : [organizers-quebec-city@kubernetescommunitydays.org](mailto:organizers-quebec-city@kubernetescommunitydays.org). Nous souhaitons que cet évènement réunisse localement et en personne les gens de Québec afin d'échanger sur le Cloud Native, c'est pour cela que nous avons pris la décision de ne pas faire cet évènement virtuel. À la place, nous encourageons la communauté à utiliser le Meetup Cloud Native qui organise des sessions en ligne sur une base régulière : [https://community.cncf.io/quebec/](https://community.cncf.io/quebec/).
+Merci pour votre compréhension et bien hâte de vous voir lors de cet évènement en 2021 ! ;)
 
-La **Journée de la Communauté Kubernetes de Québec se tiendra le jeudi 15 octobre 2020**. C'est le premier évènement dans son genre à Québec permettant de rassembler toutes les communautés et entreprises impliquées et intéressées par Kubernetes à Québec. Basé sur [KubeCon San Diego 2019](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) l'objectif de notre évènement local est de présenter du contenu **technique et non technique autour de l'Open Source, de Kubernetes et du "Cloud Native"**.
+La **Journée de la Communauté Kubernetes de Québec** sera le premier évènement dans son genre à Québec permettant de rassembler toutes les communautés et entreprises impliquées et intéressées par Kubernetes à Québec. Basé sur [KubeCon San Diego 2019](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) l'objectif de notre évènement local sera de présenter du contenu **technique et non technique autour de l'Open Source, de Kubernetes et du "Cloud Native"**.
 
-Il vous est maintenant possible d'**acheter vos tickets pour participer à cet évènement en avance et à prix réduit** ici : [https://kcd-quebec.eventbrite.ca](https://kcd-quebec.eventbrite.ca).
+Cet évènement ne pourrait pas voir le jour sans nos sponsors, merci pour votre support ! Nos premiers sponsors sont Microsoft, RedHat, iA, MayaData, Lecentre.net et d'autres vont nous rejoindront. Si vous êtes intressés à contribuer à l'organisation de cet évènement et à son succès, n'hésitez pas à regarder nos [plans de commandites pour les sponsors](sponsor).
 
-Cet évènement ne pourrait pas voir le jour sans nos sponsors, merci pour votre support ! Nos premiers sponsors sont Microsoft, RedHat, iA, MayaData, Lecentre.net et d'autres vont nous rejoindre très prochainement ! Si vous êtes intressés à contribuer à l'organisation de cet évènement et à son succès, n'hésitez pas à regarder nos [plans de commandites pour les sponsors](sponsor).
-
-Notre campagne d'appel à conférencières et conférenciers est maintenant ouverte : [https://www.papercall.io/kcd-quebec](https://www.papercall.io/kcd-quebec). Nous travaillons fort afin d'avoir un programme permettant de plaire à une large audience : technique et non-technique. Notre programme sera annoncé autour du 15 juillet 2020. Si vous connaissez quelqu'un qui aurait de l'intérêt à présenter lors de cette conférence, merci de partager ce lien !
+Notre campagne d'appel à conférencières et conférenciers est toujours ouverte : [https://www.papercall.io/kcd-quebec](https://www.papercall.io/kcd-quebec). Nous travaillerons fort afin d'avoir un programme permettant de plaire à une large audience : technique et non-technique. Si vous connaissez quelqu'un qui aurait de l'intérêt à présenter lors de cette conférence, merci de partager ce lien !
 
 Cette page sera actualisée dès que nous avons des avancements sur ces différents points dans l'organisation de cet évènement. En attendant, n'hésitez pas à lire notre "[Code de Conduite](/code-of-conduct)".
 
-Aussi, n'hésitez surtout pas à commencer à en parler autour de vous, cette journée se veut une belle opportunité pour apprendre et partager ensemble autour de l'Open Source, de Kubernetes et du "Cloud Native", on vous réserve de belles surprises et du contenu "sur la coche" ! ;)
+Aussi, malgré ces temps incertains, n'hésitez surtout pas à commencer à en parler autour de vous, cette journée se veut une belle opportunité pour apprendre et partager ensemble autour de l'Open Source, de Kubernetes et du "Cloud Native", on vous réserve de belles surprises et du contenu "sur la coche" ! ;)
