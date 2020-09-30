@@ -2,6 +2,9 @@ title = "Kubernetes Community Days"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 baseURL = "https://kubernetescommunitydays.org/"
 
+ [markup.goldmark.renderer]
+ unsafe = true
+
 [params]
 description = "A series of conferences devoted to the cloud native and [Kubernetes](https://kubernetes.io) ecosystem"
 font_awesome_version = "5.8.1"
@@ -18,6 +21,11 @@ twitter_handle = "KubernetesDays"
 tweet_limit = 5
 hero_banner = "hero-banner.jpg"
 google_analytics_id = "UA-82811140-39"
+covid_announcement = """
+The health, safety, and wellbeing of our community continues to be our highest priority. CNCF is focused on supporting our community during this unprecedented global pandemic. We believe in the value of face-to-face events and are proud to support this global event program.
+<br /><br />
+In this current environment, many of the early Kubernetes Community Days events have been postponed. The decision to hold or postpone is solely up to the event organizers. We are working closely with event organizers to coordinate details and look forward to reconnecting in person with our communities all around the world, as soon as it is safe to do so.
+"""
 
 [params.hero]
 logo = "kubernetes-community-days-whitetext.svg"
@@ -34,7 +42,7 @@ sizes = [300,400,600,700]
 type = "sans_serif"
 
 [params.social]
-twitter = "https://twitter.com/cloudnativefdn"
+twitter = "https://twitter.com/KubernetesDays"
 
 [[menu.main]]
 name = "Organizing"

@@ -1,11 +1,11 @@
-{{ $isEvent := and (eq .Section "events") (ne .CurrentSection .FirstSection) }}
-{{ $home    := site.BaseURL }}
-{{ $logo    := printf "admin/img/logos/%s" site.Params.navbar.logo | relURL }}
-{{ $menu    := site.Menus.main }}
-{{ $here    := .RelPermalink }}
-{{ $section := .CurrentSection }}
-{{ $url     := .RelPermalink }}
-{{ $allowed := site.Params.allowed_event_pages }}
+{{ $isEvent  := and (eq .Section "events") (ne .CurrentSection .FirstSection) }}
+{{ $home     := site.BaseURL }}
+{{ $logo     := printf "admin/img/logos/%s" site.Params.navbar.logo | relURL }}
+{{ $menu     := site.Menus.main }}
+{{ $here     := .RelPermalink }}
+{{ $section  := .CurrentSection }}
+{{ $url      := .RelPermalink }}
+{{ $dropdown := .CurrentSection.Params.dropdown_menu }}
 <nav class="navbar is-primary is-fixed-top">
   <div class="navbar-brand">
     <a class="navbar-item" href="{{ $home }}">
@@ -21,22 +21,11 @@
 
   <div id="navbar-menu" class="navbar-menu">
     {{ if $isEvent }}
-    {{ $title := .CurrentSection.Title }}
     <div class="navbar-start">
-      {{ with .CurrentSection }}
-      {{ $isEventRoot := eq $url .RelPermalink }}
-      <a class="navbar-item is-light has-text-weight-bold{{ if $isEventRoot }} is-active{{ end }}" href="{{ .RelPermalink }}">
-        {{ $title }} Overview
-      </a>
-
-      {{ range .Pages }}
-      {{ if and .Title (in $allowed .File.BaseFileName) }}
-      {{ $isActive := eq $url .RelPermalink }}
-      <a class="navbar-item is-light has-text-weight-bold{{ if $isActive }} is-active{{ end }}" href="{{ .RelPermalink }}">
-        {{ .Title }}
-      </a>
-      {{ end }}
-      {{ end }}
+      {{ if $dropdown }}
+      {{ partial "events/dropdown.html" . }}
+      {{ else }}
+      {{ partial "events/menu.html" . }}
       {{ end }}
     </div>
     {{ end }}

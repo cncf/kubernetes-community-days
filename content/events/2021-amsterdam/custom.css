@@ -1,0 +1,14 @@
+#event-hero {
+    background-image: url(/img/2021-amsterdam/backdrop.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+#event-title {
+    color: white !important;
+}
+
+#event-date {
+    color: white;
+}

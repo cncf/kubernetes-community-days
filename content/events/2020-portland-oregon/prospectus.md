@@ -15,6 +15,8 @@ _Two sponsors may split this sponsorship. In case of a split, each sponsor get a
 
 ## Gold: $3,000 (Limit 3)
 
+>We are sold out of Gold sponsorship opportunities.
+
 - Your logo on banner at conference site, conference materials, and website
 - A mention in all conference-related announcements
 - A thank you announcement in opening and closing presentations
