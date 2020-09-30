@@ -82,7 +82,7 @@ Merci pour votre compréhension et bien hâte de vous voir lors de cet évèneme
 
 La **Journée de la Communauté Kubernetes de Québec** sera le premier évènement dans son genre à Québec permettant de rassembler toutes les communautés et entreprises impliquées et intéressées par Kubernetes à Québec. Basé sur [KubeCon San Diego 2019](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) l'objectif de notre évènement local sera de présenter du contenu **technique et non technique autour de l'Open Source, de Kubernetes et du "Cloud Native"**.
 
-Cet évènement ne pourrait pas voir le jour sans nos sponsors, merci pour votre support ! Nos premiers sponsors sont Microsoft, RedHat, iA, MayaData, Lecentre.net et d'autres vont nous rejoindront. Si vous êtes intressés à contribuer à l'organisation de cet évènement et à son succès, n'hésitez pas à regarder nos [plans de commandites pour les sponsors](sponsor).
+Cet évènement ne pourrait pas voir le jour sans nos sponsors, merci pour votre support ! Nos premiers sponsors sont Microsoft, RedHat, iA, MayaData, Lecentre.net et d'autres vont nous rejoindre. Si vous êtes intressés à contribuer à l'organisation de cet évènement et à son succès, n'hésitez pas à regarder nos [plans de commandites pour les sponsors](sponsor).
 
 Notre campagne d'appel à conférencières et conférenciers est toujours ouverte : [https://www.papercall.io/kcd-quebec](https://www.papercall.io/kcd-quebec). Nous travaillerons fort afin d'avoir un programme permettant de plaire à une large audience : technique et non-technique. Si vous connaissez quelqu'un qui aurait de l'intérêt à présenter lors de cette conférence, merci de partager ce lien !
 
