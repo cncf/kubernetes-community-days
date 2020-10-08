@@ -34,8 +34,6 @@ Choose a submission format:
 * Panel: 35 minutes of discussion amongst 2 to 5 speakers
 * Tutorial: 90-minute, in-depth, hands-on presentation with 1–4 speakers
 
-Note: All submissions with 3–5 speakers are required to have at least one speaker that is a woman and the speakers must not all be from the same company.
-
 * Provide a detailed and focused description with a max of 900 characters. This is what will be used on the online schedule if your talk is accepted.
 * Provide more in-depth information in the “Benefits to the Ecosystem” section. This is your opportunity to elaborate on your content and share any more details with the committee with a max of 1,500 characters.
 * Provide a biography for all speakers, including previous speaking experience.

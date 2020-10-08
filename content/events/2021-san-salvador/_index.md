@@ -40,6 +40,18 @@ organizers:
   image: team/victor.JPG
   twitter: ''
   homepage: https://www.linkedin.com/in/electrocucaracha/
+- name: Rene Martinez, Korinver
+  image: team/genericavatar.svg
+  twitter: ''
+  homepage: https://www.linkedin.com/in/rene-martinez-2578ba161/
+- name: Stanley Jovel, Korinver
+  image: team/stanley.jpeg
+  twitter: ''
+  homepage: https://www.linkedin.com/in/luisjovel/
+- name: Eduardo Chavez, Korinver
+  image: team/eduardo.jpg
+  twitter: https://twitter.com/EddieChavz
+  homepage: https://www.linkedin.com/in/eduardo3150/
 organizers_email: organizers-bouvet-island-2020@kubernetescommunitydays.org
 local_law_enforcement: 911
 medical_emergency: 911

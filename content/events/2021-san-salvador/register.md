@@ -2,4 +2,4 @@
 title: Register
 ---
 
-Meetup.com / Eventbrite invite here
+More details for event registration will soon be provided.
