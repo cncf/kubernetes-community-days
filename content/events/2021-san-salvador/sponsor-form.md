@@ -1,7 +1,7 @@
 ---
 title: Sponsor Form
 ---
-**Kubernetes Days Bouvet Island* 
+**Kubernetes Days San Salvador* 
 
 **January 30, 2021**
 
@@ -9,29 +9,10 @@ title: Sponsor Form
 
 # Sponsorship Application Form
 
-## Sponsorships (check one):
-____    Host Sponsor (contact organizers to get pricing)
-
-____    Gold Sponsor $5,000
-
-____    Silver Sponsor $5,000
-
-____    Community Sponsor $1,000
+## Sponsorships:
+____    Corporate Sponsor $1,000
 
 ## Sponsorship Add-ons (check as many as applicable):
-____    General Session Chair Drop $1,000 (Limit of 2) 
-
-____    Coffee Sponsor $1,000 (Limit of 2)
-
-____    Lanyard Sponsor $1,000 (Limit of 1)
-
-____    Reception Sponsor $2,000 (Limit of 1)
-
-____    Lunch $15,000 (Limit of 2)
-
-____    Morning Snack Sponsorship $3,000 (Limit 2)
-
-____    Afternoon Snack Sponsorship $3,000 (limit 2)
 
 Total Sponsorship Amount:       $_____________________________
 
