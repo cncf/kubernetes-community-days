@@ -1,7 +1,7 @@
 ---
 title: Amsterdam
-date: '2021-04-08'
-end: '2021-04-09'
+date: '2021-09-09'
+end: '2021-09-10'
 location:
   country: The Netherlands
   city: Amsterdam
@@ -69,11 +69,11 @@ sponsor_deadline: '2021-03-30'
 
 <H1>Update May 2020</H1>
 
-As the world is suffering from the worst global crisis of this century, we decided to postpone the event to 2021, to keep everyone safe and to restart next year with renewed enthusiasm and passion. We are close to whoever in our community is struggling right now, losing their livelihoods or worse, feeling uncertain for the future and for their safety. We believe that the beginning of next year will be safe enough to meet again and have meaningful, safe in-person interactions; hence, we reached an agreement with the venue and we moved the event to beginning of April 2021
+As the world is suffering from the worst global crisis of this century, we decided to postpone the event to 2021, to keep everyone safe and to restart next year with renewed enthusiasm and passion. We are close to whoever in our community is struggling right now, losing their livelihoods or worse, feeling uncertain for the future and for their safety. We believe that the beginning of next year will be safe enough to meet again and have meaningful, safe in-person interactions; hence, we reached an agreement with the venue and we moved the event to beginning of September 2021
 
 <H2>CFP</h2>
 
-We have a new CFP link too, and we'll keep it open until the 15th of December 2020.
+We have a new CFP link too, and we'll keep it open until the 15th of April 2021.
 
 https://sessionize.com/kcdams2021/
 
