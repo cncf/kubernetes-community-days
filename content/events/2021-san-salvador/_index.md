@@ -9,12 +9,15 @@ location:
   url: https://en.wikipedia.org/wiki/San_Salvador
   venue: San Salvador
 map: el_salvador.png
-sched_slug: kubernetescommunitydaybouve
+sched_slug: kubernetescommunitydaybouve # Created a SCHED account using the San Salvador's CNCF email
 social:
-  twitter: 'https://twitter.com/Bouvet_3Y0Z'
+  twitter: 'https://twitter.com/kcdelsalvador'
 sponsors:
 - level: Initial sponsors
   orgs:
+  - name: Acopula Networks
+    logo: sponsors/acopula-networks.svg
+    url: https://www.linkedin.com/in/raulflamenco/
   - name: Samsung
     logo: sponsors/samsung.svg
     url: https://www.samsung.com/
@@ -22,11 +25,38 @@ sponsors:
     logo: sponsors/korinver.png
     url: https://www.korinver.com/
 speakers:
-- name: Phippy
+- name: Liza Escalante
   image: team/genericavatar.svg
-  twitter: https://twitter.com/cloudnativefdn
+  twitter: https://twitter.com/kcdelsalvador
   bio: Phippy is a simple PHP app, trying to find a home in a cloud native world.
-  homepage: https://phippy.io
+  homepage: ''
+- name: Victor Morales
+  image: team/victor.JPG
+  twitter: https://twitter.com/electrocucarach
+  bio: Broader experience in High Level Programming Languages.
+    Comfortable scripting deployments on Vagrant and Puppet frameworks. Proficient working with MS SQL Server and MySQL/MariaDB databases, as well as installation, configuration and troubleshooting of OpenStack environments.
+    Experienced in Continuous Integration/Continuous Deployment pipelines, as well as using Test-Driven Development practices and Open Source culture.
+  homepage: https://www.linkedin.com/in/electrocucaracha/
+- name: Oliver Gould
+  image: team/genericavatar.svg
+  twitter: https://twitter.com/kcdelsalvador
+  bio: Phippy is a simple PHP app, trying to find a home in a cloud native world.
+  homepage: ''
+- name: Juan Carlos Salvador
+  image: team/genericavatar.svg
+  twitter: https://twitter.com/kcdelsalvador
+  bio: Phippy is a simple PHP app, trying to find a home in a cloud native world.
+  homepage: ''
+- name: Raul Flamenco
+  image: team/raul.jpg
+  twitter: https://twitter.com/flamenco_raul
+  bio: Phippy is a simple PHP app, trying to find a home in a cloud native world.
+  homepage: https://www.linkedin.com/in/raulflamenco/
+- name: Eduar Tua
+  image: team/genericavatar.svg
+  twitter: https://twitter.com/eduartua
+  bio: Phippy is a simple PHP app, trying to find a home in a cloud native world.
+  homepage: ''
 organizers:
 - name: Raul Flamenco, Acopula Networks, Founder and CEO
   image: team/raul.jpg
@@ -38,7 +68,7 @@ organizers:
   homepage: https://www.linkedin.com/in/mauqvd/
 - name: Victor Morales, Samsung, Senior Staff Software Engineer
   image: team/victor.JPG
-  twitter: ''
+  twitter: https://twitter.com/electrocucarach
   homepage: https://www.linkedin.com/in/electrocucaracha/
 - name: Rene Martinez, Korinver
   image: team/genericavatar.svg
@@ -48,16 +78,24 @@ organizers:
   image: team/stanley.jpeg
   twitter: ''
   homepage: https://www.linkedin.com/in/luisjovel/
-- name: Eduardo Chavez, Korinver
-  image: team/eduardo.jpg
+- name: Eduardo Chávez, Korinver
+  image: team/eduardo.png
   twitter: https://twitter.com/EddieChavz
   homepage: https://www.linkedin.com/in/eduardo3150/
-organizers_email: organizers-bouvet-island-2020@kubernetescommunitydays.org
+- name: Carlos Recinos, Korinver
+  image: team/genericavatar.svg
+  twitter: ''
+  homepage: https://www.linkedin.com/in/carlos-recinos-293301192/
+- name: Rodrigo Morán, ABEU
+  image: team/rodrigo-moran.jpg
+  twitter: https://twitter.com/rodromoran
+  homepage: ''
+organizers_email: cloudnativeelsalvador@gmail.com
 local_law_enforcement: 911
 medical_emergency: 911
-cfp_deadline: '2018-09-01'
-sponsor_deadline: '2018-07-14'
-dropdown_menu: true
+cfp_deadline: '2021-01-22'
+sponsor_deadline: '2021-01-22'
+dropdown_menu: false
 ---
 
 Kubernetes Community Day El Salvador is going to be the first ever cloud native event in the Central American region.
