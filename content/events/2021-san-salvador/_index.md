@@ -84,7 +84,7 @@ organizers:
   homepage: https://www.linkedin.com/in/eduardo3150/
 - name: Carlos Recinos, Korinver
   image: team/genericavatar.svg
-  twitter: ''
+  twitter: 'https://twitter.com/recinosAWM'
   homepage: https://www.linkedin.com/in/carlos-recinos-293301192/
 - name: Rodrigo Morán, ABEU
   image: team/rodrigo-moran.jpg
