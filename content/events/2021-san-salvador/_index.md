@@ -9,7 +9,7 @@ location:
   url: https://en.wikipedia.org/wiki/San_Salvador
   venue: San Salvador
 map: el_salvador.png
-sched_slug: kubernetescommunitydaybouve # Created a SCHED account using the San Salvador's CNCF email
+sched_slug: '' # Created a SCHED account using the San Salvador's CNCF email
 social:
   twitter: 'https://twitter.com/kcdelsalvador'
 sponsors:
