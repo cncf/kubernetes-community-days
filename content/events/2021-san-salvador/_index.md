@@ -21,6 +21,12 @@ sponsors:
   - name: Samsung
     logo: sponsors/samsung.svg
     url: https://www.samsung.com/
+  - name: Glaswing International
+    logo: sponsors/glasswing.jpg
+    url: https://glasswing.org/el-salvador/
+  - name: Superate
+    logo: sponsors/superate.jpg
+    url: https://www.superate.org.sv/
   - name: Korinver
     logo: sponsors/korinver.png
     url: https://www.korinver.com/
