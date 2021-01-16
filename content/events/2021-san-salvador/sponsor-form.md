@@ -10,7 +10,6 @@ title: Sponsor Form
 # Sponsorship Application Form
 
 ## Sponsorships:
-
 ____    Corporate Sponsor $1,000
 
 ## Sponsorship Add-ons (check as many as applicable):
@@ -23,7 +22,6 @@ Company Name:__________________________________________________
 Contact Person:_________________________________________________
 
 Position/Title:________________________________________________
-
 Email: _________________________________________________________
 
 Company Address:________________________________________________
