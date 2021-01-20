@@ -18,9 +18,6 @@ sponsors:
   - name: Acopula Networks
     logo: sponsors/acopula-networks.svg
     url: https://www.linkedin.com/in/raulflamenco/
-  - name: Samsung
-    logo: sponsors/samsung.svg
-    url: https://www.samsung.com/
   - name: Glaswing International
     logo: sponsors/glasswing.jpg
     url: https://glasswing.org/el-salvador/
