@@ -116,7 +116,7 @@ organizers:
 - name: Rodrigo Morán, ABEU
   image: team/rodrigo-moran.jpg
   twitter: https://twitter.com/rodromoran
-  homepage: ''
+  homepage: https://www.linkedin.com/in/rodromoran
 organizers_email: cloudnativeelsalvador@gmail.com
 local_law_enforcement: 911
 medical_emergency: 911
