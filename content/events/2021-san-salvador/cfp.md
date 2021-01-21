@@ -4,7 +4,7 @@ title: Call for proposals
 
 Kubernetes Community Days are regional events that bring together hundreds of IT executives, cloud operators and technology providers to discuss cloud computing and to learn about Kubernetes.  These annual events are supported by the Cloud Native Computing Foundation and are organized by a community of local Kubernetes user groups and supporting companies.
 
-# First Time Submitting? Don’t Feel Intimidated
+## First Time Submitting? Don’t Feel Intimidated
 
 Kubernetes Community Days events are an excellent way to get to know the community and share your ideas and the work that you are doing. You do not need to be a chief architect or long-time industry pundit to submit a proposal, in fact, we strongly encourage first-time speakers to submit talks for all of our events.
 Considerations
@@ -24,7 +24,8 @@ We definitely do not expect every presentation to have code snippets and technic
 
 There are plenty of ways to give a presentation about projects and technologies without focusing on company-specific efforts. Remember the things to consider that we mentioned above when writing your proposal and think of ways to make it interesting for attendees while still letting you share your experiences, educate the community about an issue, or generate interest in a project.
 
-# How to submit your proposal
+## How to submit your proposal
+
 We have done our best to make the submission process as simple as possible. Here is what you will need to prepare:
 Choose a submission format:
 
@@ -39,10 +40,10 @@ Choose a submission format:
 * Provide a biography for all speakers, including previous speaking experience.
 * Provide resources to enhance your proposal. These can be videos of you or your speakers presenting elsewhere, links to personal websites (including LinkedIn), links to your open source projects, or published books.
 * If you choose to submit a tutorial please explicitly mention what the audience will learn from or walk away with after attending your session. Additionally, please indicate what prerequisites (if any) are needed for the attendee to know prior to attending, and if any materials should be brought with them or downloaded ahead of time (i.e. must install Python 2.7.15) prior to attending.
-* Submit speaking session to <name>, <email address>. 
+* Submit speaking session to **Raul Flamenco**, [cloudnativeelsalvador@gmail.com](mailto:cloudnativeelsalvador@gmail.com).
 
-# Code of conduct
+## Code of conduct
 
 The Kubernetes Community Days are dedicated to providing a  harassment-free experience for participants at all of our events. We encourage all submitters to review our complete [Code of Conduct](/code-of-conduct).
 
-If you have any questions regarding the process, please contact [organizers-bouvet-island@kubernetescommunitydays.org](mailto:organizers-bouvet-island@kubernetescommunitydays.org).
+If you have any questions regarding the process, please contact [cloudnativeelsalvador@gmail.com](mailto:cloudnativeelsalvador@gmail.com).

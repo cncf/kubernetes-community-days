@@ -2,4 +2,4 @@
 title: Register
 ---
 
-More details for event registration will soon be provided.
+Please RSVP for the event [here](https://community.cncf.io/events/details/cncf-san-salvador-presents-kubernetes-community-day-el-salvador/#/).
