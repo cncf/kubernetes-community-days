@@ -63,7 +63,7 @@ organizers:
 organizers_email: organizers-amsterdam@kubernetescommunitydays.org
 local_law_enforcement: 112
 medical_emergency: 112
-cfp_deadline: '2020-12-01'
+cfp_deadline: '2021-04-15'
 sponsor_deadline: '2021-03-30'
 ---
 
