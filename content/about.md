@@ -3,15 +3,16 @@ title: About Kubernetes Community Days
 weight: 1
 ---
 
-Kubernetes Community Days are community organized events that gathers adopters and technologists from open source and cloud native communities to learn, collaborate, and network to further advancement in Kubernetes. They also are a lot of fun and a great way to meet new people and build community.
+Cloud Native Community Forums are community organized events that gathers adopters and technologists from open source and cloud native communities to learn, collaborate, and network to further advancement in Kubernetes and other cloud native technologies. They also are a lot of fun and a great way to meet new people and build community.
 
-## Host a Kubernetes Community Days 
+## Host a Cloud Native Community Forum 
 
-Kubernetes Community Days are community organized education events to bring people together to learn, collaborate, and network. Each event brings its own local flair, culture, diversity, and authenticity.                         
+Cloud Native Community Forums are community organized education events to bring people together to learn, collaborate, and network. Each event brings its own local flair, culture, diversity, and authenticity.
+
 ### Core Organizers
 
-[Dan Kohn](https://www.dankohn.com), Chris Blum, Jennifer Davis
+Bill Mulligan, Ihor Dvoretskyi
 
 ### Contact a specific event
 
-Organization is decentralized. Local events handle their own sponsorships, registration, and all other organizations. For questions about a specific event you see listed on the site, contact the local organizers for that event; their email is on their contact page.
+Organization is decentralized. Local events handle their own sponsorships, registration, and all other organizational details. For questions about a specific event, contact the local organizers for that event; their contact info is on the event page.
