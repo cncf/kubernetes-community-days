@@ -98,6 +98,11 @@ speakers:
   twitter: ''
   bio: Irina is a DevOps Engineer and Agile Facilitator at Intel. She is passionate about helping teams and customers working with CNCF technologies achieve their goals and real-world value. Irina has worked in Cloud Automation, Dev, Scrum Master and DevOps roles. She is one of the organizers of the CNCF Costa Rica community and is currently starting her journey as an open-source contributor.
   homepage: ''
+- name: Ashar Rizqi, Blameless - Co-Founder
+  image: speakers/ashar.jpg
+  twitter: https://twitter.com/asharrizqi
+  bio: Ashar is co-founder of Blameless, a company whose mission is to build better software through SRE and enable every enterprise developer to gain SRE superpowers through a SaaS platform. Prior to Blameless, he held various leadership roles in cloud engineering at Box and Mulesoft. Ashar cares deeply about building resilient systems and advancing blameless culture.
+  homepage: ''
 - name: Victor Morales, Samsung - Senior Cloud Software Engineer
   image: team/victor.JPG
   twitter: https://twitter.com/electrocucarach
