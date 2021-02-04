@@ -21,11 +21,6 @@ twitter_handle = "KubernetesDays"
 tweet_limit = 5
 hero_banner = "hero-banner.jpg"
 google_analytics_id = "UA-82811140-39"
-covid_announcement = """
-The health, safety, and wellbeing of our community continues to be our highest priority. CNCF is focused on supporting our community during this unprecedented global pandemic. We believe in the value of face-to-face events and are proud to support this global event program.
-<br /><br />
-In this current environment, many of the early Kubernetes Community Days events have been postponed. The decision to hold or postpone is solely up to the event organizers. We are working closely with event organizers to coordinate details and look forward to reconnecting in person with our communities all around the world, as soon as it is safe to do so.
-"""
 
 [params.hero]
 logo = "kubernetes-community-days-whitetext.svg"
