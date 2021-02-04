@@ -21,17 +21,21 @@ The first thing you need to do is create a [GitHub](https://github.com) account 
 # Interested in Organizing a Kubernetes Community Days?
 
 * Go to https://github.com/cncf/kubernetes-community-days.
-* If you are looking to find other organizers in your area, go to https://github.com/cncf/kubernetes-community-days/projects/2 and see if there are any events in your area. If there *is* an event that is being planned or has already taken place, contact that events' organizers to find out how you can get involved by adding a comment to their issue.
+* If you are looking to find other organizers in your area, go to the [discussions](https://github.com/cncf/kubernetes-community-days/discussions/) and [project board](https://github.com/cncf/kubernetes-community-days/projects/2) to see if there are any events in your area. If there *is* an event that is being planned or has already taken place, contact that events' organizers to find out how you can get involved by adding a comment to their discussion or issue.
 
-* If there are no events in your area, open an issue:
+* If there are no events in your area, open a discussion:
 
-  * Go to https://github.com/cncf/kubernetes-community-days/issues and click **New Issue**.
+  * Go to https://github.com/cncf/kubernetes-community-days/discussions/ and click **New Discussion**.
+  
+## Creating your issue
+
+* Go the the issues tab
 
 * Click **Get started** on the **Organize Event** option
 
     ![Screenshot](/admin/img/howto/createissue.png)
 
-* In the **Title** space enter "KCD <your city, your country>, Date (if you have one)." The title for Tbilisi, Georgia in 2021, for example, would be "KCD 2021, Tbilisi, Georgia."
+* In the **Title** space enter "Year, Location." The title for Tbilisi, Georgia in 2021, for example, would be "2021, Tbilisi, Georgia."
 
 * If you are just getting started, fill in as much detail as possible about your event in the **Write** area
   * Organizers information (name, company, title, email)
@@ -69,7 +73,7 @@ KCD organizers will then review your issue.
 * Once approved to build your site. 
 
 # Creating your Kubernetes Community Days Event Site
-Once your issue is approved, you will receive your email alias and schedu account.
+Once your issue is approved, you will receive your email alias and CNCG event.
 You will then create your website in the cncf/kubernetes-community-days/ repo. 
 You will receive access to kcd-organizers slack channel.
 
@@ -119,9 +123,9 @@ A branch is a parallel version of a repository. It is contained within the repos
  
 ![Screenshot](/admin/img/howto/createevent.png)
 
- * Enter the name: “year-yourcity/”
+ * Enter the name: “year-yourlocation/”
  * Next enter ``.empty” (this will create your event folder)
- * Scroll to the bottom and enter your comments on what you did (i.e. “created year-yourcity”
+ * Scroll to the bottom and enter your comments on what you did (i.e. “created year-yourlocation”
  * Click “Commit new file”
  
 ![Screenshot](/admin/img/howto/event2.png)
@@ -280,52 +284,7 @@ You will need to update the email address on this page with your organizers emai
  ![Screenshot](/admin/img/howto/contact1.png)
 
 ## program.md
-For your event program please use Sched.com. You will recieve info on logging into Sched from the CNCF team.
-When you login to Sched go to your event.
-
-* Click on the admin button
-* Click “extended fields” and enter your teams information
-* Add all your admins that will be working on the program page here
-
-![Screenshot](/admin/img/howto/program1.png)
-
-* Click on “schedule’ the top nav bar
-* Click on “this spreadsheet template” 
-
-![Screenshot](/admin/img/howto/program2.png)
-
-* Download the spreadsheet
-* FIll in as much information as you can
-* In column “C” 
- * Enter “Y” if you want the content published
- * Enter “N” if you do not want the content published
-* When you have entered all your information simply upload the template
-
-
-![Screenshot](/admin/img/howto/program3.png)
-
-* Click “finish import”
-* Once the file has been imported you will receive an email 
-* Click on “Schedule” at the top and your schedule will appear
-* If you want to make changes, simply update the spreadsheet and upload it
-
-Embed the Sched link into your KCD page
-
-* Go to Sched page
-* Copy the front part of your URL before “sched”
-
-![Screenshot](/admin/img/howto/program4.png)
-
-* Go your events ._index.md page
-* Be sure to work in Fork 
-* Be sure to create a Branch off your Fork
-* Click edit 
-* Look for “sched_slug: kubernetescommunitydaybouve” (Line 10 or 11)
-* Paste your events info over “kubernetescommunitydaybouve”
-* Enter your comments
-* Click “commit changes”
-
-![Screenshot](/admin/img/howto/program5.png)
+For your event program please use your event on [Cloud Native Community Groups](https://community.cncf.io/). You will recieve info about your event from the CNCF team.
 
 ## speakers.md
 This page will pull in your speakers' photo, bio, and Twitter handle from the `_index.md` page. You will need to make sure the link to the `cfs.md` is working and you enter your close date for accepting speakers. 
@@ -369,7 +328,7 @@ This page will require customization for your event. These are the sponsorship l
 
 ## venue.md
 
-This page will need to be completely updated with your specific venue information including location, map, directions to the venue, local public transportation, and parking. Be sure to include any specifics on parking and cost. 
+This page will need to be completely updated with your specific venue information including location, map, directions to the venue, local public transportation, and parking. Be sure to include any specifics on parking and cost. If the event is virtual, please link to your event on Cloud Native Community Groups.
 
 * Update your event name
 * Update location
@@ -451,7 +410,7 @@ Once you have made all your changes to branch you will want to merge it with you
 ![Screenshot](/admin/img/howto/pr6.png)
 
 
-* When you open the pull request make sure “call checks have passed” and “the branch has no conflicts. If there are any issues here, you need to fix them before you can close your pull request (see the next section on how to resolve conflicts). 
+* When you open the pull request make sure “all checks have passed” and “the branch has no conflicts. If there are any issues here, you need to fix them before you can close your pull request (see the next section on how to resolve conflicts). 
 
 ![Screenshot](/admin/img/howto/pr7.png)
 
