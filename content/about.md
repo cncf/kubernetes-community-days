@@ -7,10 +7,11 @@ Kubernetes Community Days are community organized events that gathers adopters a
 
 ## Host a Kubernetes Community Days 
 
-Kubernetes Community Days are community organized education events to bring people together to learn, collaborate, and network. Each event brings its own local flair, culture, diversity, and authenticity.                         
+Kubernetes Community Days are community organized education events to bring people together to learn, collaborate, and network. Each event brings its own local flair, culture, diversity, and authenticity.
+
 ### Core Organizers
 
-[Dan Kohn](https://www.dankohn.com), Chris Blum, Jennifer Davis
+Bill Mulligan, Ihor Dvoretskyi
 
 ### Contact a specific event
 
