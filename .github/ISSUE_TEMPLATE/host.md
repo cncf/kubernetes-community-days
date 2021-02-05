@@ -7,7 +7,7 @@ about: 'Use this form to host a Kubernetes Community Day event in your region'
 
 Please fill in information, organizers, and sponsors as you assemble them, and then make a new comment when this application is ready for review.
 
-### Event City:
+### Event Location:
 
 ### Event type: 
 <!-- chose virtual, hybrid, or in person -->
