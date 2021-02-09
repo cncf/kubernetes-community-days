@@ -40,3 +40,7 @@ DevOpsDays has been successful bringing on sponsors without having them sign [co
 ## Why do I need a fiscal sponsor? Can I just use Stripe or Debit cards to accept payment? #
 
 Each event needs a fiscal sponsor or company that agrees to accept payments. In most cases, one of the organizer's employers will agree to serve as a fiscal sponsor. In the future, CNCF is working on a scenario of enabling the use of Debit cards and Stripe accounts to be able to receive and distribute money.
+
+## I have another question, who can I ask?
+
+Please reach out to kcd@cncf.io or contact us on the CNCF Slack. Create a free [account](https://slack.cncf.io) and come to the [#kcd-formation](https://cloud-native.slack.com/messages/CN6LBV16G) channel.
