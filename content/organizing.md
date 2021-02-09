@@ -103,5 +103,5 @@ We recommend assigning the following responsibilities to one or two members of y
 
 The current organizers are Bill Mulligan and Ihor Dvoretskyi.
 
-You can reach us on the CNCF Slack. Create a free [account](https://slack.cncf.io) and come to the [#kcd-formation](https://cloud-native.slack.com/messages/CN6LBV16G) channel.
+You can reach us at kcd@cncf.io or on the CNCF Slack. Create a free [account](https://slack.cncf.io) and come to the [#kcd-formation](https://cloud-native.slack.com/messages/CN6LBV16G) channel.
 
