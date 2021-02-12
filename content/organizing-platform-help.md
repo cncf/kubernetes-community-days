@@ -4,7 +4,7 @@ Whether this is your first time hosting an event or 100th, learning how to use a
 
 ## Helpful How tos for Chapter Admins:
 * [Self-paced video tutorials](https://help.bevylabs.com/category/524-chapter-organizer-videos)
-* [Sending chapter newsletters])(https://help.bevylabs.com/article/358-sending-chapter-newsletters)
+* [Sending chapter newsletters](https://help.bevylabs.com/article/358-sending-chapter-newsletters)
 * [Day of event best practices](https://help.bevylabs.com/article/392-day-of-event-best-practices)
 * [Managing chapter members](https://help.bevylabs.com/article/389-managaing-chapter-members)
 * [Managing a waitlist](https://help.bevylabs.com/article/268-managing-a-waitlist)
