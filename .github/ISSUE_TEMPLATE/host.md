@@ -9,7 +9,7 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 
 ### Event Location:
 
-### Event Date:
+### Event Date and Time:
 
 ### Event type: 
 <!-- chose virtual, hybrid, or in person -->
@@ -30,8 +30,6 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] Event date and time has been chosen
 * [ ] Added usernames for [CNCF Slack](https://slack.cncf.io/) for all organizers so that we can add you to the #kcd-organizers channel
 * [ ] Create a Twitter handle specific to your KCD event (except for countries like China and Korea where Twitter is not used) 
-
-### Event date and time:
 
 ### Expected Number of Attendees:
 
