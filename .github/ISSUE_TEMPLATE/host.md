@@ -31,6 +31,7 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] Added usernames for [CNCF Slack](https://slack.cncf.io/) for all organizers so that we can add you to the #kcd-organizers channel
 * [ ] Create a Twitter handle specific to your KCD event (except for countries like China and Korea where Twitter is not used) 
 * [ ] Organizer email alias has been created
+* [ ] Region and event has been created in Bevy
 
 ### Expected Number of Attendees:
 
