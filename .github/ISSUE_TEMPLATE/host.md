@@ -9,6 +9,8 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 
 ### Event Location:
 
+### Event Date:
+
 ### Event type: 
 <!-- chose virtual, hybrid, or in person -->
 ### Submission checklist:
