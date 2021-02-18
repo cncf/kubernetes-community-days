@@ -25,12 +25,13 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] Agree to offer (at minimum) 3 complimentary tickets to increase diversity for the event
 * [ ] Agree to use Cloud Native Community Groups for registration, scheduling, and event website
 * [ ] Agree to use SM Apply for CFP
-* [ ] Agree that virtual events can have max one track and 500 participants
 * [ ] Event date and time has been chosen
 * [ ] Added usernames for [CNCF Slack](https://slack.cncf.io/) for all organizers so that we can add you to the #kcd-organizers channel
 * [ ] Create a Twitter handle specific to your KCD event (except for countries like China and Korea where Twitter is not used) 
 
 ### Event date and time:
+
+### Expected Number of Attendees:
 
 ### Organizer 1: First and Last Name, Company, Title, Email, CNCF Slack Username
 ### Organizer 2: First and Last Name, Company, Title, Email, CNCF Slack Username
