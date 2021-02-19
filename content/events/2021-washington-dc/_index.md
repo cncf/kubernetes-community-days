@@ -1,6 +1,6 @@
 ---
 title: Washington, DC
-date: '2021-03-16'
+date: '2021-11-04'
 location:
   countrycode: us
   country: United States
@@ -58,11 +58,11 @@ medical_emergency: 112
 
 # Novel Coronavirus Update
 
-Due to the current pandemic and to keep everyone safe, we decided to postpone the event to 2021. We hope that the beginning of next year will be safe enough to meet in-person. Stay safe and hope to see you all in March 2021.
+Due to the current pandemic and to keep everyone safe, we decided to hold the event virtually. Stay safe and hope to see you all November 4, 2021.
 
 # Hosted at American Red Cross, a CNCF Nonprofit Member
 
-We are excited to announce the Kubernetes Community Days in Washington, DC is being held on March 16, 2021 -- the first of its kind in the DC Metro Area. Join us for a one-day technical conference, filled with thought-provoking talks and networking opportunities at the historic Red Cross Square in downtown Washington, DC.
+We are excited to announce the Kubernetes Community Days in Washington, DC is being held on November 4, 2021 -- the first of its kind in the DC Metro Area. Join us for a one-day technical conference, filled with thought-provoking talks and networking opportunities at the historic Red Cross Square in downtown Washington, DC.
 
 [Subscribe to our KCD DC mailing list](https://mailchi.mp/9bba9529e871/kubernetescommunitydayswashingtondc) and/or follow us on [Twitter](https://twitter.com/KubeDaysDC) for event updates.
 
@@ -80,11 +80,11 @@ We are thrilled to be holding our conference in the historic Hall of Service at 
 
 # Speakers
 
-Interested in speaking? Head over to [our CFP page]({{< relref "speakers.md" >}}). 
+Interested in speaking? Head over to [our CFP page]({{< relref "speakers.md" >}}).
 
 # DC Kubernetes Meetup
 
-Can’t wait until March? Join our [Kubernetes meetup group](https://www.meetup.com/All-Things-Kubernetes-k8s-DC/) and our brand new slack channel (#meetup-dc) on Kubernetes' slack to learn from and network with your peers.
+Can’t wait until November? Join our [Kubernetes meetup group](https://www.meetup.com/All-Things-Kubernetes-k8s-DC/) and our brand new slack channel (#meetup-dc) on Kubernetes' slack to learn from and network with your peers.
 
 # Code of Conduct
 
