@@ -5,7 +5,7 @@ title: Registration
 Once pricing has been decided you’re ready to set up registration. Here are some basic guidelines.
 
 * Use [Bevy](https://community.cncf.io/) for registration and payments
-* Keep registration fees below 100 USD / 70 EU - the lower the better to attract a more diverse group of attendees
+* Keep registration fees below 100 USD / 70 EU (free for virtual only events) - the lower the better to attract a more diverse group of attendees
 * Sell tickets on a first-come/first-serve basis that is completely open to the public
 * Offer “early bird” pricing (10% to 25% discount)  to drive initial registration
 * Registration lists may NOT be used for commercial or marketing purposes
@@ -13,7 +13,7 @@ Once pricing has been decided you’re ready to set up registration. Here are so
 * Event organizers must add the following statement to the registration page:
   “Personal information gathered by the organizers is handled in accordance with the Foundation’s Privacy Policy and is used for internal purposes only."
 
-Please add the following question to the registration page to help CNCF gather demographic information. Please share this information with the CNCF after the event
+Please add the following question to the registration page to help CNCF gather demographic information. You can find out how to add it to the registration process in [this article](https://help.bevylabs.com/article/386-editing-event-forms).
 
 * What is your current Organizational Role at your company? (please check one):
  * Business Development/Sales/Marketing
