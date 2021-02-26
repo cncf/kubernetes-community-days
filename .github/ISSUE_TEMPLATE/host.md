@@ -19,6 +19,7 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 
 * [ ] No other Kubernetes Community Day event in the same region 
 * [ ] Minimum of 3 organizers from 3 different organizations
+* [ ] Every organizer has an account on [Cloud Native Community Groups](https://community.cncf.io/)
 * [ ] Each organizer lives in or just outside of the KCD location
 * [ ] At least one organizer is a CNCF member employee, CNCF ambassador, or CNCF project maintainer
 * [ ] All organizers agree to follow the event guidelines and CNCF Code of Conduct
