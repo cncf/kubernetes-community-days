@@ -1,4 +1,7 @@
-DirectoryPath: public
+
 IgnoreDirectoryMissingTrailingSlash: true
-CheckExternal: false
+
 IgnoreAltMissing: true
+Hello
+Solving an issue
+New issue
