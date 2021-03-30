@@ -2,7 +2,7 @@
 title: Budget and Finances
 ---
 
-Basic guidelines
+### Basic guidelines
 
 * Add up the budgets (venue, food, parties space, schwag, scholarships) to generate a total event budget to determine the amount of money needed to cover costs
 * Plan on covering most of the expenses through sponsorships to keep ticket prices low
@@ -15,13 +15,13 @@ Basic guidelines
   * Providing access to the event (travel & data costs, ect)
 * Allow 10% overage as there are often unexpected costs
 
-Role of finance team/lead
+### Role of finance team/lead
 
 * Invoicing sponsors and accepting their payments
 * Accepting money from and (as needed) sending official invoices to people that register
 * Paying suppliers like the venue, catering, T-shirts, etc
 
-Finance management options
+### Finance sponsor/management options
 The way many  organizers have handled money management is to find a local company that is willing to handle the logistics. In some countries, a local company is the only way to handle the taxes.
 
 Option 1: One of the organizer's companies serve as the financial sponsor. They will need to be able to do the following:
@@ -33,9 +33,11 @@ Option 1: One of the organizer's companies serve as the financial sponsor. They 
 Option 2: If a local company is not an option, we recommend several companies that are willing to help you for a fee, generally 10%. 
 
 US Based: TBD
-
 EU Based: Bernd from [Netways](http://www.netways.com)
-
 If you would like to use this method, contact us on the [KCD Organizers Slack channel](https://cloud-native.slack.com/archives/CN6LBV16G) to get more details.
+
+Option 3: Set up an open ledger
+
+[Open Collective](https://opencollective.com/) and [LFX Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/#events) allow you to collect payments and submit expenses in a transparent way for you community.
 
 
