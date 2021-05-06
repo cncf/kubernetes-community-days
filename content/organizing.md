@@ -48,8 +48,8 @@ Once you have found and organized your team through Github discussions, it it ti
 * Have a method to accept payments (sponsorships, tickets) and make payments (catering, A/V, other costs)
 * Verify that all organizers have agreed to these event guidelines and to abide by the Kubernetes Community Day [Code of Conduct](/code-of-conduct/)
 * Schedule an event date a minimum of 6 months after  you file your event request with CNCF request submission,  (9 months prior is preferable)
-* Agree to use [Cloud Native Community Groups](https://www.community.cncf.io/) for [registration and ticketing](https://help.bevylabs.com/article/369-manage-event-ticketing)*
-* Agree to use [Cloud Native Community Groups](https://www.community.cncf.io/) for organizing the program page*
+* Agree to use [Cloud Native Community Groups](https://community.cncf.io/) for [registration and ticketing](https://help.bevylabs.com/article/369-manage-event-ticketing)*
+* Agree to use [Cloud Native Community Groups](https://community.cncf.io/) for organizing the program page*
 * Agree to use [SM Apply](https://apply.surveymonkey.com/) for the CFP*
 * Confirm that one of the organizer's employers will agree to serve as a fiscal sponsor*
 * Share CNCF Slack usernames for all organizers to be added to #KCD-organizers channel*
