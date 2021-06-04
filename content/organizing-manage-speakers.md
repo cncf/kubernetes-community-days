@@ -58,3 +58,8 @@ Recruiting a diverse speaker slate requires extra effort. Some ideas for this in
 * Check in with all speakers on event day to make sure they are ready
 * Provide constructive post-event feedback with concrete advice
 
+## Help with the SM Apply Platform
+
+* Help Center Resources: https://help.smapply.io/hc/en-us
+* Training Videos: https://help.smapply.io/hc/en-us/categories/115000187973-Implementation-Training-Videos
+* Build + Launch: https://help.smapply.io/hc/en-us/sections/115000405794-Build-Videos
