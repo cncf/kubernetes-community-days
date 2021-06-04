@@ -98,6 +98,7 @@ All events must be called “Kubernetes Community Days LOCATION”, e.g. Kuberne
 * [CNCF Speakers' Bureau](https://www.cncf.io/speakers/) to connect with expert speakers within the cloud native ecosystem.
 * [CNCF Digital Assets](https://github.com/cncf/artwork) for  event promotions.
 * [How to work with the Bevy platform](https://github.com/cncf/kubernetes-community-days/blob/master/content/organizing-platform-help.md)
+* SM Apply [Help Center](https://help.smapply.io/hc/en-us) and [Training videos](https://help.smapply.io/hc/en-us/categories/115000187973-Implementation-Training-Videos)
 * [FAQ](/organizing-faq)
 
 ## Core Organizers
