@@ -27,11 +27,11 @@ We acknowledge that this makes being a KCD organizer more difficult for employee
 
 ## Is CNCF underwriting these events or does that fall on the organizers?
 
-The organizers are taking on the risk of running the events. License costs for the platform is covered by CNCf.
+The organizers are taking on the risk of running the events. License costs for the platform is covered by CNCF.
 
 ## Will CNCF host the website or does one of the organizers have to take ownership?
 
-Organizers are responsible for creating the content, but CNCF hosts the website. All program content must be reflected on the the official CNCF-hosted page. Lots of details are in the [creating website](/organizing-creating-website/) page. In particular, we don't allow KCDs to have a separate website, because we want all changes to come through the KCD GitHub repo so that we can review changes and engage if there is any problematic content.
+Organizers are responsible for creating the content, but CNCF hosts the website on Bevy. All program content must be reflected on the the official CNCF-hosted event.
 
 ## What corporate entity should sponsors sign a contract with?
 
