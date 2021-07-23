@@ -32,7 +32,8 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] Please list who should be added as an admin for the CFP:
 * [ ] Event date and time has been chosen
 * [ ] Added usernames for [CNCF Slack](https://slack.cncf.io/) for all organizers so that we can add you to the #kcd-organizers channel
-* [ ] Create a Twitter handle specific to your KCD event (except for countries like China and Korea where Twitter is not used) 
+* [ ] Create a Twitter handle specific to your KCD event (except for countries like China and Korea where Twitter is not used)
+* [ ] Provided CNCF access to all event social handles
 * [ ] Organizer email alias has been created
 * [ ] Region and event has been created in Bevy
 
