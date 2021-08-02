@@ -13,6 +13,7 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 
 ### Event type: 
 <!-- chose virtual, hybrid, or in person -->
+
 ### Submission checklist:
 
 *Please check each of these as you complete them:
@@ -36,6 +37,8 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] Provided CNCF access to all event social handles
 * [ ] Organizer email alias has been created
 * [ ] Region and event has been created in Bevy
+* [ ] CfP open and close dates decided
+* [ ] Website launch date decided
 
 ### Expected Number of Attendees:
 
