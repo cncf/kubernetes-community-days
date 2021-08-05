@@ -43,7 +43,7 @@ Once you have found and organized your team through Github discussions, it it ti
 
 * Verify that no other Kubernetes Community Day events are planned in your local area
 * Have a minimum of 3 local organizers (5 is recommended) from at least 3 different organizations. Each organizer needs to live in or just outside of the KCD location.
-* Have a minimum of 3 sponsors***
+* Have a minimum of 3 sponsors (Not required for virtual only events) ** 
 * Make sure that at least one organizer is an employee of a CNCF [member](https://www.cncf.io/about/members/), an [Ambassador](https://www.cncf.io/people/ambassadors/), or a CNCF project [maintainer](http://maintainers.cncf.io/)
 * Have a method to accept payments (sponsorships, tickets) and make payments (catering, A/V, other costs)
 * Verify that all organizers have agreed to these event guidelines and to abide by the Kubernetes Community Day [Code of Conduct](code-of-conduct.md)
@@ -51,15 +51,12 @@ Once you have found and organized your team through Github discussions, it it ti
 * Agree to use [Cloud Native Community Groups](https://community.cncf.io/) for [registration and ticketing](https://help.bevylabs.com/article/369-manage-event-ticketing)*
 * Agree to use [Cloud Native Community Groups](https://community.cncf.io/) for organizing the program page*
 * Agree to use [SM Apply](https://apply.surveymonkey.com/) for the CFP*
-* Confirm that one of the organizer's employers will agree to serve as a fiscal sponsor*
-* Share CNCF Slack usernames for all organizers to be added to #KCD-organizers channel*
-* Create Twitter handle for specific KCD event (like @KCD-BouvetIsland) except for countries like China and Korea where Twitter is not used**
+* Share CNCF Slack usernames for all organizers to be added to #KCD-organizers channel
+* Create Twitter handle for specific KCD event (like @KCD-BouvetIsland) except for countries like China and Korea where Twitter is not used
 
 Once your team meets these criteria, you can create a GitHub [issue](https://github.com/cncf/kubernetes-community-days/issues/) to notify CNCF that you wish to be officially recognized. Your organizing team will be invited to the [#kcd-organizers](https://cloud-native.slack.com/messages/GN6R2PV1A) private Slack channel where you can connect with other Kubernetes Community Days organizers around the world. At this time, the Core Organizers will also grant you access to our preferred tools and create email aliases (for general organizers and sponsorships). You can then begin creating your website and event platform. Copy the page structure of the [Bouvet Island](/events/2019-bouvet-island) sample event as a guide. Here’s [instructions](/organizing-creating-website).
 
-*  For the launch of KCD, we are standardizing on familiar tools to enable CNCF support and KCD Organizers to support each other. We understand the challenge of using new services and the specific privacy policies of the selected software.
-
-** Where our standard tools are blocked, CNCF will work with KCD organizers to determine alternatives. 
+* Where our standard tools are blocked, CNCF will work with KCD organizers to determine alternatives. 
 
 ** For the launch, we want to ensure that each KCD is successful. Part of ensuring the success of the event is to have the first 3 sponsors committed. We acknowledge requiring KCD Organizers to have 3 sponsors committed prior to the approval of your event can be challenging.
 
@@ -99,6 +96,7 @@ All events must be called “Kubernetes Community Days LOCATION”, e.g. Kuberne
 * [CNCF Digital Assets](https://github.com/cncf/artwork) for  event promotions.
 * [How to work with the Bevy platform](https://github.com/cncf/kubernetes-community-days/blob/master/content/organizing-platform-help.md)
 * SM Apply [Help Center](https://help.smapply.io/hc/en-us) and [Training videos](https://help.smapply.io/hc/en-us/categories/115000187973-Implementation-Training-Videos)
+* How to deal with [disagreements between organizers](resolving-organizer-disagreements.md)
 * [FAQ](/organizing-faq)
 
 ## Core Organizers
