@@ -25,7 +25,7 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] At least one organizer is a CNCF member employee, CNCF ambassador, or CNCF project maintainer
 * [ ] All organizers agree to follow the event guidelines and CNCF Code of Conduct
 * [ ] All organizers have taken [Inclusive Open Source Community Orientation (LFC102)](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
-* [ ] Minimum of 3 sponsors committed
+* [ ] Minimum of 3 sponsors committed (not required for virtual only events)
 * [ ] Identified fiscal sponsor that can accept payments such as from sponsorships and pay out expenses
 * [ ] Agree to offer (at minimum) 3 complimentary tickets to increase diversity for the event
 * [ ] Agree to use Cloud Native Community Groups for registration, scheduling, and event website
