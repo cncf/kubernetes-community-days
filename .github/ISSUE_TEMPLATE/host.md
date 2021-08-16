@@ -40,6 +40,7 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] Region and event has been created in Bevy
 * [ ] CfP open and close dates decided
 * [ ] Website launch date decided
+* [ ] Set up monthly check in with CNCF
 
 ### Expected Number of Attendees:
 
