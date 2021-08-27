@@ -14,7 +14,7 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 ### Event type: 
 <!-- chose virtual, hybrid, or in person -->
 
-### Submission checklist:
+### Submission checklist for organizers:
 
 *Please check each of these as you complete them:
 
@@ -31,22 +31,33 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] Agree to offer (at minimum) 3 complimentary tickets to increase diversity for the event
 * [ ] Agree to use Cloud Native Community Groups for registration, scheduling, and event website
 * [ ] Agree to use SM Apply for CFP
-* [ ] Please list who should be added as an admin for the CFP:
 * [ ] Event date and time has been chosen
 * [ ] Added usernames for [CNCF Slack](https://slack.cncf.io/) for all organizers so that we can add you to the #kcd-organizers channel
 * [ ] Create a Twitter handle specific to your KCD event (except for countries like China and Korea where Twitter is not used)
 * [ ] Provided CNCF access to all event social handles
 * [ ] Organizer email alias has been created
-* [ ] Region and event has been created in Bevy
-* [ ] CfP open and close dates decided
-* [ ] Website launch date decided
-* [ ] Set up monthly check in with CNCF
+
+CfP open and close dates:
+Website launch date:
+
+### Submission checklist for CNCF:
+* [ ] Region created in Bevy
+* [ ] Added to Bevy header
+* [ ] CfP created
+
+### Post Event checklist:
+* [ ] Removed from Bevy header
+* [ ] CfP deactivated
+* [ ] Videos uploaded to Youtube and linked to event page
+
 
 ### Expected Number of Attendees:
 
 ### Organizer 1: First and Last Name, Company, Title, Email, CNCF Slack Username
 ### Organizer 2: First and Last Name, Company, Title, Email, CNCF Slack Username
 ### Organizer 3: First and Last Name, Company, Title, Email, CNCF Slack Username
+
+### CfP Admin: 
 
 ### Sponsor 1
 ### Sponsor 2
