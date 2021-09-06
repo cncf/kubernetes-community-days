@@ -32,6 +32,7 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] Agree to use Cloud Native Community Groups for registration, scheduling, and event website
 * [ ] Agree to use SM Apply for CFP
 * [ ] Event date and time has been chosen
+* [ ] Agree that there will not be an all male speaker lineup
 * [ ] Added usernames for [CNCF Slack](https://slack.cncf.io/) for all organizers so that we can add you to the #kcd-organizers channel
 * [ ] Create a Twitter handle specific to your KCD event (except for countries like China and Korea where Twitter is not used)
 * [ ] Provided CNCF access to all event social handles
