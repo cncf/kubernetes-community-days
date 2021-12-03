@@ -6,6 +6,7 @@
 
 * [Teaser Kubernetes Community Days Indonesia 2021](https://www.youtube.com/watch?v=qvtPHD5fiPc&t=25s)
 * [KCD UK 2021 - Introduction](https://www.youtube.com/watch?v=I9-a4JR_sg4&t=3s)
+* [Kubernetes Community Days Spain 2021](https://www.youtube.com/watch?v=PrNSCT7PiiU)
 
 ## Slide Deck
 
