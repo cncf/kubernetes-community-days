@@ -2,6 +2,10 @@
 
 ## Speaker Cards
 
+* [KCD Spain 2021](https://twitter.com/KCDSpain/status/1402585169803026433/photo/1)
+* [KCD UK 2021](https://twitter.com/kcduk_io/status/1441001902259453952/photo/1)
+* [KCD Washington DC 2021](https://twitter.com/KubeDaysDC/status/1451272578270736384/photo/1)
+
 ## Event Videos
 
 * [Teaser Kubernetes Community Days Indonesia 2021](https://www.youtube.com/watch?v=qvtPHD5fiPc&t=25s)
