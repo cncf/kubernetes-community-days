@@ -22,3 +22,4 @@
 
 ## Post Event Reports
 
+[KCD Italy 2021 Wrap Up](https://www.cncf.io/blog/2021/12/06/kcd-italy-21-we-all-like-pizza-lets-get-together-again-next-year/)
