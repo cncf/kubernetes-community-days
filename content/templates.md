@@ -5,6 +5,7 @@
 * [KCD Spain 2021](https://twitter.com/KCDSpain/status/1402585169803026433/photo/1)
 * [KCD UK 2021](https://twitter.com/kcduk_io/status/1441001902259453952/photo/1)
 * [KCD Washington DC 2021](https://twitter.com/KubeDaysDC/status/1451272578270736384/photo/1)
+* [KCD Brasil 2021 - Google Slide](https://docs.google.com/presentation/d/1VhTT3X0KvdBlxsRKTSXP3c9uz_vnq6VRxRLI87NCt9g/edit?usp=sharing)
 
 ## Event Videos
 
