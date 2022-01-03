@@ -1,5 +1,9 @@
 # Templates for KCD Events
 
+## Sponsor Prospectus
+
+* [KCD Brasil 2021 Prospectus](https://github.com/cncf/kubernetes-community-days/blob/main/files/KCD%20Brasil%20Sponsor%20Prospectus%20(4).pdf)
+
 ## Speaker Cards
 
 * [KCD Spain 2021](https://twitter.com/KCDSpain/status/1402585169803026433/photo/1)
