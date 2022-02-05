@@ -24,10 +24,3 @@ Organization is decentralized. Local events handle their own sponsorships, regis
 
 [Feel the fear and do it anyway!: KCD UK](https://www.cncf.io/blog/2021/10/28/feel-the-fear-and-do-it-anyway/)
 
-[How was a pizza chosen as the KCD Italy 2021 logo?](https://www.cncf.io/blog/2021/10/04/how-was-a-pizza-chosen-as-the-kcd-italy-2021-logo/)
-
-[The Concept Behind KCD Spain Design](https://al-tudela.medium.com/the-concept-behind-kcd-spain-design-75da7bef9673)
-
-
-
-
