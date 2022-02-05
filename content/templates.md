@@ -8,6 +8,11 @@
 
 * [KCD Brasil 2021 Social Posts Calendar](https://docs.google.com/document/d/1Low8OWDCQUUbuTB-JF_oPKPsyo7pR7gN_yPEju2Glmw/edit?usp=sharing)
 
+## Event Blog Posts
+
+* [How was a pizza chosen as the KCD Italy 2021 logo?](https://www.cncf.io/blog/2021/10/04/how-was-a-pizza-chosen-as-the-kcd-italy-2021-logo/)
+* [The Concept Behind KCD Spain Design](https://al-tudela.medium.com/the-concept-behind-kcd-spain-design-75da7bef9673)
+
 ## Speaker Cards
 
 * [KCD Spain 2021](https://twitter.com/KCDSpain/status/1402585169803026433/photo/1)
