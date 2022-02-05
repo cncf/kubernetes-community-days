@@ -23,18 +23,18 @@
 
 ## Slide Deck
 
-[KCD - Speaker Template](https://drive.google.com/file/d/1H6Mxsp3bBy5LzqVni5FZGE679XB8OG4h/view)
+* [KCD - Speaker Template](https://drive.google.com/file/d/1H6Mxsp3bBy5LzqVni5FZGE679XB8OG4h/view)
 
 ## Issue Boards 
 
-[KCD Indonesia 2021](https://github.com/cloudnative-id/kubernetes-community-days/projects/1)
+* [KCD Indonesia 2021](https://github.com/cloudnative-id/kubernetes-community-days/projects/1)
 
 ## Post Event Infographic
 
-[KCD Wrap Up Infographic Template](https://docs.google.com/presentation/d/1wsbtc1c5FPmCFzLiYIv77PxGt6eaPJy_ypvwPXfcUjc/edit?usp=sharing)
+* [KCD Wrap Up Infographic Template](https://docs.google.com/presentation/d/1wsbtc1c5FPmCFzLiYIv77PxGt6eaPJy_ypvwPXfcUjc/edit?usp=sharing)
 
 ## Post Event Reports
 
-[KCD Italy 2021 Wrap Up](https://www.cncf.io/blog/2021/12/06/kcd-italy-21-we-all-like-pizza-lets-get-together-again-next-year/)
-[KCD China 2021 Wrap Up](https://www.cncf.io/blog/2022/01/10/kubernetes-community-days-china-beijing-and-shanghai-wrap-up/)
+* [KCD Italy 2021 Wrap Up](https://www.cncf.io/blog/2021/12/06/kcd-italy-21-we-all-like-pizza-lets-get-together-again-next-year/)
+* [KCD China 2021 Wrap Up](https://www.cncf.io/blog/2022/01/10/kubernetes-community-days-china-beijing-and-shanghai-wrap-up/)
 
