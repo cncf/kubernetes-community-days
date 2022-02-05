@@ -4,6 +4,10 @@
 
 * [KCD Brasil 2021 Prospectus](https://github.com/cncf/kubernetes-community-days/blob/main/files/KCD%20Brasil%20Sponsor%20Prospectus%20(4).pdf)
 
+## Social Media Posts
+
+* [KCD Brasil 2021 Social Posts Calendar](https://docs.google.com/document/d/1Low8OWDCQUUbuTB-JF_oPKPsyo7pR7gN_yPEju2Glmw/edit?usp=sharing)
+
 ## Speaker Cards
 
 * [KCD Spain 2021](https://twitter.com/KCDSpain/status/1402585169803026433/photo/1)
