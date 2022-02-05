@@ -25,6 +25,10 @@
 
 [KCD Indonesia 2021](https://github.com/cloudnative-id/kubernetes-community-days/projects/1)
 
+## Post Event Infographic
+
+[KCD Wrap Up Infographic Template](https://docs.google.com/presentation/d/1wsbtc1c5FPmCFzLiYIv77PxGt6eaPJy_ypvwPXfcUjc/edit?usp=sharing)
+
 ## Post Event Reports
 
 [KCD Italy 2021 Wrap Up](https://www.cncf.io/blog/2021/12/06/kcd-italy-21-we-all-like-pizza-lets-get-together-again-next-year/)
