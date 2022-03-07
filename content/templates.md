@@ -24,11 +24,19 @@
 
 * [Teaser Kubernetes Community Days Indonesia 2021](https://www.youtube.com/watch?v=qvtPHD5fiPc&t=25s)
 * [KCD UK 2021 - Introduction](https://www.youtube.com/watch?v=I9-a4JR_sg4&t=3s)
-* [Kubernetes Community Days Spain 2021](https://www.youtube.com/watch?v=PrNSCT7PiiU)
+* [Kubernetes Community Days Spain 2021 Playlist](https://youtube.com/playlist?list=PL7cPkcGlrwyqqlK4RTUhxVU3m1TEW4vgg)
 
 ## Slide Deck
 
 * [KCD - Speaker Template](https://drive.google.com/file/d/1H6Mxsp3bBy5LzqVni5FZGE679XB8OG4h/view)
+
+## Keynote
+
+* [KCD Spain 2021 Keynote](https://docs.google.com/presentation/d/10VKlb46RNVd62O_FaOaqYSUOylLxKMGEV7BYxst47Iw/edit?usp=sharing)
+
+## Artwork
+
+* [KCD Spain Artwork](https://github.com/kcdspain/artwork)
 
 ## Issue Boards 
 
