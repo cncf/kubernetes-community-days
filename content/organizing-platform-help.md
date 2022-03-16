@@ -2,6 +2,9 @@
 
 Whether this is your first time hosting an event or 100th, learning how to use a new platform always comes with a learning curve. Luckily, the Bevy team has a useful set of resources to help you get off the ground and running with the platform.
 
+## Bevy Virtual Conference Course
+Review the [Bevy Virtual Conference Overview](https://training.cmxhub.com/p/how-to-run-a-virtual-conference), the full course can be had for free upon request.
+
 ## Helpful How tos for Chapter Admins:
 * [Self-paced video tutorials](https://help.bevylabs.com/category/524-chapter-organizer-videos)
 * [Sending chapter newsletters](https://help.bevylabs.com/article/358-sending-chapter-newsletters)
@@ -18,5 +21,8 @@ Whether this is your first time hosting an event or 100th, learning how to use a
 * [How to achieve the best quality on Bevy Virtual](https://help.bevylabs.com/article/510-how-to-achieve-the-best-quality-on-bevy-virtual)
 * [Using Bevy Virtual as a Speaker](https://help.bevylabs.com/article/493-speaker-permissions-in-bevy-virtual)
 * [Troubleshooting](https://help.bevylabs.com/article/499-troubleshooting)
+
+## SMApply training:
+* [SMApply training video](https://sched.co/ytqy)
 
 More questions? Feel free to reach out to kcd@cncf.io
