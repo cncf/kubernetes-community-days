@@ -42,6 +42,10 @@
 
 * [KCD Indonesia 2021](https://github.com/cloudnative-id/kubernetes-community-days/projects/1)
 
+## Speaker Guide
+
+* [KCD Brasil Bevy Speaker Guide](https://docs.google.com/document/d/19gN0T0rK0VcYOXRTzBMUVEUyy2A7-t4dwdghMMcRKjg/edit)
+
 ## Post Event Infographic
 
 * [KCD Wrap Up Infographic Template](https://docs.google.com/presentation/d/1wsbtc1c5FPmCFzLiYIv77PxGt6eaPJy_ypvwPXfcUjc/edit?usp=sharing)
