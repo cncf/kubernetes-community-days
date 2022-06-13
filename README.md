@@ -8,7 +8,7 @@ Kubernetes Community Days are community organized education events to bring peop
 
 ### Core Organizers
 
-Bill Mulligan, Ihor Dvoretskyi
+Katie Greenley
 Contact: kcd@cncf.io
 
 ### Contact a specific event
