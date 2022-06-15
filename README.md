@@ -18,10 +18,11 @@ Organization is decentralized. Local events handle their own sponsorships, regis
 
 ## The Organizer Experience  
 
-#### 2021
-[Introducing Kubernetes Community Days Bengaluru 2021](https://www.cncf.io/blog/2021/06/09/introducing-kubernetes-community-days-bengaluru-2021/)
+#### 2022
+[Kubernetes Community Days Berlin 2022](https://community.cncf.io/events/details/cncf-kcd-berlin-presents-kubernetes-community-days-berlin-2022-1/)
 
-[First is the dream: KCD El Salvador](https://www.cncf.io/blog/2021/09/20/first-is-the-dream/)
+[Kubernetes Community Days Africa 2022 - Lagos](https://community.cncf.io/events/details/cncf-kcd-africa-presents-kubernetes-community-days-africa-2022-lagos/)
 
-[Feel the fear and do it anyway!: KCD UK](https://www.cncf.io/blog/2021/10/28/feel-the-fear-and-do-it-anyway/)
+[Kubernetes Community Days Italy 2022](https://community.cncf.io/events/details/cncf-kcd-italy-presents-kubernetes-community-days-italy-2022/)
 
+[Kubernetes Community Days UK 2022](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2022/)
