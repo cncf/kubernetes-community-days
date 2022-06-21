@@ -25,13 +25,14 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] At least one organizer is a CNCF member employee, CNCF ambassador, or CNCF project maintainer
 * [ ] All organizers agree to follow the event guidelines and CNCF Code of Conduct
 * [ ] Monthly check in with KCD Core Organizer scheduled
+* [ ] All inquiries / communication to come via GitHub forum for easy tracking
 * [ ] All organizers have taken [Inclusive Open Source Community Orientation (LFC102)](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
 * [ ] Minimum of 3 sponsors committed (not required for virtual only events)
 * [ ] Identified fiscal sponsor that can accept payments such as from sponsorships and pay out expenses
 * [ ] Agree to offer (at minimum) 3 complimentary tickets to increase diversity for the event
 * [ ] Agree to use Cloud Native Community Groups for registration, scheduling, and event website
 * [ ] Reviewed the [Bevy Virtual Conference Overview](https://training.cmxhub.com/p/how-to-run-a-virtual-conference), the full course can be had for free upon request
-* [ ] Agree to use SM Apply for CFP
+* [ ] Agree to use SM Apply for CFP and to close it at least 6 weeks before the event
 * [ ] Event date and time has been chosen
 * [ ] Agree that there will not be an all male speaker lineup
 * [ ] Added usernames for [CNCF Slack](https://slack.cncf.io/) for all organizers so that we can add you to the #kcd-organizers channel
@@ -45,11 +46,11 @@ Website launch date:
 * [ ] Organizer email alias has been created
 * [ ] Region created in Bevy
 * [ ] Added to Bevy header
-* [ ] CfP created
+* [ ] CFP created
 
 ### Post Event checklist:
 * [ ] Removed from Bevy header
-* [ ] CfP deactivated
+* [ ] CFP deactivated
 * [ ] Videos uploaded to Youtube and linked to event page
 
 
@@ -59,7 +60,7 @@ Website launch date:
 ### Organizer 2: First and Last Name, Company, Title, Email, CNCF Slack Username
 ### Organizer 3: First and Last Name, Company, Title, Email, CNCF Slack Username
 
-### CfP Admin: 
+### CFP Admin: 
 
 ### Sponsor 1
 ### Sponsor 2
