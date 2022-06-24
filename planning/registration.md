@@ -1,5 +1,5 @@
 ---
-title: Registration
+title:Registration
 ---
 
 Once pricing has been decided you’re ready to set up registration. Here are some basic guidelines.
