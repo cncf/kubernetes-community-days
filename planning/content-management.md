@@ -24,7 +24,7 @@ Along with sponsorships, this is one of the most challenging parts of running an
 * Reach out to known event speakers on the CNCF Slack and ask if they have speaking ideas (or if they want to speak at the event!)
 
 Recruiting a diverse speaker slate requires extra effort. Some ideas for this include:
-* Kubernetes Community Days prohibits all male panels so two women speakers means even in case of a cancellation you will have gender diversity
+* Kubernetes Community Days prohibits all male panels. Please plan to have a minimum of two women speakers on a panel. This ensures if there is a cancellation you will have gender diversity.
 * Contact organizations like [Women Who Code](https://www.womenwhocode.com/) and [Black Girls Code](http://www.blackgirlscode.com/)
 * Check relevant meetups for past speakers
 * Consider bringing in speakers from outside the region to improve diversity
