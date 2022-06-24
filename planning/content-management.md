@@ -7,8 +7,9 @@ High quality content, speakers and talk topics will determine event success.
 Some basic guidelines for building a good event program include:
 
 * Encourage bold, innovative thought-provoking subjects
-* Recruit a diverse slate of speakers
-* Make sure one organization does not receive too many speaking slotsMake sure that all content is sensitive and appropriate
+* Recruit a diverse slate of speakers (example: not all men)
+* Make sure one organization does not receive too many speaking slots
+* Make sure that all content is sensitive and appropriate
 * Promote fun and participation
 * Encourage interaction between attendees
 * Specify what languages are acceptable for talks
@@ -23,10 +24,11 @@ Along with sponsorships, this is one of the most challenging parts of running an
 * Reach out to known event speakers on the CNCF Slack and ask if they have speaking ideas (or if they want to speak at the event!)
 
 Recruiting a diverse speaker slate requires extra effort. Some ideas for this include:
+* Kubernetes Community Days prohibit all male panels so two women speakers means even in case of a cancellation you will have gender diversity
 * Contact organizations like [Women Who Code](https://www.womenwhocode.com/) and [Black Girls Code](http://www.blackgirlscode.com/)
 * Check relevant meetups for past speakers
 * Consider bringing in speakers from outside the region to improve diversity
-* Make sure you have two female speakers on each panel (Kubernetes Community Days prohibit all maale panels so two women speakers means even in case of a cancellation you will have gender diversity)
+* Make sure you have two female speakers on each panel
 * Give speakers at least six weeks of notice so they can make travel arrangements
 
 ## Judging proposals
