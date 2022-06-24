@@ -1,5 +1,5 @@
 ---
-title: Marketing and Promotion
+Marketing and Promotion
 ---
 
 Once you have a time and place, you can announce your event to the world! It’s great if you’ve had a chance to open your CFP and registration, though those aren’t essential to announce your dates.
