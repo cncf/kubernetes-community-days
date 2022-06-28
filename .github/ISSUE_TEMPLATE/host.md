@@ -30,6 +30,7 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] Minimum of 3 sponsors committed (not required for virtual only events)
 * [ ] Identified fiscal sponsor that can accept payments such as from sponsorships and pay out expenses
 * [ ] Agree to offer (at minimum) 3 complimentary tickets to increase diversity for the event
+* [ ] Agree to ensure the final program schedule is diverse (e.g., not all speakers of one gender)
 * [ ] Agree to use Cloud Native Community Groups for registration, scheduling, and event website
 * [ ] Reviewed the [Bevy Virtual Conference Overview](https://training.cmxhub.com/p/how-to-run-a-virtual-conference), the full course can be had for free upon request
 * [ ] Agree to use SM Apply for CFP and to close it at least 6 weeks before the event
