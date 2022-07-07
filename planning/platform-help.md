@@ -23,6 +23,8 @@ Review the [Bevy Virtual Conference Overview](https://training.cmxhub.com/p/how-
 * [Troubleshooting](https://help.bevylabs.com/article/499-troubleshooting)
 
 ## SMApply training:
-* [SMApply training video](https://sched.co/ytqy)
+* [Help Center Resources] (https://help.smapply.io/hc/en-us)
+* [Training Videos] (https://help.smapply.io/hc/en-us/categories/115000187973-Implementation-Training-Videos)
+* [Build + Launch] (https://help.smapply.io/hc/en-us/sections/115000405794-Build-Videos)
 
 More questions? Feel free to reach out to kcd@cncf.io
