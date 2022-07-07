@@ -15,6 +15,9 @@ Review the [Bevy Virtual Conference Overview](https://training.cmxhub.com/p/how-
 * [Editing event forms](https://help.bevylabs.com/article/386-editing-event-forms)
 
 ## Bevy Virtual Platform How tos:
+* [Self-paced training program](https://bevy.com/academy)
+** [Community Management 101 course](https://training.cmxhub.com/p/bevy-community-management-101)
+** Use the code BEVY-CUSTOMER-SUCCESS for 100% off.
 * [Bevy Virtual articles](https://help.bevylabs.com/category/456-bevy-virtual)
 * [How to create a test event in Bevy Virtual](https://help.bevylabs.com/article/496-test-event-in-bevy-virtual)
 * [Breakout Rooms](https://help.bevylabs.com/article/495-breakout-rooms)
