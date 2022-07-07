@@ -7,12 +7,12 @@ Review the [Bevy Virtual Conference Overview](https://training.cmxhub.com/p/how-
 
 ## Helpful How tos for Chapter Admins:
 * <a href="https://help.bevylabs.com/category/524-chapter-organizer-videos" target="_blank">Self-paced video tutorials</a>
-* [Sending chapter newsletters](https://help.bevylabs.com/article/358-sending-chapter-newsletters)
-* [Day of event best practices](https://help.bevylabs.com/article/392-day-of-event-best-practices)
-* [Managing chapter members](https://help.bevylabs.com/article/389-managaing-chapter-members)
-* [Managing a waitlist](https://help.bevylabs.com/article/268-managing-a-waitlist)
-* [Create a hidden ticket for speakers and sponsors](https://help.bevylabs.com/article/281-create-a-hidden-ticket)
-* [Editing event forms](https://help.bevylabs.com/article/386-editing-event-forms)
+* <a href="https://help.bevylabs.com/article/358-sending-chapter-newsletters" target="_blank">Sending chapter newsletters</a>
+* <a href="https://help.bevylabs.com/article/392-day-of-event-best-practices" target="_blank">Day of event best practices</a>
+* <a href="https://help.bevylabs.com/article/389-managaing-chapter-members" target="_blank">Managing chapter members</a>
+* <a href="https://help.bevylabs.com/article/268-managing-a-waitlist" target="_blank">Managing a waitlist</a>
+* <a href="https://help.bevylabs.com/article/281-create-a-hidden-ticket" target="_blank">Create a hidden ticket for speakers and sponsors</a>
+* <a href="https://help.bevylabs.com/article/386-editing-event-forms" target="_blank">Editing event forms/a>
 
 ## Bevy Virtual Platform How tos:
 * [Bevy Virtual articles](https://help.bevylabs.com/category/456-bevy-virtual)
