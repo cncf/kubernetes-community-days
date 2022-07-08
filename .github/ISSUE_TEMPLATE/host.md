@@ -40,19 +40,23 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] Create a Twitter handle specific to your KCD event (except for countries like China and Korea where Twitter is not used)
 * [ ] Provided CNCF access to all event social handles
 
-CfP open and close dates:
+CFP open and close dates (at least 6 weeks ahead of the event):
 Website launch date:
 
 ### Submission checklist for CNCF:
 * [ ] Organizer email alias has been created
 * [ ] Region created in Bevy
 * [ ] Added to Bevy header
-* [ ] CFP created
+* [ ] CFP created in SMapply
+* [ ] Marketing Plan shared
 
 ### Post Event checklist:
+* [ ] Post event survey sent out
 * [ ] Removed from Bevy header
 * [ ] CFP deactivated
-* [ ] Videos uploaded to Youtube and linked to event page
+* [ ] Videos uploaded to YouTube and linked to event page
+* [ ] Collect event analytics
+* [ ] Host post mortem meeting
 
 
 ### Expected Number of Attendees:
