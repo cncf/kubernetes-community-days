@@ -17,11 +17,15 @@ Contact: kcd@cncf.io
 Organization is decentralized. Local events handle their own sponsorships, registration, and all other organizations. For questions about a specific event you see listed on the site, contact the local organizers for that event; their email is on their contact page.
 
 ## The Organizer Experience  
-Organizing an event can be daunting, if you are new at this, some organizers suggest getting your feet wet with a one-day event, or two half-day events. Even if you have a small event of 100 people, the same amount of detail should still be considered. That is why we are the CNCF are here to guide you. Please take advantage of the resources above and note that we are always working on adding more and bettering what we already have.
+Organizing an event can be daunting, if you are new at this, some organizers suggest getting your feet wet with a one-day event, or two half-day events. Even if you have a small event of 100 people, the same amount of detail should still be considered. That is why we at the CNCF are here to guide you. Please take advantage of the resources above. Please note - we are always working on adding more and bettering what we already have.
 
-We are now hosting a monthly KCD Organizer focus group. Please contact kcd@cncf.io if you would like to be added. As of now, it will be the 3rd Tuesday of each month, for 1 hour, from 7:00 - 8:00am PT / 10:00 - 11:00am ET / 4:00 - 5:00pm CEST. We are happy to create another time that accommodates other regions. Please reach out to kcd@cncf.io to request to be added to the Slack Organizer channel and we can take another Doodle poll there.
+We are now hosting *a monthly KCD Organizer focus group*. As of now, it will be the 3rd Tuesday of each month, for 1 hour, from 7:00 - 8:00am PT / 10:00 - 11:00am ET / 4:00 - 5:00pm CEST. Please contact kcd@cncf.io if you would like to be added, or if you would like an additional time that accommodates your region.
+
+### First Steps
 
 STEP 1: Submit an issue in GitHub using the provided check-list template and we will schedule a kickoff meeting from there, as well as provide you with more resources.
+
+STEP 2: Request to be added to the [kcd-organizers](https://cloud-native.slack.com/archives/GQ7D26NPQ) CNCF Slack channel.
 
 ## A few 2022 KCD event examples
 #### 2022
