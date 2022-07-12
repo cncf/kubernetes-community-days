@@ -60,6 +60,10 @@ Recruiting a diverse speaker slate requires extra effort. Some ideas for this in
 * Check in with all speakers on event day to make sure they are ready
 * Provide constructive post-event feedback with concrete advice
 
+## Laying out your agenda
+* Building your program schedule in Bevy: [Video tutorial from Katie Greenley](https://docs.google.com/presentation/d/e/2PACX-1vTke0yeZ2aRKHXxh5t9YWGWsWsKc6HIBaAx_f33VkMnXQCXd7fEq8aUsO9DraWYdvQMQEevkYl9l7k8/pub?start=true&loop=false&delayms=3000).
+* Use this helpful [dymanic agenda builder](https://docs.google.com/spreadsheets/d/1y_QZdKGMja1YZnpkPSNxQQHBmK1TBN_NUW9kStdrTQk/edit?usp=sharing) Katie mentions in the above video. This is assist in creating the agenda for your event.
+
 ## Help with the SM Apply Platform
 
 * Help Center Resources: https://help.smapply.io/hc/en-us
