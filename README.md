@@ -23,7 +23,7 @@ We are now hosting *a monthly KCD Organizer focus group*. As of now, it will be 
 
 ### First Steps
 
-STEP 1: Submit an issue in GitHub using the provided check-list template and we will schedule a kickoff meeting from there, as well as provide you with more resources.
+STEP 1: [Submit an issue in GitHub](https://github.com/cncf/kubernetes-community-days/issues/new/choose) using the provided check-list template and we will schedule a kickoff meeting from there, as well as provide you with more resources.
 
 STEP 2: Request to be added to the [kcd-organizers](https://cloud-native.slack.com/archives/GQ7D26NPQ) CNCF Slack channel.
 
