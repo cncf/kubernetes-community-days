@@ -1,4 +1,4 @@
-# Kubernetes Community Days - [Full Calendar](https://events.linuxfoundation.org/about/community/?_sf_s=days)
+# About Kubernetes Community Days
 
 Kubernetes Community Days are community organized events that gathers adopters and technologists from open source and cloud native communities to learn, collaborate, and network to further advancement in Kubernetes. They also are a lot of fun and a great way to meet new people and build community.
 
@@ -21,7 +21,7 @@ Organizing an event can be daunting, if you are new at this, some organizers sug
 
 We are now hosting *a monthly KCD Organizer focus group*. As of now, it will be the 3rd Tuesday of each month, for 1 hour, from 7:00 - 8:00am PT / 10:00 - 11:00am ET / 4:00 - 5:00pm CEST. Please contact kcd@cncf.io if you would like to be added, or if you would like an additional time that accommodates your region.
 
-### First Steps
+### Want to host a KCD? Here are the first steps:
 
 STEP 1: [Submit an issue in GitHub](https://github.com/cncf/kubernetes-community-days/issues/new/choose) using the provided check-list template and we will schedule a kickoff meeting from there, as well as provide you with more resources.
 
@@ -36,3 +36,5 @@ STEP 2: Request to be added to the [kcd-organizers](https://cloud-native.slack.c
 [Kubernetes Community Days Italy 2022](https://community.cncf.io/events/details/cncf-kcd-italy-presents-kubernetes-community-days-italy-2022/)
 
 [Kubernetes Community Days UK 2022](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2022/)
+
+View the [full calendar](https://events.linuxfoundation.org/about/community/?_sf_s=days) for more global KCDs.
