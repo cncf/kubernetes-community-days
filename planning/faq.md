@@ -1,5 +1,5 @@
 ---
-title: Kubernetes Community Day FAQ 
+title: Kubernetes Community Day FAQ
 ---
 
 ## Are Kubernetes Community Days limited to Kubernetes?
@@ -11,7 +11,7 @@ Yes. While in person events are strongly encouraged when possible, we realize th
 
 ## Can I call it a Cloud Native Day, Mini-KubeCon, or similar?
 
-Sorry, but it needs to be called Kubernetes Community Day [Location] (e.g., Kubernetes Community Day Bouvet Island). There are two reasons. Kubernetes is our strongest, worldwide, brand, communicating not only cloud native technology but openness and community participation with the name. As such, the Kubernetes Community Day name is the one that the CNCF is prepared to support with our marketing and legal resources. At some point in the future this may be revisited, but not for the first year of the program.
+Sorry, but it needs to be called Kubernetes Community Day _Location_ (e.g., Kubernetes Community Day Bouvet Island). There are two reasons. Kubernetes is our strongest, worldwide, brand, communicating not only cloud native technology but openness and community participation with the name. As such, the Kubernetes Community Day name is the one that the CNCF is prepared to support with our marketing and legal resources. At some point in the future this may be revisited, but not for the first year of the program.
 
 ## Can I combine a Kubernetes Community Day with another event, like DevOps Days or OpenStack Days?
 

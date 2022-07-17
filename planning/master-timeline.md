@@ -1,15 +1,15 @@
 ---
-title: Organize a Kubernetes Community Day 
+title: Organize a Kubernetes Community Day
 ---
 
 # Hosting a Kubernetes Community Days Event
-This is a suggested planning timeline for running a successful event. Use the Kubernetes Community Days Conference Action Items and Assignments to assign tasks and deadlines to team members.  
+This is a suggested planning timeline for running a successful event. Use the Kubernetes Community Days Conference Action Items and Assignments to assign tasks and deadlines to team members.
 
-## 8-9 MONTHS IN ADVANCE          
+## 8-9 MONTHS IN ADVANCE
 Begin to Plan for the event:
 
 * Start a discussion on Github to see if anyone else in your area is interested in organizing an event.
-* Make a pull request on GitHub to notify the Cloud Native Computing Foundation you intend to host a Kubernetes Community Day. 
+* Make a pull request on GitHub to notify the Cloud Native Computing Foundation you intend to host a Kubernetes Community Day.
 * List out the the goals and objectives for the event (include # of attendees, # of sponsors, # of speaking sessions, etc.)
 * Name your event: Kubernetes Community Days + Location (e.g. Kubernetes Community Days Sydney or Kubernetes Community Days Australia).
  * This name will be used on the website and all outbound communications.
@@ -31,7 +31,7 @@ Guidelines, Toolkit, and support:
 * Once your event is approved, CNCF will do the following:
  * Give you a Hugo Template to build out the site.
  * Add you to the Kubernetes Community Days Organizers Slack Channel (so you can ask questions and best practices from other KCD organizers)
- * Use the tools at the bottom of the [organizing page](/organizing)
+ * Use the tools at the bottom of the [organizing page](about-organizing.md)
 
 Select and reserve a venue (for in person):
 
@@ -47,7 +47,7 @@ Communications:
 * Join the Kubernetes Community Days Public Slack channel
 * Get an event Twitter handle and announce the event there as a placeholderPublish the event on the Kubernetes Days schedule page
 * Create a placeholder Webpage for the event announcing date(s) with an email contact address
-* Get email address from CNCF for your organizers 
+* Get email address from CNCF for your organizers
 
 ## 6-7 MONTHS IN ADVANCE:
 
@@ -74,7 +74,7 @@ Keynote Speakers:
 
 Identify possible sponsors:
 
-* Create a target list of possible sponsors to contact 
+* Create a target list of possible sponsors to contact
 * Look at employers of [CNCF Speakers Bureau](https://www.cncf.io/speakers/) members and CNCF Ambassadors or potential sponsorship
 * Identify companies that have sponsored or are sponsoring related events
 * Build an outreach plan and assign contacts
@@ -138,10 +138,10 @@ Create your sponsorship prospectus and agreement:
 
 Pick your swag:
 
-* Please review the [Kubernetes Community Days tool kit](/organizing) on the Kubernetes Community Days website and [CNCF Store](https://store.cncf.io/) for ideas
+* Please review the [Kubernetes Community Days tool kit](about-organizing.md) on the Kubernetes Community Days website and [CNCF Store](https://store.cncf.io/) for ideas
 * Stickers, pins, pens, and t-shirts are very popular
 
-Estimate signage needs (in person): 
+Estimate signage needs (in person):
 
 * Event Signage
 * Sponsor logo signage
@@ -152,17 +152,17 @@ Estimate signage needs (in person):
 Confirm venue costs and catering costs (this may be with the same vendor):
 
 * Ask about complimentary charge for a venue when food and beverage minimums are met.
-* Venue network and WIFI 
+* Venue network and WIFI
 * Confirm there is enough bandwidth to support all attendees at the event simultaneously.  (Use this bandwidth calculator: http://www.psav.com/bandwidth_estimator/)
 * All attendees will have high bandwidth requirements
 * Hire a professional videographer (highly recommended)
 * Hire a professional photographer (optional)
 * Calculate and confirm any extra labor costs
 
-## 4-6 MONTHS IN ADVANCE: 
+## 4-6 MONTHS IN ADVANCE:
 Call for presentations and select your speakers:
 
-* Publish and promote your [“Call for Presentations”](/organizing-cfp)
+* Publish and promote your [“Call for Presentations”](/speaker-resources/cfp.md)
 * Word the call simply and cleanly
 * Consider creating a theme for the event
 * Actively and repeatedly promote your call across as many relevant channels as possible
@@ -191,10 +191,10 @@ Plan out and launch event promotion:
 * Identify the ways to promote the event in as many useful channels as possible -  social media, meetups,  blogs, emails, and posted flyers
 * Ask your sponsors to help promote the event in their channels
 * Consider issuing a local Press Release to promote the keynote speakers. (you may also just want to post a blog - it will save money and hassle)
-* Please note there is a Press Kit on the Kubernetes Community Days Tool kit. 
+* Please note there is a Press Kit on the Kubernetes Community Days Tool kit.
 * CNCF needs to review and approve any press release before it is distributed over the wire.
 
-Conduct initial sponsor briefings: 
+Conduct initial sponsor briefings:
 * Brief sponsors on booth details, benefits, promotion, collateral needs, logos, signage and timelines
 * Set up a regular check-in cadence with sponsors (probably every two weeks until you get closer to the event)
 
@@ -202,7 +202,7 @@ Social Media:
 
 * Create a dedicated Twitter hashtag for the event.
 
-## 2-4 MONTHS IN ADVANCE: 
+## 2-4 MONTHS IN ADVANCE:
 
 * Track registrations through the platform
 * Determine who will be at the registration desk to check people in.
@@ -217,7 +217,7 @@ Social Media:
 * Decide if you would like to hand out surveys to attendees to get feedback
  * If yes, create a simple online survey requesting a numerical rating of speaker effectiveness, an overall event rating, and general comments what to include/do better next time, etc.
 
-## 1-2 MONTHS IN ADVANCE: 
+## 1-2 MONTHS IN ADVANCE:
 
 * Finalize signage and printing requirements
 * Track registrations to ensure event is on target
@@ -238,8 +238,8 @@ Begin final checks to make sure event is ready to go:
 * Draft thank you emails for sponsors, attendees and speakers.
 
 
-## ON THE DAY OF OR NIGHT BEFORE THE EVENT: 
-         
+## ON THE DAY OF OR NIGHT BEFORE THE EVENT:
+
 Perform final preparations:
 
 * Set up clear directional signage throughout venue.
@@ -254,10 +254,10 @@ Perform final preparations:
 * Brief volunteers and sponsors -help with set-up.
 * Brief the photographer and video person (if applicable)
 
-## POST EVENT:   
-      
+## POST EVENT:
+
 * Retrieve photos from photographer.
-* Post photos on the event wrap up page. 
+* Post photos on the event wrap up page.
 * Share  videos with CNCF so they can be posted on the [CNCF YouTube channel](https://www.youtube.com/c/cloudnativefdn).
 * Send thank you emails to speakers, sponsors, and participants.
 * Collect all outstanding invoices and process for payment.

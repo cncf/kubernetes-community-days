@@ -13,10 +13,10 @@ Guidelines and rules
 * Sponsorships need to remain independent from the CFP process. It is acceptable to allow a small number of top-level sponsors to have a guaranteed speaking slot, but this slot needs to be labeled "sponsored talks" on the schedule and should be shorter than regular talks.
 * Sponsors need to pay prior to the event.
 * Sponsorship should cover 80-90% of the total event budget.
-* Managing sponsorships is a lot of work; two volunteers are better than one. 
+* Managing sponsorships is a lot of work; two volunteers are better than one.
 * Anchor sponsors encourage additional sponsorships.
 * The sponsorship team works very closely with the finance team.
-* Communicate clearly with sponsors what they are getting and what they are NOT getting. 
+* Communicate clearly with sponsors what they are getting and what they are NOT getting.
 * All sponsors must agree to the Code of Conduct.
 * Sponsors do not get access to the attendees list. They may collect contact information at their booth.
 * You can share demographics in aggregate to give sponsors a feel for what kind of crowd will attend.
@@ -33,7 +33,7 @@ Seeking out sponsorships
 * Talk to the other organizers on Slack; many of them work at sponsors!
 * Write a blog on the organizers' website to promote your event
 
-Sponsor packages are decided upon by the local organizing team for a city. You can use the [examples](/organizing-cfp) in the template to help you make your decisions. Here are some typical offerings:
+Sponsor packages are decided upon by the local organizing team for a city. You can use the [examples](/speaker-resources/cfp.md) in the template to help you make your decisions. Here are some typical offerings:
 
 * Venue: if a company sponsors the venue they will be acknowledged as the venue sponsor. This sponsorship could also include food and beverage, and might include the benefits of gold sponsorship.
 * Gold (around 5000 Euro/USD): 6 included tickets + a ‘sponsored’ talking slot during talk intermissions + the ability to have a simple table/sponsor presence at the venue.
@@ -44,9 +44,9 @@ Sponsor packages are decided upon by the local organizing team for a city. You c
 * An evening event sponsor
 * A lunch or breaks sponsor
 
-There is generally a shared set of benefits that sponsorship opportunities include from signage at the venue to inclusion of logos in communications. 
+There is generally a shared set of benefits that sponsorship opportunities include from signage at the venue to inclusion of logos in communications.
 
-The more companies that sponsor, the better: it provides more funding to enable things like diversity scholarships, raises awareness of the event to help attract more attendees, and increases the chance of the event breaking even. Identify a maximum number of sponsors based on the benefits you are providing. For example, your venue may have a maximum number of tables for the sponsor area. 
+The more companies that sponsor, the better: it provides more funding to enable things like diversity scholarships, raises awareness of the event to help attract more attendees, and increases the chance of the event breaking even. Identify a maximum number of sponsors based on the benefits you are providing. For example, your venue may have a maximum number of tables for the sponsor area.
 
 Sponsors will usually ask you the following; best to have this information ready.
 
@@ -81,13 +81,13 @@ Once the payment has been received, you must:
 * Link it to the URL requested,
 * Provide the registration discount code associated with the number of tickets,
 
-On the registration page, have them select the special sponsor ticket with their discount. Many of the sponsor contacts may be traveling from event to event; you’ll have to follow up with them a bit so they sign up their crew in time for your badge printing. 
+On the registration page, have them select the special sponsor ticket with their discount. Many of the sponsor contacts may be traveling from event to event; you’ll have to follow up with them a bit so they sign up their crew in time for your badge printing.
 
 Closer to the event, you must:
 
 * Create the sponsor map
 * Identify a sponsor liason, someone who will coordinate with the sponsors the day of the event and answer any questions.
-* Communicate details of the event along with the sponsor map. 
+* Communicate details of the event along with the sponsor map.
 * Make sure that you have any contact details for sponsor pitches, as well as onsite support.
 
 On the day of the event:
@@ -95,6 +95,6 @@ On the day of the event:
 * Provide a copy of event details to the individuals onsite for each sponsor including the sponsor map.
 * Make sure sponsors are met by the sponsor liason and other volunteers who can help them set up and resolve issues.
 
-After the event, it's recommended that you follow up with a sponsor survey to encourage sponsorship for future events. 
+After the event, it's recommended that you follow up with a sponsor survey to encourage sponsorship for future events.
 
 
