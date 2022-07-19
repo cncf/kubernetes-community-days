@@ -15,6 +15,10 @@ This quick start guide covers all aspects of holding a successful event. Please 
 * **Primarily for community engagement**. Organizers and speakers must avoid vendor pitches.
 * **Inclusive**. Organizers must make reasonable efforts to work with others, regardless of their organizational affiliation.
 
+## Timline
+
+Here is a [planning timeline](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit#gid=0) you can review, then make a copy and edit. We have noted aspects that are for in-person events vs online only.
+
 ## Assembling Your Team
 
 The first step towards a successful event is building a team. Look for potential team members in local user groups and Meetups, such as the [CNCF Community Groups](https://community.cncf.io/), or online in the public Kubernetes slack or other related online communities.
