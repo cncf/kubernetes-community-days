@@ -1,7 +1,3 @@
----
-title: Organize a Kubernetes Community Day
----
-
 ## About Kubernetes Community Days
 
 Kubernetes Community Days (KCDs) are community-organized events that gather adopters and technologists from open source and cloud native communities for education, collaboration, and networking. KCDs are supported by the [Cloud Native Computing Foundation](https://cncf.io) (CNCF). These fun, locally-defined events help grow and sustain the Kubernetes community.
