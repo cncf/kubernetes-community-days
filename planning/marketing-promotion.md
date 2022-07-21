@@ -1,6 +1,4 @@
----
-Marketing and Promotion
----
+# Marketing and Promotion
 
 Once you have a time and place, you can announce your event to the world! It’s great if you’ve had a chance to open your CFP and registration, though those aren’t essential to announce your dates.
 
@@ -24,7 +22,22 @@ Promotion
  * Contact Code academies to see if they will help you promote
  * Ask the Sponsor companies to email their contacts and invite them to attend
 
-Online marketing
+## Email marketing in Bevy
+
+Bevy can can allow for people to opt-in or out of future mailings so organizers can properly market to past attendees. For opt-in of mailings, utilizing the pre-and post-event forms to gather attendee data for opting in to various channeled mailings, including event specific newsletters allows individuals to then opt-out of those mailings by unsubscribing directly from the email received or by managing your subscriptions from the User Profile>Updates section as described here:
+
+Unsubscribing removes you from all emails for the chapter, including newsletters.
+To unsubscribe:
+* Log in to your account, and then open your profile menu in the upper-right corner.
+* Click Profile.
+* Click the Updates tab.
+* Clear the check box of the mailing list from which you're unsubscribing.
+* Click Save.
+* NOTE: If you leave the page without saving, you won't be unsubscribed.
+
+Additionally, they can also opt-in (or opt back in) to the communications from a chapter from their profile.
+
+## Online marketing
 
 * Promote your event in the Sponsors and Organizers corporate newsletters, websites, emails, etc
 * Promote sponsorship, speakers, CFS, on LinkedIn
