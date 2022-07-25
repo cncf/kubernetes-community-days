@@ -29,6 +29,9 @@ STEP 2: Request to be added to the [kcd-organizers](https://cloud-native.slack.c
 
 ## A few 2022 KCD event examples
 #### 2022
+
+[Kubernetes Community Days Taiwan 2022](https://community.cncf.io/events/details/cncf-kcd-taiwan-presents-coscup-x-kcd-taiwan-2022/)
+
 [Kubernetes Community Days Berlin 2022](https://community.cncf.io/events/details/cncf-kcd-berlin-presents-kubernetes-community-days-berlin-2022-1/)
 
 [Kubernetes Community Days Africa 2022 - Lagos](https://community.cncf.io/events/details/cncf-kcd-africa-presents-kubernetes-community-days-africa-2022-lagos/)
