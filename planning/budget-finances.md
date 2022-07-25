@@ -1,6 +1,5 @@
----
-title: Budget and Finances
----
+# Budget and Finances
+
 
 ### Basic guidelines
 
