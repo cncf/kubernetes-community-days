@@ -27,7 +27,7 @@ Check the GitHub Kubernetes Community Days [issue board](https://github.com/cncf
 
 We recommend assigning the following responsibilities to one or two members of your organizing team:
 
-* [Finance and budgeting](/organizing-budget-finances) 
+* [Finance and budgeting](/planning/budget-finances.md)
 * [Marketing and promotion](/organizing-marketing-promotion) 
 * [Sponsors](/organizing-finding-sponsors)
 * [Call for Proposals (CFP) and schedule](/organizing-manage-speakers)
