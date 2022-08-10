@@ -1,7 +1,3 @@
----
-title: Organize a Kubernetes Community Day
----
-
 ## About Kubernetes Community Days
 
 Kubernetes Community Days (KCDs) are community-organized events that gather adopters and technologists from open source and cloud native communities for education, collaboration, and networking. KCDs are supported by the [Cloud Native Computing Foundation](https://cncf.io) (CNCF). These fun, locally-defined events help grow and sustain the Kubernetes community.
@@ -19,6 +15,10 @@ This quick start guide covers all aspects of holding a successful event. Please 
 * **Primarily for community engagement**. Organizers and speakers must avoid vendor pitches.
 * **Inclusive**. Organizers must make reasonable efforts to work with others, regardless of their organizational affiliation.
 
+## Timline
+
+Here is a [planning timeline](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit#gid=0) you can review, then make a copy and edit. We have noted aspects that are for in-person events vs online only.
+
 ## Assembling Your Team
 
 The first step towards a successful event is building a team. Look for potential team members in local user groups and Meetups, such as the [CNCF Community Groups](https://community.cncf.io/), or online in the public Kubernetes slack or other related online communities.
@@ -30,7 +30,10 @@ We recommend assigning the following responsibilities to one or two members of y
 * [Finance and budgeting](budget-finances.md)
 * [Marketing and promotion](marketing-promotion.md)
 * [Sponsors](sponsorships.md)
-* [Call for Proposals (CFP)](/speaker-resources/)
+* [Call for Proposals (CFP)](cfp.md)
+* [Finance and budgeting](/planning/budget-finances.md)
+* [Marketing and promotion](/organizing-marketing-promotion.md) 
+* [Sponsors](/planning/sponsorships.md)
 * Website updates
 * [Registration](registration.md)
 * Venue, catering, local activities, and the hotel

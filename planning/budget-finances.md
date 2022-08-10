@@ -1,6 +1,5 @@
----
-title: Budget and Finances
----
+# Budget and Finances
+
 
 ### Basic guidelines
 
@@ -32,9 +31,9 @@ Option 1: One of the organizer's companies serve as the financial sponsor. They 
 
 Option 2: If a local company is not an option, we recommend several companies that are willing to help you for a fee, generally 10%. 
 
-US Based: TBD
-EU Based: Bernd from [Netways](http://www.netways.com)
-If you would like to use this method, contact us on the [KCD Organizers Slack channel](https://cloud-native.slack.com/archives/CN6LBV16G) to get more details.
+* US Based: Thank you, Matthew from NaOm! [Get started here](https://www.naomlab.com/do-you-need-a-fiscal-sponsor/)
+* EU Based: Bernd from [Netways](http://www.netways.com)
+* If you would like to use this method, contact us on the [KCD Organizers Slack channel](https://cloud-native.slack.com/archives/CN6LBV16G) to get more details.
 
 Option 3: Set up an open ledger
 
