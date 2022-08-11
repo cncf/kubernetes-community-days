@@ -1,4 +1,4 @@
-# Use this form to host a Kubernetes Community Day event in your region
+# KCD Organizer Checklist
 Please fill in information, organizers, and sponsors as you assemble them, and then make a new comment when this application is ready for review.
 
 ### Event Details
