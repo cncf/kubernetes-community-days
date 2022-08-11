@@ -54,7 +54,8 @@ Fiscal sponsor that will accept payments
 ### Post event checklist for Organizer:
 * [ ] Send CNCF event analytics
 * [ ] Schedule post mortem meeting
-* [ ] Send CNCF Videos uploaded to YouTube and linked to event page
+* [ ] Send CNCF videos to be uploaded to YouTube
+* [ ] Link videos from YouTuve to event page
 * [ ] Post event survey sent out
 
 ### Post event checklist for CNCF:
