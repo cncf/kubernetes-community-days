@@ -49,7 +49,7 @@ Fiscal sponsor that will accept payments
 * [ ] Marketing Plan shared
 
 ### Organizer Planning Timeline
-* [ ] Make a copy of this timeline based on whether your event is In-person, Hybrid, or Virtual and link your own spreadsheet here ().
+* [ ] Make a copy of [this timeline](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit#gid=1736864170) based on whether your event is In-person, Hybrid, or Virtual and link your own spreadsheet here ().
 
 ### Post event checklist for Organizer:
 * [ ] Send CNCF event analytics
