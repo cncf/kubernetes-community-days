@@ -1,7 +1,7 @@
 ### Use this form to host a Kubernetes Community Day event in your region
 Please fill in information, organizers, and sponsors as you assemble them, and then make a new comment when this application is ready for review.
 
-###Event Details
+## Event Details
 * [ ] Event Location:
 * [ ] Event Date and Time:
 * [ ] Event type: <!-- chose virtual, hybrid, or in person -->
@@ -12,7 +12,7 @@ Organizer 3: First and Last Name, Company, Title, Email, CNCF Slack Username
 * [ ] Expected Number of Attendees:
 * [ ] Event cost per ticket, and if you will have early bird pricing or not
 
-###Terms
+## Terms
 
 * [ ] No other Kubernetes Community Day event in same major city (check with past organizers)
 * [ ] Minimum of 3 organizers from 3 different organizations
@@ -28,7 +28,7 @@ Organizer 3: First and Last Name, Company, Title, Email, CNCF Slack Username
 * [ ] Agree to use SM Apply for CFP and to close it at least 6 weeks before the event
 * [ ] Agree that there will not be an all male speaker lineup
 
-###Getting started checklist for organizers
+## Getting started checklist for organizers
 
 * [ ] Schdule monthly check-ins with KCD Core Organizer(s) (kcd@cncf.io)
 * [ ] Minimum of 3 sponsors committed (not required for virtual only events)
@@ -36,28 +36,28 @@ Sponsor 1
 Sponsor 2
 Sponsor 3
 * [ ] Identified fiscal sponsor that can accept payments such as from sponsorships and pay out expenses
-### Fiscal sponsor that will accept payments
+Fiscal sponsor that will accept payments
 * [ ] Added usernames for [CNCF Slack](https://slack.cncf.io/) for all organizers so that we can add you to the #kcd-organizers channel
 * [ ] Create a Twitter handle specific to your KCD event (except for countries like China and Korea where Twitter is not used)
 * [ ] Provided CNCF access to all event social handles
 
-### Getting started checklist for CNCF:
+## Getting started checklist for CNCF:
 * [ ] Organizer email alias has been created
 * [ ] Region created in Bevy
 * [ ] Added to Bevy header
 * [ ] CFP created in SMapply
 * [ ] Marketing Plan shared
 
-###Organizer Planning Timeline
+## Organizer Planning Timeline
 * [ ] Make a copy of this timeline based on whether your event is In-person, Hybrid, or Virtual and link your own spreadsheet here ().
 
-### Post event checklist for Organizer:
+## Post event checklist for Organizer:
 * [ ] Send CNCF event analytics
 * [ ] Schedule post mortem meeting
 * [ ] Send CNCF Videos uploaded to YouTube and linked to event page
 * [ ] Post event survey sent out
 
-### Post event checklist for CNCF:
+## Post event checklist for CNCF:
 * [ ] Removed from Bevy header
 * [ ] CFP deactivated
 * [ ] Upload videos to YouTube
