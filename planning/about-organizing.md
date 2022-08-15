@@ -30,9 +30,9 @@ We recommend assigning the following responsibilities to one or two members of y
 * [Finance and budgeting](/planning/budget-finances.md)
 * [Marketing and promotion](/planning/marketing-promotion.md) 
 * [Sponsors](/planning/sponsors-resources)
-* [Call for Proposals (CFP) and schedule](/organizing-manage-speakers)
+* [Call for Proposals (CFP) and schedule](/speaker-resources/cfp.md)
 * Website updates
-* [Registration](/organizing-registration)
+* [Registration](/planning/registration.md)
 * Venue, catering, local activities, and the hotel
 * T-shirts and other swag
 * Evening event logistics
@@ -54,7 +54,7 @@ Once you have found and organized your team through Github issues, it it time to
 * Share CNCF Slack usernames for all organizers to be added to #KCD-organizers channel
 * Create Twitter handle for specific KCD event (like @KCD-BouvetIsland) except for countries like China and Korea where Twitter is not used
 
-Once your team meets these criteria, you can create a GitHub [issue](https://github.com/cncf/kubernetes-community-days/issues/) to notify CNCF that you wish to be officially recognized. Your organizing team will be invited to the [#kcd-organizers](https://cloud-native.slack.com/messages/GN6R2PV1A) private Slack channel where you can connect with other Kubernetes Community Days organizers around the world. At this time, the Core Organizers will also grant you access to our preferred tools and create email aliases (for general organizers and sponsorships). You can then begin creating your website and event platform. Copy the page structure of the [Bouvet Island](/events/2019-bouvet-island) sample event as a guide. Here’s [instructions](/organizing-creating-website).
+Once your team meets these criteria, you can create a GitHub [issue](https://github.com/cncf/kubernetes-community-days/issues/) to notify CNCF that you wish to be officially recognized. Your organizing team will be invited to the [#kcd-organizers](https://cloud-native.slack.com/messages/GN6R2PV1A) private Slack channel where you can connect with other Kubernetes Community Days organizers around the world. At this time, the Core Organizers will also grant you access to our preferred tools and create email aliases (for general organizers and sponsorships). You can then begin creating your website and the Bevy event platform. Follow instructions under "Event Creation" in the [Bevy Conference Success](https://docs.google.com/spreadsheets/d/1FeUB6beZAVeR8ViVIR-_mPUSxKHsynDc9XCIvx1roqc/edit#gid=698508546) plan. 
 
 * Where our standard tools are blocked, CNCF will work with KCD organizers to determine alternatives. 
 
@@ -95,7 +95,7 @@ All events must be called “Kubernetes Community Days LOCATION”, e.g. Kuberne
 * [CNCF Digital Assets](https://github.com/cncf/artwork) for  event promotions.
 * [How to work with the Bevy platform](https://github.com/cncf/kubernetes-community-days/blob/main/planning/platform-help.md)
 * SM Apply [Help Center](https://help.smapply.io/hc/en-us) and [Training videos](https://help.smapply.io/hc/en-us/categories/115000187973-Implementation-Training-Videos)
-* How to deal with [disagreements between organizers](resolving-organizer-disagreements.md)
+* How to deal with [disagreements between organizers](planning/organizer-mediation.md
 * [FAQ](/planning/faq.md)
 
 ## Core Organizers
