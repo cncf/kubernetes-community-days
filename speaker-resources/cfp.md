@@ -1,10 +1,10 @@
 
-#Sample Call for Papers
+# Sample Call for Papers
 
 
 Kubernetes Community Days are regional events that bring together hundreds of IT executives, cloud operators and technology providers to discuss cloud computing and to learn about Kubernetes and other cloud native technologies.  These annual events are supported by the Cloud Native Computing Foundation and are organized by a community of local cloud native user groups and supporting companies.
 
-# First time submitting? Don’t feel intimidated
+## First time submitting? Don’t feel intimidated
 Kubernetes Community Days events are an excellent way to get to know the community and share your ideas and the work that you are doing. You do not need to be a chief architect or long-time industry pundit to submit a proposal, in fact, we strongly encourage first-time speakers to submit talks for all of our events. We want to hear your story! If you want help with your proposal reach out to the local organizing team or [Kcds@cncf.io](kcds@cncf.io).
 
 Considerations:
@@ -23,7 +23,7 @@ We definitely do not expect every presentation to have code snippets and technic
 
 There are plenty of ways to give a presentation about projects and technologies without focusing on company-specific efforts. Remember the things to consider that we mentioned above when writing your proposal and think of ways to make it interesting for attendees while still letting you share your experiences, educate the community about an issue, or generate interest in a project.
 
-# How to submit your proposal
+## How to submit your proposal
 We have done our best to make the submission process as simple as possible. Here is what you will need to prepare:
 
 Choose a submission format:
