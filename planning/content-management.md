@@ -17,7 +17,7 @@ Some basic guidelines for building a good event program include:
 
 ## Recruiting Speakers
 
-Along with sponsorships, this is one of the most challenging parts of running an event. The [CNCF Speakers Bureau](https://www.cncf.io/speakers/)  is a great place to start. Regardless you should anticipate spending some time recruiting speakers and speaking proposals.  With this in mind, here are some ways to make recruiting speakers easier:
+Along with sponsorships, this is one of the most challenging parts of running an event. The [CNCF Speakers Bureau](https://www.cncf.io/blog/2020/01/31/cncf-speakers-bureau-a-great-resource/)  is a great place to start. Regardless you should anticipate spending some time recruiting speakers and speaking proposals.  With this in mind, here are some ways to make recruiting speakers easier:
 
 * Build a stock of proposal ideas for potential speakers either to adopt or use to spark their creative process
 * Offer to brainstorm with potential speakers to help create content
