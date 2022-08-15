@@ -1,6 +1,4 @@
----
-Sponsorship
----
+# Sponsorship
 
 Role of sponsorship team/lead
 
