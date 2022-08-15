@@ -28,8 +28,8 @@ Check the GitHub Kubernetes Community Days [issue board](https://github.com/cncf
 We recommend assigning the following responsibilities to one or two members of your organizing team:
 
 * [Finance and budgeting](/planning/budget-finances.md)
-* [Marketing and promotion](/organizing-marketing-promotion) 
-* [Sponsors](/organizing-finding-sponsors)
+* [Marketing and promotion](/planning/marketing-promotion.md) 
+* [Sponsors](/planning/sponsors-resources)
 * [Call for Proposals (CFP) and schedule](/organizing-manage-speakers)
 * Website updates
 * [Registration](/organizing-registration)
@@ -93,7 +93,7 @@ All events must be called “Kubernetes Community Days LOCATION”, e.g. Kuberne
 * [Sample Call for Proposals](/speaker-resources/cfp.md) to recruit speakers.
 * [CNCF Speakers' Bureau](https://www.cncf.io/speakers/) to connect with expert speakers within the cloud native ecosystem.
 * [CNCF Digital Assets](https://github.com/cncf/artwork) for  event promotions.
-* [How to work with the Bevy platform](https://github.com/cncf/kubernetes-community-days/blob/master/content/organizing-platform-help.md)
+* [How to work with the Bevy platform](https://github.com/cncf/kubernetes-community-days/blob/main/planning/platform-help.md)
 * SM Apply [Help Center](https://help.smapply.io/hc/en-us) and [Training videos](https://help.smapply.io/hc/en-us/categories/115000187973-Implementation-Training-Videos)
 * How to deal with [disagreements between organizers](resolving-organizer-disagreements.md)
 * [FAQ](/planning/faq.md)
