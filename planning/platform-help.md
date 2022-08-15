@@ -16,13 +16,7 @@ Review the [Bevy Virtual Conference Overview](https://training.cmxhub.com/p/how-
 
 ## Bevy Virtual Platform How tos:
 * [Self-paced training program](https://bevy.com/academy) [Use the code BEVY-CUSTOMER-SUCCESS for 100% off.]
-* [Community Management 101 course](https://training.cmxhub.com/p/bevy-community-management-101) [Use the code BEVY-CUSTOMER-SUCCESS for 100% off.]
-* [Bevy Virtual articles](https://help.bevylabs.com/category/456-bevy-virtual)
-* [How to create a test event in Bevy Virtual](https://help.bevylabs.com/article/496-test-event-in-bevy-virtual)
-* [Breakout Rooms](https://help.bevylabs.com/article/495-breakout-rooms)
-* [How to achieve the best quality on Bevy Virtual](https://help.bevylabs.com/article/510-how-to-achieve-the-best-quality-on-bevy-virtual)
-* [Using Bevy Virtual as a Speaker](https://help.bevylabs.com/article/493-speaker-permissions-in-bevy-virtual)
-* [Troubleshooting](https://help.bevylabs.com/article/499-troubleshooting)
+* [Check out Bevy's scalable success plan with intructional links.](https://docs.google.com/spreadsheets/d/1FeUB6beZAVeR8ViVIR-_mPUSxKHsynDc9XCIvx1roqc/edit#gid=698508546)
 
 ## SMApply training:
 * [Help Center Resources](https://help.smapply.io/hc/en-us)
