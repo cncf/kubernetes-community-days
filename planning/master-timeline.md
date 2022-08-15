@@ -1,10 +1,10 @@
 # Kubernetes Community Day Master Timeline
 [Alternatively, here is a spreadsheet where you can choose from in-person, hybrid, or virtual. MAKE A COPY to make it your own.](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit#gid=0) 
 
-# Hosting a Kubernetes Community Days Event
+## Hosting a Kubernetes Community Days Event
 This is a suggested planning timeline for running a successful event. Use the Kubernetes Community Days Conference Action Items and Assignments to assign tasks and deadlines to team members.  
 
-## 8-9 MONTHS IN ADVANCE          
+### 8-9 MONTHS IN ADVANCE          
 Begin to Plan for the event:
 
 * Start a discussion on Github to see if anyone else in your area is interested in organizing an event.
@@ -48,7 +48,7 @@ Communications:
 * Create a placeholder Webpage for the event announcing date(s) with an email contact address
 * Get email address from CNCF for your organizers 
 
-## 6-7 MONTHS IN ADVANCE:
+### 6-7 MONTHS IN ADVANCE:
 
 Budget and finance:
 
@@ -158,7 +158,7 @@ Confirm venue costs and catering costs (this may be with the same vendor):
 * Hire a professional photographer (optional)
 * Calculate and confirm any extra labor costs
 
-## 4-6 MONTHS IN ADVANCE: 
+### 4-6 MONTHS IN ADVANCE: 
 Call for presentations and select your speakers:
 
 * Publish and promote your [“Call for Presentations”](/organizing-cfp)
@@ -201,7 +201,7 @@ Social Media:
 
 * Create a dedicated Twitter hashtag for the event.
 
-## 2-4 MONTHS IN ADVANCE: 
+### 2-4 MONTHS IN ADVANCE: 
 
 * Track registrations through the platform
 * Determine who will be at the registration desk to check people in.
@@ -216,7 +216,7 @@ Social Media:
 * Decide if you would like to hand out surveys to attendees to get feedback
  * If yes, create a simple online survey requesting a numerical rating of speaker effectiveness, an overall event rating, and general comments what to include/do better next time, etc.
 
-## 1-2 MONTHS IN ADVANCE: 
+### 1-2 MONTHS IN ADVANCE: 
 
 * Finalize signage and printing requirements
 * Track registrations to ensure event is on target
@@ -225,7 +225,7 @@ Social Media:
 * Revise and review the budget based on registrations, sponsorships and cost estimates
 * Work with sponsors to make sure their speaking session is not a n product/sales pitch.
 
-## 2-4 WEEKS BEFORE THE EVENT:
+### 2-4 WEEKS BEFORE THE EVENT:
 Begin final checks to make sure event is ready to go:
 
 * Download the Kubernetes Community Days Slide Deck in the Kubernetes Community Days Repo for the welcome/registration and break time slots.
@@ -237,7 +237,7 @@ Begin final checks to make sure event is ready to go:
 * Draft thank you emails for sponsors, attendees and speakers.
 
 
-## ON THE DAY OF OR NIGHT BEFORE THE EVENT: 
+### ON THE DAY OF OR NIGHT BEFORE THE EVENT: 
          
 Perform final preparations:
 
@@ -253,7 +253,7 @@ Perform final preparations:
 * Brief volunteers and sponsors -help with set-up.
 * Brief the photographer and video person (if applicable)
 
-## POST EVENT:   
+### POST EVENT:   
       
 * Retrieve photos from photographer.
 * Post photos on the event wrap up page. 
