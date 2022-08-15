@@ -1,7 +1,7 @@
 
 # Sample Sponsor Letter
 
-Dear fname,
+Dear first name,
 
 Kubernetes Community Days are regional events that bring together hundreds of IT executives, cloud operators and technology providers to discuss cloud computing and to learn about Kubernetes.  These annual events are supported by the Cloud Native Computing Foundation and are organized by a community of local Kubernetes user groups and supporting companies.
 
