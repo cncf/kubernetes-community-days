@@ -1,6 +1,5 @@
----
-title: Organize a Kubernetes Community Day 
----
+# Kubernetes Community Day Master Timeline
+[Alternatively, here is a spreadsheet where you can choose from in-person, hybrid, or virtual. MAKE A COPY to make it your own.](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit#gid=0) 
 
 # Hosting a Kubernetes Community Days Event
 This is a suggested planning timeline for running a successful event. Use the Kubernetes Community Days Conference Action Items and Assignments to assign tasks and deadlines to team members.  
