@@ -1,6 +1,4 @@
----
-title: Kubernetes Community Day FAQ 
----
+# Kubernetes Community Day FAQ 
 
 ## Are Kubernetes Community Days limited to Kubernetes?
 
