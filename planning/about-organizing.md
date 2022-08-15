@@ -29,7 +29,7 @@ We recommend assigning the following responsibilities to one or two members of y
 
 * [Finance and budgeting](/planning/budget-finances.md)
 * [Marketing and promotion](/planning/marketing-promotion.md) 
-* [Sponsors](/sponsors-resources)
+* [Sponsors](/sponsors-resources/)
 * [Call for Proposals (CFP) and schedule](/speaker-resources/cfp.md)
 * Website updates
 * [Registration](/planning/registration.md)
