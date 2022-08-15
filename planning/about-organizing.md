@@ -86,18 +86,17 @@ All events must be called “Kubernetes Community Days LOCATION”, e.g. Kuberne
 
 ## Kubernetes Community Days Planning Tools
 
-* [Conference Planning Guide](/organizing-timeline) with event timeline.
-* [Conference Action Items and Checklist](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit) (Google Spreadsheet) a template for check-in meetings to keep everyone is on task. 
-* [Sponsorship Letter](/organizing-sponsorletter) to send to prospective sponsors.
-* [Sponsorship Prospectus](/organizing-sponsor-prospectus) (to send to prospective sponsors and post on the event website.)
+* [Conference Planning Action Items and Checklist](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit) (Google Spreadsheet) a template for check-in meetings to keep everyone is on task. 
+* [Sponsorship Letter](/sponsor-resources/letter-prospecting-sponsors.md) to send to prospective sponsors.
+* [Sponsorship Prospectus](/sponsor-resources/) (to send to prospective sponsors and post on the event website.)
 * [Sample Invoice](https://docs.google.com/document/d/1Rbc8hvBgbO55asEQzzAHkpvSU2ogl52NmWq1-NhBYdY/edit) (Google Spreadsheet) to invoice sponsors.
-* [Sample Call for Proposals](/organizing-cfp) to recruit speakers.
+* [Sample Call for Proposals](/speaker-resources/cfp.md) to recruit speakers.
 * [CNCF Speakers' Bureau](https://www.cncf.io/speakers/) to connect with expert speakers within the cloud native ecosystem.
 * [CNCF Digital Assets](https://github.com/cncf/artwork) for  event promotions.
 * [How to work with the Bevy platform](https://github.com/cncf/kubernetes-community-days/blob/master/content/organizing-platform-help.md)
 * SM Apply [Help Center](https://help.smapply.io/hc/en-us) and [Training videos](https://help.smapply.io/hc/en-us/categories/115000187973-Implementation-Training-Videos)
 * How to deal with [disagreements between organizers](resolving-organizer-disagreements.md)
-* [FAQ](/organizing-faq)
+* [FAQ](/planning/faq.md)
 
 ## Core Organizers
 
