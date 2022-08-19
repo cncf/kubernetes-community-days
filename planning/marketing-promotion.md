@@ -57,10 +57,7 @@ Twitter
 
 Twitter Posting Style, Images, and Official Hashtag
 
-Style
-
-* The following style guide addresses how to craft social media posts:
-* Adhere to established CNCF voice + style:
+Style: The following style guide addresses how to craft social media posts and adhere to established CNCF voice + style:
  * Inclusive, Useful, Encouraging, Open, Informative, Personable
  * Do not use stereotypes
  * Respect the diversity of the community; be inclusive of all genders and races and sensitive to concepts such as meritocracy
