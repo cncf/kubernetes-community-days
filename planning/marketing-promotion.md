@@ -4,7 +4,7 @@ Once you have a time and place, you can announce your event to the world! It’s
 
 [Here is a timeline of what you and the CNCF can do together to promote your KCD.](https://docs.google.com/document/d/1vWMCdXlWKgpIMhAGdVBZM5w-W5cJFSVsh7Jaqwhf9dY/edit#) Below are tips and tricks and other methods of outreach.
 
-Role of the Marketing Team
+### Role of the Marketing Team
 
 * Drive interest in the event
 * Drive ticket sales
@@ -13,7 +13,7 @@ Role of the Marketing Team
 * Highlight event diversity
 * Manage site content via this website 
 
-Promotion
+### Promotion
 
 * Who can help spread the word that the event is scheduled?
 * Reach out to local tech companies and consultants
@@ -24,7 +24,7 @@ Promotion
 * Contact Code academies to see if they will help you promote
 * Ask the Sponsor companies to email their contacts and invite them to attend
 
-## Email marketing in Bevy
+### Email marketing in Bevy
 
 Bevy can can allow for people to opt-in or out of future mailings so organizers can properly market to past attendees. For opt-in of mailings, utilizing the pre-and post-event forms to gather attendee data for opting in to various channeled mailings, including event specific newsletters allows individuals to then opt-out of those mailings by unsubscribing directly from the email received or by managing your subscriptions from the User Profile>Updates section as described here:
 
@@ -39,7 +39,7 @@ To unsubscribe:
 
 Additionally, they can also opt-in (or opt back in) to the communications from a chapter from their profile.
 
-## Online marketing
+### Online marketing
 
 * Promote your event in the Sponsors and Organizers corporate newsletters, websites, emails, etc
 * Promote sponsorship, speakers, CFS, on LinkedIn
