@@ -14,13 +14,13 @@ Role of the Marketing Team
 Promotion
 
 * Who can help spread the word that the event is scheduled?
- * Reach out to local tech companies and consultants
- * Contact local tech publications and see if you can swap media sponsorship for ads in their publication or on their website
- * Reach out to local tech incubators and VCs to see if you can be included in newsletters, post flyers on event board, etc.
- * Local universities (if they have CS departments, for example)
- * Contact your local Meetups and ask them to promote your event 
- * Contact Code academies to see if they will help you promote
- * Ask the Sponsor companies to email their contacts and invite them to attend
+* Reach out to local tech companies and consultants
+* Contact local tech publications and see if you can swap media sponsorship for ads in their publication or on their website
+* Reach out to local tech incubators and VCs to see if you can be included in newsletters, post flyers on event board, etc.
+* Local universities (if they have CS departments, for example)
+* Contact your local Meetups and ask them to promote your event 
+* Contact Code academies to see if they will help you promote
+* Ask the Sponsor companies to email their contacts and invite them to attend
 
 ## Email marketing in Bevy
 
@@ -61,11 +61,11 @@ Style
 
 * The following style guide addresses how to craft social media posts:
 * Adhere to established CNCF voice + style:
- * Inclusive, Useful, Encouraging, Open, Informative, Personable
- * Do not use stereotypes
- * Respect the diversity of the community; be inclusive of all genders and races and sensitive to concepts such as meritocracy
- * Be sensitive to all genders and use gender-neutral language and terms when necessary (they, them, their)
- * Never engage in arguments or plug products → content should be vendor-neutral aside from sponsor mentions
+ ** Inclusive, Useful, Encouraging, Open, Informative, Personable
+ ** Do not use stereotypes
+ ** Respect the diversity of the community; be inclusive of all genders and races and sensitive to concepts such as meritocracy
+ ** Be sensitive to all genders and use gender-neutral language and terms when necessary (they, them, their)
+ ** Never engage in arguments or plug products → content should be vendor-neutral aside from sponsor mentions
 
 Images
 
