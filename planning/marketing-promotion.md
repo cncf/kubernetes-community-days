@@ -1,6 +1,8 @@
-# Marketing and Promotion
+# Marketing and Promotion Guidlines and Suggestions
 
 Once you have a time and place, you can announce your event to the world! It’s great if you’ve had a chance to open your CFP and registration, though those aren’t essential to announce your dates.
+
+[Here is a timeline of what you and the CNCF can do together to promote your KCD.](https://docs.google.com/document/d/1vWMCdXlWKgpIMhAGdVBZM5w-W5cJFSVsh7Jaqwhf9dY/edit#) Below are tips and tricks and other methods of outreach.
 
 Role of the Marketing Team
 
