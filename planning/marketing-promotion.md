@@ -61,11 +61,11 @@ Style
 
 * The following style guide addresses how to craft social media posts:
 * Adhere to established CNCF voice + style:
- ** Inclusive, Useful, Encouraging, Open, Informative, Personable
- ** Do not use stereotypes
- ** Respect the diversity of the community; be inclusive of all genders and races and sensitive to concepts such as meritocracy
- ** Be sensitive to all genders and use gender-neutral language and terms when necessary (they, them, their)
- ** Never engage in arguments or plug products → content should be vendor-neutral aside from sponsor mentions
+ * Inclusive, Useful, Encouraging, Open, Informative, Personable
+ * Do not use stereotypes
+ * Respect the diversity of the community; be inclusive of all genders and races and sensitive to concepts such as meritocracy
+ * Be sensitive to all genders and use gender-neutral language and terms when necessary (they, them, their)
+ * Never engage in arguments or plug products → content should be vendor-neutral aside from sponsor mentions
 
 Images
 
