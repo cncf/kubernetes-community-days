@@ -4,13 +4,17 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 ### Event Details
 * [ ] Event Location:
 * [ ] Event Date and Time:
-* [ ] Event type: <!-- chose virtual, hybrid, or in person -->
-* [ ] Organizers Details (identify who will be the CFP admin, as well as the finanical officer)
-Organizer 1: First and Last Name, Company, Title, Email, CNCF Slack Username
-Organizer 2: First and Last Name, Company, Title, Email, CNCF Slack Username
-Organizer 3: First and Last Name, Company, Title, Email, CNCF Slack Username
-* [ ] Expected Number of Attendees:
+* [ ] Expected Number of Attendees
 * [ ] Event cost per ticket, and if you will have early bird pricing or not
+* Event type:
+* [ ] Virtual
+* [ ] Hybrid
+* [ ] In person
+* Organizers Details (identify who will be the CFP admin, as well as the finanical officer)
+* [ ] Organizer 1: First and Last Name, Company, Title, Email, CNCF Slack Username
+* [ ] Organizer 2: First and Last Name, Company, Title, Email, CNCF Slack Username
+* [ ] Organizer 3: First and Last Name, Company, Title, Email, CNCF Slack Username
+
 
 ### Terms
 
