@@ -30,7 +30,7 @@ Guidelines, Toolkit, and support:
 * Once your event is approved, CNCF will do the following:
  * Give you a Hugo Template to build out the site.
  * Add you to the Kubernetes Community Days Organizers Slack Channel (so you can ask questions and best practices from other KCD organizers)
- * Use the tools at the bottom of the [organizing page](/organizing)
+ * Use the tools at the bottom of the [organizing page](/planning)
 
 Select and reserve a venue (for in person):
 
@@ -137,7 +137,7 @@ Create your sponsorship prospectus and agreement:
 
 Pick your swag:
 
-* Please review the [Kubernetes Community Days tool kit](/organizing) on the Kubernetes Community Days website and [CNCF Store](https://store.cncf.io/) for ideas
+* Please review the [Kubernetes Community Days tool kit](/planning) on the Kubernetes Community Days website and [CNCF Store](https://store.cncf.io/) for ideas
 * Stickers, pins, pens, and t-shirts are very popular
 
 Estimate signage needs (in person): 
@@ -161,7 +161,7 @@ Confirm venue costs and catering costs (this may be with the same vendor):
 ### 4-6 MONTHS IN ADVANCE: 
 Call for presentations and select your speakers:
 
-* Publish and promote your [“Call for Presentations”](/organizing-cfp)
+* Publish and promote your [“Call for Presentations”](/planning-cfp)
 * Word the call simply and cleanly
 * Consider creating a theme for the event
 * Actively and repeatedly promote your call across as many relevant channels as possible
