@@ -30,7 +30,7 @@ Guidelines, Toolkit, and support:
 * Once your event is approved, CNCF will do the following:
  * Give you a Hugo Template to build out the site.
  * Add you to the Kubernetes Community Days Organizers Slack Channel (so you can ask questions and best practices from other KCD organizers)
- * Use the tools at the bottom of the [organizing page](/planning)
+ * Use the tools at the bottom of the [organizing page](/planning/)
 
 Select and reserve a venue (for in person):
 
@@ -61,7 +61,8 @@ Budget and finance:
 Team roles and responsibilities:
 
 * Create an advisory team to help organize the event and define roles and responsibilities
-* It’s advised that you invite at least one Kubernetes Ambassador as a planning member.
+* It’s advised that you invite at least one Kubernetes Ambassador as a 
+member.
 * Announce the formation of the advisory group  to local Kubernetes User and MeetUp Groups in order to recruit more members
 
 Keynote Speakers:
@@ -161,7 +162,7 @@ Confirm venue costs and catering costs (this may be with the same vendor):
 ### 4-6 MONTHS IN ADVANCE: 
 Call for presentations and select your speakers:
 
-* Publish and promote your [“Call for Presentations”](/planning-cfp)
+* Publish and promote your [“Call for Presentations”](/speaker-resources/cfp.md)
 * Word the call simply and cleanly
 * Consider creating a theme for the event
 * Actively and repeatedly promote your call across as many relevant channels as possible
@@ -260,6 +261,7 @@ Perform final preparations:
 * Share  videos with CNCF so they can be posted on the [CNCF YouTube channel](https://www.youtube.com/c/cloudnativefdn).
 * Send thank you emails to speakers, sponsors, and participants.
 * Collect all outstanding invoices and process for payment.
-* Determine planning for the next Kubernetes Community Days event.
+* Determine 
+for the next Kubernetes Community Days event.
 
 
