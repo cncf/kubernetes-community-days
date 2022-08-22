@@ -30,7 +30,6 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] Agree to ensure the final program schedule is diverse (e.g., not all speakers of one gender)
 * [ ] Agree to use Cloud Native Community Groups for registration, scheduling, and event website
 * [ ] Agree to use SM Apply for CFP and to close it at least 6 weeks before the event
-* [ ] Agree that there will not be an all male speaker lineup
 
 ### Getting started checklist for organizers
 
