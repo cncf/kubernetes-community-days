@@ -20,7 +20,7 @@ Begin to Plan for the event:
 
 Recruit an event team and sponsors:
 
-* Begin to recruit members for your Kubernetes Community Days Advisory Board Steering Committee.
+* Begin to recruit for your Kubernetes Community Days Advisory Board Steering Committee.
  * This team should be at least 4 individuals from 4 different companies
 * Look for co-organizers with event expertise to help organize (Some organizers have decided to hire an event coordinator for this purpose
 * Recruit the three required sponsoring companies (usually they are where co-organizers work)
@@ -68,14 +68,15 @@ member.
 Keynote Speakers:
 
 * Identify from potential keynote speakers to attract both attendees and sponsors.
-* See if anyone in the Kubernetes Speakers Bureau would be a good keynote and check availability.
+* See if anyone in the Kubernetes Speakers 
+would be a good keynote and check availability.
 * Focus on pulling diverse keynoters as much as possible.
 * Assign outreach to potential speakers and get confirmations ASAP (note: be cognizant that if you ask multiple speakers simultaneously and they all accept, you may have to cancel which is not great. Far better is to request a quick response and ask one at a time until the slate is full)
 
 Identify possible sponsors:
 
 * Create a target list of possible sponsors to contact 
-* Look at employers of [CNCF Speakers Bureau](https://www.cncf.io/speakers/) members and CNCF Ambassadors or potential sponsorship
+* Look at employers of [CNCF members](https://www.cncf.io/about/members/) and [CNCF Ambassadors](https://www.cncf.io/people/ambassadors/) for potential sponsorship
 * Identify companies that have sponsored or are sponsoring related events
 * Build an outreach plan and assign contacts
 
@@ -132,7 +133,7 @@ Create your sponsorship prospectus and agreement:
 * Create an event-branded sponsorship prospectus with different sponsorship levels, prices and benefits.
 * Recruit and confirm speakers:
 * Create a list of targeted keynote speakers.
-* Leverage the [Kubernetes Ambassador](https://www.cncf.io/people/ambassadors/), [Kubernetes Speakers Bureau](https://www.cncf.io/speakers/), local community, and meetup groups.
+* Leverage the [Kubernetes Ambassador](https://www.cncf.io/people/ambassadors/), local community, and meetup groups.
 * Consider including 1-2 End Users as well.
 * People who often contribute to the community on Slack and are in your region are another good bet
 
