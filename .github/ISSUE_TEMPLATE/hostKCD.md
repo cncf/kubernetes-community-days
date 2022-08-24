@@ -62,6 +62,7 @@ Fiscal sponsor that will accept payments
 
 ### Organizer Planning Timeline
 * [ ] Make a copy of [this timeline](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit#gid=1736864170) based on whether your event is In-person, Hybrid, or Virtual and link your own spreadsheet here ().
+* [ ] To assure you have a diverse lineup, you are required to send a copy of your program to kcd@cncf.io before you publish it.
 
 ### Post event checklist for Organizer:
 * [ ] Send CNCF event analytics
