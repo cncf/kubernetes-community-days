@@ -1,7 +1,7 @@
 ---
-name: host.md
+name: Host a KCD
 about: Host a KCD and use this checklist to get started by submitting an issue
-title: HOST
+title: KCD Region and Year
 labels: ''
 assignees: ''
 
