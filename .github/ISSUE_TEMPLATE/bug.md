@@ -1,8 +1,12 @@
 ---
-name: 'Submit a bug'
+name: Submit a bug
+about: Use this form to submit a bug about something in the website
+title: ''
 labels: bug
-about: 'Use this form to submit a bug about something in the website'
+assignees: ''
+
 ---
+
 ### Submission checklist:
 
 *Please check each of these indicating that you have met these requirements:
