@@ -25,6 +25,22 @@ We are now hosting *a monthly KCD Organizer focus group*. As of now, it will be 
 
 STEP 1: [Submit an issue in GitHub](https://github.com/cncf/kubernetes-community-days/issues/new/choose) using the provided check-list template and we will schedule a kickoff meeting from there, as well as provide you with more resources.
 
+NOTE: These are the terms within the checklist that are IMPORTANT to abide by:
+### Terms
+
+* No other Kubernetes Community Day event in same major city (check with past organizers)
+* Minimum of 3 organizers from 3 different organizations
+* Every organizer has an account on [Cloud Native Community Groups](https://community.cncf.io/)
+* Each organizer lives in or just outside of the KCD location
+* At least one organizer is a CNCF member employee, CNCF ambassador, or CNCF project maintainer
+* All organizers agree to follow the event guidelines and CNCF Code of Conduct
+* All inquiries / communication to come via GitHub forum for easy tracking
+* All organizers have taken [Inclusive Open Source Community Orientation (LFC102)](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
+* Agree to offer (at minimum) 3 complimentary tickets to increase diversity for the event
+* Agree to ensure the final program schedule is diverse (e.g., not all speakers of one gender)
+* Agree to use Cloud Native Community Groups for registration, scheduling, and event website
+* Agree to use SM Apply for CFP and to close it at least 6 weeks before the event
+
 STEP 2: Request to be added to the [kcd-organizers](https://cloud-native.slack.com/archives/GQ7D26NPQ) CNCF Slack channel.
 
 ## A few 2022 KCD event examples
