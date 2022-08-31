@@ -36,13 +36,13 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] All inquiries / communication to come via GitHub forum for easy tracking
 * [ ] All organizers have taken [Inclusive Open Source Community Orientation (LFC102)](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
 * [ ] Agree to offer (at minimum) 3 complimentary tickets to increase diversity for the event
-* [ ] Agree to ensure the final program schedule is diverse (e.g., not all speakers of one gender, or from 1 or 2 of the same company). [Here are some tips on how to create a diverse lineup.](https://docs.google.com/presentation/d/1fzT_BdavVKh3mnxxU-PBWyJq9JUfasKwHqekkbYVbw8/edit#slide=id.g56245ab439_0_106)
+* [ ] Agree to ensure the final program schedule is diverse (e.g., not all speakers of one gender, one culture, or from 1 or 2 of the same company). [Here are some tips on how to create a diverse lineup.](https://docs.google.com/presentation/d/1fzT_BdavVKh3mnxxU-PBWyJq9JUfasKwHqekkbYVbw8/edit#slide=id.g56245ab439_0_106)
 * [ ] Agree to use Cloud Native Community Groups for registration, scheduling, and event website
 * [ ] Agree to use SM Apply for CFP and to close it at least 6 weeks before the event
 
 ### Getting started checklist for organizers
 
-* [ ] Schdule monthly check-ins with KCD Core Organizer(s) (kcd@cncf.io)
+* [ ] Schedule monthly check-ins with KCD Core Organizer(s) (kcd@cncf.io)
 * [ ] Minimum of 3 sponsors committed (not required for virtual only events)
 Sponsor 1
 Sponsor 2
