@@ -13,21 +13,8 @@ Once pricing has been decided you’re ready to set up registration. Here are so
 * Event organizers must add the following statement to the registration page:
   “Personal information gathered by the organizers is handled in accordance with the Foundation’s Privacy Policy and is used for internal purposes only."
 
-Please add the following question to the registration page to help CNCF gather demographic information. You can find out how to add it to the registration process in [this article](https://help.bevylabs.com/article/386-editing-event-forms).
+[Here are reccomended registration form questions](https://docs.google.com/spreadsheets/d/1OEoVQ8Y3eQmEEJeT2abhNOkYIkyk8nAVjebNFvKMTQQ/edit#gid=0) the CNCF uses for KubeCon. You will find some reccomendations to assist in gathering demographic information. You can find out how to add it to the registration process in [this article](https://help.bevylabs.com/article/386-editing-event-forms).
 
-* What is your current Organizational Role at your company? (please check one):
- * Business Development/Sales/Marketing
- * CEO/Executive Leadership
- * CIO/CTO/IT Manager
- * Cloud Application Developer
- * Cloud Architect
- * Engineer
- * Kubernetes Community User/Operator
- * Operations/SysAdmin
- * Product Management
- * Product Strategy
- * Upstream Developer
- * Other, please specify
 
 Here are some other ways you can improve the registration process.
 
