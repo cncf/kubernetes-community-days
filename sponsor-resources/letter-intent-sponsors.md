@@ -16,4 +16,4 @@ We are looking for sponsors to support our event in **enter the location** on **
 If you are interested in learning how your company can sponsor the Kubernetes Community Days location event, please contact us **insert name and contact information**.
 
 **Insert propper sign-off based on culture**,
-NAME OF SENDER on behalf of the **venue location** KCD team
+<br>NAME OF SENDER on behalf of the **venue location** KCD team
