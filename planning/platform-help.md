@@ -5,7 +5,8 @@ Whether this is your first time hosting an event or 100th, learning how to use a
 ## Bevy Virtual Conference Course
 Review the [Bevy Virtual Conference Overview](https://training.cmxhub.com/p/how-to-run-a-virtual-conference), the full course can be had for free upon request.
 
-## Helpful How tos for Chapter Admins:
+## Helpful Bevy How Tos for Chapter Admins:
+* [Setting up your event in Bevy](https://docs.google.com/presentation/d/1y2FyVaH23Io-QKdR9Ofod7Vx1H2rpLNt3YwPCgPFjh8/edit#slide=id.p)
 * [Self-paced video tutorials](http://vimeo.com/showcase/bevy-virtual-conference) [Use Password: "devfest"].
 * [Sending chapter newsletters](https://help.bevylabs.com/article/358-sending-chapter-newsletters)
 * [Day of event best practices](https://help.bevylabs.com/article/392-day-of-event-best-practices)
