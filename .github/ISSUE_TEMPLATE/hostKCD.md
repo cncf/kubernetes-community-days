@@ -33,7 +33,7 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] Each organizer lives in or just outside of the KCD location
 * [ ] At least one organizer is a CNCF member employee, CNCF ambassador, or CNCF project maintainer
 * [ ] All organizers agree to follow the event guidelines and CNCF Code of Conduct
-* [ ] All inquiries / communication to come via GitHub forum for easy tracking
+* [ ] All inquiries / communication to come via GitHub (comment under your KCD issue) for easy tracking
 * [ ] All organizers have taken [Inclusive Open Source Community Orientation (LFC102)](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
 * [ ] Agree to offer (at minimum) 3 complimentary tickets to increase diversity for the event
 * [ ] Agree to ensure the final program schedule is diverse (e.g., not all speakers of one gender, one culture, or from 1 or 2 of the same company). [Here are some tips on how to create a diverse lineup.](https://docs.google.com/presentation/d/1fzT_BdavVKh3mnxxU-PBWyJq9JUfasKwHqekkbYVbw8/edit#slide=id.g56245ab439_0_106)
