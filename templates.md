@@ -1,5 +1,9 @@
 # Templates for KCD Events
 
+## KCD Logo
+
+[White background and clear background logos](https://drive.google.com/drive/folders/1UdvrGmPOHsa2i4sGkaV-aLswvKWGjfzY?usp=sharing)
+
 ## Sponsor Prospectus
 
 * [KCD Amsterdam 2023 Sponsor Prospectus](https://docs.google.com/presentation/d/15-7sbf509q0dMme6fdZRgzNrtpsaaBHabyz-57rctVQ/edit?usp=sharing)
