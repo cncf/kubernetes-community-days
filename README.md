@@ -22,9 +22,14 @@ Organizing an event can be daunting, if you are new at this, some organizers sug
 We are now hosting *a monthly KCD Organizer focus group*. As of now, it will be the 3rd Tuesday of each month, for 1 hour, from 7:00 - 8:00am PT / 10:00 - 11:00am ET / 4:00 - 5:00pm CEST. Please contact kcd@cncf.io if you would like to be added, or if you would like an additional time that accommodates your region.
 
 ## CNCF Support
-CNCF is happy to contribute $250 USD to each KCD starting in 2023. This can be used in [the CNCF store]https://store.cncf.io/, or towards 1 night hotel or traing ticket for a speaker.
 
-CNCF will also provide 10 CKA exam vouchers for each KCD. This is for you to do with at your KCD, as you please. Some ideas are giving a vouchers to a student volunteer, to show gratitude. Another idea would be to use it as raffle options within workshops.
+* Website and ticket support with the Bevy platform.
+* CFP support with the SM Apply platform
+* Monthly meetings to help keep you on track
+* Speaker and vendor introductions as needed
+* Marketing support via social media, KubeWeekly newsletter, and CNCG blog posts
+* CNCF is happy to contribute $250 USD to each KCD starting in 2023. This can be used in [the CNCF store]https://store.cncf.io/, or towards 1 night hotel or traing ticket for a speaker.
+* CNCF will also provide 10 CKA exam vouchers for each KCD. This is for you to do with at your KCD, as you please. Some ideas are giving a vouchers to a student volunteer, to show gratitude. Another idea would be to use it as raffle options within workshops.
 
 ### Want to host a KCD? Here are the first steps:
 
