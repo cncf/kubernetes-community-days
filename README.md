@@ -49,7 +49,8 @@ NOTE: These are the terms within the checklist that are IMPORTANT to abide by:
 * Agree to offer (at minimum) 3 complimentary tickets to increase diversity for the event
 * Agree to ensure the final program schedule is diverse (e.g., not all speakers of one gender, culture or company). [Here is how you can create a diverse lineup.](https://docs.google.com/presentation/d/1fzT_BdavVKh3mnxxU-PBWyJq9JUfasKwHqekkbYVbw8/edit#slide=id.g56245ab439_0_106)
 * Agree to submit your final lineup to kcd@cncf.io for review, prior to publishing it
-* Agree to use Cloud Native Community Groups for registration, scheduling, and event website
+* Agree to use Bevy (Cloud Native Community Groups) for registration, scheduling, and event website
+** If you chose another reguistration platform, you must report your weekly registration numbers in the #kcd-organizers private Slack channel within the CNCF workspace.
 * Agree to use SM Apply for CFP and to close it at least 6 weeks before the event
 
 STEP 2: Request to be added to the [kcd-organizers](https://cloud-native.slack.com/archives/GQ7D26NPQ) CNCF Slack channel.
