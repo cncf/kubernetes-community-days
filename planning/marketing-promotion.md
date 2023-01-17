@@ -15,6 +15,7 @@ Once you have a time and place, you can announce your event to the world! It’s
 
 ### Promotion
 
+* Start by posting your event on [The Linux Foundation's community events website](https://events.linuxfoundation.org/about/community/)
 * Who can help spread the word that the event is scheduled?
 * Reach out to local tech companies and consultants
 * Contact local tech publications and see if you can swap media sponsorship for ads in their publication or on their website
