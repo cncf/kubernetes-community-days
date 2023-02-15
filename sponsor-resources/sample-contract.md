@@ -1,3 +1,5 @@
+[A google doc version of this can be found here](https://docs.google.com/document/d/1fXphkACuYWiBvxJ9BL45Bfo8i_voUNV6IXiTmD1V8E4/edit#)
+
 Kubernetes Community Days
 <Event name> <Date of event> <Address of event>
 SAMPLE Sponsorship Contract Form
