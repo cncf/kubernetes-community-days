@@ -67,6 +67,11 @@ Recruiting a diverse speaker slate requires extra effort. Some ideas for this in
 
 ## Help with the SM Apply Platform
 
+* Accepting Proposals:
+-- go to the applications tab within your SM Apply program
+-- check the box for each application you would like to accept
+-- Use the "Decision" dropdown menu and click "Award"
+-- From there you can move applications to the "approved stage" in addtion to sending a customized email with more information by clicking the "end an email to the awarded applicant". IMPORTANT: We reccomend doing this step because the auto-generated email is not clear which program the applicant was accepted to.
 * Help Center Resources: https://help.smapply.io/hc/en-us
 * Training Videos: https://help.smapply.io/hc/en-us/categories/115000187973-Implementation-Training-Videos
 * Build + Launch: https://help.smapply.io/hc/en-us/sections/115000405794-Build-Videos
