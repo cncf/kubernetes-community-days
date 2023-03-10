@@ -35,7 +35,8 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] All organizers agree to follow the event guidelines and CNCF Code of Conduct
 * [ ] All inquiries / communication to come via GitHub (comment under your KCD issue) for easy tracking
 * [ ] All organizers have taken [Inclusive Open Source Community Orientation (LFC102)](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
-* [ ] Agree to offer (at minimum) 3 complimentary tickets to increase diversity for the event
+* [ ] Agree to offer at least 3 complimentary tickets to increase diversity for the event
+* [ ] Share the sponsor prospectus with CNCF via your GitHub issue, and link it on your website.
 * [ ] Agree to ensure the final program schedule is diverse (e.g., not all speakers of one gender, one culture, or from 1 or 2 of the same company). [Here are some tips on how to create a diverse lineup.](https://docs.google.com/presentation/d/1fzT_BdavVKh3mnxxU-PBWyJq9JUfasKwHqekkbYVbw8/edit#slide=id.g56245ab439_0_106)
 * [ ] Agree to submit your final lineup to kcd@cncf.io for review, prior to publishing it
 * [ ] Agree to use Cloud Native Community Groups for registration, scheduling, and event website
