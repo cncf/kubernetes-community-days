@@ -46,7 +46,8 @@ NOTE: These are the terms within the checklist that are IMPORTANT to abide by:
 * All organizers agree to follow the event guidelines and CNCF Code of Conduct
 * All inquiries / communication to come via GitHub forum for easy tracking
 * All organizers have taken [Inclusive Open Source Community Orientation (LFC102)](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
-* Agree to offer (at minimum) 3 complimentary tickets to increase diversity for the event
+* Agree to offer at least 3 complimentary tickets to increase diversity for the event
+* Agree to share the sponsor propspectus with CNCF by linking it in your GitHub issue and on your website.
 * Agree to ensure the final program schedule is diverse (e.g., not all speakers of one gender, culture or company). [Here is how you can create a diverse lineup.](https://docs.google.com/presentation/d/1fzT_BdavVKh3mnxxU-PBWyJq9JUfasKwHqekkbYVbw8/edit#slide=id.g56245ab439_0_106)
 * Agree to submit your final lineup to kcd@cncf.io for review, prior to publishing it
 * Agree to use Bevy (Cloud Native Community Groups) for registration, scheduling, and event website. NOTE: If you chose to use another registration platform, you must report your weekly registration numbers in the #kcd-organizers private Slack channel within the CNCF workspace.
