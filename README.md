@@ -23,9 +23,11 @@ We are now hosting *a monthly KCD Organizer focus group*. As of now, it will be 
 
 ## CNCF Support
 
-* Website and ticket support with the Bevy platform.
+* A personalized email address and private CNCF workspace Slack channel for the KCD organizers
+* Website and ticket support for community.cncf.io (Bevy platform)
 * CFP support with the SM Apply platform
 * Monthly meetings to help keep you on track
+* Access to monthly CNCF-hosted Working Groups
 * Speaker and vendor introductions as needed
 * Marketing support via social media, KubeWeekly newsletter, and CNCG blog posts
 * CNCF is happy to contribute $250 USD to each KCD starting in 2023. This can be used in [the CNCF store](https://store.cncf.io/) towards stickers.
