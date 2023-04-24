@@ -40,6 +40,7 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] Agree to ensure the final program schedule is diverse (e.g., not all speakers of one gender, one culture, or from 1 or 2 of the same company). [Here are some tips on how to create a diverse lineup.](https://docs.google.com/presentation/d/1fzT_BdavVKh3mnxxU-PBWyJq9JUfasKwHqekkbYVbw8/edit#slide=id.g56245ab439_0_106)
 * [ ] Agree to submit your final lineup to kcd@cncf.io for review, prior to publishing it
 * [ ] Agree to use Cloud Native Community Groups for registration, scheduling, and event website. If using a platform outside of Bevy, organizers must provide CNCF with a full list of attendees.
+-- Please use [these questions](https://docs.google.com/spreadsheets/d/1OEoVQ8Y3eQmEEJeT2abhNOkYIkyk8nAVjebNFvKMTQQ/edit?usp=sharing) to create your registration form
 * [ ] Agree to use SM Apply for CFP and to close it at least 6 weeks before the event
 
 ### Getting started checklist for organizers
