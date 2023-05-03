@@ -11,10 +11,10 @@ assignees: ''
 Please fill in information, organizers, and sponsors as you assemble them, and then make a new comment when this application is ready for review.
 
 ### Event Details
-* Event Location:
-* Event Date and Time:
-* Expected Number of Attendees
-* Event cost per ticket, and if you will have early bird pricing or not
+* [ ] Event Location:
+* [ ] Event Date and Time:
+* [ ] Expected Number of Attendees
+* [ ] Event cost per ticket, and if you will have early bird pricing or not
 #### Event type:
 * [ ] Virtual
 * [ ] Hybrid
@@ -47,9 +47,9 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 
 * [ ] Schedule monthly check-ins with KCD Core Organizer(s) (kcd@cncf.io)
 * [ ] Minimum of 3 sponsors committed (not required for virtual only events)
-- Sponsor 1
-- Sponsor 2
-- Sponsor 3
+Sponsor 1
+Sponsor 2
+Sponsor 3
 * [ ] Identified fiscal sponsor that can accept payments such as from sponsorships and pay out expenses
 Fiscal sponsor that will accept payments
 * [ ] Added usernames for [CNCF Slack](https://slack.cncf.io/) for all organizers so that we can add you to the #kcd-organizers channel
