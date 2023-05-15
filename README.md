@@ -42,6 +42,7 @@ NOTE: These are the terms within the checklist that are IMPORTANT to abide by:
 ### Terms
 
 * No other Kubernetes Community Day event in same major city (check with past organizers)
+* Each KCD in the same country as another KCD must have their event at least 2 months apart from the pre-planned KCDs. Look at the [Linux Foundation events calendar](https://events.linuxfoundation.org/about/community/) to assure your KCD will not compete with any other event, including events hosted by CNCF and the Linux Foundation.
 * Minimum of 3 organizers from 3 different organizations
 * Every organizer has an account on [Cloud Native Community Groups](https://community.cncf.io/)
 * Each organizer lives in or just outside of the KCD location
