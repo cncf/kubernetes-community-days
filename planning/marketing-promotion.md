@@ -15,8 +15,8 @@ Once you have a time and place, you can announce your event to the world! It’s
 
 ### Promotion
 
-* Start by posting your event on [The Linux Foundation's community events website](https://events.linuxfoundation.org/about/community/)
-* Who can help spread the word that the event is scheduled?
+* Once published on Bevy, your event will automatically get pulled over to [The Linux Foundation's community events website](https://events.linuxfoundation.org/about/community/)
+* Identify an mabassador that can help spread the word that the event is scheduled
 * Reach out to local tech companies and consultants
 * Contact local tech publications and see if you can swap media sponsorship for ads in their publication or on their website
 * Reach out to local tech incubators and VCs to see if you can be included in newsletters, post flyers on event board, etc.
@@ -24,6 +24,7 @@ Once you have a time and place, you can announce your event to the world! It’s
 * Contact your local Meetups and ask them to promote your event 
 * Contact Code academies to see if they will help you promote
 * Ask the Sponsor companies to email their contacts and invite them to attend
+* Write an 800 word blog for CNCF to publish and share with Audra Montenegro to review and request for publishing.
 
 ### Email marketing in Bevy
 
@@ -43,20 +44,22 @@ Additionally, they can also opt-in (or opt back in) to the communications from a
 ### Online marketing
 
 * Promote your event in the Sponsors and Organizers corporate newsletters, websites, emails, etc
+* Provide canned copy in the speaker acceptance letter for them to promote their excitement
 * Promote sponsorship, speakers, CFS, on LinkedIn
 
 Website
 
 * Update your data file for your event to add your start & end dates; this adds your event to the map on the front page!
 
-Twitter
+Social Media
 
-* Set up an event-specific Twitter account such as @kubernetesdays(city initials)
+* Set up an event-specific LinkedIn and Twitter account such as @KCD(city name or initials)
 * Tag @kubernetesdays in your tweets 
 * Send tweets to the KCD-organizers slack channel to be retweeted
-* Tweet with the hashtag #KubernetesCommunityDays
+* Create your own event hashtag with "KCD" and your city name or inititials and the year
 * Following the initial, pinned post, one organic post per day should be shared to alert followers of the change + resources for Kubernetes Community Day events
-* Start following any/all dedicated #KubernetesCommunityDays Twitter accounts
+* Start following any/all dedicated KCD social accounts
+* Use [#socialmedia](https://cloud-native.slack.com/archives/C12MRQ97A) channel in the CNCF Slack Workspace and tag @KatieMeinders + @JessieAdams-Shore to post your social media posts and ask Katie and Jessie to amplify from the main CNCF channels. NOTE: CNCF will only help promote social posts that are vendor-nuetral
 
 Twitter Posting Style, Images, and Official Hashtag
 
@@ -75,7 +78,3 @@ Images
 * Sponsor cards.
 * Professional images and/or those shared by the community can be posted during or after events to highlight the range of event features + promote community engagement.
 * [Photog](https://github.com/rtts/photog) turns a directory tree of source images into a beautiful photography website that maximizes the ease of both viewing and downloading the pictures.
-
-Event Hashtag
-
-* To avoid fragmentation + establish brand awareness in the community, the official event hashtag to be used will be the same as the event handle: #KubernetesCommunityDays
