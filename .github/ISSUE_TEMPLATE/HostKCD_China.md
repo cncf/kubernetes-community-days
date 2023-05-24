@@ -57,7 +57,6 @@ Fiscal sponsor that will accept payments
 * [ ] Create a WeChat handle specific to your KCD event
 
 ### Getting started checklist for CNCF:
-* [ ] Organizer email alias has been created
 * [ ] Region created in Bevy
 * [ ] Added to Bevy header
 * [ ] CNCF China team introduced for marketing amplification, and review of program
