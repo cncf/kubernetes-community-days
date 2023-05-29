@@ -14,7 +14,8 @@ Please utilize your organizer networks to explore surrounding events that may be
 ### Number 4 being holidays
 Always consider not only your current country's holidays, but regional holidays that might affect speakers traveling to your KCD event.
 
-### Number 5 being the work week. This is based on your culture and typical attendance.
+### Number 5 being the work week
+This is based on your culture and typical attendance:
 * Is it typical of your culture to work lightly on Fridays?
 * Is it typically of your culture to only be able to attend events on weekends?
 * Is it acceptable for your culture to attend events during the week if it will help their current job? If so, consider a day where it might be a standard to not have meetings.
