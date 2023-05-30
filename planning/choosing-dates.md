@@ -7,6 +7,7 @@ Dependent on the country, some venues can easily book out 2 years in advance. Re
 ### Other KCDs in Your Region
 If you are in a large country, we now require that each KCD within the same country, should happening no closer than 2 months apart.
 If you are in Europe for example, and it is an easy trek to get to another KCD by traing (for example), or Asia Pacific and it is up to a 3-hour flight, then thesame standards apply.
+* [You can review the CNCF and LF events here](https://events.linuxfoundation.org/about/community/?_sf_s=days)
 
 ### Competitive Events
 Please utilize your organizer networks to explore surrounding events that may be happening at the same time, or within two-month's time. CNCF is only responsible for guiding you around other KCDs and CNCF & Linux Foundation-hosted events.
