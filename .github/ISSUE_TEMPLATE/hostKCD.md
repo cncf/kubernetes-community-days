@@ -20,9 +20,9 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] Hybrid
 * [ ] In person
 #### Organizers Details (identify at least 3 organizers). Designate who will be the CFP admin, as well as the financial officer:
-* Organizer 1: First and Last Name, Company, Title, Email, CNCF Slack Username
-* Organizer 2: First and Last Name, Company, Title, Email, CNCF Slack Username
-* Organizer 3: First and Last Name, Company, Title, Email, CNCF Slack Username
+* [ ] Organizer 1: First and Last Name, Company, Title, Email, CNCF Slack Username
+* [ ] Organizer 2: First and Last Name, Company, Title, Email, CNCF Slack Username
+* [ ] Organizer 3: First and Last Name, Company, Title, Email, CNCF Slack Username
 
 
 ### Terms
