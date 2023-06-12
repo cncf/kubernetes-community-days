@@ -25,7 +25,7 @@ The first step towards a successful event is building a team. Look for potential
 
 Check the GitHub Kubernetes Community Days [issue board](https://github.com/cncf/kubernetes-community-days/projects/2) to see if others have expressed interest in organizing an event in your area. If there are no issues for your area, create an issue asking if others are interested in organizing an event with you. After your team is assembled, we encourage you to have regular meetings for planning purposes. If you would like to record your meetings or need a conference line, CNCF can provide a Zoom URL. Please contact a Core Organizer for access or to learn more.
 
-We have been fortunate to naturally have all KCD teams include at least 1 non-male organizer. We highly encourage all our programs to be inclusive for speakers, and attendees, and this starts with with your organizers/program committee.
+We have been fortunate to naturally have all KCD teams include at least 1 non-male organizer. We highly encourage all our programs to be inclusive for speakers, and attendees, and this starts with your organizers/program committee.
 
 We recommend assigning the following responsibilities to one or two members of your organizing team:
 
