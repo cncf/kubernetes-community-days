@@ -1,10 +1,10 @@
-# About Kubernetes Community Days
+# About KCDs
 
-Kubernetes Community Days are community organized events that gathers adopters and technologists from open source and cloud native communities to learn, collaborate, and network to further advancement in Kubernetes. They also are a lot of fun and a great way to meet new people and build community.
+Previsouly known as Kubernetes Community Days, KCDs are community-organized events backed by CNCF support. They gather adopters and technologists from open source and cloud native communities to learn, collaborate, and network to further advancement in Kubernetes and other Cloud Native technologies. They also are a lot of fun and a great way to meet new people and build community.
 
 ## Host a Kubernetes Community Days 
 
-Kubernetes Community Days are community organized education events to bring people together to learn, collaborate, and network. Each event brings its own local flair, culture, diversity, and authenticity. For more about details about organizing an event see the [organizing page](https://github.com/cncf/kubernetes-community-days/tree/main/planning). Check the [project board](https://github.com/cncf/kubernetes-community-days/projects/2) to join one being organized near you or [create an issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=xmulligan&labels=newevent&template=host.md) to organize your own.
+Each event brings its own local flair, culture, diversity, and authenticity. For more about details about organizing an event see the [organizing page](https://github.com/cncf/kubernetes-community-days/tree/main/planning). Check the [project board](https://github.com/cncf/kubernetes-community-days/projects/2) to join one being organized near you or [create an issue](https://github.com/cncf/kubernetes-community-days/issues/new?assignees=xmulligan&labels=newevent&template=host.md) to organize your own.
 
 ### Core Organizers
 
