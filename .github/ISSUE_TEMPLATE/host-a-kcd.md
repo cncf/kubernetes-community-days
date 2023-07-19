@@ -15,10 +15,12 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] Event Date and Time:
 * [ ] Expected Number of Attendees
 * [ ] Event cost per ticket, and if you will have early bird pricing or not
+
 #### Event type:
 * [ ] Virtual
 * [ ] Hybrid
 * [ ] In person
+
 #### Organizers Details (identify at least 3 organizers). Designate who will be the CFP admin, as well as the finanical officer:
 * [ ] Organizer 1: First and Last Name, Company, Title, Email, CNCF Slack Username
 * [ ] Organizer 2: First and Last Name, Company, Title, Email, CNCF Slack Username
@@ -30,10 +32,10 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] No other Kubernetes Community Day event in same major city (check with past organizers)
 * [ ] Minimum of 3 organizers from 3 different organizations
 * [ ] Every organizer has an account on [Cloud Native Community Groups](https://community.cncf.io/)
-* [ ] Each organizer lives in or just outside of the KCD location
-* [ ] At least one organizer is a CNCF member employee, CNCF ambassador, or CNCF project maintainer
+* [ ] Each organizer lives within the KCD city or just outside of it. For small countries, the organizers can live within the region, but must be able to easily travel to the KCD if it were in-person.
+* [ ] At least one organizer is a CNCF member employee, CNCF ambassador, or CNCF project maintainer. NOTE: An employee of a member company, qualifies.
 * [ ] All organizers agree to follow the event guidelines and CNCF Code of Conduct
-* [ ] All inquiries / communication to come via GitHub (comment under your KCD issue) for easy tracking
+* [ ] All organizer inquiries / communication for CNCF must be summarized via GitHub (comment under your KCD issue) for easy tracking
 * [ ] All organizers have taken [Inclusive Open Source Community Orientation (LFC102)](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
 * [ ] Agree to offer at least 3 complimentary tickets to increase diversity for the event
 * [ ] Share the sponsor prospectus with CNCF via your GitHub issue, and link it on your website.
