@@ -68,12 +68,13 @@ Fiscal sponsor that will accept payments
 * [ ] Make a copy of [this timeline](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit#gid=1736864170) based on whether your event is In-person, Hybrid, or Virtual and link your own spreadsheet here ().
 * [ ] To assure you have a diverse lineup, you are required to send a copy of your program to kcd@cncf.io before you publish it.
 
-### Post event checklist for Organizer:
+### Post event checklist for Organizers:
 * [ ] Send CNCF event analytics
 * [ ] Schedule post mortem meeting
 * [ ] Send CNCF videos to be uploaded to YouTube
 * [ ] Link videos from YouTube to event page
 * [ ] Post event survey sent out
+* [ ] Fill out [Credly badge request form](https://docs.google.com/forms/d/e/1FAIpQLSex2EhkCNysmK7svQEVeaOlqpsH0fSBe6qoOePRw_WGajZnTw/viewform) for 1 badge per KCD
 
 ### Post event checklist for CNCF:
 * [ ] Removed from Bevy header
