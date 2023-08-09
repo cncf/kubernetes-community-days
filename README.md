@@ -59,14 +59,4 @@ NOTE: These are the terms within the checklist that are IMPORTANT to abide by:
 
 STEP 2: Request to be added to the [kcd-organizers](https://cloud-native.slack.com/archives/GQ7D26NPQ) CNCF Slack channel.
 
-## A few 2022 KCD event examples
-#### 2022
-[Kubernetes Community Days Berlin 2022](https://community.cncf.io/events/details/cncf-kcd-berlin-presents-kubernetes-community-days-berlin-2022-1/)
-
-[Kubernetes Community Days Africa 2022 - Lagos](https://community.cncf.io/events/details/cncf-kcd-africa-presents-kubernetes-community-days-africa-2022-lagos/)
-
-[Kubernetes Community Days Italy 2022](https://community.cncf.io/events/details/cncf-kcd-italy-presents-kubernetes-community-days-italy-2022/)
-
-[Kubernetes Community Days UK 2022](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2022/)
-
-View the [full calendar](https://events.linuxfoundation.org/about/community/?_sf_s=days) for more global KCDs.
+STEP 3: Schedule a kick-off meeting with Audra Montenegro (kcd@cncf.io) if you at least have 3 committeed organizers, a community wanting to attend an event like a KCD, and a time frame goal.
