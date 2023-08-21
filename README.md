@@ -57,6 +57,11 @@ NOTE: These are the terms within the checklist that are IMPORTANT to abide by:
 * Agree to use Bevy (Cloud Native Community Groups) for registration, scheduling, and event website. NOTE: If you chose to use another registration platform, you must report your weekly registration numbers in the #kcd-organizers private Slack channel within the CNCF workspace.
 * Agree to use SM Apply for CFP and to close it at least 6 weeks before the event
 
+NOTE: CNCF reserves the right to decline any event the usage of our KCD trademark due to:
+* Failure to follow protocols
+* Conflict of dates
+* Failure to follow the CoC
+
 STEP 2: Request to be added to the [kcd-organizers](https://cloud-native.slack.com/archives/GQ7D26NPQ) CNCF Slack channel.
 
 STEP 3: Schedule a kick-off meeting with Audra Montenegro (kcd@cncf.io) if you at least have 3 committeed organizers, a community wanting to attend an event like a KCD, and a time frame goal.
