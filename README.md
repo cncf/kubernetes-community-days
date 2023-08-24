@@ -41,7 +41,8 @@ STEP 1: [Submit an issue in GitHub](https://github.com/cncf/kubernetes-community
 NOTE: These are the terms within the checklist that are IMPORTANT to abide by:
 ### Terms
 
-* No other Kubernetes Community Day event in same major city (check with past organizers)
+* You can apply as early as 8 months prior to the desired event date for your KCD.
+* When applying, make sure there are no other Kubernetes Community Day event in same major city (check with past organizers)
 * Each KCD must consider having their event at least 2 months apart from other pre-planned KCDs within a 2-hour flight away either in the same country or continent. Other events that should be considered for this are small 1-2 day summits hosted by the CNCF or Linux Foundation. Have a look at the [events calendar](https://www.cncf.io/events/) to assure your KCD will not compete with another event. Insight into KCDs not yet LIVE but in the planning phases will live in the [KCD GitHub issues](https://github.com/cncf/kubernetes-community-days/issues).
 * Minimum of 3 organizers from 3 different organizations
 * Every organizer has an account on [Cloud Native Community Groups](https://community.cncf.io/)
