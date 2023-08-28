@@ -32,7 +32,8 @@ We are now hosting *a monthly KCD Organizer focus group*. As of now, it will be 
 * Marketing support via social media, KubeWeekly newsletter, and CNCG blog posts
 * CNCF is happy to contribute $250 USD to each KCD starting in 2023. This can be used in [the CNCF store](https://store.cncf.io/) towards stickers.
 * Each KCD will be provided 10 Linux Foundation certification vouchers that work for SkillCreds, PCA, KCNA, CKS, and CKAD, CKA exams. Some past usages of these are, 1. giving a voucher to a volunteer to show your gratitude. 2. Use it as a raffle item within a workshop.
-* Credly badges to recognize your speakers or volunteers! If organizers choose to offer this, CNCF will provide a form to fill out their request. 1 request per KCD. NOTE: This is in addition to the Credly badges organizers earn for hosting a KCD.
+* Each organizer on the KCD planning team will automatically earn a badge of recogning from The Linux Foundation.
+* 1 additional Credly badge to recognize your speakers OR volunteers. If organizers choose to offer this, CNCF will provide a form to fill out their request. 1 request per KCD. Each KCD should prepare the artwork in a square image, but with a circular badge. [See examples here](https://drive.google.com/drive/folders/1UFYAzzaFPgfQLjL947utCZ7Z8lUsfFl6).
 
 ### Want to host a KCD? Here are the first steps:
 
