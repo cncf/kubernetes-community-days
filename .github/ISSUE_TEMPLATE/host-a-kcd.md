@@ -43,7 +43,8 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] Agree to submit your final lineup to kcd@cncf.io for review, prior to publishing it
 * [ ] Agree to use Cloud Native Community Groups for registration, scheduling, and event website. If using a platform outside of Bevy, organizers must provide CNCF with a full list of attendees.
 -- Regardless of your platform choice, please use [these questions](https://docs.google.com/spreadsheets/d/1OEoVQ8Y3eQmEEJeT2abhNOkYIkyk8nAVjebNFvKMTQQ/edit?usp=sharing) to create your registration form
-* [ ] Agree to use SM Apply for CFP and to close it at least 6 weeks before the event
+* [ ] Agree to use SM Apply for CFP and to close it at least 6 weeks before the event. We will use Sessionize at the end of 2023/beginning of 2024.
+* [ ] Agree to use [the new KCD logo](https://drive.google.com/file/d/1jU_DkKTVUzimvhUfBqw8ZHfgZShov0Md/view?usp=drive_link) and work with Audra to make it unique to your KCD.
 
 ### Getting started checklist for organizers
 
