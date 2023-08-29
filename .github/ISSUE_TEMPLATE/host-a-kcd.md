@@ -81,3 +81,5 @@ Fiscal sponsor that will accept payments
 * [ ] Removed from Bevy header
 * [ ] CFP deactivated
 * [ ] Upload videos to YouTube
+* [ ] Transparency report and YouTube playlist (if there is one) linked from [cncf.io/kcds](https://www.cncf.io/kcds/)
+* [ ] Bevy page marked as dormant 
