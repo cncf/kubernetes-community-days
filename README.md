@@ -57,7 +57,8 @@ NOTE: These are the terms within the checklist that are IMPORTANT to abide by:
 * Agree to ensure the final program schedule is diverse (e.g., not all speakers of one gender, culture or company). [Here is how you can create a diverse lineup.](https://docs.google.com/presentation/d/1fzT_BdavVKh3mnxxU-PBWyJq9JUfasKwHqekkbYVbw8/edit#slide=id.g56245ab439_0_106)
 * Agree to submit your final lineup to kcd@cncf.io for review, prior to publishing it
 * Agree to use Bevy (Cloud Native Community Groups) for registration, scheduling, and event website. NOTE: If you chose to use another registration platform, you must report your weekly registration numbers in the #kcd-organizers private Slack channel within the CNCF workspace.
-* Agree to use SM Apply for CFP and to close it at least 6 weeks before the event
+* Agree to use SM Apply for CFP and to close it at least 6 weeks before the event. We will use Sessionize at the end of 2023/beginning of 2024.
+* Agree to use [the new KCD logo](https://drive.google.com/file/d/1jU_DkKTVUzimvhUfBqw8ZHfgZShov0Md/view?usp=drive_link) and work with Audra to make it unique to your KCD.
 
 NOTE: CNCF reserves the right to decline any event the usage of our KCD trademark due to:
 * Failure to follow protocols
