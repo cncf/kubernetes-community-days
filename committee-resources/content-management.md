@@ -1,12 +1,13 @@
 ---
-Kubernetes Community Days Content and Programing
+KCD Content and Programing
 ---
 
 High quality content, speakers and talk topics will determine event success. First and foremost, all organizers shall follow CNCF vendor nuetral values, which means:
 
-_Vendor neutrality in the context of a conference session refers to the principle of maintaining an impartial and unbiased environment during the session, particularly when discussing products, services, or solutions offered by different vendors. The goal is to ensure that the content presented is free from any undue influence, endorsements, or promotional activities related to specific vendors.
+Vendor neutrality in the context of a conference session refers to the principle of maintaining an impartial and unbiased environment during the session, particularly when discussing products, services, or solutions offered by different vendors. The goal is to ensure that the content presented is free from any undue influence, endorsements, or promotional activities related to specific vendors.
 
-By adhering to the concept of vendor neutrality it fosters an environment where knowledge sharing and learning take precedence over commercial interests, benefiting both attendees and the broader industry_
+By adhering to the concept of vendor neutrality it fosters an environment where knowledge sharing and learning take precedence over commercial interests, benefiting both attendees and the broader industry.
+
 
 Some basic guidelines for building a good event program include:
 * Encourage bold, innovative thought-provoking subjects
