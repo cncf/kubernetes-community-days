@@ -44,7 +44,7 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] Agree to use Cloud Native Community Groups for registration, scheduling, and event website. If using a platform outside of Bevy, organizers must provide CNCF with a full list of attendees.
 -- Regardless of your platform choice, please use [these questions](https://docs.google.com/spreadsheets/d/1OEoVQ8Y3eQmEEJeT2abhNOkYIkyk8nAVjebNFvKMTQQ/edit?usp=sharing) to create your registration form
 * [ ] Agree to use Sessionize as the Call for Proposals (CFP) platform.
-* [ ] Agree to use [the new KCD logo](https://drive.google.com/file/d/1jU_DkKTVUzimvhUfBqw8ZHfgZShov0Md/view?usp=drive_link) and work with Audra to make it unique to your KCD.
+* [ ] Agree to get logo creation and approval with and from CNCF. NOTE: a new logo will be created in an effort provide unity, and and official KCD stamp of approval.
 
 ### Getting started checklist for organizers
 
