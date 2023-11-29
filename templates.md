@@ -2,17 +2,31 @@
 
 ## KCD Logo
 
-[White background and clear background logos](https://drive.google.com/drive/folders/1UdvrGmPOHsa2i4sGkaV-aLswvKWGjfzY?usp=sharing)
+This logo is under construction, so please use your prior year logos in the meantime, or text to support the name of your KCD. We project a release in January of 2024. We can priortize KCDs happening earlier in the year with support in December (2023).
 
 ## Sponsor Prospectus
 
-* [KCD Amsterdam 2023 Sponsor Prospectus](https://docs.google.com/presentation/d/15-7sbf509q0dMme6fdZRgzNrtpsaaBHabyz-57rctVQ/edit?usp=sharing)
-* [KCD France 2023 Sponsor Prospectus](https://docs.google.com/presentation/d/1EVeWqjRMJO8F-Hmo6-pVZS0q68mqSpKoxv-22fPHXoc/edit#slide=id.g13e3ddf15cc_0_121)
-* [KCD Brasil 2022 Prospectus](https://github.com/cncf/kubernetes-community-days/blob/main/files/KCD%20Brasil%20Sponsor%20Prospectus%20(4).pdf)
+As of August 2023, [we have a template in Canva](https://www.canva.com/design/DAF1e-_olvI/PXCtp0JpI5wP5pO-L4hIzw/edit?utm_content=DAF1e-_olvI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) that can be duplicated and shared for editing by the CNCF core community team.
 
 ## Social Media Posts
 
-* [KCD Brasil 2021 Social Posts Calendar](https://docs.google.com/document/d/1Low8OWDCQUUbuTB-JF_oPKPsyo7pR7gN_yPEju2Glmw/edit?usp=sharing)
+See what other KCDs are doing!
+
+LinkedIn
+* [KCD Sri Lanka on LinkedIn](https://www.linkedin.com/company/kcdsrilanka/posts/?feedView=all)
+* [KCD Costa Rica on LinkedIn](https://www.linkedin.com/company/kcdcostarica/posts/?feedView=all)
+
+Twitter
+* [KCD Mumbai on Twitter (X)](https://twitter.com/KcdMumbai)
+* [KCD Denmark on Twitter](https://twitter.com/KCD_DK)
+* [KCD Nigeria on Twitter](https://twitter.com/KCDNigeria)
+
+Instagram
+* [KCD Colombia](https://www.instagram.com/kcdcolombia/)
+
+## Transparency Report
+
+As of August 2023 we have a new template for KCDs to use in Canva! [Have a look here](https://www.canva.com/design/DAFhDHqyNBw/H2uJJV_hDX7Ln_R_IGpWkg/edit), and check out what [KCDs are doing via cncf.io/reports](https://www.cncf.io/reports?_sf_s=KCD&_sfm_lf_report_published_year=2023).
 
 ## Event Blog Posts
 
