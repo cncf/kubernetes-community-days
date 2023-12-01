@@ -42,13 +42,13 @@ STEP 1: [Submit an issue in GitHub](https://github.com/cncf/kubernetes-community
 NOTE: These are the terms within the checklist that are IMPORTANT to abide by:
 ### Terms
 
-* You can apply as early as 8 months prior to the desired event date for your KCD.
+* You can apply as early as 8 months prior to the desired event date for your KCD. If your GitHub issue is submitted ahead of then, CNCF will wait to host a kick-off call until the 8-month mark (provided you meet the below terms). IMPORTANT: Your KCD will not be confirmed/approved unless you have a kick-off call and schedule monthly check-ins with CNCF.
 * When applying, make sure there are no other Kubernetes Community Day event in same major city (check with past organizers)
 * Each KCD must consider having their event at least 2 months apart from other pre-planned KCDs within a 2-hour flight away happening in the same language, unless otherwise approved by CNCF. Other events that should be also considered for this are small 1-2 day summits hosted by the CNCF or the Linux Foundation. Have a look at the [events calendar](https://www.cncf.io/events/) to assure your KCD will not compete with another events sponsorships or speakers. Insight into KCDs not yet LIVE but in the planning phases will live in the [KCD GitHub issues](https://github.com/cncf/kubernetes-community-days/issues).
 * Minimum of 3 organizers from 3 different organizations
 * Every organizer has an account on [Cloud Native Community Groups](https://community.cncf.io/)
-* Each organizer lives in or just outside of the KCD location
-* At least one organizer is a CNCF member employee, CNCF ambassador, or CNCF project maintainer
+* The majority of organizers must live in, or just outside of the KCD location
+* At least one organizer is a CNCF member employee, OR CNCF ambassador, OR CNCF project maintainer
 * All organizers agree to follow the event guidelines and CNCF Code of Conduct
 * All inquiries / communication to come via GitHub forum for easy tracking
 * All organizers have taken [Inclusive Open Source Community Orientation (LFC102)](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
