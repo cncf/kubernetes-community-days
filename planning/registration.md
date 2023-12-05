@@ -26,6 +26,6 @@ Here are some other ways you can improve the registration process.
 * Set up hidden ticket types for sponsors, organizers, speakers, etc
 * Create access codes for hidden ticket types
 
-IMPORTANT: Attendee email or direct-contact information should never be visible on the website or given out to vendors. We value privacy and anti-spam.
+IMPORTANT: Attendee email or direct-contact information should never be visible on the website or given out to vendors UNLESS there is a directt opt-in for sponsor communications by the attendees via the registration form (not with a pre-marked box). See the above spreadsheet for an exmaple. We value privacy and anti-spam.
 
 
