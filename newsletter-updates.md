@@ -5,7 +5,7 @@ In collaboration with CNCF, our team has been working hard to improve the user e
 **Please read on for all the new features and improvements:**
 ###  1. New Templates for Report Presentations
 ![cncf-github-canva-report-template-2](https://user-images.githubusercontent.com/120522554/235260854-df4b793b-a7a8-42bc-9c62-14fde99b38a7.jpg)
-The previous ways of creating report pdfs was both tedious and disjointed. Our new templated solution combines consistency, professionalism and collaboration to create all individual Transparency Reports. As an example, view the KCD Amsterdam Report in action [here](https://www.canva.com/design/DAFjwFjrS4s/-YGyJsYQj0xX_gr1A7wZBA/view?utm_content=DAFjwFjrS4s&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu). Some key highlights include:
+The previous ways of creating report pdfs was both tedious and disjointed. Our new templated solution combines consistency, professionalism and collaboration to create all individual Transparency Reports. [View the KCD Transparency Report Template](https://www.canva.com/design/DAFhDHqyNBw/H2uJJV_hDX7Ln_R_IGpWkg/edit?utm_content=DAFhDHqyNBw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). Some key highlights include:
 - **Consistent & professional look**
 With the use of a standardized template, each report will have a fresh and new look that is both professional and consistent, but also specially branded for each community through cover pages, logos and end slides.
 - **User-friendly & streamlined**
@@ -19,7 +19,7 @@ A post-event survey in Bevy will now automatically get sent out to help assure y
 - Did you attend our event in-person or virtually, in person, or both? (optional question)
 ###  3. New Sponsorship Prospectus Template
 ![cncf-github-canva-sponsorship-template-2](https://github.com/joellelawrence/KCD-Transparency-Report-Updates/assets/120522554/506b9802-e1e2-4e77-ae7f-3f6d1bdcd9aa)
-Lastly, we understand how crucial securing sponsors is for the success and growth of your KCD events. That’s why this user-friendly tool is here to support you in acquiring sponsors and taking your event to new heights. View the template in action [here](https://www.canva.com/design/DAFmS5qGEfM/k_KSg6kEjuMmhkWxWVZzKA/edit?utm_content=DAFmS5qGEfM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). Some key highlights include:
+Lastly, we understand how crucial securing sponsors is for the success and growth of your KCD events. That’s why this user-friendly tool is here to support you in acquiring sponsors and taking your event to new heights. [View the template in action](https://www.canva.com/design/DAF1e-_olvI/PXCtp0JpI5wP5pO-L4hIzw/edit?utm_content=DAF1e-_olvI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). Some key highlights include:
 - **Consistent & professional look**
 Our template will help present your KCD event’s unique value proposition in a compelling and professional manner, captivating potential sponsors from the start–first impressions matter!
 - **User-friendly & streamlined**
