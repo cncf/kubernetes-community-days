@@ -48,7 +48,7 @@ NOTE: These are the terms within the checklist that are IMPORTANT to abide by:
 * Minimum of 3 organizers from 3 different organizations
 * Every organizer has an account on [Cloud Native Community Groups](https://community.cncf.io/)
 * The majority of organizers must live in, or just outside of the KCD location
-* At least one organizer is a CNCF member employee, OR CNCF ambassador, OR CNCF project maintainer
+* At least one organizer is a CNCF employee, OR CNCF ambassador, OR CNCF project maintainer
 * All organizers agree to follow the event guidelines and CNCF Code of Conduct
 * All inquiries / communication to come via GitHub forum for easy tracking
 * All organizers have taken [Inclusive Open Source Community Orientation (LFC102)](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
