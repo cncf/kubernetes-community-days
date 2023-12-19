@@ -33,7 +33,7 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 * [ ] Minimum of 3 organizers from 3 different organizations
 * [ ] Every organizer has an account on [Cloud Native Community Groups](https://community.cncf.io/)
 * [ ] Each organizer lives within the KCD city or just outside of it. For small countries, the organizers can live within the region, but must be able to easily travel to the KCD if it were in-person.
-* [ ] At least one organizer is a CNCF member employee, CNCF ambassador, or CNCF project maintainer. NOTE: An employee of a member company, qualifies.
+* [ ] At least one organizer is a CNCF employee, CNCF ambassador, or CNCF project maintainer.
 * [ ] All organizers agree to follow the event guidelines and CNCF Code of Conduct
 * [ ] All organizer inquiries / communication for CNCF must be summarized via GitHub (comment under your KCD issue) for easy tracking
 * [ ] All organizers have taken [Inclusive Open Source Community Orientation (LFC102)](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
