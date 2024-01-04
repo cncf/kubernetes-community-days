@@ -26,7 +26,7 @@ Along with sponsorships, this is one of the most challenging parts of running an
 * Build a stock of proposal ideas for potential speakers either to adopt or use to spark their creative process
 * Offer to brainstorm with potential speakers to help create content
 * Reach out to known event speakers on the CNCF Slack and ask if they have speaking ideas (or if they want to speak at the event!)
-* [Here is a tutorial](https://drive.google.com/file/d/1kp6F_Bggc8qZ-iuWr9CqVjlF_qAzhwU9/view?usp=sharing) you can share that shows you how to submit an application via SMapply
+* [Here is a playbook](https://sessionize.com/playbook/tips-for-new-speakers) you can share that shows you how to submit an application via Sessionize.
 
 Recruiting a diverse speaker slate requires extra effort. Some ideas for this include:
 * Kubernetes Community Days prohibits all male panels. Please plan to have a minimum of two women speakers on a panel. This ensures if there is a cancellation you will have gender diversity.
