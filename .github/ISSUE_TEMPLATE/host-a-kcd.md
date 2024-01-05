@@ -29,6 +29,8 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 
 ### Terms
 
+IMPORTANT: These are the terms within the checklist that must be abided by. Note - There are exceptions to these requirements in some jurisdictions due to applicable laws & regulations.
+
 * [ ] No other Kubernetes Community Day event in same major city (check with past organizers)
 * [ ] Minimum of 3 organizers from 3 different organizations
 * [ ] Every organizer has an account on [Cloud Native Community Groups](https://community.cncf.io/)
