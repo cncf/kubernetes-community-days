@@ -1,5 +1,5 @@
 ---
-Kubernetes Community Days Content and Programing
+KCD Content and Programing
 ---
 
 High quality content, speakers and talk topics will determine event success. 
