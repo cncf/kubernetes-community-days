@@ -8,7 +8,7 @@ Each event brings its own local flair, culture, diversity, and authenticity. For
 
 ### Core Organizers
 
-Katie Greenley and Audra Montenegro
+Audra Montenegro and Katie Greenley
 <br>
 Contact: kcd@cncf.io
 
@@ -39,7 +39,7 @@ We are now hosting *a monthly KCD Organizer focus group*. As of now, it will be 
 
 STEP 1: [Submit an issue in GitHub](https://github.com/cncf/kubernetes-community-days/issues/new/choose) using the provided check-list template and we will schedule a kickoff meeting from there, as well as provide you with more resources.
 
-NOTE: These are the terms within the checklist that are IMPORTANT to abide by. There are exceptions to these requirements in some jurisdictions due to applicable laws & regulations.
+IMPORTANT: These are the terms within the checklist that must be abided by. Note - There are exceptions to these requirements in some jurisdictions due to applicable laws & regulations.
 
 ### Terms
 
