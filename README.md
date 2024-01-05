@@ -39,7 +39,8 @@ We are now hosting *a monthly KCD Organizer focus group*. As of now, it will be 
 
 STEP 1: [Submit an issue in GitHub](https://github.com/cncf/kubernetes-community-days/issues/new/choose) using the provided check-list template and we will schedule a kickoff meeting from there, as well as provide you with more resources.
 
-NOTE: These are the terms within the checklist that are IMPORTANT to abide by:
+NOTE: These are the terms within the checklist that are IMPORTANT to abide by. There are exceptions to these requirements in some jurisdictions due to applicable laws & regulations.
+
 ### Terms
 
 * You can apply as early as 8 months prior to the desired event date for your KCD. If your GitHub issue is submitted ahead of then, CNCF will wait to host a kick-off call until the 8-month mark (provided you meet the below terms). IMPORTANT: Your KCD will not be confirmed/approved unless you have a kick-off call and schedule monthly check-ins with CNCF.
