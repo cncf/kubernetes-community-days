@@ -17,12 +17,12 @@ Some basic guidelines for building a good event program include:
 
 ## Recruiting Speakers
 
-Along with sponsorships, this is one of the most challenging parts of running an event. The [CNCF Speakers Bureau](https://www.cncf.io/blog/2020/01/31/cncf-speakers-bureau-a-great-resource/)  is a great place to start. Regardless you should anticipate spending some time recruiting speakers and speaking proposals.  With this in mind, here are some ways to make recruiting speakers easier:
+Along with sponsorships, this is one of the most challenging parts of running an event. The [CNCF Presentations Website](https://presentations.cncf.io/) is a great place to start. Regardless you should anticipate spending some time recruiting speakers and speaking proposals.  With this in mind, here are some ways to make recruiting speakers easier:
 
 * Build a stock of proposal ideas for potential speakers either to adopt or use to spark their creative process
 * Offer to brainstorm with potential speakers to help create content
 * Reach out to known event speakers on the CNCF Slack and ask if they have speaking ideas (or if they want to speak at the event!)
-* [Here is a tutorial](https://drive.google.com/file/d/1kp6F_Bggc8qZ-iuWr9CqVjlF_qAzhwU9/view?usp=sharing) you can share that shows you how to submit an application via SMapply
+* [Here is how to become a speaker](https://sessionize.com/playbook/tips-for-new-speakers) you can share this, as it shows you how to submit an application via Sessionize
 
 Recruiting a diverse speaker slate requires extra effort. Some ideas for this include:
 * Kubernetes Community Days prohibits all male panels. Please plan to have a minimum of two women speakers on a panel. This ensures if there is a cancellation you will have gender diversity.
@@ -72,6 +72,4 @@ Recruiting a diverse speaker slate requires extra effort. Some ideas for this in
 * check the box for each application you would like to accept
 * Use the "Decision" dropdown menu and click "Award"
 * From there you can move applications to the "approved stage" in addtion to sending a customized email with more information by clicking the "end an email to the awarded applicant". IMPORTANT: We reccomend doing this step because the auto-generated email is not clear which program the applicant was accepted to.
-#### Help Center Resources: https://help.smapply.io/hc/en-us
-#### Training Videos: https://help.smapply.io/hc/en-us/categories/115000187973-Implementation-Training-Videos
-#### Build + Launch: https://help.smapply.io/hc/en-us/sections/115000405794-Build-Videos
+#### Help Center Resources: https://sessionize.com/playbook/
