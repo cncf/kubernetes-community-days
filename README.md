@@ -34,6 +34,7 @@ We are now hosting *a monthly KCD Organizer focus group*. As of now, it will be 
 * Each KCD will be provided 10 Linux Foundation certification vouchers that work for SkillCreds, PCA, KCNA, CKS, and CKAD, CKA exams. Some past usages of these are, 1. giving a voucher to a volunteer to show your gratitude. 2. Use it as a raffle item within a workshop.
 * Each organizer on the KCD planning team will automatically earn a badge of recogning from The Linux Foundation.
 * 1 additional Credly badge to recognize your speakers OR volunteers. If organizers choose to offer this, CNCF will provide a form to fill out their request. 1 request per KCD. Each KCD should prepare the artwork in a square image, but with a circular badge. [See examples here](https://drive.google.com/drive/folders/1UFYAzzaFPgfQLjL947utCZ7Z8lUsfFl6). Submit [your request here](https://docs.google.com/forms/d/e/1FAIpQLSex2EhkCNysmK7svQEVeaOlqpsH0fSBe6qoOePRw_WGajZnTw/viewform).
+* As of 2024 we are gifting 1 scholarship to a KubeCon of each KCD's choice (3 in one year). The only stipulation is you are a KCD within the year of nomination, and your KCD has signed your venue contract. More details distributed in the global organizer Slack channel and monthly organizer newsletter.
 
 ### Want to host a KCD? Here are the first steps:
 
