@@ -66,6 +66,9 @@ NOTE: CNCF reserves the right to decline any event the usage of our KCD trademar
 * Failure to follow protocols
 * Conflict of dates
 * Failure to follow the CoC
+* International sanction limitations
+
+Due to international sanctions, there are limitations on supporting community events in certain regions. Those events will not follow our usual KCD support model, and are published here only for community awareness if they agree to abide by the KCD guidelines.
 
 STEP 2: Request to be added to the [kcd-organizers](https://cloud-native.slack.com/archives/GQ7D26NPQ) CNCF Slack channel.
 
