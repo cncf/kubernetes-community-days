@@ -25,7 +25,7 @@ We are now hosting *a monthly KCD Organizer focus group*. As of now, it will be 
 
 * A personalized email address and private CNCF workspace Slack channel for the KCD organizers
 * Website and ticket support for community.cncf.io (Bevy platform)
-* CFP support with the SM Apply platform
+* CFP support with the Sessionize platform
 * Monthly meetings to help keep you on track
 * Access to monthly CNCF-hosted Working Groups
 * Speaker and vendor introductions as needed
