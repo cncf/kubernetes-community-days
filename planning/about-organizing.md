@@ -80,23 +80,21 @@ Other considerations:
 
 ## Logos and Trademarks
 
-Once your event and name have been accepted, you are authorized by CNCF to use that name (e.g., Kubernetes Community Days Bouvet Island). Please design a custom logo for your event. **The logo is not permitted to include the Kubernetes Wheel (in whole or in part).** The event logo must include the event name. You are welcome to include the CNCF logo in your event logo and graphics; you’re also welcome to use [Phippy](https://phippy.io/) and friends (high-res versions available in the artwork [repo](https://github.com/cncf/artwork/blob/master/examples/other.md#phippy--friends-group-logos).
+Once your event and name have been accepted, you are authorized by CNCF to use that name (e.g., KCD Bouvet Island). Please design a custom logo to be paired with the [official KCD logo](https://github.com/cncf/artwork/blob/main/examples/other.md#kubernetes-community-days) (reach out to kcd@cncf.io for guidelines) for your event. **The logo is not permitted to include the Kubernetes Wheel (in whole or in part).** The event logo must include the event name. You are welcome to include the CNCF logo in your event logo and graphics; you’re also welcome to use [Phippy](https://phippy.io/) and friends (high-res versions available in the artwork [repo](https://github.com/cncf/artwork/blob/master/examples/other.md#phippy--friends-group-logos).
 
-Please post your logo in SVG format, as [explained](https://www.cncf.io/blog/2019/07/17/what-image-formats-should-you-be-using-in-2019/) in this blog post.
+Please send your logo in SVG format, to kcd@cncf.io for approval, OR if you need desigg help, we are happy to offer the LF Creative team to assist.
 
-All events must be called “Kubernetes Community Days LOCATION”, e.g. Kubernetes Community Days Bouvet Island.
-
-## Kubernetes Community Days Planning Tools
+## KCD Planning Tools
 
 * [Conference Planning Action Items and Checklist](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit) (Google Spreadsheet) a template for check-in meetings to keep everyone is on task. 
 * [Sponsorship Letter](/sponsor-resources/letter-prospecting-sponsors.md) to send to prospective sponsors.
 * [Sponsorship Prospectus](/sponsor-resources/) (to send to prospective sponsors and post on the event website.)
 * [Sample Invoice](https://docs.google.com/document/d/1Rbc8hvBgbO55asEQzzAHkpvSU2ogl52NmWq1-NhBYdY/edit) (Google Spreadsheet) to invoice sponsors.
 * [Sample Call for Proposals](/speaker-resources/cfp.md) to recruit speakers.
-* [CNCF Speakers' Bureau](https://www.cncf.io/speakers/) to connect with expert speakers within the cloud native ecosystem.
+* [CNCF Presentations Repository](https://presentations.cncf.io/) to connect with expert speakers within the cloud native ecosystem.
 * [CNCF Digital Assets](https://github.com/cncf/artwork) for  event promotions.
 * [How to work with the Bevy platform](https://github.com/cncf/kubernetes-community-days/blob/main/planning/platform-help.md)
-* SM Apply [Help Center](https://help.smapply.io/hc/en-us) and [Training videos](https://help.smapply.io/hc/en-us/categories/115000187973-Implementation-Training-Videos)
+* Sessionize [Playbook](https://sessionize.com/playbook/)
 * How to deal with [disagreements between organizers](planning/organizer-mediation.md
 * [FAQ](/planning/faq.md)
 
