@@ -19,9 +19,7 @@ Review the [Bevy Virtual Conference Overview](https://training.cmxhub.com/p/how-
 * [Self-paced training program](https://bevy.com/academy) [Use the code BEVY-CUSTOMER-SUCCESS for 100% off.]
 * [Check out Bevy's scalable success plan with intructional links.](https://docs.google.com/spreadsheets/d/1FeUB6beZAVeR8ViVIR-_mPUSxKHsynDc9XCIvx1roqc/edit#gid=698508546)
 
-## SMApply training:
-* [Help Center Resources](https://help.smapply.io/hc/en-us)
-* [Training Videos](https://help.smapply.io/hc/en-us/categories/115000187973-Implementation-Training-Videos)
-* [Build + Launch](https://help.smapply.io/hc/en-us/sections/115000405794-Build-Videos)
+## Sessionize
+* See their simple and helpful [playbook here](https://sessionize.com/playbook/)
 
 More questions? Feel free to reach out to kcd@cncf.io
