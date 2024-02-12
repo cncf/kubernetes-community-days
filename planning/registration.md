@@ -4,8 +4,8 @@ Registration
 
 Once pricing has been decided you’re ready to set up registration. Here are some basic guidelines.
 
-* Use [Bevy](https://community.cncf.io/) for registration and payments
-* Keep registration fees below 100 USD / 70 EU (free for virtual only events) - the lower the better to attract a more diverse group of attendees
+* Use [Bevy](https://community.cncf.io/) for registration if your event is free. Alternatively, payment platforms should be discussed with CNCF
+* Keep registration fees below 200 USD / 185 EU (free for virtual only events) - the lower the better to attract a more diverse group of attendees
 * Sell tickets on a first-come/first-serve basis that is completely open to the public
 * Offer “early bird” pricing (10% to 25% discount)  to drive initial registration
 * Registration lists may NOT be used for commercial or marketing purposes
