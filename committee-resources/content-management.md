@@ -66,16 +66,7 @@ Recruiting a diverse speaker slate requires extra effort. Some ideas for this in
 * Provide constructive post-event feedback with concrete advice
 
 ## Laying out your agenda
-* Building your program schedule in Bevy: [Video tutorial from Katie Greenley](https://drive.google.com/file/d/1Q9WOcCKFKQheiRoB3z0pkmlh_HUZS8Mb/view?usp=sharing).
-* Use this helpful [dymanic agenda builder](https://docs.google.com/spreadsheets/d/1y_QZdKGMja1YZnpkPSNxQQHBmK1TBN_NUW9kStdrTQk/edit?usp=sharing) Katie mentions in the above video. This assists in creating the agenda for your event.
+* Building your program schedule in Sessionize: https://sessionize.com/playbook/schedule-builder
+* Use this helpful [dymanic agenda builder](https://docs.google.com/spreadsheets/d/1y_QZdKGMja1YZnpkPSNxQQHBmK1TBN_NUW9kStdrTQk/edit?usp=sharing) to assist in creating the agenda for your event.
 
 ## Help with the SM Apply Platform
-
-#### Accepting Proposals:
-* go to the applications tab within your SM Apply program
-* check the box for each application you would like to accept
-* Use the "Decision" dropdown menu and click "Award"
-* From there you can move applications to the "approved stage" in addtion to sending a customized email with more information by clicking the "end an email to the awarded applicant". IMPORTANT: We reccomend doing this step because the auto-generated email is not clear which program the applicant was accepted to.
-#### Help Center Resources: https://help.smapply.io/hc/en-us
-#### Training Videos: https://help.smapply.io/hc/en-us/categories/115000187973-Implementation-Training-Videos
-#### Build + Launch: https://help.smapply.io/hc/en-us/sections/115000405794-Build-Videos
