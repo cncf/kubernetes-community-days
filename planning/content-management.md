@@ -46,6 +46,7 @@ Recruiting a diverse speaker slate requires extra effort. Some ideas for this in
 
 * Give higher priority to content that has not been previously presented 
 * Try for a good balance between local and out-of-town speakers
+* It is important to have no more than 30% of your content be sponsored content, as these are community events that aim to be vendor-nuetral
 * Prioritize new event speakers: Kubernetes Community Days is a supportive environment to encourage new voices in our space
 
 ## Set up a clear timeline on content reviews
@@ -62,7 +63,9 @@ Recruiting a diverse speaker slate requires extra effort. Some ideas for this in
 * Provide constructive post-event feedback with concrete advice
 
 ## Laying out your agenda
-* Use this helpful [dymanic agenda builder](https://docs.google.com/spreadsheets/d/1y_QZdKGMja1YZnpkPSNxQQHBmK1TBN_NUW9kStdrTQk/edit?usp=sharing) Katie mentions in the above video. This assists in creating the agenda for your event.
+* Use this helpful [dymanic agenda builder](https://docs.google.com/spreadsheets/d/1y_QZdKGMja1YZnpkPSNxQQHBmK1TBN_NUW9kStdrTQk/edit?usp=sharing) Katie mentions in the above video. This assists in creating the agenda for your event
+* Do your best to have at least 10 minutes inbetween each session. This is not only helpful for speaker transitions, but for attendees to walk from session to session
+* Please assure that your keynote lineup is not more than 50% sponsored talks
 
 ## Help with the Sessionize Platform
 * Help Center Resources: https://sessionize.com/playbook/
