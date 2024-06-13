@@ -13,7 +13,7 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 ### Event Details
 * [ ] Event Location:
 * [ ] Event Date and Time:
-* [ ] Expected Number of Attendees
+* [ ] Expected number of attendees (not to exceed 500)
 * [ ] Event cost per ticket, and if you will have early bird pricing or not
 
 #### Event type:
