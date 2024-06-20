@@ -44,7 +44,7 @@ IMPORTANT: These are the terms within the checklist that must be abided by. Note
 
 ### Terms
 
-* As of June 2024 - Communinty events like KCDs should be no larger thann 500 people. The organizing team should cap their tickets at this amount, which includes organizers, speakers, and sponsors.
+* As of June 2024 - Community events like KCDs should be no larger than 500 people. The organizing team should cap their tickets at this amount, which includes organizers, speakers, and sponsors.
 * You can apply as early as 8 months prior to the desired event date for your KCD. If your GitHub issue is submitted ahead of then, CNCF will wait to host a kick-off call until the 8-month mark (provided you meet the below terms). IMPORTANT: Your KCD will not be confirmed/approved unless you have a kick-off call and schedule monthly check-ins with CNCF.
 * When applying, make sure there are no other KCDs in same major city (check with past organizers)
 * Each KCD must consider having their event at least 2 months apart from other pre-planned KCDs within a 2-hour flight away happening in the same language, unless otherwise approved by CNCF. Other events to be considered are any event held by CNCF or Linux Foundation. Have a look at the [events calendar](https://www.cncf.io/events/) to assure your KCD will not compete with another events sponsorships or speakers. Insight into KCDs not yet LIVE but in the planning phases will live in the [KCD GitHub issues](https://github.com/cncf/kubernetes-community-days/issues).
