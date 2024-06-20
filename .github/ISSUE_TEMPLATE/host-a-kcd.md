@@ -53,37 +53,35 @@ IMPORTANT: These are the terms within the checklist that must be abided by. Note
 ### Getting started checklist for organizers
 
 * [ ] Schedule monthly check-ins with KCD Core Organizer(s) (kcd@cncf.io)
+* [ ] Identified fiscal entity that can accept payments such as from sponsorships, to pay out expenses, manage income from ticket sales
 * [ ] Minimum of 3 sponsors committed (not required for virtual only events)
-Sponsor 1
-Sponsor 2
-Sponsor 3
-* [ ] Identified fiscal sponsor that can accept payments such as from sponsorships and pay out expenses
-Fiscal sponsor that will accept payments
+-- Sponsor 1
+-- Sponsor 2
+-- Sponsor 3
 * [ ] Added usernames for [CNCF Slack](https://slack.cncf.io/) for all organizers so that we can add you to the #kcd-organizers channel
 * [ ] Create a LinkedIn profile and/or Twitter handle specific to your KCD event (except for countries like China and Korea where Twitter is not used)
 
 ### Getting started checklist for CNCF:
 * [ ] Organizer email alias has been created
 * [ ] Region created in Bevy
-* [ ] Added to Bevy header
-* [ ] CFP code given for Sessionize
-* [ ] Marketing Plan shared
+* [ ] Added to Bevy header once event is created and published by organizers
+* [ ] Give organizers event code given for Sessionize (CFP)
+* [ ] Share marketing plan and highlight CNCF marketing support
 
 ### Organizer Planning Timeline
 * [ ] Make a copy of [this timeline](https://docs.google.com/spreadsheets/d/1pSnKB7KkMthTdo7Hb-Xm-MN7YUoiV88-Pa63xeVUAcA/edit?usp=sharing) based on whether your event is In-person, Hybrid, or Virtual and link your own spreadsheet here ().
-* [ ] To assure you have a diverse lineup, you are required to send a copy of your program to kcd@cncf.io before you publish it.
 
 ### Post event checklist for Organizers:
 * [ ] Send CNCF event analytics
-* [ ] Schedule post mortem meeting
-* [ ] Send CNCF videos to be uploaded to YouTube
+* [ ] Schedule restrospective meeting with team, and then a sumamry with CNCF
+* [ ] Send CNCF videos to be uploaded to YouTube (if you chose to record them)
 * [ ] Link videos from YouTube to event page
 * [ ] Post event survey sent out
-* [ ] Fill out [Credly badge request form](https://docs.google.com/forms/d/e/1FAIpQLSex2EhkCNysmK7svQEVeaOlqpsH0fSBe6qoOePRw_WGajZnTw/viewform) for 1 badge per KCD
+* [ ] Fill out [Credly badge request form](https://docs.google.com/forms/d/e/1FAIpQLSex2EhkCNysmK7svQEVeaOlqpsH0fSBe6qoOePRw_WGajZnTw/viewform) for 1 badge per KCD (if desired by organizers for speakers, or volunteers)
+* [ ] Post-event blog post by organizers (optional)
 
 ### Post event checklist for CNCF:
-* [ ] Removed from Bevy header
-* [ ] CFP deactivated
-* [ ] Upload videos to YouTube
-* [ ] Transparency report and YouTube playlist (if there is one) linked from [cncf.io/kcds](https://www.cncf.io/kcds/)
+* [ ] Remove from Bevy header
+* [ ] Copy YouTube playlist (if there is one) to amplify to CNCF channel subscribers
+* [ ] Publish transparency report and YouTube playlist (if there is one) linked from [cncf.io/kcds](https://www.cncf.io/kcds/)
 * [ ] Bevy page marked as dormant 
