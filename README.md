@@ -52,16 +52,17 @@ IMPORTANT: These are the terms within the checklist that must be abided by. Note
 * Every organizer has an account on [Cloud Native Community Groups](https://community.cncf.io/)
 * The majority of organizers must live in, or just outside of the KCD location
 * At least one organizer is a CNCF ambassador OR CNCF project maintainer
-* All organizers agree to follow the event guidelines and CNCF Code of Conduct
+* All organizers agree to follow the event guidelines and [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
 * All inquiries / communication to come via GitHub forum for easy tracking
 * All organizers have taken [Inclusive Open Source Community Orientation (LFC102)](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
-* Agree to use [the new KCD logo](https://drive.google.com/file/d/1jU_DkKTVUzimvhUfBqw8ZHfgZShov0Md/view?usp=drive_link) and work with Audra to make it unique to your KCD.
+* Agree to use [the new KCD logo](https://drive.google.com/file/d/1jU_DkKTVUzimvhUfBqw8ZHfgZShov0Md/view?usp=drive_link) and work with a CNCF core program manager to make it unique to your KCD.
 * Agree to offer at least 3 complimentary tickets to increase diversity for the event
 * Agree to share the sponsor prospectus with CNCF by linking it in your GitHub issue and on your website.
+* Agree to use Sessionize for CFP and to close it at least 8 weeks before the event, and launch the agenda at least 6 weeks prior to your event. CNCF will provide an event code so Sessionize is free to use if you are charging an event fee.
 * Agree to ensure the final program schedule is diverse (e.g., not all speakers of one gender, culture or company). [Here is how you can create a diverse lineup.](https://docs.google.com/presentation/d/1fzT_BdavVKh3mnxxU-PBWyJq9JUfasKwHqekkbYVbw8/edit#slide=id.g56245ab439_0_106)
 * Agree to submit your final lineup to kcd@cncf.io for review, prior to publishing it
-* Agree to use Bevy (Cloud Native Community Groups) for registration, scheduling, and event website. NOTE: If you chose to use another registration platform, you must report your weekly registration numbers in the #kcd-organizers private Slack channel within the CNCF workspace. All free events must use Bevy registration regardless of in-person, hybrid, or virtual.
-* Agree to use Sessionize for CFP and to close it at least 6 weeks before the event.
+* Agree to use the designation CNCF registration platform, or have opt-in lagnuage for attendees to agree for CNCF to contact them about future events. [KCD registration questions can be found here](https://docs.google.com/spreadsheets/d/1OEoVQ8Y3eQmEEJeT2abhNOkYIkyk8nAVjebNFvKMTQQ/edit?usp=drive_link) which also helps populate your transparency report.
+* Agree to produce a transparency report after your KCD. CNCF will provide a editable copy of [this Canva template](https://www.canva.com/design/DAFhDHqyNBw/H2uJJV_hDX7Ln_R_IGpWkg/edit) for guidance.
 
 NOTE: CNCF reserves the right to decline any event the usage of our KCD trademark due to:
 * Failure to follow protocols
