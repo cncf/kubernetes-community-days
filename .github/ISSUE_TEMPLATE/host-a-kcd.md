@@ -34,12 +34,11 @@ IMPORTANT: These are the terms within the checklist that must be abided by. Note
 * [ ] Agree your KCD will attract no more than 500 people, and cap your tickets at this amount, which includes organizers, speakers, and sponsors.
 * [ ] Confirm there are no other KCDs in same major city (check with past organizers)
 * [ ] Confirm your event at least 2 months apart from other pre-planned KCDs within a 2-hour flight away happening in the same language, unless otherwise approved by CNCF. Other events to be considered are any event held by CNCF or Linux Foundation. Have a look at the [events calendar](https://www.cncf.io/events/) to assure your KCD will not compete with another events sponsorships or speakers. Insight into KCDs not yet LIVE but in the planning phases will live in the [KCD GitHub issues](https://github.com/cncf/kubernetes-community-days/issues).
-* Organizer Terms
-** [ ] Confirm you have a minimum of 3 organizers from 3 different organizations
-** [ ] Confirm every organizer has an account on [Cloud Native Community Groups](https://community.cncf.io/)
-** [ ] Confirm the majority of organizers must live in, or just outside of the KCD location
-** [ ] Confirm at least one organizer is a CNCF ambassador OR CNCF project maintainer
-** [ ] Confirm all organizers agree to follow the event guidelines and [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
+* [ ] Confirm you have a minimum of 3 organizers from 3 different organizations
+* [ ] Confirm every organizer has an account on [Cloud Native Community Groups](https://community.cncf.io/)
+* [ ] Confirm the majority of organizers must live in, or just outside of the KCD location
+* [ ] Confirm at least one organizer is a CNCF ambassador OR CNCF project maintainer
+* [ ] Confirm all organizers agree to follow the event guidelines and [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
 * [ ] All inquiries / communication must at least be summarized, if not initially coming via your GitHub issue for easy tracking
 * [ ] All organizers have taken [Inclusive Open Source Community Orientation (LFC102)](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
 * [ ] Agree to use [the new KCD logo](https://drive.google.com/file/d/1jU_DkKTVUzimvhUfBqw8ZHfgZShov0Md/view?usp=drive_link) and work with a CNCF core program manager to make it unique to your KCD.
