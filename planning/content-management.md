@@ -69,8 +69,8 @@ Recruiting a diverse speaker slate requires extra effort. Some ideas for this in
 
 ## Waitlisting Talks
 While [acceptances and rejections/declines are straight forward in Sessionize](https://sessionize.com/playbook/session-statuses), waitlisting is not. The CNCF events team uses this workaround that we hope you find helpful.
-* STEP 1: Change their status to the yellow “Decline_Queue” and send spekaers a separate email mail merge with the waitlisted information. Sessionize only lets you see “Accepted” or “Declined” status when you’re logging into your speaker dashboard. So anybody with that “Decline Queue” status, still shows as “In Progress.”
-* STEP 2 OPTION 1: Once the Waitlist period is over and you are sure that nobody is going to be selected anymore (usually a couple weeks before the event), change those waitlisted talks in the Decline Queue to "decline" and send them the automated notification from Sessionize.
+* STEP 1: Change their status to the yellow “Decline_Queue” and send spekaers a separate email mail merge with the waitlisted information. Sessionize only lets you see “Accepted” or “Declined” status when you’re logging into your speaker dashboard. So anybody with that Decline_Queue status, still shows as “In Progress.”
+* STEP 2 OPTION 1: Once the Waitlist period is over and you are sure that nobody is going to be selected anymore (usually a couple weeks before the event), change those waitlisted talks in the Decline Queue to "Decline" and send them the automated notification from Sessionize.
 * STEP 2 OPTION 2: if you want to keep your waitlisted talks all the way up until the event, and give those speakers a free tickets to be backup talks on-site, then you can hold them in the Decline Queue until they are needed or the event is over.
 
 ## Help with the Sessionize Platform
