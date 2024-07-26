@@ -29,7 +29,8 @@ body:
     placeholder: e.g. I, Audra Montenegro would like to join as a co-organizer. I have xyz experience that would be an asset to the KCD.
   validations:
     required: false
-- type: markdown
+- id: organizer_terms
+  type: markdown
   attributes:
     value: |
        ### If requesting to become a new organizer please review and accept the below terms and conditions all organizers must adhere to:
