@@ -41,39 +41,30 @@ We recommend assigning the following responsibilities to one or two members of y
 
 ## Getting Started Checklist
 
-Once you have found and organized your team through Github issues, it it time to start planning!
+Once you have found and organized your team of a minimum of three people, and can [meet these terms](https://github.com/cncf/kubernetes-community-days/blob/main/README.md#terms), it it time to start planning!
 
-* Verify that no other Kubernetes Community Day events are planned in your local area
-* Have a minimum of 3 local organizers (5 is recommended) from at least 3 different organizations. Each organizer needs to live in or just outside of the KCD location.
-* Have a minimum of 3 sponsors (Not required for virtual only events) ** 
-* Make sure that at least one organizer is an employee of a CNCF [member](https://www.cncf.io/about/members/), an [Ambassador](https://www.cncf.io/people/ambassadors/), or a CNCF project [maintainer](http://maintainers.cncf.io/)
-* Have a method to accept payments (sponsorships, tickets) and make payments (catering, A/V, other costs)
-* Verify that all organizers have agreed to these event guidelines and to abide by the Kubernetes Community Day [Code of Conduct](code-of-conduct.md)
-* Schedule an event date a minimum of 6 months after  you file your event request with CNCF request submission,  (9 months prior is preferable)
-* Agree to use [Cloud Native Community Groups](https://community.cncf.io/) for [registration and ticketing](https://help.bevylabs.com/article/369-manage-event-ticketing)*
-* Agree to use [Cloud Native Community Groups](https://community.cncf.io/) for organizing the program page*
-* Agree to use [SM Apply](https://apply.surveymonkey.com/) for the CFP*
-* Share CNCF Slack usernames for all organizers to be added to #KCD-organizers channel
-* Create Twitter handle for specific KCD event (like @KCD-BouvetIsland) except for countries like China and Korea where Twitter is not used
+Once your team meets the above-linked criteria, you may submit an application during the open call for KCDs (typically 6 months before the year of application). Once your application has been approved, and you had a kick-off call with a core CNCF Staff member, the organization can begin! 
 
-Once your team meets these criteria, you can create a GitHub [issue](https://github.com/cncf/kubernetes-community-days/issues/) to notify CNCF that you wish to be officially recognized. Your organizing team will be invited to the [#kcd-organizers](https://cloud-native.slack.com/messages/GN6R2PV1A) private Slack channel where you can connect with other Kubernetes Community Days organizers around the world. At this time, the Core Organizers will also grant you access to our preferred tools and create email aliases (for general organizers and sponsorships). You can then begin creating your website and the Bevy event platform. Follow instructions under "Event Creation" in the [Bevy Conference Success](https://docs.google.com/spreadsheets/d/1FeUB6beZAVeR8ViVIR-_mPUSxKHsynDc9XCIvx1roqc/edit#gid=698508546) plan. 
+Your organizing team will be invited to a private Slack channel where you can connect with other global KCD organizers. At this time, CNCF will set up monthly syncs with you, grant access to designated tools and create an email alias for your team. You can then begin creating your website and the Bevy event platform via a chapter CNCF will designate to you. 
 
 * Where our standard tools are blocked, CNCF will work with KCD organizers to determine alternatives. 
 
-** For the launch, we want to ensure that each KCD is successful. Part of ensuring the success of the event is to have the first 3 sponsors committed. We acknowledge requiring KCD Organizers to have 3 sponsors committed prior to the approval of your event can be challenging.
+** For the launch, we want to ensure that each KCD is successful. Part of ensuring the success of the event is to have the first 3 sponsors committed, one of which will be CNCF. We acknowledge requiring KCD Organizers to have 3 sponsors committed prior to the approval of your event can be challenging, but this ensures you can financially support your venue with secured dates that you promise to the community.
 
 ## Event Details 
 
-Events may be developer-focused or they can cover on business issues and cloud strategy. Attendance averages 100-400 people. Most start small and grow slowly. Again, Kubernetes Community Days are not to be used for commercial pitches. Any platforms or tools you are describing the need to be open source. That said, many (most?) talks will be about how companies relied on open source technologies to improve their processes. Event profits must be reinvested in future years. Organizers should be reimbursed for their actual expenses reimbursed, but not their time.
+Events may be developer-focused or they can cover, business issues, cloud strategy, and community efforts in the cloud native ecosystem. Attendance averages 150-500 people. Most start small and grow slowly, including 1 days versus 2 days. KCDs are not to be used for commercial pitches. Any platforms or tools your content teaches about, are describing the need to be open source. That said, the majority of your content should be about how companies rely on open source technologies to improve their processes.
+
+We aim to help your event break even in costs, but if your event makes a profit, that must be reinvested in the community. Organizers can be reimbursed for event-related expenses reimbursed, but not their time.
 
 Other considerations:
 
 * Encourage bold, innovative, thought-provoking subjects
-* Events usually have four 30-minute talks per day
+* Events typically host at least four 30-minute talks per day
 * Open space sessions are generated, voted on and scheduled during the conference - not ahead of time.
 * The event must be at least one day long
-* Lower-prices for early-bird registration are recommended
-* Registration and sponsorship needs to be available to anyone until  available capacity sells out
+* Lower prices for early-bird registration are recommended
+* Registration and sponsorship needs to be available to anyone, until available capacity sells out
 * Encourage interaction and think about ways to create this
 * The attendee list may not be used for commercial or marketing purposes. It may only be used to advertise that specific Kubernetes Community Day or further iterations of it. The list may not be shared with third parties who are not directly involved in organizing the event. Please review the [Privacy Policy Statement](https://www.linuxfoundation.org/privacy/).
 * Sponsors are allowed to collect attendee information at their tables. 
