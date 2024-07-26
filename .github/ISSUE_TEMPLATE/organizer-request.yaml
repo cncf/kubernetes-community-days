@@ -8,7 +8,7 @@ body:
       If you are requesting to become a new organizer. The CNCF team will tag/add the current KCD organizers to review and comment on your request.
       
       If you are requesting to remove yourself as an organizer, please fill out the below as a formal resignation. If you fill out a resignation on behalf of someone, then the must comment with an affirmation.
-- id: KCD chapter
+- id: kcd chapter
   type: input
   attributes:
     label: Name of KCD chapter inquiring about
