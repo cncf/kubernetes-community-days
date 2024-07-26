@@ -1,0 +1,97 @@
+name: Chapter Organizer Request
+description: This form is for those who are requesting to become a new organizer, or to remove an organizer from an existing KCD chapter on community.cncf.io.
+title: "[Organizer Request] Add or Remove Organizer Name"
+body:
+- type: markdown
+  attributes:
+    value: |
+      If you are requesting to become a new organizer. The CNCF team will tag/add the current KCD organizers to review and comment on your request.
+      
+      If you are requesting to remove yourself as an organizer, please fill out the below as a formal resignation. If you fill out a resignation on behalf of someone, then the must comment with an affirmation.
+- id: KCD chapter
+  type: input
+  attributes:
+    label: Name of KCD chapter inquiring about
+    placeholder: e.g. KCD Brazil
+  validations:
+    required: true
+- id: organizer
+  type: textarea
+  attributes:
+    label: Tell us about yourself. List your name, email, company, GitHub URL, LinkedIn URL, and CNCF Slack workspace name (or if you need to be invited), and a required profile link on community.cncf.io
+    placeholder: e.g. Audra Montenegro, CNCF, https://github.com/AudMonte01, https://www.linkedin.com/in/audramontenegro/, Audra Montenegro in CNCF Slack, https://community.cncf.io/u/m8bqcv/#/about
+  validations:
+    required: true
+- id: organizer_2
+  type: textarea
+  attributes:
+    label: Tell us why you want to be added or removed from the KCD chapter
+    placeholder: e.g. I, Audra Montenegro would like to join as a co-organizer. I have xyz experience that would be an asset to the KCD.
+  validations:
+    required: false
+- type: markdown
+  attributes:
+    value: |
+       ### If requesting to become a new organizer please review and accept the below terms and conditions all organizers must adhere to:
+- id: organizer_coc
+  type: checkboxes
+  attributes:
+    label: Code of Conduct
+    description: "The Code of Conduct helps create a safe space for everyone. We require that everyone agrees to it."
+    options:
+      - label: I agree to follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
+        required: false
+- id: organizer_residency
+  type: checkboxes
+  attributes:
+    label: Where organizer resides/lives
+    description: "All new KCD organizers must at least live in the neighboring area of the KCD."
+    options:
+      - label: I confirm I am local to or live near the city of the above-proposed KCD (do not mark if irrelevent to request)
+        required: false
+- id: organizer_affiliation
+  type: checkboxes
+  attributes:
+    label: Organizers companies/affiliations
+    description: "Not all KCD organizers can be from the same company."
+    options:
+      - label: I come from NAME company which is differing from that of the current organizers (do not mark if irrelevent to request)
+        required: false
+- id: organizer_inclusivity
+  type: checkboxes
+  attributes:
+    label: Inclusive
+    description: "You agree to be inclusive of all people eager to learn about cloud native, no matter what level of expertise they are at in their open source journey."
+    options:
+      - label: I agree. To assure this, I have recently completed the [Inclusive Open Source Community Orientation (LFC102) course](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/) (do not mark if irrelevent to request)
+        required: false
+- id: organizer_neutrality
+  type: checkboxes
+  attributes:
+    label: Vendor Neutral
+    description: "KCDs should have vendor-nuetral content for the main portion of their events. Please note that [sponsors can have up to 15 minutes on the keynote stage, and 30-minute sessions as apart of a sponsorship package."
+    options:
+      - label: I have read what [vendor-nuetrality means](https://contribute.cncf.io/maintainers/community/vendor-neutrality/), and I agree to support the main content of the KCD remaining vendor-nuetral (do not mark if irrelevent to request)
+        required: false
+- id: organizer_activity
+  type: checkboxes
+  attributes:
+    label: Remain an active organizer
+    description: "You understand and agree to attend organizer meetings regularly."
+    options:
+      - label: I understand that in order to be considered a KCD organizer and get recognition, I need to attend the majority of the planning meetings. (do not mark if irrelevent to request)
+        required: false
+- id: organizer_diversity
+  type: checkboxes
+  attributes:
+    label: Aim to have a diverse representation of speakers in your KCD lineup/agenda
+    description: "Diversity means something different for each country. The commonality among all countries is to strive to promote women or non-male speakers."
+    options:
+      - label: I will make an effort recruit diverse speakers in the KCD event agenda. (do not mark if irrelevent to request)
+        required: false
+- type: markdown
+  attributes:
+    value: |
+     #### Review and approval for your request to become a new organizer can take up to 30 days allowing the current organizers time to review and discuss your request. All communication will be with in the GitHub issue. If you have questions throughout the process, please comment within your GitHub issue.
+     
+     #### Resignation time can vary. Please add @AudMonte01 as an assignee for a quicker turnaround.
