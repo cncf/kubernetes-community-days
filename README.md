@@ -49,7 +49,7 @@ IMPORTANT: These are the terms within the checklist that must be abided by. Note
 * There is a minimum of 3 organizers required to host a KCD, and each should be from different organizations.
 * Every organizer should have an account on [Cloud Native Community Groups](https://community.cncf.io/)
 * The majority of organizers must live in, or near the KCD location.
-* Each KCD shall be names by city. Exceptions will be made for small countries where cities are less known, or other KCDs have yet to be hosted,
+* Each KCD shall be named by city. Exceptions will be made for small countries where cities are less known, or other KCDs have yet to be hosted,
 * At least one active organizer is required to be a CNCF ambassador OR a CNCF project maintainer.
 * All organizers agree to the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
 * All organizers have taken [Inclusive Open Source Community Orientation (LFC102)](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
