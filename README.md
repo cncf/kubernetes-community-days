@@ -53,9 +53,9 @@ IMPORTANT: These are the terms within the checklist that must be abided by. Note
 * At least one active organizer is required to be a CNCF ambassador OR a CNCF project maintainer.
 * All organizers agree to the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
 * All organizers have taken [Inclusive Open Source Community Orientation (LFC102)](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
-* Agree to use [the new KCD logo](https://drive.google.com/file/d/1jU_DkKTVUzimvhUfBqw8ZHfgZShov0Md/view?usp=drive_link) and work with a CNCF core program manager to make it unique to your KCD.
+* Agree to use [the KCD logo](https://drive.google.com/file/d/1jU_DkKTVUzimvhUfBqw8ZHfgZShov0Md/view?usp=drive_link) and work with a CNCF core program manager to make it unique to your KCD.
 * Agree to offer at least 3 complimentary tickets to increase diversity for the event. For example, students or those who are need-based (cannot afford your ticket).
-* Agree to share the sponsor prospectus with CNCF via ODF form, as well as linking it on your website.
+* Agree to share the sponsor prospectus with CNCF via PDF form, as well as linking it on your website.
 * Agree to use Sessionize for your CFP, to close it at least 8 weeks before the event, and launch the agenda at least 6 weeks prior to your event. CNCF will provide an event code so Sessionize is free to use if you are charging an event fee.
 * Agree to ensure the final program schedule is diverse (e.g., not all speakers of one gender, culture or company). [Here is how you can create a diverse lineup.](https://docs.google.com/presentation/d/1fzT_BdavVKh3mnxxU-PBWyJq9JUfasKwHqekkbYVbw8/edit#slide=id.g56245ab439_0_106)
 * Agree to submit your final lineup to kcd@cncf.io for review, prior to publishing it.
