@@ -59,7 +59,7 @@ IMPORTANT: These are the terms within the checklist that must be abided by. Note
 * Agree to use Sessionize for your CFP, to close it at least 8 weeks before the event, and launch the agenda at least 6 weeks prior to your event. CNCF will provide an event code so Sessionize is free to use if you are charging an event fee.
 * Agree to ensure the final program schedule is diverse (e.g., not all speakers of one gender, culture or company). [Here is how you can create a diverse lineup.](https://docs.google.com/presentation/d/1fzT_BdavVKh3mnxxU-PBWyJq9JUfasKwHqekkbYVbw8/edit#slide=id.g56245ab439_0_106)
 * Agree to submit your final lineup to kcd@cncf.io for review, prior to publishing it.
-* Agree to use the designation CNCF registration platform, [KCD registration questions can be found here](https://docs.google.com/spreadsheets/d/1OEoVQ8Y3eQmEEJeT2abhNOkYIkyk8nAVjebNFvKMTQQ/edit?usp=drive_link) which also helps populate your transparency report.
+* Agree to use the designated CNCF registration platform, [KCD registration questions can be found here](https://docs.google.com/spreadsheets/d/1OEoVQ8Y3eQmEEJeT2abhNOkYIkyk8nAVjebNFvKMTQQ/edit?usp=drive_link) which also helps populate your transparency report.
 * Agree to produce a transparency report after your KCD. CNCF will provide a editable copy of [this Canva template](https://www.canva.com/design/DAFhDHqyNBw/H2uJJV_hDX7Ln_R_IGpWkg/edit) for guidance. NOTE: Note all pages are required.
 
 NOTE: CNCF reserves the right to decline any event the usage of our KCD trademark due to:
