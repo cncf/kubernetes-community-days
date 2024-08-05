@@ -37,9 +37,9 @@ We are now hosting *a monthly KCD Organizer focus group*. As of now, it will be 
 * As of 2024 we are gifting scholarships to a KubeCon + CloudNativeCons of each KCD's choice. Stipulations and guidelines are shared via the KCD Organizer Digest and exclusive Slack channel.
 * In 2025 - CNCF will be providing monetary support for each KCD, which will then be limited to 30 KCDs in one year.
 
-### Want to host a KCD? Here are the first steps:
+### Want to host a KCD? Here is the first step. A core CNCF team member will reach out to you to host a kick-off meeting to prompt your planning.
 
-STEP 1: Submit a request to host your KCD in the application time frame. The opportunity now presents itself one time per year with about 1.5 months to submit, and approved KCD notifcations getting sent out two weeks later. More details and timeline can be found via the KCD Application page ([see "Host" button here](https://www.cncf.io/kcds/)).
+Submit a request to host your KCD in the application time frame. The opportunity now presents itself one time per year with about 1.5 months to submit, and approved KCD notifcations getting sent out two weeks later. More details and timeline can be found via the KCD Application page ([see "Host" button here](https://www.cncf.io/kcds/)).
 
 IMPORTANT: These are the terms within the checklist that must be abided by. Note - There are exceptions to these requirements in some jurisdictions due to applicable laws & regulations.
 
@@ -70,7 +70,3 @@ NOTE: CNCF reserves the right to decline any event the usage of our KCD trademar
 * International sanction limitations
 
 Due to international sanctions, there are limitations on supporting community events in certain regions. Those events will not follow our usual KCD support model, and are published here only for community awareness if they agree to abide by the KCD guidelines.
-
-STEP 2: Request to be added to the [kcd-organizers](https://cloud-native.slack.com/archives/GQ7D26NPQ) CNCF Slack channel.
-
-STEP 3: Schedule a kick-off meeting with Audra Montenegro (kcd@cncf.io) if you at least have 3 committeed organizers, a community wanting to attend an event like a KCD, and a time frame goal.
