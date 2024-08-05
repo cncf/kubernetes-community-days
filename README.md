@@ -4,7 +4,7 @@ Previsouly known as Kubernetes Community Days, KCDs are community-organized even
 
 ## Host a KCD
 
-Each event brings its own local flair, culture, diversity, and authenticity. For more about details about organizing an event see the [organizing page](https://github.com/cncf/kubernetes-community-days/tree/main/planning). Check the [project board](https://github.com/cncf/kubernetes-community-days/projects/2) to join one being organized near you or [create an issue](https://github.com/cncf/kubernetes-community-days/issues/new/choose) to organize your own.
+Each event brings its own local flair, culture, diversity, and authenticity. For more about details about organizing an event see the [organizing page](https://github.com/cncf/kubernetes-community-days/tree/main/planning). Check the [project board](https://github.com/cncf/kubernetes-community-days/projects/2) to join one being organized near you, or to host on yourself, please visit the [KCD About Page via cncf.io](https://www.cncf.io/kcds/).
 
 ### Core Organizers
 
@@ -19,32 +19,33 @@ Organization is decentralized. Local events handle their own sponsorships, regis
 ## The Organizer Experience  
 Organizing an event can be daunting, if you are new at this, some organizers suggest getting your feet wet with a one-day event, or two half-day events. Even if you have a small event of 100 people, the same amount of detail should still be considered. That is why we at the CNCF are here to guide you. Please take advantage of the resources above. Please note - we are always working on adding more and bettering what we already have.
 
-We are now hosting *a monthly KCD Organizer focus group*. As of now, it will be the 3rd Tuesday of each month, for 1 hour, from 7:00 - 8:00am PT / 10:00 - 11:00am ET / 4:00 - 5:00pm CEST. Please contact kcd@cncf.io if you would like to be added, or if you would like an additional time that accommodates your region.
+We are now hosting *a monthly KCD Organizer focus group*. As of now, it will be hosted one Wednesday each month, for 1 hour, from 7:00 - 8:00am PT / 10:00 - 11:00am ET / 4:00 - 5:00pm CEST. Please contact kcd@cncf.io if you would like to be added, or if you would like an additional time that accommodates your region.
 
 ## CNCF Support
 
 * A personalized email address and private CNCF workspace Slack channel for the KCD organizers
 * Website and ticket support for community.cncf.io (Bevy platform)
 * CFP support with the Sessionize platform
-* Monthly meetings to help keep you on track
+* Monthly meetings to help keep you on track (these are required)
 * Access to monthly CNCF-hosted Working Groups
 * Speaker and vendor introductions as needed
 * Marketing support via social media, KubeWeekly newsletter, and CNCG blog posts
-* CNCF is happy to contribute $250 USD to each KCD starting in 2023. This can be used in [the CNCF store](https://store.cncf.io/) towards stickers.
+* CNCF is happy to contribute sticker packes (now worth over $600 USD) to each KCD starting in 2025. This can be used in [the CNCF store](https://store.cncf.io/) towards stickers. For 2024, we are reimbursing your team up to $250 USD for stickers.
 * Each KCD will be provided 10 Linux Foundation certification vouchers that work for SkillCreds, PCA, KCNA, CKS, and CKAD, CKA exams. Some past usages of these are, 1. giving a voucher to a volunteer to show your gratitude. 2. Use it as a raffle item within a workshop.
 * Each organizer on the KCD planning team will automatically earn a badge of recogning from The Linux Foundation.
 * 1 additional Credly badge to recognize your speakers OR volunteers. If organizers choose to offer this, CNCF will provide a form to fill out their request. 1 request per KCD. Each KCD should prepare the artwork in a square image, but with a circular badge. [See examples here](https://drive.google.com/drive/folders/1UFYAzzaFPgfQLjL947utCZ7Z8lUsfFl6). Submit [your request here](https://docs.google.com/forms/d/e/1FAIpQLSex2EhkCNysmK7svQEVeaOlqpsH0fSBe6qoOePRw_WGajZnTw/viewform).
-* As of 2024 we are gifting 1 scholarship to a KubeCon of each KCD's choice (3 KubeCons happen in one year). The only stipulation is you are a KCD within the year of nomination, and your KCD has signed your venue contract. [More details can be found here.](https://github.com/cncf/kubernetes-community-days/blob/main/files/Dan%20Kohn%20Scholarship%20for%20KCDs.pdf)
+* As of 2024 we are gifting scholarships to a KubeCon + CloudNativeCons of each KCD's choice. Stipulations and guidelines are shared via the KCD Organizer Digest and exclusive Slack channel.
+* In 2025 - CNCF will be providing monetary support for each KCD, which will then be limited to 30 KCDs in one year.
 
 ### Want to host a KCD? Here are the first steps:
 
-STEP 1: [Submit an issue in GitHub](https://github.com/cncf/kubernetes-community-days/issues/new/choose) using the provided check-list template and we will schedule a kickoff meeting from there, as well as provide you with more resources.
+STEP 1: Submit a request to host your KCD in the application time frame. The opportunity now presents itself one time per year with about 1.5 months to submit, and approved KCD notifcations getting sent out two weeks later. More details and timeline can be found via the KCD Application page ([see "Host" button here](https://www.cncf.io/kcds/)).
 
 IMPORTANT: These are the terms within the checklist that must be abided by. Note - There are exceptions to these requirements in some jurisdictions due to applicable laws & regulations.
 
 ### Terms
 
-* As of June 2024 - KCDs should be no larger than 500 people. The organizing team shall cap their tickets at this amount, which includes organizers, speakers, and sponsors.
+* As of June 2025 - KCDs should be no larger than 500 people. The organizing team shall cap their tickets at this amount, which includes organizers, speakers, and sponsors.
 * When applying, please make sure your KCD will not be competing with a [CNCF or LF hosted event](https://events.linuxfoundation.org/about/calendar/) in regards to the same city, or within 2 months of an event in your country like a KubeDay or a KubeCon + CloudNativeCon.
 * There is a minimum of 3 organizers required to host a KCD, and each should be from different organizations.
 * Every organizer should have an account on [Cloud Native Community Groups](https://community.cncf.io/)
