@@ -26,7 +26,7 @@ Along with sponsorships, this is one of the most challenging parts of running an
 
 Recruiting a diverse speaker slate requires extra effort. Some ideas for this include:
 * Kubernetes Community Days prohibits all male panels. Please plan to have a minimum of two women speakers on a panel. This ensures if there is a cancellation you will have gender diversity.
-* Contact organizations like [Women Who Code](https://www.womenwhocode.com/) and [Black Girls Code](http://www.blackgirlscode.com/)
+* Contact organizations like [Black Girls Code](http://www.blackgirlscode.com/)
 * Check relevant meetups for past speakers
 * Consider bringing in speakers from outside the region to improve diversity
 * Make sure you have two female speakers on each panel
