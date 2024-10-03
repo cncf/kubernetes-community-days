@@ -33,7 +33,7 @@ Option 2: If a local company is not an option, we recommend several companies th
 
 * US Based: Thank you, Matthew from NaOm! [Get started here](https://www.naomlab.com/do-you-need-a-fiscal-sponsor/)
 * EU Based: Bernd from [Netways](http://www.netways.com)
-* If you would like to use this method, contact us on the [KCD Organizers Slack channel](https://cloud-native.slack.com/archives/CN6LBV16G) to get more details.
+* If you would like to use this method, contact us at kcd@cncf.io.
 
 Option 3: Set up an open ledger
 
