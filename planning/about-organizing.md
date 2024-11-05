@@ -33,11 +33,11 @@ We recommend assigning the following responsibilities to one or two members of y
 * [Marketing and promotion](/planning/marketing-promotion.md) 
 * [Sponsors](/sponsor-resources/sponsorships-faq.md)
 * [Call for Proposals (CFP) and schedule](/speaker-resources/cfp.md)
-* Website updates
+* Website & Design Team: You might have 1-2 people assigned to this/these role(s)
 * [Registration](/planning/registration.md)
-* Venue, catering, local activities, and the hotel
-* T-shirts and other swag
-* Evening event logistics
+* Event Planner: Venue, catering, local activities, and the hotel
+* Swag: T-shirts, stickers and other giveaways
+* Ancilary Logistics: Evening events for example
 
 ## Getting Started Checklist
 
