@@ -23,11 +23,11 @@ Here is a [planning timeline](https://docs.google.com/spreadsheets/d/1bvCiyyDut1
 
 The first step towards a successful event is building a team. Look for potential team members in local user groups and Meetups, such as the [CNCF Community Groups](https://community.cncf.io/), or online in the public Kubernetes slack or other related online communities.
 
-Check the GitHub Kubernetes Community Days [issue board](https://github.com/cncf/kubernetes-community-days/projects/2) to see if others have expressed interest in organizing an event in your area. If there are no issues for your area, create an issue asking if others are interested in organizing an event with you. After your team is assembled, we encourage you to have regular meetings for planning purposes. If you would like to record your meetings or need a conference line, CNCF can provide a Zoom URL. Please contact a Core Organizer for access or to learn more.
+After your team is assembled, we encourage you to have regular meetings for planning purposes. These can be bi-weekly and then weekly as you get closer to the event.
 
-We have been fortunate to naturally have all KCD teams include at least 1 non-male organizer. We highly encourage all our programs to be inclusive for speakers, and attendees, and this starts with your organizers/program committee.
+We have been fortunate to naturally have all KCD teams include at least woman or non-binary organizer. We highly encourage all our programs to be inclusive for speakers, and attendees, and this starts with your organizers/program committee.
 
-We recommend assigning the following responsibilities to one or two members of your organizing team:
+We recommend assigning the following responsibilities to one or two members of your organizing team. Or have reams A, B, and C with leads of each team. NOTE: There is no 1 leader for each KCD.
 
 * [Finance and budgeting](/planning/budget-finances.md)
 * [Marketing and promotion](/planning/marketing-promotion.md) 
@@ -49,7 +49,7 @@ Your organizing team will be invited to a private Slack channel where you can co
 
 * Where our standard tools are blocked, CNCF will work with KCD organizers to determine alternatives. 
 
-** For the launch, we want to ensure that each KCD is successful. Part of ensuring the success of the event is to have the first 3 sponsors committed, one of which will be CNCF. We acknowledge requiring KCD Organizers to have 3 sponsors committed prior to the approval of your event can be challenging, but this ensures you can financially support your venue with secured dates that you promise to the community.
+** We want to ensure that each KCD is successful. Part of ensuring the success of the event is to have the first 3 sponsors committed, one of which will be CNCF. This ensures you can financially support your venue with secured dates that you promise to the community.
 
 ## Event Details 
 
