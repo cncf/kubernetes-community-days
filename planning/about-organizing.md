@@ -27,7 +27,7 @@ After your team is assembled, we encourage you to have regular meetings for plan
 
 We have been fortunate to naturally have all KCD teams include at least woman or non-binary organizer. We highly encourage all our programs to be inclusive for speakers, and attendees, and this starts with your organizers/program committee.
 
-We recommend assigning the following responsibilities to one or two members of your organizing team. Or have reams A, B, and C with leads of each team. NOTE: There is no 1 leader for each KCD.
+We recommend assigning the following responsibilities to two members of your organizing team. If you have a small team, we encourage a slect few people to have multiple roles but at a lighter work load. Alternative, each KCD can have teams A, B, and C with leads of each team. NOTE: There is no 1 leader for each KCD.
 
 * [Finance and budgeting](/planning/budget-finances.md)
 * [Marketing and promotion](/planning/marketing-promotion.md) 
