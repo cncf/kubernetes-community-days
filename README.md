@@ -1,6 +1,6 @@
 # About KCDs
 
-Previsouly known as Kubernetes Community Days, KCDs are community-organized events backed by CNCF support. They gather adopters and technologists from open source and cloud native communities to learn, collaborate, and network to further advancement in Kubernetes and other Cloud Native technologies. They also are a lot of fun and a great way to meet new people and build community.
+Previously known as Kubernetes Community Days, KCDs are community-organized events backed by CNCF support. They gather adopters and technologists from open source and cloud native communities to learn, collaborate, and network to further advancement in Kubernetes and other Cloud Native technologies. They also are a lot of fun and a great way to meet new people and build community.
 
 ## Host a KCD
 
