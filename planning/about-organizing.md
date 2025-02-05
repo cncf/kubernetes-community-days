@@ -8,7 +8,7 @@ KCDs can be in person, virtual, or hybrid. In person is strongly encouraged when
 
 ## Interested in Hosting a Kubernetes Community Day?
 
-Any city or region can host a Kubernetes Community Day. Each local KCD event team handles its own sponsorships, registration, and logistics. Check if there is a KCD event scheduled in your area on the [issue board](https://github.com/cncf/kubernetes-community-days/projects/2). If there *is* already an event scheduled, you can reach out to the organizers and offer to help. The CNCF supports KCDs with guidance and event promotion via CNCF newsletters, blog posts, and social media channels.
+Any city or region can apply to host a KCD. Each local KCD event team handles its own sponsorships, registration, and logistics. Check if there is a KCD event scheduled in your area on the [issue board](https://github.com/cncf/kubernetes-community-days/projects/2). If there *is* already an event scheduled, you can [submit an organizer request](https://github.com/cncf/kubernetes-community-days/issues/new?template=organizer-request.yaml) to assits in the planning of the event. The CNCF supports KCDs with guidance, event promotion, monetary sponsorships, templates, and access to CFP and website platforms.
 
 This quick start guide covers all aspects of holding a successful event. Please keep in mind that Kubernetes Community Days are:
 
@@ -33,7 +33,7 @@ We recommend assigning the following responsibilities to two members of your org
 * [Marketing and promotion](/planning/marketing-promotion.md) 
 * [Sponsors](/sponsor-resources/sponsorships-faq.md)
 * [Call for Proposals (CFP) and schedule](/speaker-resources/cfp.md)
-* Website & Design Team: You might have 1-2 people assigned to this/these role(s)
+* Website & Design Team: You might have 1-2 people assigned to this/these role(s). [The Page Builder](https://help.bevy.com/hc/en-us/articles/10953413605015-Page-Builder-for-Event-Pages) feature in Bevy has made this easy.
 * [Registration](/planning/registration.md)
 * Event Planner: Venue, catering, local activities, and the hotel
 * Swag: T-shirts, stickers and other giveaways
