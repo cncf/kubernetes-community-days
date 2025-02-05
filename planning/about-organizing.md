@@ -89,9 +89,7 @@ Please send your logo in SVG format, to kcd@cncf.io for approval, OR if you need
 * How to deal with [disagreements between organizers](planning/organizer-mediation.md
 * [FAQ](/planning/faq.md)
 
-## Core Organizers
+## Core CNCF Organizers
 
-The current organizers are Bill Mulligan and Ihor Dvoretskyi.
-
-You can reach us at kcd@cncf.io or on the CNCF Slack. Create a free [account](https://slack.cncf.io) and come to the [#kcd-formation](https://cloud-native.slack.com/messages/CN6LBV16G) channel.
+The current organizers are Audra Montenegro and Katie Greenley. You can reach us at kcd@cncf.io or on the CNCF Slack.
 
