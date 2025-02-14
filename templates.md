@@ -6,7 +6,7 @@ Please use the new KCD logo as part of your unique design (or your past logo), a
 
 ## Bevy header graphic
 
-Here is [a 2560 x 650px graphic template](https://www.canva.com/design/DAGCxwQkPUc/PrrOYWB7qL7QEGC4g59VDg/edit] with the white text that sits atop the image, embeded for your reference.
+Here is [a 2560 x 650px graphic template](https://www.canva.com/design/DAGCxwQkPUc/PrrOYWB7qL7QEGC4g59VDg/edit) with the white text that sits atop the image, embeded for your reference.
 
 ## Sponsor Prospectus
 
