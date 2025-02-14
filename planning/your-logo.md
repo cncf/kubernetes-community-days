@@ -9,3 +9,5 @@ Please work with Audra Montenegro to submit your request with the Linux Foundati
 The city must be respresented in the naming convention of your KCD with the following in mind. Please work with Audra for any exceptions.
 * The size of the country you reside in
 * The distance traveled to a KCD within the same country
+
+Please refer to [other design graphics](https://github.com/cncf/kubernetes-community-days/blob/main/templates.md) that live within the templates section of this repository.
