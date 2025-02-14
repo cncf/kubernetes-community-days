@@ -4,11 +4,19 @@
 
 Please use the new KCD logo as part of your unique design (or your past logo), and submit for approval to kcd@cncf.io. [Here you will find the raw files for download.](https://github.com/cncf/artwork/blob/main/examples/other.md#kubernetes-community-days). Once complese, please use this on your website, social media graphics, on any printed signage on-site (please consult Audra if you are repurposing previous year signage), and housekeeping slides.
 
+## Bevy header graphic
+
+Here is [a 2560 x 650px graphic template](https://www.canva.com/design/DAGCxwQkPUc/PrrOYWB7qL7QEGC4g59VDg/edit] with the white text that sits atop the image, embeded for your reference.
+
 ## Sponsor Prospectus
 
 As of August 2023, [we have a template in Canva](https://www.canva.com/design/DAF1e-_olvI/PXCtp0JpI5wP5pO-L4hIzw/edit?utm_content=DAF1e-_olvI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) that can be duplicated and shared for editing by the CNCF core community team.
 
 ## Social Media Posts
+
+[Linked & Facebook template](https://www.canva.com/design/DAGDhuPR-Lc/TOodiqOMNPk_UiZTGpz3jA/edit)
+[Twitter/X template](https://www.canva.com/design/DAGCx5KGVZY/nehCb_4l4nZ20psOW4qF0A/edit)
+[Instagram template](https://www.canva.com/design/DAGDhlZhWzk/QUDZpkqldin3wV9_M2oAOQ/edit)
 
 See what other KCDs are doing!
 
@@ -54,24 +62,16 @@ As of August 2023 we have a new template for KCDs to use in Canva! [Have a look 
 
 * [KCD Spain 2021 Keynote](https://docs.google.com/presentation/d/10VKlb46RNVd62O_FaOaqYSUOylLxKMGEV7BYxst47Iw/edit?usp=sharing)
 
-## Artwork
+## On-site Graphics
 
-* [KCD Spain Artwork](https://github.com/kcdspain/artwork)
-
-## Issue Boards 
-
-* [KCD Indonesia 2021](https://github.com/cloudnative-id/kubernetes-community-days/projects/1)
+* [On-site pop-up banner template](https://www.canva.com/design/DAGDh_UomD4/rtnFXco8y-wLi2HKDD65Zw/edit)
+* [On-site badge template](https://www.canva.com/design/DAGDholi8n8/og3onGUrmEKjmByfxsvVvw/edit)
 
 ## Speaker Guide
 
-* [KCD Brasil Bevy Speaker Guide](https://docs.google.com/document/d/19gN0T0rK0VcYOXRTzBMUVEUyy2A7-t4dwdghMMcRKjg/edit)
+* [KCD Brasil Bevy Virtual Speaker Guide](https://docs.google.com/document/d/19gN0T0rK0VcYOXRTzBMUVEUyy2A7-t4dwdghMMcRKjg/edit)
 
 ## Post Event Infographic
 
 * [KCD Wrap Up Infographic Template](https://docs.google.com/presentation/d/1wsbtc1c5FPmCFzLiYIv77PxGt6eaPJy_ypvwPXfcUjc/edit?usp=sharing)
-
-## Post Event Reports
-
-* [KCD Italy 2021 Wrap Up](https://www.cncf.io/blog/2021/12/06/kcd-italy-21-we-all-like-pizza-lets-get-together-again-next-year/)
-* [KCD China 2021 Wrap Up](https://www.cncf.io/blog/2022/01/10/kubernetes-community-days-china-beijing-and-shanghai-wrap-up/)
 
