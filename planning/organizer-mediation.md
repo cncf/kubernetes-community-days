@@ -11,6 +11,6 @@ It is always better to ask for help earlier rather than once the issues have beg
 
 CNCF wants your event to be a success and we are here to help your team overcome any challenges in the planning and execution of your KCD. 
 
-### Ways to remedy on-going poor bhaviour if the above does not work
+### Ways to remedy on-going poor behaviour if the above does not work
 
 If the majority of the team feels like an organizer or volunteer is detrimental to the planning process, or well-being of other organizers, and all other avenues above have been explored, then an anonomous vote can be held via a CNCF-hosted form that MUST be complete by ALL organizers to reach a final conclusion.
