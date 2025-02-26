@@ -50,7 +50,7 @@ IMPORTANT: These are the terms within the checklist that must be abided by. Note
 * When applying, please make sure your KCD will not be competing with a [CNCF or LF hosted event](https://events.linuxfoundation.org/about/calendar/) in regards to the same city, or within 2 months of an event in your country like a KubeDay or a KubeCon + CloudNativeCon.
 * There is a minimum of 3 organizers required to host a KCD, and each should be from different organizations.
 * Every organizer should have an account on [Cloud Native Community Groups](https://community.cncf.io/)
-* The majority of organizers must live in, or near the KCD location.
+* The majority of organizers must live in, or near the KCD location (1/4 of the team can be from outside the country).
 * Each KCD shall be named by city. Exceptions will be made for small countries where cities are less known, or other KCDs have yet to be hosted,
 * At least one active organizer is required to be a CNCF ambassador OR a CNCF project maintainer.
 * All organizers agree to the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
