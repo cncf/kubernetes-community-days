@@ -1,5 +1,5 @@
 ---
-KCD Content and Programing
+KCD Content and Programming
 ---
 
 High quality content, speakers and talk topics will determine event success. 
@@ -25,7 +25,7 @@ Along with sponsorships, this is one of the most challenging parts of running an
 * [Here is how to become a speaker](https://sessionize.com/playbook/tips-for-new-speakers) you can share this, as it shows you how to submit an application via Sessionize
 
 Recruiting a diverse speaker slate requires extra effort. Some ideas for this include:
-* Kubernetes Community Days prohibits all male panels. Please plan to have a minimum of two women speakers on a panel. This ensures if there is a cancellation you will have gender diversity.
+* Kubernetes Community Days prohibits all-male panels. Please plan to have a minimum of two women speakers on a panel. This ensures if there is a cancellation you will have gender diversity.
 * Contact organizations like [Black Girls Code](http://www.blackgirlscode.com/)
 * Check relevant meetups for past speakers
 * Consider bringing in speakers from outside the region to improve diversity
@@ -63,15 +63,15 @@ Recruiting a diverse speaker slate requires extra effort. Some ideas for this in
 * Provide constructive post-event feedback with concrete advice
 
 ## Laying out your agenda
-* Use this helpful [dymanic agenda builder](https://docs.google.com/spreadsheets/d/1y_QZdKGMja1YZnpkPSNxQQHBmK1TBN_NUW9kStdrTQk/edit?usp=sharing) Katie mentions in the above video. This assists in creating the agenda for your event
+* Use this helpful [dynanic agenda builder](https://docs.google.com/spreadsheets/d/1y_QZdKGMja1YZnpkPSNxQQHBmK1TBN_NUW9kStdrTQk/edit?usp=sharing) Katie mentions in the above video. This assists in creating the agenda for your event
 * Do your best to have at least 10 minutes in between each session. This is not only helpful for speaker transitions, but for attendees to walk from session to session
-* Please assure that your keynote lineup is not more than 50% sponsored talks
+* Please ensure that your keynote lineup is not more than 50% sponsored talks
 
 ## Waitlisting Talks
 While [acceptances and rejections/declines are straight forward in Sessionize](https://sessionize.com/playbook/session-statuses), waitlisting is not. The CNCF events team uses this workaround that we hope you find helpful.
-* STEP 1: Change their status to the yellow “Decline_Queue” and send spekaers a separate email mail merge with the waitlisted information. Sessionize only lets you see “Accepted” or “Declined” status when you’re logging into your speaker dashboard. So anybody with that Decline_Queue status, still shows as “In Progress.”
+* STEP 1: Change their status to the yellow “Decline_Queue” and send speakers a separate email mail merge with the waitlisted information. Sessionize only lets you see “Accepted” or “Declined” status when you’re logging into your speaker dashboard. So anybody with that Decline_Queue status, still shows as “In Progress.”
 * STEP 2 OPTION 1: Once the Waitlist period is over and you are sure that nobody is going to be selected anymore (usually a couple weeks before the event), change those waitlisted talks in the Decline Queue to "Decline" and send them the automated notification from Sessionize.
-* STEP 2 OPTION 2: if you want to keep your waitlisted talks all the way up until the event, and give those speakers a free tickets to be backup talks on-site, then you can hold them in the Decline Queue until they are needed or the event is over.
+* STEP 2 OPTION 2: if you want to keep your waitlisted talks all the way up until the event, and give those speakers a free ticket to be backup talks on-site, then you can hold them in the Decline Queue until they are needed or the event is over.
 
 ## Help with the Sessionize Platform
 * Help Center Resources: https://sessionize.com/playbook/
