@@ -4,7 +4,7 @@ Previously known as Kubernetes Community Days, KCDs are community-organized even
 
 ## Host a KCD
 
-Each event brings its own local flair, culture, diversity, and authenticity. For more about details about organizing an event see the [organizing page](https://github.com/cncf/kubernetes-community-days/tree/main/planning). Check the [project board](https://github.com/cncf/kubernetes-community-days/projects/2) to join one being organized near you, or to host on yourself, please visit the [KCD About Page via cncf.io](https://www.cncf.io/kcds/).
+Each event brings its own local flair, culture, diversity, and authenticity. For more details about organizing an event see the [organizing page](https://github.com/cncf/kubernetes-community-days/tree/main/planning). Check the [project board](https://github.com/cncf/kubernetes-community-days/projects/2) to join one being organized near you, or to host one yourself, please visit the [KCD About Page via cncf.io](https://www.cncf.io/kcds/).
 
 ### Core Organizers
 
@@ -30,10 +30,10 @@ We are now hosting *a monthly KCD Organizer focus group*. As of now, it will be 
 * Access to monthly CNCF-hosted Working Groups
 * Speaker and vendor introductions upon request. Please be specific in these requests.
 * Visa letters as needed for your speakers.
-* Marketing support via social media, KubeWeekly newsletter, and CNCG blog posts upon request.
-* CNCF is happy to contribute sticker packes (now worth over $600 USD) to each KCD starting in 2025. This can be used in [the CNCF store](https://store.cncf.io/) towards stickers. For 2024, we are reimbursing your team up to $250 USD for stickers.
+* Marketing support via social media, KubeWeekly newsletter, and CNCF blog posts upon request.
+* CNCF is happy to contribute sticker packs (now worth over $600 USD) to each KCD starting in 2025. This can be used in [the CNCF store](https://store.cncf.io/) towards stickers. For 2024, we are reimbursing your team up to $250 USD for stickers.
 * Each KCD will be provided 10 Linux Foundation certification vouchers that work for SkillCreds, PCA, KCNA, CKS, and CKAD, CKA exams. Some past usages of these are, 1. giving a voucher to a volunteer to show your gratitude. 2. Use it as a raffle item within a workshop.
-* Each organizer on the KCD planning team will automatically earn a badge of recogning from The Linux Foundation.
+* Each organizer on the KCD planning team will automatically earn a badge of recognition from The Linux Foundation.
 * 1 additional Credly badge to recognize your speakers OR volunteers. If organizers choose to offer this, CNCF will provide a form to fill out their request. 1 request per KCD. Each KCD should prepare the artwork in a square image, but with a circular badge. [See examples here](https://drive.google.com/drive/folders/1UFYAzzaFPgfQLjL947utCZ7Z8lUsfFl6). [Submit your request here](https://docs.google.com/forms/d/e/1FAIpQLSex2EhkCNysmK7svQEVeaOlqpsH0fSBe6qoOePRw_WGajZnTw/viewform).
 * As of 2024 we are gifting scholarships to a KubeCon + CloudNativeCons of each KCD's choice. Stipulations and guidelines are shared via the KCD Organizer Digest and exclusive Slack channel.
 * In 2025 - CNCF will be providing monetary support for each KCD, which will then be limited to 30 KCDs in one year.
