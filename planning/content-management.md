@@ -63,7 +63,7 @@ Recruiting a diverse speaker slate requires extra effort. Some ideas for this in
 * Provide constructive post-event feedback with concrete advice
 
 ## Laying out your agenda
-* Use this helpful [dynanic agenda builder](https://docs.google.com/spreadsheets/d/1y_QZdKGMja1YZnpkPSNxQQHBmK1TBN_NUW9kStdrTQk/edit?usp=sharing) Katie mentions in the above video. This assists in creating the agenda for your event
+* Use this helpful [dynamic agenda builder](https://docs.google.com/spreadsheets/d/1y_QZdKGMja1YZnpkPSNxQQHBmK1TBN_NUW9kStdrTQk/edit?usp=sharing) Katie mentions in the above video. This assists in creating the agenda for your event
 * Do your best to have at least 10 minutes in between each session. This is not only helpful for speaker transitions, but for attendees to walk from session to session
 * Please ensure that your keynote lineup is not more than 50% sponsored talks
 
