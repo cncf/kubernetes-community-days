@@ -9,6 +9,7 @@ Role of sponsorship team/lead
 Guidelines and rules
 
 * Sponsorships need to remain independent from the CFP process. It is acceptable to allow a small number of top-level sponsors to have a guaranteed speaking slot, but this slot needs to be labeled "sponsored talks" on the schedule and should be shorter than regular talks.
+* Sponsorship keynotes should be no longer than 15 minutes
 * Sponsors need to pay prior to the event.
 * Sponsorship should cover 80-90% of the total event budget.
 * Managing sponsorships is a lot of work; two volunteers are better than one. 
