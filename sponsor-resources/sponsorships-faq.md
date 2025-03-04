@@ -17,7 +17,8 @@ Guidelines and rules
 * The sponsorship team works very closely with the finance team.
 * Communicate clearly with sponsors what they are getting and what they are NOT getting. 
 * All sponsors must agree to the Code of Conduct.
-* Sponsors do not get access to the attendees list. They may collect contact information at their booth.
+* Sponsors do not get access to the attendees list UNLESS you have "Opt-in" language in your registration form.
+* Sponsors may collect contact information at their booth via badge/lead scanning.
 * You can share demographics in aggregate to give sponsors a feel for what kind of crowd will attend.
 * The Core Organizers recommend that KCD organizing teams use a main alias or subgroup rather than their own email, so that they can have a record and ability to change the organizers in future years. The Core Organizers can provide additional mailing lists for groups that would like to create subgroups (like kcd-bouvet-island-sponsors@lists.cncf.io).
 
