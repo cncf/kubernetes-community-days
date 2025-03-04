@@ -68,5 +68,3 @@ Recruiting a diverse speaker slate requires extra effort. Some ideas for this in
 ## Laying out your agenda
 * Building your program schedule in Sessionize: https://sessionize.com/playbook/schedule-builder
 * Use this helpful [dymanic agenda builder](https://docs.google.com/spreadsheets/d/1y_QZdKGMja1YZnpkPSNxQQHBmK1TBN_NUW9kStdrTQk/edit?usp=sharing) to assist in creating the agenda for your event.
-
-## Help with the SM Apply Platform
