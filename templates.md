@@ -2,7 +2,7 @@
 
 ## KCD Logo
 
-Please use the new KCD logo as part of your unique design (or your past logo), and submit for approval to kcd@cncf.io. [Here you will find the raw files for download.](https://github.com/cncf/artwork/blob/main/examples/other.md#kubernetes-community-days). Once complese, please use this on your website, social media graphics, on any printed signage on-site (please consult Audra if you are repurposing previous year signage), and housekeeping slides.
+Please use the new KCD logo as part of your unique design (or your past logo), and submit for approval to kcd@cncf.io. [Here you will find the raw files for download.](https://github.com/cncf/artwork/blob/main/examples/other.md#kubernetes-community-days). Once complete, please use this on your website, social media graphics, on any printed signage on-site (please consult Audra if you are repurposing previous year signage), and housekeeping slides.
 
 ## Bevy header graphic
 
