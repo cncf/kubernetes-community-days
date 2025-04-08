@@ -44,6 +44,8 @@ Recruiting a diverse speaker slate requires extra effort. Some ideas for this in
 * Have a panel of judges award each proposal points against each criteria
 * Add up the points and award the speaking slot to the highest rated proposals
 * Publish the names of the programming committee
+* The reviewing committee is allowed to include members outside the core KCD organizer team
+* The selection committee must comprise of those on the core KCD organizer team
 * Be prepared to explain any programming decisions
 
 ## Content considerations
