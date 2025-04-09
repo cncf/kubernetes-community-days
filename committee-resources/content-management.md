@@ -8,6 +8,12 @@ Vendor neutrality in the context of a conference session refers to the principle
 
 By adhering to the concept of vendor neutrality it fosters an environment where knowledge sharing and learning take precedence over commercial interests, benefiting both attendees and the broader industry.
 
+Start with understanding your selection committee versus your program committee
+* The program committee is the reviewing committee. This team is allowed to include members outside the core KCD organizer team, or simply be the core organizer team.
+* The selection committee must comprise of those on the core KCD organizer team, and shall not have anyone that is no local to the KCD's primary location.
+* CNCF highly reccomends as organizers that you do not submit a talk to your own KCD. While this is NOT mandatory, it has created issues in past KCDs. Please note KCDs are different from a KubeCon + CloudNativeCon, where there are hundreds of selected sessions versus 10-50 slots at a KCD, so we ask you do not compare standards.
+-- Exceptions can be made in the event your team needs an organizer to fill in a speaking session, or your KCD simply did not receive enough Cfp submissions.
+
 
 Some basic guidelines for building a good event program include:
 * Encourage bold, innovative thought-provoking subjects
@@ -44,8 +50,6 @@ Recruiting a diverse speaker slate requires extra effort. Some ideas for this in
 * Have a panel of judges award each proposal points against each criteria
 * Add up the points and award the speaking slot to the highest rated proposals
 * Publish the names of the programming committee
-* The reviewing committee is allowed to include members outside the core KCD organizer team
-* The selection committee must comprise of those on the core KCD organizer team
 * Be prepared to explain any programming decisions
 
 ## Content considerations
