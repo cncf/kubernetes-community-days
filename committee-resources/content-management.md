@@ -10,9 +10,9 @@ By adhering to the concept of vendor neutrality it fosters an environment where 
 
 Start with understanding your selection committee versus your program committee
 * The program committee is the reviewing committee. This team is allowed to include members outside the core KCD organizer team, or simply be the core organizer team.
-* The selection committee must comprise of those on the core KCD organizer team, and shall not have anyone that is no local to the KCD's primary location.
+* The selection committee must comprise of those on the core KCD organizer team, and shall not have anyone that is not local to the KCD's primary location.
 * CNCF highly reccomends as organizers that you do not submit a talk to your own KCD. While this is NOT mandatory, it has created issues in past KCDs. Please note KCDs are different from a KubeCon + CloudNativeCon, where there are hundreds of selected sessions versus 10-50 slots at a KCD, so we ask you do not compare standards.
--- Exceptions can be made in the event your team needs an organizer to fill in a speaking session, or your KCD simply did not receive enough Cfp submissions.
+-- Exceptions can always be made in the event your team needs an organizer to fill in a speaking session, or your KCD simply did not receive enough Cfp submissions.
 
 
 Some basic guidelines for building a good event program include:
