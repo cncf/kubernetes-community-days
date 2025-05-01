@@ -1,5 +1,18 @@
 # Templates for KCD Events
 
+- [KCD Logo](#kcd-logo)
+- [Bevy header graphic](#bevy-header-graphic)
+- [Sponsor Prospectus](#sponsor-prospectus)
+- [Social Media Posts](#social-media-posts)
+- [On-Site Press](#on-site-press)
+- [Post Event Infographic](#post-event-infographic)
+- [Event Blog Posts](#event-blog-posts)
+- [Speaker Cards](#speaker-cards)
+- [Speaker Guide](#speaker-guide)
+- [On-site Graphics](#on-site-graphics)
+- [Slide Deck](#slide-deck)
+- [Transparency Report](transparency-report)
+
 ## KCD Logo
 
 Please use the new KCD logo as part of your unique design (or your past logo), and submit for approval to kcd@cncf.io. [Here you will find the raw files for download.](https://github.com/cncf/artwork/blob/main/examples/other.md#kubernetes-community-days). Once complete, please use this on your website, social media graphics, on any printed signage on-site (please consult Audra if you are repurposing previous year signage), and housekeeping slides.
@@ -32,9 +45,9 @@ Twitter
 Instagram
 * [KCD Colombia](https://www.instagram.com/kcdcolombia/)
 
-## Transparency Report
+## On-Site Press
 
-As of August 2023 we have a new template for KCDs to use in Canva! [Have a look here](https://www.canva.com/design/DAFhDHqyNBw/H2uJJV_hDX7Ln_R_IGpWkg/edit), and check out what [KCDs are doing via cncf.io/reports](https://www.cncf.io/reports?_sf_s=KCD&_sfm_lf_report_published_year=2023).
+Some KCDs are fortunate to have a media coverage at their events, and some not. For those of you who have connections to media outlets, and want to write a press release for announcements happening at your event, you can use [this template](https://docs.google.com/document/d/1O8vDkAQydGgQwe4SXhzlFkLWo5Xa6Ske_NbxWahn54Q/edit?usp=sharing) created for you by the Linux Foundation's PR team.
 
 ## Event Blog Posts
 
@@ -62,14 +75,18 @@ As of August 2023 we have a new template for KCDs to use in Canva! [Have a look 
 
 * [KCD Spain 2021 Keynote](https://docs.google.com/presentation/d/10VKlb46RNVd62O_FaOaqYSUOylLxKMGEV7BYxst47Iw/edit?usp=sharing)
 
+## Speaker Guide
+
+* [KCD Brasil Bevy Virtual Speaker Guide](https://docs.google.com/document/d/19gN0T0rK0VcYOXRTzBMUVEUyy2A7-t4dwdghMMcRKjg/edit)
+
 ## On-site Graphics
 
 * [On-site pop-up banner template](https://www.canva.com/design/DAGDh_UomD4/rtnFXco8y-wLi2HKDD65Zw/edit)
 * [On-site badge template](https://www.canva.com/design/DAGDholi8n8/og3onGUrmEKjmByfxsvVvw/edit)
 
-## Speaker Guide
+## Transparency Report
 
-* [KCD Brasil Bevy Virtual Speaker Guide](https://docs.google.com/document/d/19gN0T0rK0VcYOXRTzBMUVEUyy2A7-t4dwdghMMcRKjg/edit)
+As of August 2023 we have a new template for KCDs to use in Canva! [Have a look here](https://www.canva.com/design/DAFhDHqyNBw/H2uJJV_hDX7Ln_R_IGpWkg/edit), and check out what [KCDs are doing via cncf.io/reports](https://www.cncf.io/reports?_sf_s=KCD&_sfm_lf_report_published_year=2023).
 
 ## Post Event Infographic
 
