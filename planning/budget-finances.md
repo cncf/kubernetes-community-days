@@ -6,7 +6,7 @@
 * Add up the budgets (venue, food, parties space, swag, scholarships) to generate a total event budget to determine the amount of money needed to cover costs. You can make a copy of this [balance sheet template](https://docs.google.com/spreadsheets/d/1IwSq63Pcl2KuaZpVzgZgeQVeUPCgaRfnw3uwBx32ix4/edit?gid=1982813383#gid=1982813383) to see the must-have versus the nice-to-have costs.
 * Plan on covering most of the expenses through sponsorships to keep ticket prices low
 * Ticket prices should generally be somewhere between $30 and $100, depending on location, event costs, and event format
-* Tickets for virtual events should be free or extremely low cost ($5-10)
+* Tickets for virtual events should be free or a low cost
 * Allocate budget for scholarships/discounts for students and underrepresented groups
 * You can also use fund to expand the cloud native community like 
   * Sponsoring people to go to KubeCon
