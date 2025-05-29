@@ -39,7 +39,6 @@ Recruiting a diverse speaker slate requires extra effort. Some ideas for this in
 * Contact organizations like [Women Who Code](https://www.womenwhocode.com/) and [Black Girls Code](http://www.blackgirlscode.com/)
 * Check relevant meetups for past speakers
 * Consider bringing in speakers from outside the region to improve diversity
-* Make sure you have two female speakers on each panel
 * Give speakers at least six weeks of notice so they can make travel arrangements
 
 ## Judging proposals
