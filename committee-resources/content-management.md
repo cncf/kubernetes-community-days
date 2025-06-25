@@ -45,7 +45,7 @@ Recruiting a diverse speaker slate requires extra effort. Some ideas for this in
 
 * Announce your “Call For Proposals” early to give speakers and your team the most time to find quality speakers and content ideas
 * Minimize bias, by creating a transparent proposal rating system
-* List proposal rating criteria (e.g. originality, big idea, new speaker, high-quality speaker) 
+* List proposal rating criteria (e.g. originality, big idea, new speaker, high-quality speaker, vendor nuetral) 
 * Have a panel of judges award each proposal points against each criteria
 * Add up the points and award the speaking slot to the highest rated proposals
 * Publish the names of the programming committee
