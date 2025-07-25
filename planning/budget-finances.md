@@ -18,7 +18,8 @@
 
 * Invoicing sponsors and accepting their payments
 * Accepting money from and (as needed) sending official invoices to people that register
-* Paying suppliers like the venue, catering, T-shirts, etc
+* Paying suppliers like the venue, catering, T-shirts, etc.
+* Report back to the team, and provide a spreadsheet for all team members for open and transparent tracking
 
 ### Finance sponsor/management options
 The way many  organizers have handled money management is to find a local company that is willing to handle the logistics. In some countries, a local company is the only way to handle the taxes.
