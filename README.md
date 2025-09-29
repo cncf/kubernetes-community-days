@@ -40,7 +40,7 @@ We are now hosting *a monthly KCD Organizer focus group*. As of now, it will be 
 
 ### Want to host a KCD? Here is the first step. A core CNCF team member will reach out to you to host a kick-off meeting to prompt your planning.
 
-Submit a request to host your KCD in the application time frame. The opportunity now presents itself one time per year with about 1.5 months to submit, and approved KCD notifcations getting sent out two weeks later. More details and timeline can be found via the KCD Application page ([see "Host" button here](https://www.cncf.io/kcds/)).
+Submit a request to host your KCD in the application time frame. The opportunity now presents itself one time per year with about 1.5 months to submit, and approved KCD notifications getting sent out two weeks later. More details and timeline can be found via the KCD Application page ([see "Host" button here](https://www.cncf.io/kcds/)).
 
 IMPORTANT: These are the terms within the checklist that must be abided by. Note - There are exceptions to these requirements in some jurisdictions due to applicable laws & regulations.
 
@@ -62,7 +62,7 @@ IMPORTANT: These are the terms within the checklist that must be abided by. Note
 * Agree to ensure the final program schedule is diverse (e.g., not all speakers of one gender, culture or company). [Here is how you can create a diverse lineup.](https://docs.google.com/presentation/d/1fzT_BdavVKh3mnxxU-PBWyJq9JUfasKwHqekkbYVbw8/edit#slide=id.g56245ab439_0_106)
 * Agree to submit your final lineup to kcd@cncf.io for review, prior to publishing it.
 * Agree to use the designated CNCF registration platform, [KCD registration questions can be found here](https://docs.google.com/spreadsheets/d/1OEoVQ8Y3eQmEEJeT2abhNOkYIkyk8nAVjebNFvKMTQQ/edit?usp=drive_link) which also helps populate your transparency report.
-* Agree to produce a transparency report after your KCD. CNCF will provide a editable copy of [this Canva template](https://www.canva.com/design/DAFhDHqyNBw/H2uJJV_hDX7Ln_R_IGpWkg/edit) for guidance. NOTE: Note all pages are required.
+* Agree to produce a transparency report after your KCD. CNCF will provide an editable copy of [this Canva template](https://www.canva.com/design/DAFhDHqyNBw/H2uJJV_hDX7Ln_R_IGpWkg/edit) for guidance. NOTE: Not all pages are required.
 
 NOTE: CNCF reserves the right to decline any event the usage of our KCD trademark due to:
 * Failure to follow protocols
