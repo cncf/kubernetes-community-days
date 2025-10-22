@@ -1,4 +1,4 @@
-[A google doc version of this can be found here](https://docs.google.com/document/d/1fXphkACuYWiBvxJ9BL45Bfo8i_voUNV6IXiTmD1V8E4/edit#)
+[A google doc version of this can be found here](https://docs.google.com/document/d/1l7WxKYNidQwDMi1BNuMMQxkydhBIAPcUl5LmEr8F5t8/edit?usp=sharing)
 
 Kubernetes Community Days
 <Event name> <Date of event> <Address of event>
