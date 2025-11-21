@@ -11,7 +11,7 @@
 - [Speaker Guide](#speaker-guide)
 - [On-site Graphics](#on-site-graphics)
 - [Slide Deck](#slide-deck)
-- [Transparency Report](transparency-report)
+- [Transparency Report](#transparency-report)
 
 ## KCD Logo
 
@@ -87,6 +87,8 @@ Some KCDs are fortunate to have a media coverage at their events, and some not. 
 ## Transparency Report
 
 As of August 2023 we have a new template for KCDs to use in Canva! [Have a look here](https://www.canva.com/design/DAFhDHqyNBw/H2uJJV_hDX7Ln_R_IGpWkg/edit), and check out what [KCDs are doing via cncf.io/reports](https://www.cncf.io/reports?_sf_s=KCD&_sfm_lf_report_published_year=2023).
+
+Once your report is complete, please submit it to kcd@cncf.io for review and publishing on cncf.io.
 
 ## Post Event Infographic
 
