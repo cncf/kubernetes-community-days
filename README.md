@@ -8,7 +8,7 @@ Each event brings its own local flair, culture, diversity, and authenticity. For
 
 ### Core Organizers
 
-Audra Montenegro
+Audra Montenegro and Helena Spease
 <br>
 Contact: kcd@cncf.io
 
