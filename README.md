@@ -35,7 +35,7 @@ We are now hosting *a monthly KCD Organizer focus group*. As of now, it will be 
 * Each organizer on the KCD planning team will automatically earn a badge of recognition from The Linux Foundation.
 * 1 additional Credly badge to recognize your speakers OR volunteers. If organizers choose to offer this, CNCF will provide a form to fill out their request. 1 request per KCD. Each KCD should prepare the artwork in a square image, but with a circular badge. [See examples here](https://drive.google.com/drive/folders/1UFYAzzaFPgfQLjL947utCZ7Z8lUsfFl6). [Submit your request here](https://docs.google.com/forms/d/e/1FAIpQLSex2EhkCNysmK7svQEVeaOlqpsH0fSBe6qoOePRw_WGajZnTw/viewform).
 * As of 2024 we are gifting scholarships to a KubeCon + CloudNativeCons of each KCD's choice. Stipulations and guidelines are shared via the KCD Organizer Digest and exclusive Slack channel.
-* In 2025 - CNCF will be providing monetary support for each KCD, which will then be limited to 30 KCDs in one year.
+* Starting in 2025 - CNCF has been able to provide monetary support for KCDs upon request in their application.
 
 ### Want to host a KCD? Here is the first step. A core CNCF team member will reach out to you to host a kick-off meeting to prompt your planning.
 
@@ -45,9 +45,9 @@ IMPORTANT: These are the terms within the checklist that must be abided by. Note
 
 ### Terms
 
-* As of June 2025 - KCDs should be no larger than 500 people. The organizing team shall cap their tickets at this amount, which includes organizers, speakers, and sponsors.
+* As of June 2025 - KCDs should be no larger than 500 people. In 2026 Tier 2 (the most-established tier) organizing teams are allowed to cap their tickets up to 600 registrations, which includes speakers and sponsors.
 * When applying, please make sure your KCD will not be competing with a [CNCF or LF hosted event](https://events.linuxfoundation.org/about/calendar/) in regards to the same city, or within 2 months of an event in your country like a KubeDay or a KubeCon + CloudNativeCon.
-* There is a minimum of 3 organizers required to host a KCD, and each should be from different organizations.
+* There is a minimum of 3 organizers required to host a KCD, and each should be from different organizations to promote vendor neutrality.
 * Every organizer should have an account on [Cloud Native Community Groups](https://community.cncf.io/)
 * The majority of organizers must live in, or near the KCD location (1/4 of the team can be from outside the country).
 * Each KCD shall be named by city. Exceptions will be made for small countries where cities are less known, or other KCDs have yet to be hosted,
