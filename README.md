@@ -28,7 +28,6 @@ We are now hosting *a monthly KCD Organizer focus group*. As of now, it will be 
 * CFP platform access 
 * Monthly global meetings to help keep you on track (these are required)
 * Speaker and vendor introductions upon request. Please be specific in these requests.
-* Visa letters as needed for your speakers.
 * Marketing support via social media, CNCF marketing committee meetings, and CNCF blog posts upon request.
 * CNCF is happy to contribute stickers to KCDs with each group sourcing them locally. We will reimburse your team up to $250 USD for decals of your team's logo, or any of the [CNCF projects](https://github.com/cncf/artwork/tree/main/projects) in the stacked versions without altering the graphic.
 * Each KCD will be provided Linux Foundation [certification](https://www.cncf.io/training/certification/) vouchers as a raffle or volunteer thank you.
