@@ -15,7 +15,7 @@ Once you have a time and place, you can announce your event to the world! It’s
 
 ### Promotion
 
-* Once published on Bevy, your event will automatically get pulled over to [The Linux Foundation's community events website](https://events.linuxfoundation.org/about/community/)
+* Once published on Bevy, your event will automatically get pulled over to [The Linux Foundation's community events website](https://events.linuxfoundation.org/about/community/) and the [KCD about page](https://cncf.io/kcds). The drop-down menu on community.cncf.io is manual, so please ask a CNCF staff member to add it via your GitHub issue, OR the KCD organizers slack channel.
 * Identify an mabassador that can help spread the word that the event is scheduled
 * Reach out to local tech companies and consultants
 * Contact local tech publications and see if you can swap media sponsorship for ads in their publication or on their website
@@ -53,13 +53,13 @@ Website
 
 Social Media
 
-* Set up an event-specific LinkedIn and Twitter account such as @KCD(city name or initials)
-* Tag @kubernetesdays in your tweets 
-* Send tweets to the KCD-organizers slack channel to be retweeted
-* Create your own event hashtag with "KCD" and your city name or inititials and the year
-* Following the initial, pinned post, one organic post per day should be shared to alert followers of the change + resources for Kubernetes Community Day events
+* Set up an event-specific LinkedIn and Twitter/X account such as @KCD(city name or initials)
+* Tags #KubernetesCommunity and #CloudNativeCommunity in your posts
+* Additionally Create your own event hashtag with "KCD" and your city name or inititials and the year
+* Following the initial, pinned post, one organic post per day should be shared by you to alert followers of the change + resources for Kubernetes Community Day events
 * Start following any/all dedicated KCD social accounts
-* Use [#socialmedia](https://cloud-native.slack.com/archives/C12MRQ97A) channel in the CNCF Slack Workspace and tag @KatieMeinders + @JessieAdams-Shore to post your social media posts and ask Katie and Jessie to amplify from the main CNCF channels. NOTE: CNCF will only help promote social posts that are vendor-nuetral
+* Use [#socialmedia](https://cloud-native.slack.com/archives/C12MRQ97A) channel in the CNCF Slack Workspace to post your social media posts and ask CNCF to amplify. NOTE: CNCF will only help promote social posts that are vendor-nuetral
+* CNCF has a KCD-dedicated channel for LinkedIn and X, this does not have a limit for amplification. HOWEVER, CNCF's main channels are limited to one organic post per KCD, so we reccomend this being 1 month before your event, or after your agenda has launched.
 
 Twitter Posting Style, Images, and Official Hashtag
 
