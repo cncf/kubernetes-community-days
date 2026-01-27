@@ -8,12 +8,6 @@ Review the [Bevy Virtual Conference Overview](https://training.cmxhub.com/p/how-
 ## Helpful Bevy How Tos for Chapter Admins:
 * [Setting up your event in Bevy](https://docs.google.com/presentation/d/1y2FyVaH23Io-QKdR9Ofod7Vx1H2rpLNt3YwPCgPFjh8/edit#slide=id.p)
 * [Self-paced video tutorials](http://vimeo.com/showcase/bevy-virtual-conference) [Use Password: "devfest"].
-* [Sending chapter newsletters](https://help.bevylabs.com/article/358-sending-chapter-newsletters)
-* [Day of event best practices](https://help.bevylabs.com/article/392-day-of-event-best-practices)
-* [Managing chapter members](https://help.bevylabs.com/article/389-managaing-chapter-members)
-* [Managing a waitlist](https://help.bevylabs.com/article/268-managing-a-waitlist)
-* [Create a hidden ticket for speakers and sponsors](https://help.bevylabs.com/article/281-create-a-hidden-ticket)
-* [Editing event forms](https://help.bevylabs.com/article/386-editing-event-forms)
 
 ## Bevy Virtual Platform How tos:
 * [Self-paced training program](https://bevy.com/academy) [Use the code BEVY-CUSTOMER-SUCCESS for 100% off.]
