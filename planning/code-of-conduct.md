@@ -41,4 +41,4 @@ Conference staff will also provide support to victims, including, but not limite
 
 ## Pre-event concerns
 
-If you are planning to attend an upcoming event and have concerns regarding another individual who may be present, please contact event organizers or Angela Brown at angela (at) linuxfoundation (dot) org. Precautions will be taken to ensure your comfort and safety, including, but not limited to: providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact.
+If you are planning to attend an upcoming event and have concerns regarding another individual who may be present, please contact event organizers or the CNCF team of KCD Program Managers at kcd@cncf.io. Precautions will be taken to ensure your comfort and safety, including, but not limited to: providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact.
