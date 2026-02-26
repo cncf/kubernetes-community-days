@@ -77,7 +77,7 @@ Please send your logo in SVG format, to kcd@cncf.io for approval, OR if you need
 
 ## KCD Planning Tools
 
-* [Conference Planning Action Items and Checklist](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit) (Google Spreadsheet) a template for check-in meetings to keep everyone is on task. 
+* [Conference Planning Action Items and Checklist](https://docs.google.com/spreadsheets/d/1pSnKB7KkMthTdo7Hb-Xm-MN7YUoiV88-Pa63xeVUAcA/edit?usp=sharing) (Google Spreadsheet) a template for check-in meetings to keep everyone is on task. 
 * [Sponsorship Letter](/sponsor-resources/letter-prospecting-sponsors.md) to send to prospective sponsors.
 * [Sponsorship Prospectus](/sponsor-resources/) (to send to prospective sponsors and post on the event website.)
 * [Sample Invoice](https://docs.google.com/document/d/1Rbc8hvBgbO55asEQzzAHkpvSU2ogl52NmWq1-NhBYdY/edit) (Google Spreadsheet) to invoice sponsors.
