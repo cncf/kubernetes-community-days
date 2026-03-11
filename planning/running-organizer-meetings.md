@@ -29,7 +29,7 @@ Consider starting every meeting by covering these items:
 
 ## Handling Issues
 
-If a Code of Conduct issue arises during the meeting, the CNCF CoC Committee can be reached at [conduct@cncf.io](mailto:conduct@cncf.io). For incidents at LF-produced events specifically, use [eventconduct@cncf.io](mailto:eventconduct@cncf.io). You can expect a response within three business days. 
+If a Code of Conduct issue arises during the meeting, the CNCF CoC Committee can be reached at [conduct@cncf.io](mailto:conduct@cncf.io). For incidents at LF-produced events specifically, use [kcd@cncf.io](mailto:kcd@cncf.io). You can expect a response within three business days. 
 
 [Link to CoC](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
 
