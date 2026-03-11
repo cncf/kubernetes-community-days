@@ -29,7 +29,7 @@ Consider starting every meeting by covering these items:
 
 ## Handling Issues
 
-If a Code of Conduct issue arises during the meeting, the CNCF CoC Committee can be reached at [conduct@cncf.io](mailto:conduct@cncf.io). For incidents at LF-produced events specifically, use [kcd@cncf.io](mailto:kcd@cncf.io). You can expect a response within three business days. 
+If a Code of Conduct issue arises during the meeting, the CNCF CoC Committee can be reached at [conduct@cncf.io](mailto:conduct@cncf.io). 
 
 [Link to CoC](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
 
@@ -109,6 +109,6 @@ CNCF recommends that **organizers avoid submitting talks to their own KCD**. Con
 | Content Management Guide | [github.com/.../content-management.md](https://github.com/cncf/kubernetes-community-days/blob/main/committee-resources/content-management.md) |
 | CNCF Contact | kcd@cncf.io |
 
-> NOTE: as of 2026, GitHub issues are no longer the mechanism for requesting new events. CNCF staff now creates GitHub issues after an approved kick-off call, and GitHub primarily serves as an internal progress tracker. 
+> NOTE: as of 2026, GitHub issues are no longer the mechanism for requesting new events. 
 
 [KCDs FAQ](https://www.cncf.io/kcds/faq/)
