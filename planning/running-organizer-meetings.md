@@ -6,7 +6,7 @@ These guidelines are here to help organizers run engaging, productive weekly or 
 
 Consider starting every meeting by covering these items:
 - **Reference the CNCF Code of Conduct** and emphasize respectful and inclusive behavior. The full CoC lives at [https://github.com/cncf/foundation/blob/master/code-of-conduct.md](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
-- **Let attendees know the meeting is being recorded**, which promotes transparency and accountability.
+- **If the meeting is recorded let attendees know the meeting is being recorded**, which promotes transparency and accountability.
 - **Give new participants time to introduce themselves**, allowing existing attendees to welcome newcomers and foster community.
 - **Introduce the moderator** for the meeting and note their name in the meeting agenda.
 
