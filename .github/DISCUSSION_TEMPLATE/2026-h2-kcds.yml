@@ -56,9 +56,9 @@ body:
         - label: Sponsorship Prospectus - Team has submitted a PR for their sponsor prospectus with CNCF for review and publishing.
         - label: Event Platform - Please comment your intent to leverage Bevy and Sessionize or wait for the new event platform.
         - label: Inclusion - Local team has offered at least 3 complimentary tickets to increase diversity for the event.
-        - label: CFP - The list of accepted and waitlisted talks has been shared to kcd@cncf.io for approval. We review name, organization, session title, and gender identity (if known).
+        - label: CFP - The list of accepted and waitlisted talks has been shared to kcd@cncf.io for approval. We review name, organization, session title, and gender identity.
         - label: Insurance - Please confirm that the team has secured liability insurance for the day of their event.
-        - label: Transparency Report - Produce a transparency report after your KCD (template below).
+        - label: Transparency Report - Produce a transparency report after your KCD. See template below.
         - label: Social Media Support - CNCF can post 1 organic social media post per KCD. Email content to kcd@cncf.io.
         - label: Training Vouchers - CNCF will share 10 training vouchers for raffles/incentives.
         - label: Sticker Reimbursement - All KCDs are eligible for a $250 sticker fund.
