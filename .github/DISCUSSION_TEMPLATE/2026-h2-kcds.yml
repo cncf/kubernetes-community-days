@@ -51,7 +51,7 @@ body:
     attributes:
       label: 
       options:
-        - label: Event Timeline - Please comment estimated dates for the CFP opening & closing as well as registration going live.
+        - label: Event Timeline - Please comment estimated dates for the CFP opening and closing as well as registration going live.
         - label: Logo - Please send your logo to kcd@cncf.io for approval from CNCF. Previously existing KCDs should ideally use their previous year's logo.
         - label: Sponsorship Prospectus - Team has submitted a PR for their sponsor prospectus with CNCF for review and publishing.
         - label: Event Platform - Please comment your intent to leverage Bevy and Sessionize or wait for the new event platform.
