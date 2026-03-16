@@ -1,1 +1,69 @@
+title: 2026 KCD
+body:
+  - type: textarea
+    id: event-details
+    attributes:
+      label: Event Details
+      placeholder: Please list event date, venue name, expected number of attendees, expected ticket cost
+    validations:
+      required: true
 
+  - type: textarea
+    id: organizers
+    attributes:
+      label: Organizers
+      description: >-
+        You may always add/remove organizers at a later time, but at that time, 
+        they will need to be added/removed with the formal process using GitHub issues.
+      placeholder: Please list all the co-organizers along with name, email, and github handle
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ### Terms
+        **IMPORTANT:** These are the terms within the checklist that must be abided by. 
+        Note - There are exceptions to these requirements in some jurisdictions due to applicable laws & regulations.
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Agreement to Terms
+      options:
+        - label: This team has gone through a formal review process, where standards on timing, organizers requirements, and location collaboration have been reviewed, and approved.
+        - label: This team's fiscal sponsor has signed the terms & conditions set forth by the Linux Foundation
+        - label: Every organizer has an account on Cloud Native Community Groups
+        - label: The majority of the organizers live within the KCD city or just outside of it.
+        - label: All organizers agree to follow the CNCF Code of Conduct
+        - label: All organizer inquiries / communication for CNCF must be summarized via GitHub for easy tracking
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ### Next Steps
+        **IMPORTANT:** Please pay attention to these next steps and comment in this discussion thread as they are completed.
+        - **Event Timeline:** Please comment estimated dates for the CFP opening & closing as well as registration going live.
+        - **Logo:** Please send your logo to kcd@cncf.io for approval from CNCF. Previously existing KCDs should ideally use their previous year's logo. [Guidelines here](https://github.com/cncf/kubernetes-community-days/blob/main/planning/your-logo.md).
+        - **Sponsorship Prospectus:** Team has submitted a PR for their sponsor prospectus with CNCF for review and publishing. [See existing here](https://github.com/cncf/kubernetes-community-days/tree/main/sponsor-resources/open-prospectuses).
+        - **Event Platform:** Please comment your intent to leverage Bevy and Sessionize or wait for the new event platform.
+        - **Diversity:** Local team has offered at least 3 complimentary tickets to increase diversity for the event.
+        - **CFP:** The list of accepted and waitlisted talks has been shared to kcd@cncf.io for approval. We review name, organization, session title, and gender identity (if known).
+        - **Insurance:** Please confirm that the team has secured liability insurance for the day of their event.
+        - **Transparency Report:** Produce a transparency report after your KCD (template below).
+        - **Social Media Support:** CNCF can post 1 organic social media post per KCD. Email content to kcd@cncf.io.
+        - **Training Vouchers:** CNCF will share 10 training vouchers for raffles/incentives.
+        - **Sticker Reimbursement:** All KCDs are eligible for a $250 sticker fund.
+
+  - type: markdown
+    attributes:
+      value: |
+        ### ### Resources & Templates
+        - Make a copy of [this timeline](https://docs.google.com/spreadsheets/d/1pSnKB7KkMthTdo7Hb-Xm-MN7YUoiV88-Pa63xeVUAcA/edit?usp=sharing) based on whether your event is In-person, Hybrid, or Virtual.
+        - Let CNCF know if you would like an editable version of [this Sponsor Prospectus](https://www.canva.com/design/DAF-wyJJFu8/XDebeg17BmbIlil_kN5QUA/edit) once team decides who owns this role.
+        - [Dynamic Agenda Builder](https://docs.google.com/spreadsheets/d/1y_QZdKGMja1YZnpkPSNxQQHBmK1TBN_NUW9kStdrTQk/edit?usp=sharing) for your speaker lineup
+        - Use [these registration questions in the re-order form](https://docs.google.com/spreadsheets/d/11K2s1Y9AMg1a5ZD9Yu1p1FnPx3XgF80-YkOZg8CkwIw/edit?gid=0#gid=0)
+        - Let CNCF know if you would like an editable copy of [this Canva transparency report template](https://www.canva.com/design/DAFhDHqyNBw/H2uJJV_hDX7Ln_R_IGpWkg/edit) for guidance. Note: you are not required to use our template, however, you are required to publish a report by the end of the year. Send final report for review and publishing to kcd@cncf.io.
+* Other resources and supporting documentation can be [found here](https://github.com/cncf/kubernetes-community-days/blob/main/README.md#cncf-support).
