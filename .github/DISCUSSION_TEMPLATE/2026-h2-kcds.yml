@@ -29,14 +29,14 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: 
+      label:
       options:
-        - label: This team has gone through a formal review process, where standards on timing, organizers requirements, and location collaboration have been reviewed, and approved.
-        - label: This team's fiscal sponsor has signed the terms & conditions set forth by the Linux Foundation
-        - label: Every organizer has an account on Cloud Native Community Groups
-        - label: The majority of the organizers live within the KCD city or just outside of it.
-        - label: All organizers agree to follow the CNCF Code of Conduct
-        - label: All organizer inquiries / communication for CNCF must be summarized via GitHub for easy tracking
+        - label: "This team has gone through a formal review process, where standards on timing, organizers requirements, and location collaboration have been reviewed, and approved."
+        - label: "This team's fiscal sponsor has signed the terms & conditions set forth by the Linux Foundation"
+        - label: "Every organizer has an account on Cloud Native Community Groups"
+        - label: "The majority of the organizers live within the KCD city or just outside of it."
+        - label: "All organizers agree to follow the CNCF Code of Conduct"
+        - label: "All organizer inquiries / communication for CNCF must be summarized via GitHub for easy tracking"
     validations:
       required: true
 
@@ -51,17 +51,17 @@ body:
     attributes:
       label: 
       options:
-        - label: Event Timeline: Please comment estimated dates for the CFP opening & closing as well as registration going live.
-        - label: Please send your logo to kcd@cncf.io for approval from CNCF. Previously existing KCDs should ideally use their previous year's logo.
-        - label: Sponsorship Prospectus: Team has submitted a PR for their sponsor prospectus with CNCF for review and publishing.
-        - label: Event Platform: Please comment your intent to leverage Bevy and Sessionize or wait for the new event platform.
-        - label: Inclusion: Local team has offered at least 3 complimentary tickets to increase diversity for the event.
-        - label: CFP: The list of accepted and waitlisted talks has been shared to kcd@cncf.io for approval. We review name, organization, session title, and gender identity (if known).
-        - label: Insurance: Please confirm that the team has secured liability insurance for the day of their event.
-        - label: Transparency Report: Produce a transparency report after your KCD (template below).
-        - label: Social Media Support: CNCF can post 1 organic social media post per KCD. Email content to kcd@cncf.io.
-        - label: Training Vouchers: CNCF will share 10 training vouchers for raffles/incentives.
-        - label: Sticker Reimbursement: All KCDs are eligible for a $250 sticker fund.
+        - label: "Event Timeline: Please comment estimated dates for the CFP opening & closing as well as registration going live."
+        - label: "Please send your logo to kcd@cncf.io for approval from CNCF. Previously existing KCDs should ideally use their previous year's logo."
+        - label: "Sponsorship Prospectus: Team has submitted a PR for their sponsor prospectus with CNCF for review and publishing."
+        - label: "Event Platform: Please comment your intent to leverage Bevy and Sessionize or wait for the new event platform."
+        - label: "Inclusion: Local team has offered at least 3 complimentary tickets to increase diversity for the event."
+        - label: "CFP: The list of accepted and waitlisted talks has been shared to kcd@cncf.io for approval. We review name, organization, session title, and gender identity (if known)."
+        - label: "Insurance: Please confirm that the team has secured liability insurance for the day of their event."
+        - label: "Transparency Report: Produce a transparency report after your KCD (template below)."
+        - label: "Social Media Support: CNCF can post 1 organic social media post per KCD. Email content to kcd@cncf.io."
+        - label: "Training Vouchers: CNCF will share 10 training vouchers for raffles/incentives."
+        - label: "Sticker Reimbursement: All KCDs are eligible for a $250 sticker fund."
     validations:
       required: false
 
