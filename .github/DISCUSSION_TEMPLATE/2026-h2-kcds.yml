@@ -29,7 +29,7 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label:
+      label: "Terms"
       options:
         - label: "This team has gone through a formal review process, where standards on timing, organizers requirements, and location collaboration have been reviewed, and approved."
         - label: "This team's fiscal sponsor has signed the terms & conditions set forth by the Linux Foundation"
@@ -43,13 +43,13 @@ body:
   - type: markdown
     attributes:
       value: |
-        ### Next Steps
+        ### What's Next?
         **IMPORTANT:** Please pay attention to these next steps and comment in this discussion thread as they are completed.
         
   - type: checkboxes
     id: next
     attributes:
-      label: 
+      label: "Next Steps"
       options:
         - label: "Event Timeline: Please comment estimated dates for the CFP opening & closing as well as registration going live."
         - label: "Please send your logo to kcd@cncf.io for approval from CNCF. Previously existing KCDs should ideally use their previous year's logo."
