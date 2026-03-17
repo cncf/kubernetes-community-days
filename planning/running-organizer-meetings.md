@@ -59,7 +59,7 @@ Before holding official organizing meetings, your team should satisfy these term
 - Minimum of **3 organizers from 3 different organizations**
 - At least **one organizer should be a CNCF Ambassador or CNCF project maintainer**
 - The **majority of organizers should live in or near the KCD location** (up to 1/4 can be from outside the country)
-- Every organizer should have an account on **Cloud Native Community Groups**
+- Every organizer should have an account on **[Cloud Native Community Groups](https://community.cncf.io/)**
 - All organizers are encouraged to complete the **[Inclusive Open Source Community Orientation (LFC102)](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)** course
 - All organizers should agree to the **CNCF Code of Conduct**
 - There is **no single "leader"** for a KCD — the team shares responsibility
