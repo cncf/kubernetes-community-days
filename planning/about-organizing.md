@@ -23,13 +23,15 @@ Here is a [planning timeline](https://docs.google.com/spreadsheets/d/1bvCiyyDut1
 
 The first step towards a successful event is building a team. Look for potential team members in local user groups and Meetups, such as the [CNCF Community Groups](https://community.cncf.io/), or online in the public Kubernetes slack or other related online communities.
 
-Please note—your team must contain at least *one* CNCF Ambassador OR CNCF project maintainer.
+Your team must include at least one CNCF Ambassador or CNCF Project Maintainer. Furthermore, starting with 2027 KCD submissions, all proposals must include a finalized organizational structure.
 
-After your team is assembled, we encourage you to have regular meetings for planning purposes. These can be bi-weekly and then weekly as you get closer to the event.
+We recommend assigning core responsibilities to at least two members of your organizing team. For smaller teams, we encourage a few individuals to take on multiple roles with a manageable workload. Alternatively, you may structure your KCD into functional sub-teams (e.g., Teams A, B, and C), each with its own lead.
+
+NOTE: While there is no single "top" leader for a KCD, role owners are expected to take full accountability for their assigned responsibilities. If a team cannot reach a consensus on a decision, a vote must be held—following the standard collaborative practice of the open source community.
 
 We have been fortunate to naturally have all KCD teams include at least woman or non-binary organizer. We highly encourage all our programs to be inclusive for speakers, and attendees, and this starts with your organizers/program committee.
 
-We recommend assigning the following responsibilities to two members of your organizing team. If you have a small team, we encourage a slect few people to have multiple roles but at a lighter work load. Alternative, each KCD can have teams A, B, and C with leads of each team. NOTE: There is no 1 leader for each KCD.
+After your team is assembled, we encourage you to have regular meetings for planning purposes. These can be bi-weekly and then weekly as you get closer to the event.
 
 * [Finance and budgeting](/planning/budget-finances.md)
 * [Marketing and promotion](/planning/marketing-promotion.md) 
