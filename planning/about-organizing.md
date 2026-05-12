@@ -33,6 +33,8 @@ We have been fortunate to naturally have all KCD teams include at least woman or
 
 After your team is assembled, we encourage you to have regular meetings for planning purposes. These can be bi-weekly and then weekly as you get closer to the event.
 
+Here are needed team roles:
+
 * [Finance and budgeting](/planning/budget-finances.md)
 * [Marketing and promotion](/planning/marketing-promotion.md) 
 * [Sponsors](/sponsor-resources/sponsorships-faq.md)
