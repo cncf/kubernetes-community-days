@@ -4,7 +4,7 @@ Previously known as Kubernetes Community Days, KCDs are community-organized even
 
 ## Host a KCD
 
-Each event brings its own local flair, culture, diversity, and authenticity. For more details about organizing an event see the [organizing page](https://github.com/cncf/kubernetes-community-days/tree/main/planning). Check the [project board](https://github.com/cncf/kubernetes-community-days/projects/2) to join one being organized near you, or to host one yourself, please visit the [KCD About Page via cncf.io](https://www.cncf.io/kcds/).
+Each event brings its own local flair, culture, diversity, and authenticity. For more details about organizing an event see the [organizing page](https://github.com/cncf/kubernetes-community-days/tree/main/planning). To host a KCD, please visit the [KCD About Page via cncf.io](https://www.cncf.io/kcds/).
 
 ### Core Organizers
 
@@ -19,7 +19,7 @@ Organization is decentralized. Local events handle their own sponsorships, regis
 ## The Organizer Experience  
 Organizing an event can be daunting, if you are new at this, some organizers suggest getting your feet wet with a one-day event, or two half-day events. Even if you have a small event of 100 people, the same amount of detail should still be considered. That is why we at the CNCF are here to guide you. Please take advantage of the resources above. Please note - we are always working on adding more and bettering what we already have.
 
-We are now hosting *a monthly KCD Organizer focus group*. As of now, it will be hosted one Wednesday each month, for 1 hour, from 7:00 - 8:00am PT / 10:00 - 11:00am ET / 4:00 - 5:00pm CEST. Please contact kcd@cncf.io if you would like to be added, or if you would like an additional time that accommodates your region.
+We host monthly syncs with KCDs to track the events' progress. Please contact kcd@cncf.io if you would like to be added, or if you would like an additional time that accommodates your region.
 
 ## CNCF Support
 
