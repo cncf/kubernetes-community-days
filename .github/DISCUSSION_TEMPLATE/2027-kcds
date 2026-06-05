@@ -1,0 +1,18 @@
+
+title: 2027 KCD Applicants
+body:
+  - type: textarea
+    id: location
+    attributes:
+      label: City, Country
+      placeholder: Please list the city,country you are applying for a KCD
+    validations:
+      required: true
+
+  - type: textarea
+    id: date
+    attributes:
+      label: Proposed Date
+      placeholder: Please list the date you are propsing for the KCD
+    validations:
+      required: true
