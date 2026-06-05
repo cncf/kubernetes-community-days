@@ -38,7 +38,7 @@ We host monthly syncs with KCDs to track the events' progress. Please contact kc
 
 ### Want to host a KCD? Here is the first step. A core CNCF team member will reach out to you to host a kick-off meeting to prompt your planning.
 
-Submit a request to host your KCD in the application time frame. The opportunity now presents itself one time per year with about 1.5 months to submit, and approved KCD notifications getting sent out two weeks later. More details and timeline can be found via the KCD Application page ([see "Host" button here](https://www.cncf.io/kcds/)).
+Submit a request to host your KCD in the application time frame. More details and timeline can be found via the [KCD Application page](https://www.cncf.io/kcds/application/).
 
 IMPORTANT: These are the terms within the checklist that must be abided by. Note - There are exceptions to these requirements in some jurisdictions due to applicable laws & regulations.
 
