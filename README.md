@@ -44,7 +44,7 @@ IMPORTANT: These are the terms within the checklist that must be abided by. Note
 
 ### Terms
 
-* As of June 2025 - KCDs should be no larger than 500 people. In 2026 Tier 2 (the most-established tier) organizing teams are allowed to cap their tickets up to 600 registrations, which includes speakers and sponsors.
+* As of June 2025 - KCDs should be no larger than 500 people. In 2026 Tier 2 ("Independent Tier" in 2027) (the most-established tier) organizing teams are allowed to cap their tickets up to 600 registrations, which includes speakers and sponsors.
 * When applying, please make sure your KCD will not be competing with a [CNCF or LF hosted event](https://events.linuxfoundation.org/about/calendar/) in regards to the same city, or within 2 months of an event in your country like a KubeDay or a KubeCon + CloudNativeCon.
 * There is a minimum of 3 organizers required to host a KCD, and each should be from different organizations to promote vendor neutrality.
 * Every organizer should have an account on [Cloud Native Community Groups](https://community.cncf.io/)
