@@ -2,6 +2,7 @@
 
 
 ### Basic guidelines
+CNCF aims to help your event break even in costs, but if your event makes a profit, that must be reinvested in the community. Please note, organizers can be reimbursed for event-related expenses reimbursed, but not their time.
 
 * Add up the budgets (venue, food, parties space, swag, scholarships) to generate a total event budget to determine the amount of money needed to cover costs. You can make a copy of this [balance sheet template](https://docs.google.com/spreadsheets/d/1IwSq63Pcl2KuaZpVzgZgeQVeUPCgaRfnw3uwBx32ix4/edit?gid=1982813383#gid=1982813383) to see the must-have versus the nice-to-have costs.
 * Plan on covering most of the expenses through sponsorships to keep ticket prices low
