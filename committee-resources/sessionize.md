@@ -6,11 +6,11 @@ Also, [here is a guide](https://drive.google.com/file/d/1a9seYBhQgowlsbPzQNEFClO
 
 ---
 
-## Sessionize CFP Status Notifications in Slack
+## New Session Notifications in Slack
 
-Automatically post a session status summary to your organizing team's Slack channel so everyone can see at a glance how many talks are Nominated, Accepted, Declined, and more, without logging into Sessionize.
+Automatically receive a Slack message whenever a new session is submitted to your Sessionize CFP. Your organizing team gets notified in real time — including the session title, description, and speaker names — without having to log into Sessionize.
 
-This workflow was first used by KCD Texas and can be replicated by any KCD with only a Sessionize event ID and a Slack workspace.
+This workflow was first used by KCD Texas and can be replicated by any KCD with a Sessionize event ID, a Slack workspace, and a GitHub repository.
 
 ---
 
@@ -35,104 +35,113 @@ For full details on the Sessionize API, see the [Sessionize API documentation](h
 
 ---
 
-### Part 2: Build the Workflow in Slack Workflow Builder
+### Part 2: Set Up the GitHub Actions Workflow
 
-Open Slack and navigate to **Workflows** (find it in the top menu bar in your KCD slack channel).
+The workflow runs on a schedule (every hour, Monday through Friday, 8 AM–8 PM CST) and can also be triggered manually at any time. Each run fetches all sessions from Sessionize, compares the most recent session ID against the last known ID, and posts a Slack message for any newly submitted sessions.
 
-![slack-workflow-window](slack-workflows-window.png)
+#### Step 1: Configure Repository Secrets and Variables
 
-#### Step 1: Create a new workflow
+In your GitHub repository, go to **Settings → Secrets and variables → Actions**.
 
-1. Click **Create Workflow** and choose a **Scheduled** trigger.
-2. Set a frequency (daily or every 6 hours works well) and a time that suits your team.
-3. Name it something like **KCD [City] Sessionize - Session Status Count**.
+Add the following **secrets**:
 
-#### Step 2: Fetch the Sessionize data
-
-1. Click **Add Step** and choose **Web request** (the HTTP request step).
-2. Set the method to **GET**.
-3. Paste your Sessionize Session List URL from Part 1.
-
-#### Step 3: Count sessions by status
-
-The JSON response is an array of session objects. Each session has a status field that maps to one of six values:
-
-| Status | Meaning |
+| Name | Value |
 | --- | --- |
-| Nominated | Submitted and under review |
-| Waitlisted | On the waitlist for a slot |
-| Accept Queue | Awaiting acceptance decision |
-| Accepted | Confirmed for the event |
-| Decline Queue | Awaiting decline decision |
-| Declined | Not selected |
+| `SESSIONIZE_SESSION_LIST_URL` | Your Sessionize Session List URL from Part 1 |
+| `SLACK_WEBHOOK_URL` | Your Slack incoming webhook URL |
+| `REPO_ACCESS_TOKEN` | A GitHub Personal Access Token with `repo` scope (needed to update the stored session ID) |
 
-Slack Workflow Builder has limited JSON parsing support. Use a **Code step** (JavaScript) if available in your plan, or see the alternative approach below if you need more flexibility.
+Add the following **variable**:
 
-A minimal JavaScript snippet to count statuses looks like this:
+| Name | Initial value |
+| --- | --- |
+| `SESSIONIZE_LATEST_SESSION_ID` | Leave empty for the first run |
 
-```js
-const sessions = inputData.sessions; // the parsed JSON array from the previous step
-const counts = {
-  Nominated: 0,
-  Waitlisted: 0,
-  "Accept Queue": 0,
-  Accepted: 0,
-  "Decline Queue": 0,
-  Declined: 0,
-};
+> **Creating a Personal Access Token (PAT):** In GitHub, go to **Settings → Developer settings → Personal access tokens → Tokens (classic)** and generate a token with the `repo` scope. Store it as the `REPO_ACCESS_TOKEN` secret.
+>
+> **Creating a Slack incoming webhook:** In your Slack workspace, go to **Apps → Incoming Webhooks** and create a new webhook for your organizing channel. Copy the webhook URL and store it as the `SLACK_WEBHOOK_URL` secret.
 
-for (const session of sessions) {
-  if (counts[session.status] !== undefined) {
-    counts[session.status]++;
-  }
-}
+#### Step 2: Create the Workflow File
 
-output = counts;
+In your GitHub repository, create the file `.github/workflows/session-notifier.yml` with the following content:
+
+```yaml
+name: sessionize-new-proposal
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 14-23,0-2 * * 1-5" # Every hour between 8AM and 8PM CST, Monday to Friday
+env:
+  # Setting an environment variable with the value of a configuration variable
+  SESSIONIZE_LATEST_SESSION_ID_PREVIOUS: ${{ vars.SESSIONIZE_LATEST_SESSION_ID }}
+
+# No checkout. The retrieve job hits Sessionize + Slack webhooks; the
+# update-github-variable job uses secrets.REPO_ACCESS_TOKEN (not GITHUB_TOKEN).
+permissions: {}
+
+jobs:
+  retrieve-latest-session:
+    name: retrieve-latest-session
+    runs-on: ubuntu-latest
+    outputs:
+      SESSIONIZE_LATEST_SESSION_ID_OUTPUT: ${{ steps.retrieve-sessions.outputs.SESSIONIZE_LATEST_SESSION_ID_OUTPUT }}
+    steps:
+    - id: retrieve-sessions
+      name: Retrieve latest session
+      env:
+        SESSIONIZE_SESSION_LIST_URL: ${{ secrets.SESSIONIZE_SESSION_LIST_URL }}
+        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+      run: |
+        SESSIONIZE_LATEST_SESSION_ID=$(curl -s $SESSIONIZE_SESSION_LIST_URL | jq -r '.[].sessions[].id' | sort -n | tail -n 1)
+        echo "SESSIONIZE_LATEST_SESSION_ID_OUTPUT=$SESSIONIZE_LATEST_SESSION_ID" >> "$GITHUB_OUTPUT"
+
+        if [ -z "$SESSIONIZE_LATEST_SESSION_ID_PREVIOUS" ]; then
+          echo "Previous session ID is empty, skipping Slack notification"
+          exit 0
+        fi
+
+        if [ "$SESSIONIZE_LATEST_SESSION_ID_PREVIOUS" -eq "$SESSIONIZE_LATEST_SESSION_ID" ]; then
+          echo "Latest session ID is the same as the previous one, skipping Slack notification"
+          exit 0
+        fi
+
+        SESSIONIZE_NEW_SESSIONS=$(curl -s $SESSIONIZE_SESSION_LIST_URL | jq -r --arg SESSIONIZE_LATEST_SESSION_ID_PREVIOUS "$SESSIONIZE_LATEST_SESSION_ID_PREVIOUS" '[.[].sessions[] | select(.id | tonumber > ($SESSIONIZE_LATEST_SESSION_ID_PREVIOUS | tonumber)) | {id, title, description, speakers: ([.speakers[].name] | join(", "))}]')
+        echo $SESSIONIZE_NEW_SESSIONS | jq -c '.[]' | while read -r object; do
+          curl -s --location "$SLACK_WEBHOOK_URL" --header 'Content-Type: application/json' --data "$object"
+          sleep 3 # sleep to avoid rate limiting
+        done
+
+  update-github-variable:
+    name: update-github-variable
+    runs-on: ubuntu-latest
+    needs: retrieve-latest-session
+    steps:
+    - id: update-github-variable
+      uses: mmoyaferrer/set-github-variable@v1.0.0
+      env:
+        SESSIONIZE_LATEST_SESSION_ID_INPUT: ${{needs.retrieve-latest-session.outputs.SESSIONIZE_LATEST_SESSION_ID_OUTPUT}}
+      with:
+          name: 'SESSIONIZE_LATEST_SESSION_ID'
+          value: ${{ env.SESSIONIZE_LATEST_SESSION_ID_INPUT}}
+          repository: ${{ github.repository }}
+          token: ${{ secrets.REPO_ACCESS_TOKEN }}
 ```
 
-#### Step 4: Send a message to your channel
+#### Step 3: Test the Workflow
 
-1. Click **Add Step** and choose **Send a message**.
-2. Select your organizing team's channel.
-3. Format the message using the variables from the previous step:
+1. Commit and push the workflow file to your repository's default branch.
+2. Go to **Actions** in your GitHub repository.
+3. Select **sessionize-new-proposal** and click **Run workflow** to trigger it manually.
+4. Check the run logs and confirm your Slack channel receives a message.
 
-```text
-KCD [City] Sessionize - Session Status Count
-
-Nominated: {{nominated}}
-Waitlisted: {{waitlisted}}
-Accept Queue: {{accept_queue}}
-Accepted: {{accepted}}
-Decline Queue: {{decline_queue}}
-Declined: {{declined}}
-```
-
-1. Optionally, add a direct link to your Sessionize event dashboard at the bottom so organizers can jump in immediately.
-
-#### Step 5: Publish and test
-
-1. Click **Publish** to activate the workflow.
-2. Use the **Run** button to trigger it manually and confirm the message appears in your channel with correct counts.
-
----
-
-### Alternative: Route Through an External Automation Tool
-
-Slack Workflow Builder's native JSON support is limited on some plans. If you hit a wall, route the logic through **Zapier**, **Make (formerly Integromat)**, or a simple cron script instead.
-
-1. In Slack Workflow Builder, create a workflow triggered **by a webhook**. Slack generates a unique inbound webhook URL for you.
-2. In your external tool, set up a scheduled trigger that:
-   - Fetches your Sessionize Session List URL
-   - Parses the JSON and counts each status
-   - POSTs the counts as variables to your Slack webhook URL
-3. In Slack Workflow Builder, add a **Send a message** step that uses those incoming variables to format and post the summary.
-
-This approach gives you full control over the parsing and counting logic and works regardless of your Slack plan.
+> **First run behavior:** If `SESSIONIZE_LATEST_SESSION_ID` is empty, the workflow will notify Slack for every session currently in Sessionize. After the first run it stores the latest ID, and subsequent runs only post about new submissions.
 
 ---
 
 ### Why This Helps KCD Organizers
 
-- **Visibility without logging in** — your whole team sees CFP status at a glance in the channel where they already work.
-- **Timely decisions** — when Nominated counts are high you know you need more reviewers; when Accept Queue grows you know decisions are pending.
-- **Easy to replicate** — once one KCD sets this up, any other KCD can copy the workflow and swap in their own Sessionize event ID.
+- **Instant awareness** — know the moment a new talk is submitted without checking Sessionize manually.
+- **Full context in Slack** — see the session title, description, and speakers directly in your channel so your team can start reviewing right away.
+- **No extra tools required** — runs entirely on GitHub Actions with no third-party automation platforms needed.
+- **Easy to replicate** — once one KCD sets this up, any other KCD can use the same workflow file and swap in their own secrets.
