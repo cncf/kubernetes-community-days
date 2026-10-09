@@ -14,11 +14,7 @@ aspects of the KCD Event.
 
 **CNCF CODE OF CONDUCT**
 
-All KCDs operate under the CNCF Code of Conduct. KCDs are working conferences intended for professional networking and collaboration in the CNCF + Linux community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While at KCDs, in person or virtual, or related ancillary or social events, any participants, including speakers, attendees, volunteers, sponsors, exhibitors, booth staff and anyone else, should not engage in harassment in any form. By purchasing a ticket, you agree to abide by the CNCF Code of Conduct at the KCD.
-
-The [expanded Event Code of Conduct](https://events.linuxfoundation.org/about/code-of-conduct/) contains full details and examples, which cover
-behavior expectations, unacceptable behavior and consequences, as well as incident
-reporting and response protocol.
+All KCDs operate under the CNCF Code of Conduct, available at https://github.com/cncf/foundation/blob/main/code-of-conduct.md.  KCDs are working conferences intended for professional networking and collaboration in the CNCF + Linux community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While at KCDs, in person or virtual, or related ancillary or social events, any participants, including speakers, attendees, volunteers, sponsors, exhibitors, booth staff and anyone else, should not engage in harassment in any form. By purchasing a ticket, you agree to abide by the CNCF Code of Conduct at the KCD.
 
 **ACCEPTANCE OF RISK; LIMITATION OF LIABILITY; WAIVER OF CLAIMS**
 
