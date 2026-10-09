@@ -1,7 +1,8 @@
 ### KCD TICKET PURCHASE TERMS
 
-**KCDS: NOT RUN BY CNCF (EXCEPT THOSE SPECIFICALLY LISTED).** Kubernetes
-Community Days (“KCDs”) are events operated by a local Event Operator, and not
+**KCDS: NOT RUN BY CNCF (EXCEPT THOSE SPECIFICALLY LISTED)**
+
+Kubernetes Community Days (“KCDs”) are events operated by a local Event Operator, and not
 CNCF or The Linux Foundation (CNCF is part of The Linux Foundation), unless CNCF
 is specifically listed on https://community2.cncf.io/ as the Event Operator for the event
 you are registering for. While CNCF provides ticket checkout for KCDs, and ensures
@@ -12,6 +13,7 @@ refunds of tickets; content of the event; the conditions of the event venue; and
 aspects of the KCD Event.
 
 **CNCF CODE OF CONDUCT**
+
 All KCDs operate under the CNCF Code of Conduct. KCDs are working conferences intended for professional networking and collaboration in the CNCF + Linux community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While at KCDs, in person or virtual, or related ancillary or social events, any participants, including speakers, attendees, volunteers, sponsors, exhibitors, booth staff and anyone else, should not engage in harassment in any form. By purchasing a ticket, you agree to abide by the CNCF Code of Conduct at the KCD.
 
 The [expanded Event Code of Conduct](https://events.linuxfoundation.org/about/code-of-conduct/) contains full details and examples, which cover
